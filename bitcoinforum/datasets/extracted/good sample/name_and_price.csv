@@ -1,96 +1,98 @@
 date,hardware_name,hardware_price
+2011-06-29,Radeon 5870,unknown price
+2011-07-01,HD 5770,unknown price
 2011-07-01,Saphires,unknown price
 2011-07-01,5830's,unknown price
-2011-07-01,HD 5770,unknown price
+2011-07-03,5830s,unknown price
+2011-07-03,6770,unknown price
+2011-07-03,6870,unknown price
+2011-07-03,5770,unknown price
+2011-08-07,DSP miner,unknown price
 2011-09-14,5850s,unknown price
 2012-10-07,ATI Stream 2.1,unknown price
 2012-10-07,ATI Stream 2.4,unknown price
 2013-01-02,GUI miner,unknown price
 2013-02-09,Avalon Asic Design,unknown price
+2013-06-07,1 KNC Miner Saturn or Jupiter miner,unknown price
 2013-06-08,AMD 6750M,unknown price
 2013-06-08,FTDI drivers,unknown price
-2013-07-09,ASICMiner USB,0.99 BTC
-2013-08-16,KNCminer Jupiter,4 bitcoin per share
-2013-09-04,CoinTerra,"$13,999"
-2013-09-09,XCrowd Cloud Hosting,"$85,000 USD"
-2013-10-08,BFL ASICs,$12.5/(GH/s)
-2013-11-28,Neptune GB,4 BTC
-2013-12-14,KnC NEPTUNE,0.05 B/Sh
-2014-02-17,AntminerS1,0.0205BTC
-2014-03-19,CGWatcher 1.3.5,unknown price
-2014-09-06,Neptune,unknown price
-2014-12-20,Bitmaintech Antminer S1,unknown price
-2016-11-04,Avalon6,unknown price
-2018-06-12,GPUs,unknown price
-2018-06-12,S9,unknown price
-2018-10-03,SolarGaps,unknown price
-2018-10-13,M-cards,unknown price
-2018-10-13,Bitfury V1.2 H-Cards,unknown price
-2021-01-17,Innosilicon T2TZ,unknown price
-2021-04-11,T17e PSU,unknown price
-2021-04-18,A1 Love Core Aisen 24th,unknown price
-2021-08-09,Avalon 1166,unknown price
-2022-05-11,EKM,unknown
-2022-05-11,Raptor Power PDU,unknown price
-2022-05-11,Raspberry Pi Zero,unknown price
-2022-11-05,ZTE f680 router,unknown price
-2011-06-29,Radeon 5870,unknown price
-2011-07-03,5830s,unknown price
-2011-07-03,6770,unknown price
-2011-07-03,5770,unknown price
-2011-07-03,6870,unknown price
-2011-08-07,DSP miner,unknown price
-2013-06-07,1 KNC Miner Saturn or Jupiter miner,unknown price
 2013-06-09,Bitfury-Metabank ASIC,3000$
 2013-06-17,Avalon chips,40 EUR
 2013-07-01,BFL,0.29 BTC
+2013-07-09,ASICMiner USB,0.99 BTC
 2013-07-12,BFL ASIC Chips,$59/chip
 2013-07-16,ASICMINER ERUPTER USB,1 BTC
-2013-07-23,KnCMiner Jupiter,1.1 BTC
 2013-07-23,KnCMiner Jupiter,1.2 BTC
+2013-07-23,KnCMiner Jupiter,1.1 BTC
+2013-08-16,KNCminer Jupiter,4 bitcoin per share
 2013-08-29,ASICMINER USB Block Erupter,0.4BTC
 2013-08-30,CoinTerra,1 BTC/12 GH/s
 2013-09-03,Hashfast Babyjet,1.09 btc
+2013-09-04,CoinTerra,"$13,999"
 2013-09-04,NEW Blade Miners,4 BTC or less
+2013-09-08,Jalapeno,unknown price
+2013-09-09,XCrowd Cloud Hosting,"$85,000 USD"
+2013-10-08,BFL ASICs,$12.5/(GH/s)
 2013-10-18,Terraminer IV,1.5BTC
+2013-10-21,USB Miners,0.071 BTC
 2013-10-26,Black Arrow Bullet Run,$123
 2013-11-08,ASICMiner Blades (Rev2),.80 BTC
+2013-11-28,Neptune GB,4 BTC
 2013-12-02,KNCminer Neptune,0.66 BTC per share
+2013-12-14,KnC NEPTUNE,0.05 B/Sh
 2014-02-04,ANTMINER S1 Dual Blades,1.35btc
 2014-02-05,Neptune,0.07 BTC
+2014-02-17,AntminerS1,0.0205BTC
+2014-03-19,CGWatcher 1.3.5,unknown price
 2014-04-03,Cointerra,unknown price
 2014-07-11,TECHNOBIT's HEX16A,"49,30"
+2014-09-06,Neptune,unknown price
 2014-10-15,KnCMiner Titan,unknown price
 2014-10-15,KnCMiner Neptune,unknown price
-2015-11-08,SP20,unknown price
-2015-11-08,Rockminer R-box 100,unknown price
-2015-11-08,Avalon 4.1,unknown price
-2015-11-08,S5,unknown price
+2014-12-20,Bitmaintech Antminer S1,unknown price
 2015-11-08,S7,unknown price
+2015-11-08,S5,unknown price
+2015-11-08,Avalon 4.1,unknown price
+2015-11-08,Rockminer R-box 100,unknown price
+2015-11-08,SP20,unknown price
 2015-12-16,Alcheminer 256,unknown price
-2017-01-15,antminer s9,unknown price
+2016-11-04,Avalon6,unknown price
 2017-01-15,ASIC Servers,unknown price
+2017-01-15,antminer s9,unknown price
 2017-05-29,antminer s7,unknown price
 2017-05-29,antminer s9,unknown price
-2017-07-05,Antminer S7,$400
 2017-07-05,Antminer S5,unknown price
-2017-07-05,Avalon 6,unknown price
 2017-07-05,Cointerra Terraminers,unknown price
 2017-07-05,Spondoolies SP20,unknown price
 2017-07-05,Antminer S5,$250
 2017-07-05,Antminer S3+,unknown price
 2017-07-05,Antminer S4,unknown price
 2017-07-05,Antminer S9,unknown price
+2017-07-05,Avalon 6,unknown price
+2017-07-05,Antminer S7,$400
 2017-08-25,Antminer s7,unknown price
 2017-09-14,1200WATT PSU KIT FOR AVALON 721 / 741,unknown price
-2017-09-16,Antminer S7,unknown price
 2017-09-16,Antminer S9,unknown price
+2017-09-16,Antminer S7,unknown price
 2017-09-16,Antminer S5,unknown price
 2018-02-04,Avalon 741,unknown price
+2018-06-12,GPUs,unknown price
+2018-06-12,S9,unknown price
+2018-10-03,SolarGaps,unknown price
+2018-10-13,M-cards,unknown price
+2018-10-13,Bitfury V1.2 H-Cards,unknown price
 2020-09-26,S9 6 hashboard mod,unknown price
+2021-01-17,Innosilicon T2TZ,unknown price
+2021-04-11,T17e PSU,unknown price
+2021-04-18,A1 Love Core Aisen 24th,unknown price
+2021-08-09,Avalon 1166,unknown price
 2021-09-01,Antminer T17+,unknown price
 2021-10-04,S19 pro,unknown price
 2022-02-27,Bitmain S17 pro 56th,$35
+2022-05-11,Raptor Power PDU,unknown price
+2022-05-11,EKM,unknown
+2022-05-11,Raspberry Pi Zero,unknown price
+2022-11-05,ZTE f680 router,unknown price
 2023-02-13,S17+,unknown price
 2023-04-27,Innosilicon T3+ 57 Th Cable PSU,unknown price
 2023-05-11,AIminer 1.0,unknown price
