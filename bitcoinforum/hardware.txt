@@ -18,40 +18,40 @@ ASICMiner BE Tube;800000;888
 Avalon Batch 1;663001;107
 Avalon Batch 2;820001;117
 Avalon Batch 3;820001;117
-Avalon2;300000;N/A
-Avalon3;800000;N/A
-Avalon6;350000;N/A
+Avalon2;300000;unknown
+Avalon3;800000;unknown
+Avalon6;350000;unknown
 Avalon721;600000;6000
 Avalon741;730000;6350
 Avalon761;880000;6670
 Avalon821;110000;9170
-BFL 230 GH/s Rack Mount;230000;N/A
+BFL 230 GH/s Rack Mount;230000;unknown
 BFL 500 GH/s Mini Rig SC;500000;185
-BFL Little Single;30000;N/A
+BFL Little Single;30000;unknown
 BFL Monarch 700GH/s;700000;1428
-BFL SC 10 Gh/s;10000;N/A
+BFL SC 10 Gh/s;10000;unknown
 BFL SC 25 Gh/s;25000;166
 BFL SC 50 Gh/s;50000;166
 BFL SC 5Gh/s;5000;166
 BFL Single 'SC';60000;250
 bi*fury;5000;1176
-BitFury S.B.;N/A;N/A
-Bitmine.ch Avalon Clone 85GH;85000;N/A
+BitFury S.B.;unknown;unknown
+Bitmine.ch Avalon Clone 85GH;85000;unknown
 Black Arrow Prospero X-1;100000;1000
 Black Arrow Prospero X-3;200000;1000
 Blue Fury;2500;1000
 BTC Garden AM-V1 310 GH/s;310000;954
 BTC Garden AM-V1 616 GH/s;616000;951
-CoinTerra TerraMiner IV;160000;N/A
-Drillbit;N/A;N/A
+CoinTerra TerraMiner IV;160000;unknown
+Drillbit;unknown;unknown
 Ebit E10;180000;11100
 Ebit E9;630000;7140
 Ebit E9+;900000;6900
 Ebit E9++;140000;10500
 HashBuster Micro;20000;869
-HashBuster Nano;N/A;N/A
-HashCoins Apollo v3;110000;N/A
-HashCoins Zeus v3;450000;N/A
+HashBuster Nano;unknown;unknown
+HashCoins Apollo v3;110000;unknown
+HashCoins Zeus v3;450000;unknown
 HashFast Baby Jet;400000;909
 HashFast Sierra;120000;909
 HashFast Sierra Evo 3;200000;909
@@ -59,8 +59,8 @@ Klondike;5200;160
 KnC Jupiter;500000;400
 KnC Neptune;300000;1429
 KnC Saturn;250000;400
-KnCMiner Mercury;100000;N/A
-LittleFury;N/A;N/A
+KnCMiner Mercury;100000;unknown
+LittleFury;unknown;unknown
 Metabank;120000;705
 NanoFury / IceFury;2000;800
 NanoFury NF2;3700;740
@@ -81,23 +81,23 @@ TerraHash DX Mini (full);90000;140
 TerraHash Klondike 16;4500;140
 TerraHash Klondike 64;18000;140
 Twinfury;4500;1174
-WhatsMiner M1;N/A;N/A
-WhatsMiner M2;920000;N/A
-WhatsMiner M3;115000;N/A
-Avnet Spartan-6 LX150T Development Kit;1001;N/A
+WhatsMiner M1;unknown;unknown
+WhatsMiner M2;920000;unknown
+WhatsMiner M3;115000;unknown
+Avnet Spartan-6 LX150T Development Kit;1001;unknown
 Bitcoin Dominator X5000;1003;14.7
 BitForce SHA256 Single;8324;10.4
 Butterflylabs Mini Rig;252005;20.16
-Digilent Nexys 2 500K;57;N/A
+Digilent Nexys 2 500K;57;unknown
 Icarus;3809;19.79
-KnCMiner Mars;6000;N/A
-Lancelot;40011;N/A
+KnCMiner Mars;6000;unknown
+Lancelot;40011;unknown
 ModMiner Quad;80012;20
-Terasic DE2-115;8013;N/A
+Terasic DE2-115;8013;unknown
 X6500 FPGA Miner;40015;23.25
-ZTEX USB-FPGA Module 1.15b;9017;N/A
-ZTEX USB-FPGA Module 1.15x;21517;N/A
-ZTEX USB-FPGA Module 1.15y;86017;N/A"
+ZTEX USB-FPGA Module 1.15b;9017;unknown
+ZTEX USB-FPGA Module 1.15x;21517;unknown
+ZTEX USB-FPGA Module 1.15y;86017;unknown
 3410;0.89;0.074
 4350;8.2425;0.346
 4550;7.5150;0.289
@@ -111,7 +111,7 @@ ZTEX USB-FPGA Module 1.15y;86017;N/A"
 4870;96.666;0.6532
 4890;107.32;0.54
 5450;14.662;0.631
-5470;17.1;N/A
+5470;17.1;unknown
 5550;51.345;1.041
 5570;77.322;1.7496
 5650;54.6;1.37
@@ -125,106 +125,106 @@ ZTEX USB-FPGA Module 1.15y;86017;N/A"
 6450;32.466;1.709
 6570;92.42;1.4836
 6670;112.01;1.69
-6750;160.53;N/A
-6770;211;N/A
+6750;160.53;unknown
+6770;211;unknown
 6790;219.5;1.467
 6850;240.41;1.3996
 6870;301.45;1.7264
-6930;354;N/A
+6930;354;unknown
 6950;366.39;1.9399
 6970;394.66;1.8507
 6990;772.28;1.9056
 7750;126.14;2.66
-7770;197.5;N/A
-7790;319;N/A
+7770;197.5;unknown
+7790;319;unknown
 7850;326.33;191
-7870;423.25;N/A
-7950;544.25;N/A
-7970;681.08;N/A
-FirePro V8700;84.8;N/A
-FirePro V7800;254.85;N/A
-FirePro V7750;35.7;N/A
-FirePro V5800;141.33;N/A
-FirePro V4800;79.7;N/A
-FirePro V3800;69;N/A
-FirePro M7820;150;N/A
-FirePro M7740 (M97 GL) [DELL];63;N/A
-FirePro M5950;96.7;N/A
-FirePro M5800;65.35;N/A
+7870;423.25;unknown
+7950;544.25;unknown
+7970;681.08;unknown
+FirePro V8700;84.8;unknown
+FirePro V7800;254.85;unknown
+FirePro V7750;35.7;unknown
+FirePro V5800;141.33;unknown
+FirePro V4800;79.7;unknown
+FirePro V3800;69;unknown
+FirePro M7820;150;unknown
+FirePro M7740 (M97 GL) [DELL];63;unknown
+FirePro M5950;96.7;unknown
+FirePro M5800;65.35;unknown
 7970x3;2000;2.505
-7870xt;520;N/A
+7870xt;520;unknown
 7870 XT;485;3.09
-6990x3;2094;N/A
+6990x3;2094;unknown
 6990x2;1629;1.6974
-6970x3;1243;N/A
-6970x2;769;N/A
+6970x3;1243;unknown
+6970x2;769;unknown
 6950x4;1316;1.513
-6950x3;1081;N/A
-6950x2 CF;725.5;N/A
-6930x2;700;N/A
-6870x4;1176.6;N/A
-6870x2;600;N/A
-6770x2;470;N/A
-6750M;50.739;N/A
-6630M;55.9;N/A
-6550D(A8 Onboard);66.2;N/A
-6550D;67.6;N/A
-6530D;40.5;N/A
-6520G;33.8;N/A
+6950x3;1081;unknown
+6950x2 CF;725.5;unknown
+6930x2;700;unknown
+6870x4;1176.6;unknown
+6870x2;600;unknown
+6770x2;470;unknown
+6750M;50.739;unknown
+6630M;55.9;unknown
+6550D(A8 Onboard);66.2;unknown
+6550D;67.6;unknown
+6530D;40.5;unknown
+6520G;33.8;unknown
 6490M;20.194;0.708
-6480G;24.1;N/A
-6470M;27.55;N/A
+6480G;24.1;unknown
+6470M;27.55;unknown
 6310M;9.821;0.545
-5870x6;2568;N/A
-5870x4;1784;N/A
-5870x2 (CF);864;N/A
+5870x6;2568;unknown
+5870x4;1784;unknown
+5870x2 (CF);864;unknown
 5870x2 (Ares);787.5;0.8386
-5870M;170.85;N/A
-5850x6;2135;N/A
+5870M;170.85;unknown
+5850x6;2135;unknown
 5850x4;1360;1.94
-5850x3;1010;N/A
-5850x2;680.66;N/A
+5850x3;1010;unknown
+5850x2;680.66;unknown
 5830x6;1967;1.62
-5830x2 CF;480;N/A
-5830x2;589;N/A
-5830M;120;N/A
-5830 black;310;N/A
+5830x2 CF;480;unknown
+5830x2;589;unknown
+5830M;120;unknown
+5830 black;310;unknown
 5830 (127$);325;1.98
-5770x2;425;N/A
-5770 Hawk;182;N/A
-5750x2 CF;356;N/A
-5750 Vapor-X;195;N/A
+5770x2;425;unknown
+5770 Hawk;182;unknown
+5750x2 CF;356;unknown
+5750 Vapor-X;195;unknown
 4870x2;188.10;0.632
 4850x2;150.6;0.602
 4570M;8.8099;0.2985
-42XX;N/A;N/A
-3XXX;N/A;N/A
+42XX;unknown;unknown
+3XXX;unknown;unknown
 320M (Mac mini 2010);7;0.35
-8200 mGPU;1.2;N/A
+8200 mGPU;1.2;unknown
 8400 GS;1.95;0.013
-8400M GS;2;N/A
-8500GT;2.4;N/A
-8600GT;5.66;N/A
-8600GT OC;7.3;N/A
-8600M GT;4.365;N/A
+8400M GS;2;unknown
+8500GT;2.4;unknown
+8600GT;5.66;unknown
+8600GT OC;7.3;unknown
+8600M GT;4.365;unknown
 8800 GTS;26.1;0.124
-8800 GTX;27.5;N/A
+8800 GTX;27.5;unknown
 8800GT;29.279;0.2672
 8800GTS;16.8;0.109
-8800m GTX;16.3;N/A
-9300/nForce 730i;2.15;N/A
-9300GE;1.57;N/A
-9300GS;1.69;N/A
+8800m GTX;16.3;unknown
+9300/nForce 730i;2.15;unknown
+9300GE;1.57;unknown
+9300GS;1.69;unknown
 9400GT;3.37;0.067
 9400M (MacBook);1.9;0.32
 9500GT;7.05;0.135
-9500M GS;3.2;N/A
+9500M GS;3.2;unknown
 9600GSO;19.88;0.237
 9600GSO512;11.75;0.131
 9600GT;15.66;0.165
 9600GT OC;18.8;0.198
-9600GT Zotac;15;N/A
-9600M GS;4;N/A
+9600GT Zotac;15;unknown
+9600M GS;4;unknown
 9800GT;30.36;0.289
 9800GT EE;19.7;0.263
 9800GT OC;29.5;0.283
@@ -232,90 +232,90 @@ FirePro M5800;65.35;N/A
 9800GTX+;36.284;0.259
 9800GX2;42.915;0.2179
 G210;3.585;0.1175
-GT 320M (MacBook Air);6.12;N/A
-GT 325M;8.6633;N/A
-GT 330M;9.385;N/A
-GT 330M (Samsung R480);9.1;N/A
+GT 320M (MacBook Air);6.12;unknown
+GT 325M;8.6633;unknown
+GT 330M;9.385;unknown
+GT 330M (Samsung R480);9.1;unknown
 GT 330M (Sony Vaio Z);7.8;0.71
 GT220;10.8;0.084
 GT230;15.5;0.161
 GT240;22.903;0.281
 GT240 OC;25.6;0.365
 GT240M;9.8;0.426
-GT330;21.65;N/A
+GT330;21.65;unknown
 GT430;20.24;0.413
-GT440;20.4;N/A
-GT520M;8.9;N/A
-GT525M;14.6;N/A
+GT440;20.4;unknown
+GT520M;8.9;unknown
+GT525M;14.6;unknown
 GT530;17.9;0.358
-GT540M;16;N/A
-GT550M;17.08;N/A
-GT610M (ASUS K45V);9.371;N/A
-GT650M (rMBP);17.8;N/A
-GT650M OC;27.4;N/A
+GT540M;16;unknown
+GT550M;17.08;unknown
+GT610M (ASUS K45V);9.371;unknown
+GT650M (rMBP);17.8;unknown
+GT650M OC;27.4;unknown
 GTS 350M (Toshiba A665-3DV);17;1.214
-GTS 350M (Toshiba A665-3DV5);20.8;N/A
-GTS 360M;25;N/A
-GTS 360M (ASUS G60jx);23.6;N/A
+GTS 350M (Toshiba A665-3DV5);20.8;unknown
+GTS 360M;25;unknown
+GTS 360M (ASUS G60jx);23.6;unknown
 GTS250;35.295;0.2435
 GTS250 OC;37;0.255
 GTS450;45.28;0.427
-GTS450 (Sparkle One);40;N/A
+GTS450 (Sparkle One);40;unknown
 GTX 560M;39.3;0.38
 GTX260;39.955;0.21
 GTX260c216;45.933;0.248
-GTX260c216 OC;57;N/A
-GTX260M;22.5;N/A
+GTX260c216 OC;57;unknown
+GTX260M;22.5;unknown
 GTX275;54.375;0.232
 GTX280;55.59;0.2435
-GTX280x2;102.7;N/A
+GTX280x2;102.7;unknown
 GTX285;59.075;0.262
 GTX295;109.26;0.3783
 GTX460;67.315;0.427
 GTX460 (2 cards);102;0.319
 GTX460 (2 cards) OC;127;0.374
 GTX460 1GB ( evga );83.1;0.519
-GTX460 1GB ( evga FPB );71.4;N/A
-GTX460 1GB DirectCU;80.9;N/A
+GTX460 1GB ( evga FPB );71.4;unknown
+GTX460 1GB DirectCU;80.9;unknown
 GTX460 1GB OC (2x MsiHawksSLI);158;0.658
-GTX460 768MB;57.8;N/A
-GTX460 768MB (MSI Cyclone 768D5/OC);75.1;N/A
+GTX460 768MB;57.8;unknown
+GTX460 768MB (MSI Cyclone 768D5/OC);75.1;unknown
 GTX460SE;56.39;0.376
 GTX465;64.41;0.322
 GTX470;101.45;0.4505
-GTX470x2;121.13;N/A
+GTX470x2;121.13;unknown
 GTX480;120.85;0.405
-GTX480 AMP!Zotac;140.1;N/A
-GTX550 Ti;45;N/A
+GTX480 AMP!Zotac;140.1;unknown
+GTX550 Ti;45;unknown
 GTX560 OC;86.7;0.51
 GTX560 Ti;80.433;0.4320
 GTX570;145.56;0.613
 GTX580;156.6;0.642
 GTX580x2;2146;0.598
-GTX590;1157.2;N/A
+GTX590;1157.2;unknown
 GTX670;112;1.1
 GTX680;119.10;1.2
 ION;1.8;0.067
 Quadro 5000;67.7;0.445
 Quadro FX 1600M;6;0.12
-Quadro FX 1800;13.6;N/A
+Quadro FX 1800;13.6;unknown
 Quadro FX 2000M;23;0.397
 Quadro FX 2800M;22;0.293
-Quadro FX 3000M;28.6;N/A
+Quadro FX 3000M;28.6;unknown
 Quadro FX 3600M;36;0.514
-Quadro FX 3800;33.3;N/A
+Quadro FX 3800;33.3;unknown
 Quadro FX 580;5.7;0.14
-Quadro FX 770M;6.07;N/A
-Quadro FX 880M;9.6;N/A
+Quadro FX 770M;6.07;unknown
+Quadro FX 880M;9.6;unknown
 Quadro NVS 135M;1.05;0.1
 Quadro NVS 295;1.7;0.07
 Quadro NVS 3100M;3.6;0.257
-Quadro NVS 4200M;10;N/A
-Tesla C1060;52.5;N/A
-Tesla K20;134.8;N/A
-Tesla M2050;87.15;N/A
-Tesla S1070;155.2;N/A
-Tesla S2070;749.23;N/A
+Quadro NVS 4200M;10;unknown
+Tesla C1060;52.5;unknown
+Tesla K20;134.8;unknown
+Tesla M2050;87.15;unknown
+Tesla S1070;155.2;unknown
+Tesla S2070;749.23;unknown
 4x Opteron 6174;48;115
 2x Opteron 6172;24;55
 2x Opteron 6128;16;32.4
@@ -323,7 +323,7 @@ Athlon XP 2000+;2;0.62
 Athlon 64 3500+;1;1.18
 Athlon 64 X2 3800+;2;1.73
 Athlon 64 X2 4000+;2;1.9
-Athlon 64 X2 4400+;N/A;2.09
+Athlon 64 X2 4400+;unknown;2.09
 Athlon 64 X2 6000+;2;2.81
 Athlon 64 X2 6400+ Black Edition;2;2.9
 Athlon II X2 240e;2;2.71
@@ -448,6 +448,6 @@ PowerPC 7447A;1;0.53
 PowerPC 7450 (G4e);1;1.29
 PowerPC 750 (G3);1;0.14
 IBM POWER4+ 2/way;21;0.58
-IBM Power7 (PowerPC);N/A;7.6
+IBM Power7 (PowerPC);unknown;7.6
 Google App Engine;1;0.144
-Open Shift;1;0.059"
+Open Shift;1;0.059

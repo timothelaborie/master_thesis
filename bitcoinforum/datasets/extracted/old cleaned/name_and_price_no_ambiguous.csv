@@ -1,17 +1,20 @@
-date,hardware_name,hardware_price,clean
-2013-06-09,Bitfury-Metabank ASIC,3000$,true
-2013-07-09,ASICMiner USB,0.99BTC,true
-2013-07-16,ASICMINER ERUPTER USB,1BTC,true
-2013-07-23,KnCMiner Jupiter,1.2BTC,true
-2013-07-23,KnCMiner Jupiter,1.1BTC,true
-2013-08-29,ASICMINER USB Block Erupter,0.4BTC,true
-2013-10-18,Terraminer IV,1.5BTC,true
-2013-10-26,Black Arrow Bullet Run,123$,true
-2013-11-08,ASICMiner Blades (Rev2),0.80BTC,true
-2014-02-04,ANTMINER S1 Dual Blades,1.35BTC,true
-2014-02-17,AntminerS1,0.0205BTC,true
-2014-07-11,TECHNOBIT's HEX16A,49.30€,true
-2017-07-05,Antminer S7,400$,true
-2017-07-05,Antminer S5,250$,true
-2022-02-27,Bitmain S17 pro 56th,35$,true
-2023-09-08,Antminer S9,25-35$,true
+date,hardware_name,hardware_price
+2013-06-09,Bitfury-Metabank ASIC,3000$
+2013-06-17,Avalon chips,40 EUR
+2013-07-09,ASICMiner USB,0.99 BTC
+2013-07-12,BFL ASIC Chips,$59/chip
+2013-07-16,ASICMINER ERUPTER USB,1 BTC
+2013-07-23,KnCMiner Jupiter,1.2 BTC
+2013-07-23,KnCMiner Jupiter,1.1 BTC
+2013-08-29,ASICMINER USB Block Erupter,0.4BTC
+2013-09-03,Hashfast Babyjet,1.09 btc
+2013-10-08,BFL ASICs,$12.5/(GH/s)
+2013-10-18,Terraminer IV,1.5BTC
+2013-11-08,ASICMiner Blades (Rev2),.80 BTC
+2014-02-04,ANTMINER S1 Dual Blades,1.35btc
+2014-02-17,AntminerS1,0.0205BTC
+2014-07-11,TECHNOBIT's HEX16A,"49,30"
+2017-07-05,Antminer S7,$400
+2017-07-05,Antminer S5,$250
+2022-02-27,Bitmain S17 pro 56th,$35
+2023-09-08,Antminer S9,$25-35
