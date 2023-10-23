@@ -1,453 +1,453 @@
-AntMiner S1 [1]<sep>180000<sep>500
-AntMiner S2 [3]<sep>100000<sep>900
-AntMiner S3 [4]<sep>441000<sep>1300
-AntMiner S3+ [5]<sep>453000<sep>1282
-AntMiner S4 [6]<sep>200000<sep>1429
-AntMiner S5 [7]<sep>115500<sep>1957
-AntMiner S5+ [8]<sep>772200<sep>2247
-AntMiner S7 [9]<sep>486000<sep>4000
-AntMiner S9 [10]<sep>140000<sep>10182
-AntMiner U1 [11]<sep>1600<sep>800
-AntMiner U2+ [12]<sep>2000<sep>1000
-AntMiner U3 [13]<sep>63000<sep>1000
-ASICMiner BE Blade<sep>10752<sep>129
-ASICMiner BE Cube<sep>30000<sep>150
-ASICMiner BE Prisma [16]<sep>140000<sep>1333
-ASICMiner BE Sapphire<sep>336<sep>130
-ASICMiner BE Tube [15]<sep>800000<sep>888
-Avalon Batch 1<sep>663001<sep>107
-Avalon Batch 2<sep>820001<sep>117
-Avalon Batch 3<sep>820001<sep>117
-Avalon2<sep>300000<sep>N/A
-Avalon3<sep>800000<sep>N/A
-Avalon6<sep>350000<sep>N/A
-Avalon721<sep>600000<sep>6000
-Avalon741<sep>730000<sep>6350
-Avalon761<sep>880000<sep>6670
-Avalon821<sep>110000<sep>9170
-BFL 230 GH/s Rack Mount[19]<sep>230000<sep>N/A
-BFL 500 GH/s Mini Rig SC<sep>500000<sep>185
-BFL Little Single<sep>30000<sep>N/A
-BFL Monarch 700GH/s[20]<sep>700000<sep>1428
-BFL SC 10 Gh/s<sep>10000<sep>N/A
-BFL SC 25 Gh/s<sep>25000<sep>166
-BFL SC 50 Gh/s<sep>50000<sep>166
-BFL SC 5Gh/s<sep>5000<sep>166
-BFL Single 'SC'<sep>60000<sep>250
-bi*fury<sep>5000<sep>1176
-BitFury S.B.<sep>N/A<sep>N/A
-Bitmine.ch Avalon Clone 85GH<sep>85000<sep>N/A
-Black Arrow Prospero X-1<sep>100000<sep>1000
-Black Arrow Prospero X-3<sep>200000<sep>1000
-Blue Fury<sep>2500<sep>1000
-BTC Garden AM-V1 310 GH/s[22]<sep>310000<sep>954
-BTC Garden AM-V1 616 GH/s[22]<sep>616000<sep>951
-CoinTerra TerraMiner IV<sep>160000<sep>N/A
-Drillbit<sep>N/A<sep>N/A
-Ebit E10 [26]<sep>180000<sep>11100
-Ebit E9 [23]<sep>630000<sep>7140
-Ebit E9+ [24]<sep>900000<sep>6900
-Ebit E9++ [25]<sep>140000<sep>10500
-HashBuster Micro<sep>20000<sep>869
-HashBuster Nano<sep>N/A<sep>N/A
-HashCoins Apollo v3<sep>110000<sep>N/A
-HashCoins Zeus v3<sep>450000<sep>N/A
-HashFast Baby Jet<sep>400000<sep>909
-HashFast Sierra<sep>120000<sep>909
-HashFast Sierra Evo 3<sep>200000<sep>909
-Klondike<sep>5200<sep>160
-KnC Jupiter<sep>500000<sep>400
-KnC Neptune [29]<sep>300000<sep>1429
-KnC Saturn<sep>250000<sep>400
-KnCMiner Mercury<sep>100000<sep>N/A
-LittleFury<sep>N/A<sep>N/A
-Metabank<sep>120000<sep>705
-NanoFury / IceFury<sep>2000<sep>800
-NanoFury NF2<sep>3700<sep>740
-Red/BlueFury<sep>2600<sep>1040
-ROCKMINER R-BOX 110G[31]<sep>110000<sep>917
-ROCKMINER R-BOX[31]<sep>32000<sep>711
-ROCKMINER R3-BOX[31]<sep>450000<sep>1000
-ROCKMINER R4-BOX[31]<sep>470000<sep>1000
-ROCKMINER Rocket BOX [31]<sep>450000<sep>937
-ROCKMINER T1 800G[31]<sep>800000<sep>800
-Spondooliestech SP10 Dawson[32]<sep>140000<sep>1120
-Spondooliestech SP20 Jackson[33]<sep>170000<sep>1545
-Spondooliestech SP30 Yukon[34]<sep>450000<sep>1500
-Spondooliestech SP31 Yukon[35]<sep>490000<sep>1633
-Spondooliestech SP35 Yukon[36]<sep>550000<sep>1506
-TerraHash DX Large (full)<sep>180000<sep>140
-TerraHash DX Mini (full)<sep>90000<sep>140
-TerraHash Klondike 16 [37]<sep>4500<sep>140
-TerraHash Klondike 64 [38]<sep>18000<sep>140
-Twinfury<sep>4500<sep>1174
-WhatsMiner M1<sep>N/A<sep>N/A
-WhatsMiner M2<sep>920000<sep>N/A
-WhatsMiner M3<sep>115000<sep>N/A
-Avnet Spartan-6 LX150T Development Kit<sep>1001<sep>N/A
-Bitcoin Dominator X5000<sep>1003<sep>14.7
-BitForce SHA256 Single<sep>8324<sep>10.4
-Butterflylabs Mini Rig<sep>252005<sep>20.16
-Digilent Nexys 2 500K<sep>57<sep>N/A
-Icarus<sep>3809<sep>19.79
-KnCMiner Mars<sep>6000<sep>N/A
-Lancelot[10]<sep>40011<sep>N/A
-ModMiner Quad<sep>80012<sep>20
-Terasic DE2-115<sep>8013<sep>N/A
-X6500 FPGA Miner<sep>40015<sep>23.25
-ZTEX USB-FPGA Module 1.15b<sep>9017<sep>N/A
-ZTEX USB-FPGA Module 1.15x<sep>21517<sep>N/A
-ZTEX USB-FPGA Module 1.15y<sep>86017<sep>N/A"
-3410<sep>0.89<sep>0.074
-4350<sep>8.2425<sep>0.346
-4550<sep>7.5150<sep>0.289
-4650<sep>31.33<sep>0.653
-4670<sep>42.083<sep>0.646
-4730<sep>72.29<sep>0.657
-4770<sep>72.29<sep>0.904
-4830<sep>62.035<sep>0.5429
-4850<sep>87.62<sep>0.7956
-4860<sep>67.47<sep>0.519
-4870<sep>96.666<sep>0.6532
-4890<sep>107.32<sep>0.54
-5450<sep>14.662<sep>0.631
-5470<sep>17.1<sep>N/A
-5550<sep>51.345<sep>1.041
-5570<sep>77.322<sep>1.7496
-5650<sep>54.6<sep>1.37
-5670<sep>92.898<sep>1.3784
-5750<sep>152.13<sep>1.401
-5770<sep>212.94<sep>1.9401
-5830<sep>300.18<sep>1.5452
-5850<sep>346.78<sep>1.8195
-5870<sep>411.67<sep>1.9060
-5970<sep>700.97<sep>2.0053
-6450<sep>32.466<sep>1.709
-6570<sep>92.42<sep>1.4836
-6670<sep>112.01<sep>1.69
-6750<sep>160.53<sep>N/A
-6770<sep>211<sep>N/A
-6790<sep>219.5<sep>1.467
-6850<sep>240.41<sep>1.3996
-6870<sep>301.45<sep>1.7264
-6930<sep>354<sep>N/A
-6950<sep>366.39<sep>1.9399
-6970<sep>394.66<sep>1.8507
-6990<sep>772.28<sep>1.9056
-7750<sep>126.14<sep>2.66
-7770<sep>197.5<sep>N/A
-7790<sep>319<sep>N/A
-7850<sep>326.33<sep>191
-7870<sep>423.25<sep>N/A
-7950<sep>544.25<sep>N/A
-7970<sep>681.08<sep>N/A
-FirePro V8700<sep>84.8<sep>N/A
-FirePro V7800<sep>254.85<sep>N/A
-FirePro V7750<sep>35.7<sep>N/A
-FirePro V5800<sep>141.33<sep>N/A
-FirePro V4800<sep>79.7<sep>N/A
-FirePro V3800<sep>69<sep>N/A
-FirePro M7820<sep>150<sep>N/A
-FirePro M7740 (M97 GL) [DELL]<sep>63<sep>N/A
-FirePro M5950<sep>96.7<sep>N/A
-FirePro M5800<sep>65.35<sep>N/A
-7970x3<sep>2000<sep>2.505
-7870xt<sep>520<sep>N/A
-7870 XT<sep>485<sep>3.09
-6990x3<sep>2094<sep>N/A
-6990x2<sep>1629<sep>1.6974
-6970x3<sep>1243<sep>N/A
-6970x2<sep>769<sep>N/A
-6950x4<sep>1316<sep>1.513
-6950x3<sep>1081<sep>N/A
-6950x2 CF<sep>725.5<sep>N/A
-6930x2<sep>700<sep>N/A
-6870x4<sep>1176.6<sep>N/A
-6870x2<sep>600<sep>N/A
-6770x2<sep>470<sep>N/A
-6750M<sep>50.739<sep>N/A
-6630M<sep>55.9<sep>N/A
-6550D(A8 Onboard)<sep>66.2<sep>N/A
-6550D<sep>67.6<sep>N/A
-6530D<sep>40.5<sep>N/A
-6520G<sep>33.8<sep>N/A
-6490M<sep>20.194<sep>0.708
-6480G<sep>24.1<sep>N/A
-6470M<sep>27.55<sep>N/A
-6310M<sep>9.821<sep>0.545
-5870x6<sep>2568<sep>N/A
-5870x4<sep>1784<sep>N/A
-5870x2 (CF)<sep>864<sep>N/A
-5870x2 (Ares)<sep>787.5<sep>0.8386
-5870M<sep>170.85<sep>N/A
-5850x6<sep>2135<sep>N/A
-5850x4<sep>1360<sep>1.94
-5850x3<sep>1010<sep>N/A
-5850x2<sep>680.66<sep>N/A
-5830x6<sep>1967<sep>1.62
-5830x2 CF<sep>480<sep>N/A
-5830x2<sep>589<sep>N/A
-5830M<sep>120<sep>N/A
-5830 black<sep>310<sep>N/A
-5830 (127$)<sep>325<sep>1.98
-5770x2<sep>425<sep>N/A
-5770 Hawk<sep>182<sep>N/A
-5750x2 CF<sep>356<sep>N/A
-5750 Vapor-X<sep>195<sep>N/A
-4870x2<sep>188.10<sep>0.632
-4850x2<sep>150.6<sep>0.602
-4570M<sep>8.8099<sep>0.2985
-42XX<sep>N/A<sep>N/A
-3XXX<sep>N/A<sep>N/A
-320M (Mac mini 2010)<sep>7<sep>0.35
-8200 mGPU<sep>1.2<sep>N/A
-8400 GS<sep>1.95<sep>0.013
-8400M GS<sep>2<sep>N/A
-8500GT<sep>2.4<sep>N/A
-8600GT<sep>5.66<sep>N/A
-8600GT OC<sep>7.3<sep>N/A
-8600M GT<sep>4.365<sep>N/A
-8800 GTS<sep>26.1<sep>0.124
-8800 GTX<sep>27.5<sep>N/A
-8800GT<sep>29.279<sep>0.2672
-8800GTS<sep>16.8<sep>0.109
-8800m GTX<sep>16.3<sep>N/A
-9300/nForce 730i<sep>2.15<sep>N/A
-9300GE<sep>1.57<sep>N/A
-9300GS<sep>1.69<sep>N/A
-9400GT<sep>3.37<sep>0.067
-9400M (MacBook)<sep>1.9<sep>0.32
-9500GT<sep>7.05<sep>0.135
-9500M GS<sep>3.2<sep>N/A
-9600GSO<sep>19.88<sep>0.237
-9600GSO512<sep>11.75<sep>0.131
-9600GT<sep>15.66<sep>0.165
-9600GT OC<sep>18.8<sep>0.198
-9600GT Zotac<sep>15<sep>N/A
-9600M GS<sep>4<sep>N/A
-9800GT<sep>30.36<sep>0.289
-9800GT EE<sep>19.7<sep>0.263
-9800GT OC<sep>29.5<sep>0.283
-9800GTX<sep>32.54<sep>0.232
-9800GTX+<sep>36.284<sep>0.259
-9800GX2<sep>42.915<sep>0.2179
-G210<sep>3.585<sep>0.1175
-GT 320M (MacBook Air)<sep>6.12<sep>N/A
-GT 325M<sep>8.6633<sep>N/A
-GT 330M<sep>9.385<sep>N/A
-GT 330M (Samsung R480)<sep>9.1<sep>N/A
-GT 330M (Sony Vaio Z)<sep>7.8<sep>0.71
-GT220<sep>10.8<sep>0.084
-GT230<sep>15.5<sep>0.161
-GT240<sep>22.903<sep>0.281
-GT240 OC<sep>25.6<sep>0.365
-GT240M<sep>9.8<sep>0.426
-GT330<sep>21.65<sep>N/A
-GT430<sep>20.24<sep>0.413
-GT440<sep>20.4<sep>N/A
-GT520M<sep>8.9<sep>N/A
-GT525M<sep>14.6<sep>N/A
-GT530<sep>17.9<sep>0.358
-GT540M<sep>16<sep>N/A
-GT550M<sep>17.08<sep>N/A
-GT610M (ASUS K45V)<sep>9.371<sep>N/A
-GT650M (rMBP)<sep>17.8<sep>N/A
-GT650M OC<sep>27.4<sep>N/A
-GTS 350M (Toshiba A665-3DV)<sep>17<sep>1.214
-GTS 350M (Toshiba A665-3DV5)<sep>20.8<sep>N/A
-GTS 360M<sep>25<sep>N/A
-GTS 360M (ASUS G60jx)<sep>23.6<sep>N/A
-GTS250<sep>35.295<sep>0.2435
-GTS250 OC<sep>37<sep>0.255
-GTS450<sep>45.28<sep>0.427
-GTS450 (Sparkle One)<sep>40<sep>N/A
-GTX 560M<sep>39.3<sep>0.38
-GTX260<sep>39.955<sep>0.21
-GTX260c216<sep>45.933<sep>0.248
-GTX260c216 OC<sep>57<sep>N/A
-GTX260M<sep>22.5<sep>N/A
-GTX275<sep>54.375<sep>0.232
-GTX280<sep>55.59<sep>0.2435
-GTX280x2<sep>102.7<sep>N/A
-GTX285<sep>59.075<sep>0.262
-GTX295<sep>109.26<sep>0.3783
-GTX460<sep>67.315<sep>0.427
-GTX460 (2 cards)<sep>102<sep>0.319
-GTX460 (2 cards) OC<sep>127<sep>0.374
-GTX460 1GB ( evga )<sep>83.1<sep>0.519
-GTX460 1GB ( evga FPB )<sep>71.4<sep>N/A
-GTX460 1GB DirectCU<sep>80.9<sep>N/A
-GTX460 1GB OC (2x MsiHawksSLI)<sep>158<sep>0.658
-GTX460 768MB<sep>57.8<sep>N/A
-GTX460 768MB (MSI Cyclone 768D5/OC)<sep>75.1<sep>N/A
-GTX460SE<sep>56.39<sep>0.376
-GTX465<sep>64.41<sep>0.322
-GTX470<sep>101.45<sep>0.4505
-GTX470x2<sep>121.13<sep>N/A
-GTX480<sep>120.85<sep>0.405
-GTX480 AMP!Zotac<sep>140.1<sep>N/A
-GTX550 Ti<sep>45<sep>N/A
-GTX560 OC<sep>86.7<sep>0.51
-GTX560 Ti<sep>80.433<sep>0.4320
-GTX570<sep>145.56<sep>0.613
-GTX580<sep>156.6<sep>0.642
-GTX580x2<sep>2146<sep>0.598
-GTX590<sep>1157.2<sep>N/A
-GTX670<sep>112<sep>1.1
-GTX680<sep>119.10<sep>1.2
-ION<sep>1.8<sep>0.067
-Quadro 5000<sep>67.7<sep>0.445
-Quadro FX 1600M<sep>6<sep>0.12
-Quadro FX 1800<sep>13.6<sep>N/A
-Quadro FX 2000M<sep>23<sep>0.397
-Quadro FX 2800M<sep>22<sep>0.293
-Quadro FX 3000M<sep>28.6<sep>N/A
-Quadro FX 3600M<sep>36<sep>0.514
-Quadro FX 3800<sep>33.3<sep>N/A
-Quadro FX 580<sep>5.7<sep>0.14
-Quadro FX 770M<sep>6.07<sep>N/A
-Quadro FX 880M<sep>9.6<sep>N/A
-Quadro NVS 135M<sep>1.05<sep>0.1
-Quadro NVS 295<sep>1.7<sep>0.07
-Quadro NVS 3100M<sep>3.6<sep>0.257
-Quadro NVS 4200M<sep>10<sep>N/A
-Tesla C1060<sep>52.5<sep>N/A
-Tesla K20<sep>134.8<sep>N/A
-Tesla M2050<sep>87.15<sep>N/A
-Tesla S1070<sep>155.2<sep>N/A
-Tesla S2070<sep>749.23<sep>N/A
-4x Opteron 6174<sep>48<sep>115
-2x Opteron 6172<sep>24<sep>55
-2x Opteron 6128<sep>16<sep>32.4
-Athlon XP 2000+<sep>2<sep>0.62
-Athlon 64 3500+<sep>1<sep>1.18
-Athlon 64 X2 3800+<sep>2<sep>1.73
-Athlon 64 X2 4000+<sep>2<sep>1.9
-Athlon 64 X2 4400+<sep>N/A<sep>2.09
-Athlon 64 X2 6000+<sep>2<sep>2.81
-Athlon 64 X2 6400+ Black Edition<sep>2<sep>2.9
-Athlon II X2 240e<sep>2<sep>2.71
-Athlon II X2 250<sep>2<sep>5.6
-Athlon II X4 630<sep>4<sep>10.7
-Opteron 8220 x16<sep>16<sep>25
-Phenom II X3 720<sep>3<sep>5.5
-Phenom X4 9950 BE<sep>4<sep>9.3
-Phenom II X4 810<sep>4<sep>9.125
-Phenom II X4 955<sep>4<sep>11
-Phenom II X4 965<sep>4<sep>12
-Phenom II X6 1055T<sep>6<sep>19.72
-Phenom II X6 1075T<sep>6<sep>21.3
-Phenom II X6 1090T<sep>6<sep>18
-Phenom II X6 1100T<sep>6<sep>22
-Sempron 3000+<sep>2<sep>0.8
-Turion X2 RM-70<sep>2<sep>1.9
-Zacate E-350<sep>2<sep>11.5
-Ontario C-50<sep>2<sep>6.2
-A4-3400<sep>2<sep>23.2
-A8-3850<sep>4<sep>60
-A8-3870K<sep>4<sep>95
-A10-5800K<sep>4<sep>105
-ARM926EJ-S<sep>1<sep>0.187
-Marvel Feroceon (88FR131)<sep>1<sep>0.195
-ARM1136EJ-S<sep>1<sep>0.11
-ARM1176JZ(F)-S<sep>1<sep>0.1595
-Cortex-A8<sep>1<sep>0.313
-AllWinner A10(A8)<sep>1<sep>0.568
-Cortex-A9<sep>2<sep>0.935
-Pentium III (Coppermine)<sep>2<sep>0.39
-Pentium III mobile ?<sep>1<sep>0.3
-Pentium M 1.6ghz<sep>1<sep>0.5766
-Pentium M 1.73ghz<sep>1<sep>0.5
-Old Xeon 512k (Dual)<sep>212<sep>2
-Pentium 4 2.0A<sep>1<sep>0.85
-Pentium 4 630<sep>12<sep>1.29
-Pentium Dual-Core E2180<sep>22<sep>3.4499
-Pentium Dual-Core E5400<sep>22<sep>2.27
-Celeron E330<sep>22<sep>2.2
-Celeron E3400<sep>22<sep>5.9
-Core 2 Quad Q6600<sep>44<sep>11
-Core 2 Quad Q8200<sep>44<sep>10.9
-Core 2 Quad Q9400<sep>44<sep>11
-Core 2 Quad Q9650<sep>44<sep>18.67
-Core i3 530<sep>24<sep>8.31
-Core i3 M350<sep>24<sep>1.48
-Core i3-2100<sep>24<sep>8.28
-Core i5 M450<sep>24<sep>1.8
-Core i5-650<sep>24<sep>5.1
-Core i5-750<sep>44<sep>14
-Core i5 ?<sep>4<sep>6.5
-Core i5-2400<sep>44<sep>9.25
-Core i5-2400S<sep>44<sep>16.6
-Core i5 2500K<sep>44<sep>20.6
-Core i5 2600K<sep>48<sep>17.3
-Core i7 2600K<sep>48<sep>18.6
-Core i7 2600<sep>48<sep>23.9
-Core i7 620M<sep>24<sep>4.896
-Core i7 720QM<sep>48<sep>7.9
-Core i7 820<sep>48<sep>13.8
-Core i7 920<sep>48<sep>19.2
-Core i7 950<sep>48<sep>12.389
-Core i7 980x<sep>612<sep>13.95
-Core i7 990x<sep>612<sep>33.3
-Core i7 2635QM<sep>48<sep>2.93
-Core i7 2600k<sep>44<sep>6.7
-Core i7 3770k<sep>48<sep>5.2
-Core i7 3930k<sep>612<sep>66.6
-Core 2 Duo U7600<sep>1<sep>1.1
-Core 2 Duo E5200<sep>22<sep>6.2
-Core 2 Duo E6550<sep>12<sep>2.45
-Core 2 Duo E6850<sep>22<sep>6.75
-Core 2 Duo E7300<sep>22<sep>5.14
-Core 2 Duo E8200<sep>22<sep>2.3
-Core 2 Duo E8400<sep>22<sep>6.9
-Core 2 Duo E8500<sep>17<sep>5.4
-Core 2 Duo P8700<sep>22<sep>5.9
-Core 2 Duo T5450<sep>22<sep>2.5
-Core 2 Duo T5500<sep>22<sep>4.3
-Core 2 Duo T6400<sep>22<sep>4.2
-Core 2 Duo T7250<sep>22<sep>4.5
-Core 2 Duo T7450<sep>22<sep>3.7
-Core 2 Duo T9400<sep>22<sep>4.2
-Core 2 Extreme X9000<sep>22<sep>5.2566
-Xeon 2.8<sep>22<sep>0.8
-Xeon 3060<sep>12<sep>2.03
-Xeon Prestonia 2.4 (dual)<sep>212<sep>2.16
-Xeon X5355 (dual)<sep>244<sep>16.445
-Xeon E3-1230 V2 (quad)<sep>48<sep>19.7
-Xeon X5365 (dual)<sep>244<sep>26
-Xeon X5650<sep>2624<sep>28.6
-Xeon x5680 (dual)<sep>2624<sep>48
-Xeon x5690 (dual)<sep>2624<sep>52
-Xeon E5-2690 (dual)<sep>2832<sep>66
-Xeon E5335<sep>44<sep>9.35
-Xeon E5410<sep>44<sep>9.8
-Xeon E5440<sep>48<sep>7.3
-Xeon E5506<sep>44<sep>9.6
-Xeon E5520<sep>48<sep>6.5
-Xeon E5530<sep>48<sep>7.14
-Xeon E5620<sep>48<sep>11.2
-Xeon E5630 (dual)<sep>248<sep>8
-Xeon E6520 (dual)<sep>248<sep>24.7
-Xeon E7220<sep>22<sep>6.3
-Xeon E7320 (dual)<sep>22<sep>1.5
-Xeon E7450 (quad)<sep>4624<sep>60
-Xeon E7520 (dual)<sep>2416<sep>18
-Xeon W3680<sep>612<sep>18
-Atom Z520<sep>12<sep>1.2
-Atom N230<sep>12<sep>0.5299
-Atom N270<sep>12<sep>1.19
-Atom N450<sep>12<sep>1.6
-Atom N550<sep>24<sep>1.97
-Atom 330<sep>24<sep>1.8
-Atom D510<sep>34<sep>1.65
-Xeon Phi 5100<sep>60240<sep>140
-Cell<sep>6.3333<sep>22.866
-MIPS<sep>1<sep>0.026
-VIA Eden<sep>1<sep>1.3
-PowerPC 7447A<sep>1<sep>0.53
-PowerPC 7450 (G4e)<sep>1<sep>1.29
-PowerPC 750 (G3)<sep>1<sep>0.14
-IBM POWER4+ 2/way<sep>21<sep>0.58
-IBM Power7 (PowerPC)<sep>N/A<sep>7.6
-Google App Engine<sep>1<sep>0.144
-Open Shift<sep>1<sep>0.059"
+AntMiner S1;180000;500
+AntMiner S2;100000;900
+AntMiner S3;441000;1300
+AntMiner S3+;453000;1282
+AntMiner S4;200000;1429
+AntMiner S5;115500;1957
+AntMiner S5+;772200;2247
+AntMiner S7;486000;4000
+AntMiner S9;140000;10182
+AntMiner U1;1600;800
+AntMiner U2+;2000;1000
+AntMiner U3;63000;1000
+ASICMiner BE Blade;10752;129
+ASICMiner BE Cube;30000;150
+ASICMiner BE Prisma;140000;1333
+ASICMiner BE Sapphire;336;130
+ASICMiner BE Tube;800000;888
+Avalon Batch 1;663001;107
+Avalon Batch 2;820001;117
+Avalon Batch 3;820001;117
+Avalon2;300000;N/A
+Avalon3;800000;N/A
+Avalon6;350000;N/A
+Avalon721;600000;6000
+Avalon741;730000;6350
+Avalon761;880000;6670
+Avalon821;110000;9170
+BFL 230 GH/s Rack Mount;230000;N/A
+BFL 500 GH/s Mini Rig SC;500000;185
+BFL Little Single;30000;N/A
+BFL Monarch 700GH/s;700000;1428
+BFL SC 10 Gh/s;10000;N/A
+BFL SC 25 Gh/s;25000;166
+BFL SC 50 Gh/s;50000;166
+BFL SC 5Gh/s;5000;166
+BFL Single 'SC';60000;250
+bi*fury;5000;1176
+BitFury S.B.;N/A;N/A
+Bitmine.ch Avalon Clone 85GH;85000;N/A
+Black Arrow Prospero X-1;100000;1000
+Black Arrow Prospero X-3;200000;1000
+Blue Fury;2500;1000
+BTC Garden AM-V1 310 GH/s;310000;954
+BTC Garden AM-V1 616 GH/s;616000;951
+CoinTerra TerraMiner IV;160000;N/A
+Drillbit;N/A;N/A
+Ebit E10;180000;11100
+Ebit E9;630000;7140
+Ebit E9+;900000;6900
+Ebit E9++;140000;10500
+HashBuster Micro;20000;869
+HashBuster Nano;N/A;N/A
+HashCoins Apollo v3;110000;N/A
+HashCoins Zeus v3;450000;N/A
+HashFast Baby Jet;400000;909
+HashFast Sierra;120000;909
+HashFast Sierra Evo 3;200000;909
+Klondike;5200;160
+KnC Jupiter;500000;400
+KnC Neptune;300000;1429
+KnC Saturn;250000;400
+KnCMiner Mercury;100000;N/A
+LittleFury;N/A;N/A
+Metabank;120000;705
+NanoFury / IceFury;2000;800
+NanoFury NF2;3700;740
+Red/BlueFury;2600;1040
+ROCKMINER R-BOX 110G;110000;917
+ROCKMINER R-BOX;32000;711
+ROCKMINER R3-BOX;450000;1000
+ROCKMINER R4-BOX;470000;1000
+ROCKMINER Rocket BOX;450000;937
+ROCKMINER T1 800G;800000;800
+Spondooliestech SP10 Dawson;140000;1120
+Spondooliestech SP20 Jackson;170000;1545
+Spondooliestech SP30 Yukon;450000;1500
+Spondooliestech SP31 Yukon;490000;1633
+Spondooliestech SP35 Yukon;550000;1506
+TerraHash DX Large (full);180000;140
+TerraHash DX Mini (full);90000;140
+TerraHash Klondike 16;4500;140
+TerraHash Klondike 64;18000;140
+Twinfury;4500;1174
+WhatsMiner M1;N/A;N/A
+WhatsMiner M2;920000;N/A
+WhatsMiner M3;115000;N/A
+Avnet Spartan-6 LX150T Development Kit;1001;N/A
+Bitcoin Dominator X5000;1003;14.7
+BitForce SHA256 Single;8324;10.4
+Butterflylabs Mini Rig;252005;20.16
+Digilent Nexys 2 500K;57;N/A
+Icarus;3809;19.79
+KnCMiner Mars;6000;N/A
+Lancelot;40011;N/A
+ModMiner Quad;80012;20
+Terasic DE2-115;8013;N/A
+X6500 FPGA Miner;40015;23.25
+ZTEX USB-FPGA Module 1.15b;9017;N/A
+ZTEX USB-FPGA Module 1.15x;21517;N/A
+ZTEX USB-FPGA Module 1.15y;86017;N/A"
+3410;0.89;0.074
+4350;8.2425;0.346
+4550;7.5150;0.289
+4650;31.33;0.653
+4670;42.083;0.646
+4730;72.29;0.657
+4770;72.29;0.904
+4830;62.035;0.5429
+4850;87.62;0.7956
+4860;67.47;0.519
+4870;96.666;0.6532
+4890;107.32;0.54
+5450;14.662;0.631
+5470;17.1;N/A
+5550;51.345;1.041
+5570;77.322;1.7496
+5650;54.6;1.37
+5670;92.898;1.3784
+5750;152.13;1.401
+5770;212.94;1.9401
+5830;300.18;1.5452
+5850;346.78;1.8195
+5870;411.67;1.9060
+5970;700.97;2.0053
+6450;32.466;1.709
+6570;92.42;1.4836
+6670;112.01;1.69
+6750;160.53;N/A
+6770;211;N/A
+6790;219.5;1.467
+6850;240.41;1.3996
+6870;301.45;1.7264
+6930;354;N/A
+6950;366.39;1.9399
+6970;394.66;1.8507
+6990;772.28;1.9056
+7750;126.14;2.66
+7770;197.5;N/A
+7790;319;N/A
+7850;326.33;191
+7870;423.25;N/A
+7950;544.25;N/A
+7970;681.08;N/A
+FirePro V8700;84.8;N/A
+FirePro V7800;254.85;N/A
+FirePro V7750;35.7;N/A
+FirePro V5800;141.33;N/A
+FirePro V4800;79.7;N/A
+FirePro V3800;69;N/A
+FirePro M7820;150;N/A
+FirePro M7740 (M97 GL) [DELL];63;N/A
+FirePro M5950;96.7;N/A
+FirePro M5800;65.35;N/A
+7970x3;2000;2.505
+7870xt;520;N/A
+7870 XT;485;3.09
+6990x3;2094;N/A
+6990x2;1629;1.6974
+6970x3;1243;N/A
+6970x2;769;N/A
+6950x4;1316;1.513
+6950x3;1081;N/A
+6950x2 CF;725.5;N/A
+6930x2;700;N/A
+6870x4;1176.6;N/A
+6870x2;600;N/A
+6770x2;470;N/A
+6750M;50.739;N/A
+6630M;55.9;N/A
+6550D(A8 Onboard);66.2;N/A
+6550D;67.6;N/A
+6530D;40.5;N/A
+6520G;33.8;N/A
+6490M;20.194;0.708
+6480G;24.1;N/A
+6470M;27.55;N/A
+6310M;9.821;0.545
+5870x6;2568;N/A
+5870x4;1784;N/A
+5870x2 (CF);864;N/A
+5870x2 (Ares);787.5;0.8386
+5870M;170.85;N/A
+5850x6;2135;N/A
+5850x4;1360;1.94
+5850x3;1010;N/A
+5850x2;680.66;N/A
+5830x6;1967;1.62
+5830x2 CF;480;N/A
+5830x2;589;N/A
+5830M;120;N/A
+5830 black;310;N/A
+5830 (127$);325;1.98
+5770x2;425;N/A
+5770 Hawk;182;N/A
+5750x2 CF;356;N/A
+5750 Vapor-X;195;N/A
+4870x2;188.10;0.632
+4850x2;150.6;0.602
+4570M;8.8099;0.2985
+42XX;N/A;N/A
+3XXX;N/A;N/A
+320M (Mac mini 2010);7;0.35
+8200 mGPU;1.2;N/A
+8400 GS;1.95;0.013
+8400M GS;2;N/A
+8500GT;2.4;N/A
+8600GT;5.66;N/A
+8600GT OC;7.3;N/A
+8600M GT;4.365;N/A
+8800 GTS;26.1;0.124
+8800 GTX;27.5;N/A
+8800GT;29.279;0.2672
+8800GTS;16.8;0.109
+8800m GTX;16.3;N/A
+9300/nForce 730i;2.15;N/A
+9300GE;1.57;N/A
+9300GS;1.69;N/A
+9400GT;3.37;0.067
+9400M (MacBook);1.9;0.32
+9500GT;7.05;0.135
+9500M GS;3.2;N/A
+9600GSO;19.88;0.237
+9600GSO512;11.75;0.131
+9600GT;15.66;0.165
+9600GT OC;18.8;0.198
+9600GT Zotac;15;N/A
+9600M GS;4;N/A
+9800GT;30.36;0.289
+9800GT EE;19.7;0.263
+9800GT OC;29.5;0.283
+9800GTX;32.54;0.232
+9800GTX+;36.284;0.259
+9800GX2;42.915;0.2179
+G210;3.585;0.1175
+GT 320M (MacBook Air);6.12;N/A
+GT 325M;8.6633;N/A
+GT 330M;9.385;N/A
+GT 330M (Samsung R480);9.1;N/A
+GT 330M (Sony Vaio Z);7.8;0.71
+GT220;10.8;0.084
+GT230;15.5;0.161
+GT240;22.903;0.281
+GT240 OC;25.6;0.365
+GT240M;9.8;0.426
+GT330;21.65;N/A
+GT430;20.24;0.413
+GT440;20.4;N/A
+GT520M;8.9;N/A
+GT525M;14.6;N/A
+GT530;17.9;0.358
+GT540M;16;N/A
+GT550M;17.08;N/A
+GT610M (ASUS K45V);9.371;N/A
+GT650M (rMBP);17.8;N/A
+GT650M OC;27.4;N/A
+GTS 350M (Toshiba A665-3DV);17;1.214
+GTS 350M (Toshiba A665-3DV5);20.8;N/A
+GTS 360M;25;N/A
+GTS 360M (ASUS G60jx);23.6;N/A
+GTS250;35.295;0.2435
+GTS250 OC;37;0.255
+GTS450;45.28;0.427
+GTS450 (Sparkle One);40;N/A
+GTX 560M;39.3;0.38
+GTX260;39.955;0.21
+GTX260c216;45.933;0.248
+GTX260c216 OC;57;N/A
+GTX260M;22.5;N/A
+GTX275;54.375;0.232
+GTX280;55.59;0.2435
+GTX280x2;102.7;N/A
+GTX285;59.075;0.262
+GTX295;109.26;0.3783
+GTX460;67.315;0.427
+GTX460 (2 cards);102;0.319
+GTX460 (2 cards) OC;127;0.374
+GTX460 1GB ( evga );83.1;0.519
+GTX460 1GB ( evga FPB );71.4;N/A
+GTX460 1GB DirectCU;80.9;N/A
+GTX460 1GB OC (2x MsiHawksSLI);158;0.658
+GTX460 768MB;57.8;N/A
+GTX460 768MB (MSI Cyclone 768D5/OC);75.1;N/A
+GTX460SE;56.39;0.376
+GTX465;64.41;0.322
+GTX470;101.45;0.4505
+GTX470x2;121.13;N/A
+GTX480;120.85;0.405
+GTX480 AMP!Zotac;140.1;N/A
+GTX550 Ti;45;N/A
+GTX560 OC;86.7;0.51
+GTX560 Ti;80.433;0.4320
+GTX570;145.56;0.613
+GTX580;156.6;0.642
+GTX580x2;2146;0.598
+GTX590;1157.2;N/A
+GTX670;112;1.1
+GTX680;119.10;1.2
+ION;1.8;0.067
+Quadro 5000;67.7;0.445
+Quadro FX 1600M;6;0.12
+Quadro FX 1800;13.6;N/A
+Quadro FX 2000M;23;0.397
+Quadro FX 2800M;22;0.293
+Quadro FX 3000M;28.6;N/A
+Quadro FX 3600M;36;0.514
+Quadro FX 3800;33.3;N/A
+Quadro FX 580;5.7;0.14
+Quadro FX 770M;6.07;N/A
+Quadro FX 880M;9.6;N/A
+Quadro NVS 135M;1.05;0.1
+Quadro NVS 295;1.7;0.07
+Quadro NVS 3100M;3.6;0.257
+Quadro NVS 4200M;10;N/A
+Tesla C1060;52.5;N/A
+Tesla K20;134.8;N/A
+Tesla M2050;87.15;N/A
+Tesla S1070;155.2;N/A
+Tesla S2070;749.23;N/A
+4x Opteron 6174;48;115
+2x Opteron 6172;24;55
+2x Opteron 6128;16;32.4
+Athlon XP 2000+;2;0.62
+Athlon 64 3500+;1;1.18
+Athlon 64 X2 3800+;2;1.73
+Athlon 64 X2 4000+;2;1.9
+Athlon 64 X2 4400+;N/A;2.09
+Athlon 64 X2 6000+;2;2.81
+Athlon 64 X2 6400+ Black Edition;2;2.9
+Athlon II X2 240e;2;2.71
+Athlon II X2 250;2;5.6
+Athlon II X4 630;4;10.7
+Opteron 8220 x16;16;25
+Phenom II X3 720;3;5.5
+Phenom X4 9950 BE;4;9.3
+Phenom II X4 810;4;9.125
+Phenom II X4 955;4;11
+Phenom II X4 965;4;12
+Phenom II X6 1055T;6;19.72
+Phenom II X6 1075T;6;21.3
+Phenom II X6 1090T;6;18
+Phenom II X6 1100T;6;22
+Sempron 3000+;2;0.8
+Turion X2 RM-70;2;1.9
+Zacate E-350;2;11.5
+Ontario C-50;2;6.2
+A4-3400;2;23.2
+A8-3850;4;60
+A8-3870K;4;95
+A10-5800K;4;105
+ARM926EJ-S;1;0.187
+Marvel Feroceon (88FR131);1;0.195
+ARM1136EJ-S;1;0.11
+ARM1176JZ(F)-S;1;0.1595
+Cortex-A8;1;0.313
+AllWinner A10(A8);1;0.568
+Cortex-A9;2;0.935
+Pentium III (Coppermine);2;0.39
+Pentium III mobile ?;1;0.3
+Pentium M 1.6ghz;1;0.5766
+Pentium M 1.73ghz;1;0.5
+Old Xeon 512k (Dual);212;2
+Pentium 4 2.0A;1;0.85
+Pentium 4 630;12;1.29
+Pentium Dual-Core E2180;22;3.4499
+Pentium Dual-Core E5400;22;2.27
+Celeron E330;22;2.2
+Celeron E3400;22;5.9
+Core 2 Quad Q6600;44;11
+Core 2 Quad Q8200;44;10.9
+Core 2 Quad Q9400;44;11
+Core 2 Quad Q9650;44;18.67
+Core i3 530;24;8.31
+Core i3 M350;24;1.48
+Core i3-2100;24;8.28
+Core i5 M450;24;1.8
+Core i5-650;24;5.1
+Core i5-750;44;14
+Core i5 ?;4;6.5
+Core i5-2400;44;9.25
+Core i5-2400S;44;16.6
+Core i5 2500K;44;20.6
+Core i5 2600K;48;17.3
+Core i7 2600K;48;18.6
+Core i7 2600;48;23.9
+Core i7 620M;24;4.896
+Core i7 720QM;48;7.9
+Core i7 820;48;13.8
+Core i7 920;48;19.2
+Core i7 950;48;12.389
+Core i7 980x;612;13.95
+Core i7 990x;612;33.3
+Core i7 2635QM;48;2.93
+Core i7 2600k;44;6.7
+Core i7 3770k;48;5.2
+Core i7 3930k;612;66.6
+Core 2 Duo U7600;1;1.1
+Core 2 Duo E5200;22;6.2
+Core 2 Duo E6550;12;2.45
+Core 2 Duo E6850;22;6.75
+Core 2 Duo E7300;22;5.14
+Core 2 Duo E8200;22;2.3
+Core 2 Duo E8400;22;6.9
+Core 2 Duo E8500;17;5.4
+Core 2 Duo P8700;22;5.9
+Core 2 Duo T5450;22;2.5
+Core 2 Duo T5500;22;4.3
+Core 2 Duo T6400;22;4.2
+Core 2 Duo T7250;22;4.5
+Core 2 Duo T7450;22;3.7
+Core 2 Duo T9400;22;4.2
+Core 2 Extreme X9000;22;5.2566
+Xeon 2.8;22;0.8
+Xeon 3060;12;2.03
+Xeon Prestonia 2.4 (dual);212;2.16
+Xeon X5355 (dual);244;16.445
+Xeon E3-1230 V2 (quad);48;19.7
+Xeon X5365 (dual);244;26
+Xeon X5650;2624;28.6
+Xeon x5680 (dual);2624;48
+Xeon x5690 (dual);2624;52
+Xeon E5-2690 (dual);2832;66
+Xeon E5335;44;9.35
+Xeon E5410;44;9.8
+Xeon E5440;48;7.3
+Xeon E5506;44;9.6
+Xeon E5520;48;6.5
+Xeon E5530;48;7.14
+Xeon E5620;48;11.2
+Xeon E5630 (dual);248;8
+Xeon E6520 (dual);248;24.7
+Xeon E7220;22;6.3
+Xeon E7320 (dual);22;1.5
+Xeon E7450 (quad);4624;60
+Xeon E7520 (dual);2416;18
+Xeon W3680;612;18
+Atom Z520;12;1.2
+Atom N230;12;0.5299
+Atom N270;12;1.19
+Atom N450;12;1.6
+Atom N550;24;1.97
+Atom 330;24;1.8
+Atom D510;34;1.65
+Xeon Phi 5100;60240;140
+Cell;6.3333;22.866
+MIPS;1;0.026
+VIA Eden;1;1.3
+PowerPC 7447A;1;0.53
+PowerPC 7450 (G4e);1;1.29
+PowerPC 750 (G3);1;0.14
+IBM POWER4+ 2/way;21;0.58
+IBM Power7 (PowerPC);N/A;7.6
+Google App Engine;1;0.144
+Open Shift;1;0.059"
