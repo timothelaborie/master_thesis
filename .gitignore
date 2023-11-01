@@ -1,4 +1,5 @@
 
-bitcoinforum/sorted-preprocessed-data/*
+bitcoinforum/preprocessed-data/*
 bitcoinforum/raw-data/*
+bitcoinforum/raw-data_/*
 bitcoinforum/price_history.csv
