@@ -1,0 +1,57 @@
+User:
+In the given Bitcoin forum thread, pay close attention to the language used when mentioning hardware pieces. Look for explicit statements indicating ownership or hypothetical discussions.
+
+Date: 2016-01
+Topic: My set-up to heat house using bitmain S7
+### Original post:
+i dont have any s7's yet so im not sure how much air/heat they actually move , or how loud they are but wouldnt u be better off just putting them were u want the heat ?
+
+### Reply 1:
+That is a good idea. How well is it working? Does it nicely heat up your rooms?
+
+### Reply 2:
+yea been heating 3 rooms so far keeping them around solid 68!
+
+### Reply 3:
+the noise and also I am using 240 outlet from dryer that I dont use thats in garage.
+
+### Reply 4:
+Be careful about backlogging heat in there.. Will burn up your miners.
+
+### Reply 5:
+hence the duct fan. no worries.
+
+### Reply 6:
+holy crap 68! that is insane lol. They must pump out a ton of heat to do 3 rooms. Its gonna be rough in the summer. Also, have you guys heard of the new S9? I heard it's coming out soon.
+
+### Reply 7:
+You can get additional heating if you have a spare GPU that you're not using
+
+### Reply 8:
+I currently have an S7 I bought for 3000$, I can confirm it works well as a heater and makes me 50$ per day.
+
+### Reply 9:
+If you can't afford an S7, I've seen a thread where you can buy a share of one for 0.1 btc
+
+### Reply 10:
+I could have sworn I saw this video around the beginning of December, so I think they're talking about last month, not a year from now.I wish they would tell me more to make me excited about this miner - to me it feels like a big "meh"... For being 14nm, it doesn't seem to buy anything that substantial over the 28nm BM1385... Of course if we're comparing hardware we can't buy, then none of these compare to the BitFury stuff.
+
+### Reply 11:
+51ASIC.RUVERY SOON! NEWEST MINER B-ELEVEN Hash power: 3TH/sPower consumption: 260W/THChip technology: 14nmPRICE: 218 USD/1TH<link> will soon;)
+
+### Reply 12:
+If you have 220/240 it's easier as it's nice to use a server PSU. Bitmain suggests using their PSU they sell.
+
+
+
+Reply with a formatted JSON document containing an array of objects. Each object should represent a piece of hardware mentioned in the thread and include the following fields:
+- hardware_name: A string containing the name of the hardware.
+- hardware_is_owned: A boolean. If the mention suggests concrete ownership by any user, write true. If the hardware is discussed in a hypothetical or speculative way, write false. 
+
+
+Assistant:
+Sure! Here is the requested JSON file, with the correct ownership status for each piece of hardware:
+
+[
+  {
+    "hardware_name": "
