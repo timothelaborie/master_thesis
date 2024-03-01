@@ -6,3 +6,4 @@ bitcoinforum/price_history.csv
 a.ipynb
 b.ipynb
 bitcoinforum/1_forum_dataset/raw-data/*
+bitcoinforum/2_train_set_creation/concatenated_threads.csv
