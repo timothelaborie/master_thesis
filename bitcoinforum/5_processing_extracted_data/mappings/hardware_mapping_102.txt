@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "am335x es1.0": "unknown",
+    "amacrox warrior ax500-a": "unknown",
+    "amantic ant miner 1.6 gh/s erupter": "unknown",  # No exact match, possibly a typo or variant not listed.
+    "amazing miner": "unknown",
+    "amazon": "unknown",
+    "amazon 7 port hub": "unknown",
+    "amazon adapter": "unknown",
+    "amazon aws": "unknown",
+    "amazon mppt chargers": "unknown",
+    "amazon orders": "unknown",
+    "amazon s3 controller": "unknown",
+    "amazon seller 180 gh antminer": "unknown",  # No exact match, possibly referring to a variant of Antminer not listed.
+    "amazon voltage regulator": "unknown",
+    "amazon voltmeter": "unknown",
+    "amazon's devices": "unknown",
+    "amazon’s essential usb transport": "unknown",
+    "ambery ip-p3": "unknown",
+    "ambric / nethra am2045 mppa dev": "unknown",
+    "ambric am2040 mppa dev board": "unknown",
+    "amc-pt shares": "unknown",
+    "amd": "unknown",
+    "amd 1090t": "unknown",  # Closest match could be "phenom ii x6 1090t" but not exact.
+    "amd 11.11 drivers": "unknown",
+    "amd 11.12 driver": "unknown",
+    "amd 11.12 drivers": "unknown",
+    "amd 12.2 driver": "unknown",
+    "amd 12.7": "unknown",
+    "amd 12.8 drivers": "unknown",
+    "amd 12.8sdk 2.7 seasonic gold 80+ 1250w modular": "unknown",
+    "amd 13.1 drivers": "unknown",
+    "amd 13.3 beta drivers": "unknown",
+    "amd 13.4 driver": "unknown",
+    "amd 13.4 drivers": "unknown",
+    "amd 145 sempron": "sempron 145",  # Assuming a typo or version difference, closest match.
+    "amd 2.4 sdk": "unknown",
+    "amd 2.5ghz quad-core": "unknown",
+    "amd 2700": "unknown",
+    "amd 280x graphics card": "unknown",  # Could refer to a Radeon R9 280X, but not listed exactly.
+    "amd 5600 x2": "unknown",
+    "amd 5770 card": "5770",
+    "amd 580 8gig": "unknown",  # Likely referring to an RX 580, but not listed exactly.
+    "amd 5850": "5850",
+    "amd 5870's": "5870",
+    "amd 5970": "5970",
+    "amd 6450": "6450",
+    "amd 64x2 processor": "unknown",  # Could refer to any of the Athlon 64 X2 processors, but not specific enough.
+    "amd 6700": "unknown",
+    "amd 6750m": "unknown",
+    "amd 6990": "6990",
+    "amd 770": "unknown"
+}
+```

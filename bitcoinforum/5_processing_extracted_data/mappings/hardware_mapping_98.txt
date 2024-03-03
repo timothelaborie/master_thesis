@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "adsl modem": "unknown",
+    "adsl router": "unknown",
+    "advance circuits": "unknown",
+    "advanced chips from avalon": "unknown",  # No specific model mentioned.
+    "advanced ip": "unknown",
+    "advanced ip scanner": "unknown",
+    "advanced micro devices inc - cypress": "unknown",  # Refers to AMD, but no specific mining hardware.
+    "advanced networking": "unknown",
+    "advanced tab in the miner": "unknown",
+    "advd micro devices": "unknown",  # Likely a typo for AMD, but no specific hardware mentioned.
+    "ae": "unknown",
+    "aerius x1": "unknown",
+    "aerocool 750w psu": "unknown",
+    "aerocool case": "unknown",
+    "aerocool intergrator 600w +80w psu": "unknown",
+    "aerocool strike x 1100w": "unknown",
+    "aerocool templarius imperator 1150w 80 plus gold": "unknown",
+    "aerocool vx 800w": "unknown",
+    "af_newbie 09x starter kit (august)": "unknown",
+    "affordable? radeon hd 3410": "3410",
+    "afterburner": "unknown",  # Refers to MSI Afterburner software, not hardware.
+    "afterburner 13.3 b3 drivers": "unknown",
+    "afterburner 2.2.0": "unknown",
+    "afterburner controller board for the s3+": "antminer s3+",  # Assuming it's related to controlling this model.
+    "aftermarket cooler for gpu": "unknown",
+    "aftermarket coolers": "unknown",
+    "aftermarket fans": "unknown",
+    "aftermarket power supply": "unknown",
+    "aftermarket spare": "unknown",
+    "ageing": "unknown",
+    "agent": "unknown",
+    "aggression=11": "unknown",
+    "agp and pci based desktop system": "unknown",
+    "ahf-2dc-2100w psus": "unknown",
+    "aintminer s17+": "antminer s17+",  # Assuming a typo for "Antminer".
+    "aiprotect app": "unknown",
+    "air cans": "unknown",
+    "air circulating antenna": "unknown",
+    "air compressor": "unknown",
+    "air compressor + vacuum": "unknown",
+    "air condition 900 btu": "unknown",
+    "air conditioner": "unknown",
+    "air conditioners": "unknown",
+    "air conditioning": "unknown",
+    "air conditioning filters": "unknown",
+    "air filter": "unknown",
+    "air filters": "unknown",
+    "air flow": "unknown",
+    "air flow or electric fan": "unknown",
+    "air flow router": "unknown"
+}
+```

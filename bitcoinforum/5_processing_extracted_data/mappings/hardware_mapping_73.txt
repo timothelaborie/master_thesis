@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "6 gh/s butterfly labs asic miner": "unknown",  # Closest match could be "bfl single 'sc'", but not exact.
+    "6 gh/s fpga": "unknown",
+    "6 ghash rigs": "unknown",
+    "6 gigs of ram": "unknown",
+    "6 gpu": "unknown",
+    "6 gpu devices": "unknown",
+    "6 gpu machine": "unknown",
+    "6 gpu miner": "unknown",
+    "6 gpu rig": "unknown",
+    "6 gpu's": "unknown",
+    "6 gpus": "unknown",
+    "6 gridseeds": "unknown",
+    "6 hashboards": "unknown",
+    "6 inch adapters": "unknown",
+    "6 inch duct silencer": "unknown",
+    "6 inch exhaust tube": "unknown",
+    "6 miners": "unknown",
+    "6 monitor": "unknown",
+    "6 msi r7950 twin frozr": "unknown",  # Closest match could be "7950", but not exact.
+    "6 nividia gpu": "unknown",
+    "6 normal fans": "unknown",
+    "6 of 10 inch flex duct": "unknown",
+    "6 of my poclbm or phoenix command line miners": "unknown",
+    "6 old titans": "unknown",
+    "6 overclocked antminers": "unknown",  # Could refer to any "antminer" model, but not specific enough.
+    "6 pin connector": "unknown",
+    "6 pin connector slots": "unknown",
+    "6 pin connectors": "unknown",
+    "6 pin male pcie": "unknown",
+    "6 pin pci-e sockets": "unknown",
+    "6 pin pcie": "unknown",
+    "6 pin pcie cable": "unknown",
+    "6 pin pcie connector": "unknown",
+    "6 pin pcie power connector": "unknown",
+    "6 pin sockets": "unknown",
+    "6 pins integrated circuit": "unknown",
+    "6 pmu boards": "unknown",
+    "6 port hub": "unknown",
+    "6 port hubs": "unknown",
+    "6 quads": "unknown",
+    "6 r-boxes": "rkminer r-box",  # Assuming "6 r-boxes" refers to multiple units of "rkminer r-box".
+    "6 s'3": "unknown",  # Likely a typo meant for "antminer s3", but not exact.
+    "6 s3 blade (3 antminer s3 units) enclosure": "antminer s3",  # Describes a setup involving "antminer s3".
+    "6 series": "unknown",
+    "6 series cards": "unknown",
+    "6 shares": "unknown",
+    "6 singles": "unknown",
+    "6 smartpower units": "unknown",
+    "6 sp20s": "spondooliestech sp20 jackson",  # Assuming "6 sp20s" refers to multiple units of "spondooliestech sp20 jackson".
+    "6 th/s bitcoin asic miner": "unknown"  # Could potentially refer to a specific ASIC miner, but not specific enough.
+}
+```

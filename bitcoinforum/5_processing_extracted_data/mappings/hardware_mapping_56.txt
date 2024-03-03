@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "4 gpu's": "unknown",
+    "4 gpus": "unknown",
+    "4 h cards": "unknown",
+    "4 hard cards": "unknown",
+    "4 hex16e boards": "unknown",
+    "4 identical 6870 cards": "6870",  # Assuming a typo or general reference to 6870 series.
+    "4 incarus": "icarus",  # Assuming a typo for "icarus".
+    "4 inch flex tube": "unknown",
+    "4 inch wye": "unknown",
+    "4 inch wyes": "unknown",
+    "4 industrial power supply": "unknown",
+    "4 jalapenos": "unknown",  # Likely referring to a product by Butterfly Labs, but not listed specifically.
+    "4 jalepenos": "unknown",  # Likely a typo for "jalapenos", still unknown.
+    "4 jallies": "unknown",
+    "4 k1": "unknown",
+    "4 layer pcbs": "unknown",
+    "4 links": "unknown",
+    "4 machines": "unknown",
+    "4 miner": "unknown",
+    "4 miners": "unknown",
+    "4 mining cards": "unknown",
+    "4 mining rigs": "unknown",
+    "4 mod batch3 avalon": "avalon batch 3",  # Assuming "mod" refers to a modification or version.
+    "4 module avalon": "unknown",  # Could refer to several Avalon models, not specific enough.
+    "4 module avalon mini 60gh asic": "unknown",  # No exact match, but clearly an Avalon product.
+    "4 module b3 avalon": "avalon batch 3",  # Assuming "b3" refers to batch 3.
+    "4 module batch 1": "unknown",  # Could refer to several products, not specific enough.
+    "4 module dragon": "unknown",  # No exact match, possibly referring to a DragonMint product.
+    "4 module unit": "unknown",
+    "4 monarchs": "bfl monarch",  # Referring to Butterfly Labs Monarch products.
+    "4 mwh power plant": "unknown",
+    "4 on the way": "unknown",
+    "4 ordered units": "unknown",
+    "4 pci-e power connectors": "unknown",
+    "4 pcie cables": "unknown",
+    "4 pciex power plugs": "unknown",
+    "4 pieces": "unknown",
+    "4 pieces of 220ah batteries": "unknown",
+    "4 pin cables": "unknown",
+    "4 pin connecting ribbons": "unknown",
+    "4 pin fans": "unknown",
+    "4 pin molex": "unknown",
+    "4 pin molex cable": "unknown",
+    "4 pin molex cables": "unknown",
+    "4 pin molex power cable": "unknown",
+    "4 pin peripherals": "unknown",
+    "4 pin plug": "unknown",
+    "4 pin power connector": "unknown",
+    "4 pin screw terminal": "unknown",
+    "4 pin wire": "unknown"
+}
+```

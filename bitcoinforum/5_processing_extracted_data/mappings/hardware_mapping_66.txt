@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "500 watt pc power supply": "unknown",
+    "500 watt power supply": "unknown",
+    "500 watt psu": "unknown",
+    "5000 cfm fans": "unknown",
+    "5000 m3 fan system": "unknown",
+    "5000 series": "unknown",  # Could potentially refer to a GPU series, but not specific enough.
+    "5000 series cards": "unknown",  # Could potentially refer to a GPU series, but not specific enough.
+    "5000 series gpu": "unknown",  # Could potentially refer to a GPU series, but not specific enough.
+    "5000'th unit": "unknown",
+    "5000+ cfm fans": "unknown",
+    "5000cfm fans": "unknown",
+    "5000s series gpu": "unknown",  # Could potentially refer to a GPU series, but not specific enough.
+    "500gb drives": "unknown",
+    "500gh machine": "unknown",
+    "500gh/s bfl unit": "bfl single 'sc'",  # Assuming it refers to a BFL unit capable of 500 GH/s.
+    "500gh/s hardware": "unknown",
+    "500gh/s minirig": "bfl mini rig sc",  # Assuming it refers to the BFL Mini Rig.
+    "500gh/s mrs": "unknown",
+    "500gh/s of hashing": "unknown",
+    "500ghs bitfury rigs": "unknown",  # Could potentially refer to Bitfury hardware, but not specific enough.
+    "500ghs miners": "unknown",
+    "500kcmil copper wire": "unknown",
+    "500mhash": "unknown",
+    "500va ups": "unknown",
+    "500w atx power supply": "unknown",
+    "500w one tr2": "unknown",
+    "500w pc power supply": "unknown",
+    "500w power supplies": "unknown",
+    "500w power supply": "unknown",
+    "500w psu": "unknown",
+    "500w psu silverstone atx 12v 2.3 high efficiency psu": "unknown",
+    "500w psus": "unknown",
+    "500w server psus": "unknown",
+    "5030's": "unknown",
+    "5070": "unknown",
+    "50a breakers": "unknown",
+    "50a outlets": "unknown",
+    "50amp outlet": "unknown",
+    "50amp socket": "unknown",
+    "50bts": "unknown",
+    "50ft cat6 network cable": "unknown",
+    "50gh": "unknown",
+    "50gh u3": "antminer u3",  # Assuming it refers to the Antminer U3.
+    "50gh units": "unknown",
+    "50gh/s mining hardware": "unknown",
+    "50ghash asic": "unknown",
+    "50ghs": "unknown",
+    "50ghs bfl single": "bfl single 'sc'",  # Assuming it refers to a BFL unit capable of 50 GH/s.
+    "50ghs single": "bfl single 'sc'",  # Assuming it refers to a BFL unit capable of 50 GH/s.
+    "50k": "unknown"
+}
+```

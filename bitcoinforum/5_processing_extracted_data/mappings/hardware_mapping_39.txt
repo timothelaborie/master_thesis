@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "256mb control board of xilinx": "unknown",
+    "256mb usb key": "unknown",
+    "256mb versions": "unknown",
+    "25830": "unknown",
+    "25870 cards": "unknown",
+    "25a fuse": "unknown",
+    "25ft cables": "unknown",
+    "25ft emt run": "unknown",
+    "25g miner": "unknown",
+    "25gh contract": "unknown",
+    "25gh starter kit": "unknown",
+    "25gh units": "unknown",
+    "25gh/s board": "unknown",
+    "25gh/s kit": "unknown",
+    "25gh/s miner": "unknown",
+    "25gh/s rig": "unknown",
+    "25ghs unit": "unknown",
+    "25k": "unknown",
+    "25mbps": "unknown",
+    "25mm heat sink": "unknown",
+    "25u racks": "unknown",
+    "25w soldering iron": "unknown",
+    "25x15 room": "unknown",
+    "26-pin to 40-pin adapter cable": "unknown",
+    "260 unit": "unknown",
+    "260/460/470 cards": "unknown",
+    "2600": "unknown",  # Closest match could be "core i7 2600" or "core i7 2600k" but not specific enough.
+    "26000 khash\\s machine": "unknown",
+    "2600k": "core i7 2600k",
+    "2600k rig": "core i7 2600k",  # Assuming the rig is built around the "core i7 2600k".
+    "260ghs miner": "unknown",
+    "260x": "unknown",
+    "268chips order": "unknown",
+    "26gh network": "unknown",
+    "27 be's": "unknown",
+    "27 miners": "unknown",
+    "27\" imac": "unknown",
+    "270's": "unknown",
+    "2700k on a z77x-ud5h motherboard": "core i7 2700k",  # Assuming the focus is on the CPU "core i7 2700k".
+    "27a fan": "unknown",
+    "28 ants": "unknown",
+    "28 awg": "unknown",
+    "28 mhs": "unknown",
+    "280 kwatt array": "unknown",
+    "280gh": "unknown",
+    "280k solar panel arrays": "unknown",
+    "280s": "unknown",
+    "280x": "unknown",  # Closest match could be "radeon hd 280x" if it existed, but no exact match.
+    "280x gpu": "unknown",  # Same as above, likely referring to a Radeon series GPU, but no exact match.
+    "280x gpus": "unknown"  # Same reasoning as above.
+}
+```

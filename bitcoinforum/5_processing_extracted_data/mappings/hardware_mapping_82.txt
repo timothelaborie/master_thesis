@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "703n router": "unknown",
+    "70t antminer s17+": "bitmain antminer s17+",
+    "70th farm": "unknown",
+    "70th/s different miners": "unknown",
+    "70w14a block": "unknown",
+    "71 gh/s avalon unit": "unknown",  # No exact match, but likely refers to an Avalon model.
+    "71gh/s avalon v1.3 batch #1": "avalon batch 1",  # Assuming a version and batch number reference.
+    "72 ths": "unknown",
+    "7200rpm": "unknown",
+    "720w psu": "unknown",
+    "721": "avalon721",
+    "721s": "avalon721",  # Assuming a plural or typo.
+    "725/280 core-memory clock combination": "unknown",
+    "725w psu": "unknown",
+    "72ah battery": "unknown",
+    "72c": "unknown",
+    "72gb/s bfl": "unknown",  # Likely refers to a Butterfly Labs product, but no exact match.
+    "72gh/s": "unknown",  # Likely refers to a mining rate, not specific hardware.
+    "72gh/s units": "unknown",  # Likely refers to a mining rate, not specific hardware.
+    "730": "unknown",
+    "730@11.11": "unknown",
+    "730w xilence psu": "unknown",
+    "7340d": "unknown",
+    "73930k": "unknown",
+    "73t antminer s17+": "bitmain antminer s17+",
+    "741": "avalon741",
+    "741 miner": "avalon741",
+    "741's": "avalon741",  # Assuming a plural or typo.
+    "741s": "avalon741",  # Assuming a plural or typo.
+    "75 amp service": "unknown",
+    "75 ohm 1/4 watt resistors": "unknown",
+    "75 ohm resistors": "unknown",
+    "75 unit power supply": "unknown",
+    "75 w gt440": "unknown",
+    "75 watts": "unknown",
+    "75/65c": "unknown",
+    "750": "unknown",
+    "750 and 850w power supply": "unknown",
+    "750 corsair": "unknown",  # Likely refers to a Corsair 750W PSU, but no exact model provided.
+    "750 evga psu": "unknown",  # Likely refers to an EVGA 750W PSU, but no exact model provided.
+    "750 golds": "unknown",
+    "750 server psu": "unknown",
+    "750 w psu": "unknown",
+    "750 watt coolermaster power supply": "unknown",
+    "750 watt corsair psus": "unknown",
+    "750 watt evga supernova g2": "unknown",
+    "750 watt power drill": "unknown",
+    "750 watt power supplies": "unknown",
+    "750 watt power supply": "unknown",
+    "750 watt psu": "unknown"
+}
+```

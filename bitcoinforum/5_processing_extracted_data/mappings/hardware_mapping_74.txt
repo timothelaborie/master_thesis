@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "6 to 6+2 cables": "unknown",
+    "6 units": "unknown",
+    "6 x 290w solar panels": "unknown",
+    "6 x 5850s": "5850",
+    "6 x 5970 cards": "5970",
+    "6 x 6950 farm": "6950",
+    "6 x 7970": "7970",
+    "6 year old asus eee laptop": "unknown",
+    "6\" case fan": "unknown",
+    "6\" duct": "unknown",
+    "6\" exhaust": "unknown",
+    "6\" exhaust hoses": "unknown",
+    "6\" exhaust outlets": "unknown",
+    "6\" flex duct": "unknown",
+    "6\" flexible duct": "unknown",
+    "6\" hvac ducting": "unknown",
+    "6\" ice boxes": "unknown",
+    "6\" vent pipe": "unknown",
+    "6\" y-splitters": "unknown",
+    "6*r9 270": "unknown",  # No direct match, but implies use of R9 270 GPUs.
+    "6+2 pci cables": "unknown",
+    "6+2 pins": "unknown",
+    "6-20 socket": "unknown",
+    "6-20p to c13 cord": "unknown",
+    "6-30 to c15 cable": "unknown",
+    "6-card rig": "unknown",
+    "6-cores amd phenom": "unknown",  # Refers to AMD Phenom processors, but no specific model listed in the hardware list.
+    "6-pin 8-pin pci express power adapter cable": "unknown",
+    "6-pin cables": "unknown",
+    "6-pin connectors": "unknown",
+    "6-pin pci-e power connectors": "unknown",
+    "6-pin pcie connecter": "unknown",
+    "6-pin pcie power connection": "unknown",
+    "6-pin type 3 \"peripheral & sata\" cable": "unknown",
+    "6-port hubs": "unknown",
+    "6. x3 hashboard": "unknown",
+    "6.2 gh/s": "unknown",
+    "6.34k resistor": "unknown",
+    "6.3t e9": "ebang ebit e9",  # Assuming a typo or shorthand for Ebit E9 series.
+    "6.5 hashing at 5.7ths": "unknown",
+    "6.5gh/s": "unknown",
+    "60 amp 3 phase receptacles": "unknown",
+    "60 amp breaker": "unknown",
+    "60 forum contest prize": "unknown",
+    "60 gh": "unknown",  # Could potentially refer to a 60 GH/s miner, but no specific model listed.
+    "60 gh/s asic": "unknown",  # Refers to ASIC miners with 60 GH/s, but no specific model listed.
+    "60 gh/s miner": "unknown",  # Refers to ASIC miners with 60 GH/s, but no specific model listed.
+    "60 gh/s models": "unknown",  # Refers to ASIC miners with 60 GH/s, but no specific model listed.
+    "60 gh/s ones": "unknown",  # Refers to ASIC miners with 60 GH/s, but no specific model listed.
+    "60 gh/s sc": "unknown"  # Refers to ASIC miners with 60 GH/s, but no specific model listed.
+}
+```

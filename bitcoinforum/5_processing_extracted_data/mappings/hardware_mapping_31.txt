@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "2.4 amd app sdk windows 32-bit drivers": "unknown",
+    "2.4 ghz core i7": "unknown",  # No specific Core i7 model mentioned
+    "2.4 sdk": "unknown",
+    "2.4 xp 32 bit catalyst drivers": "unknown",
+    "2.4-2.7gh/s hardware": "unknown",  # No specific hardware mentioned
+    "2.4sdk": "unknown",
+    "2.4th mining system": "unknown",
+    "2.5 foot house fan": "unknown",
+    "2.5 gh/s bpmc \"red fury\" usb miners": "red/bluefury",  # Closest match, assuming typo or version difference
+    "2.5 sdk": "unknown",
+    "2.5 ton ac": "unknown",
+    "2.5.1": "unknown",
+    "2.5.2": "unknown",
+    "2.5a @ 5v power brick": "unknown",
+    "2.5a adaptor": "unknown",
+    "2.5a charger from a cana kit": "unknown",
+    "2.5amp power adapter": "unknown",
+    "2.5btc": "unknown",
+    "2.5cm styrofoam": "unknown",
+    "2.5gh/s": "unknown",  # No specific hardware mentioned
+    "2.5mm barrel connectors": "unknown",
+    "2.5mm copper wire": "unknown",
+    "2.5mm(2) cores cable": "unknown",
+    "2.6": "unknown",
+    "2.6 sdk": "unknown",
+    "2.6.32-5-686 #1 smp mon jan 16 16:04:25 utc 2012 i686": "unknown",
+    "2.66ghz core 2 duo": "core 2 duo e6700",  # Assuming closest match based on frequency
+    "2.7a fan": "unknown",
+    "2.8 gh": "unknown",  # No specific hardware mentioned
+    "2.8\" screen shield": "unknown",
+    "2.8.7": "unknown",
+    "2/11/11": "unknown",
+    "20": "unknown",
+    "20 a tripplite pdu": "unknown",
+    "20 amp 240v circuit": "unknown",
+    "20 amp breaker": "unknown",
+    "20 amp breakers": "unknown",
+    "20 amp breakers running to plugs": "unknown",
+    "20 amp circuit": "unknown",
+    "20 amp circuits": "unknown",
+    "20 amp fuses": "unknown",
+    "20 amp min rating 6-20 plug": "unknown",
+    "20 amp outlet": "unknown",
+    "20 amp outlets": "unknown",
+    "20 amp plug/fuse": "unknown",
+    "20 amp plugs": "unknown",
+    "20 avalon asic chips": "unknown",  # No specific Avalon model mentioned
+    "20 be": "unknown",
+    "20 chips order": "unknown",
+    "20 dollar psu": "unknown"
+}
+```

@@ -1,0 +1,412 @@
+hardware_name,Mhash/J
+2x opteron 6128,32.4
+2x opteron 6172,55
+320m,0.35
+3410,0.074
+4350,0.346
+4550,0.289
+4570m,0.2985
+4650,0.653
+4670,0.646
+4730,0.657
+4770,0.904
+4830,0.5429
+4850,0.7956
+4860,0.519
+4870,0.6532
+4890,0.54
+4x opteron 6174,115
+5450,0.631
+5550,1.041
+5570,1.7496
+5650,1.37
+5670,1.3784
+5750,1.401
+5770,1.9401
+5830,1.5452
+5850,1.8195
+5870,1.9060
+5970,2.0053
+6310m,0.545
+6450,1.709
+6490m,0.708
+6570,1.4836
+6670,1.69
+6790,1.467
+6850,1.3996
+6870,1.7264
+6950,1.9399
+6970,1.8507
+6990,1.9056
+7750,2.66
+7850,191
+7870 xt,3.09
+8400 gs,0.013
+8800 gts,0.124
+8800gt,0.2672
+8800gts,0.109
+9400gt,0.067
+9400m,0.32
+9500gt,0.135
+9600gso,0.237
+9600gso512,0.131
+9600gt,0.165
+9800gt,0.289
+9800gt ee,0.263
+9800gtx,0.232
+9800gtx+,0.259
+9800gx2,0.2179
+a10-5800k,105
+a4-3400,23.2
+a8-3850,60
+a8-3870k,95
+aisen a1 pro,10454.545454545454
+allwinner a10,0.568
+antminer s1,500
+antminer s2,900
+antminer s3,1300
+antminer s3+,1282
+antminer s4,1429
+antminer s5,1957
+antminer s5+,2247
+antminer s7,4000
+antminer s9,10182
+antminer u1,800
+antminer u2+,1000
+antminer u3,1000
+arm1136ej-s,0.11
+arm1176jz-s,0.1595
+arm926ej-s,0.187
+asicminer be blade,129
+asicminer be cube,150
+asicminer be prisma,1333
+asicminer be sapphire,130
+asicminer be tube,888
+athlon 64 3500+,1.18
+athlon 64 x2 3800+,1.73
+athlon 64 x2 4000+,1.9
+athlon 64 x2 4400+,2.09
+athlon 64 x2 6000+,2.81
+athlon 64 x2 6400+ black edition,2.9
+athlon ii x2 240e,2.71
+athlon ii x2 250,5.6
+athlon ii x4 630,10.7
+athlon xp 2000+,0.62
+atom 330,1.8
+atom d510,1.65
+atom n230,0.5299
+atom n270,1.19
+atom n450,1.6
+atom n550,1.97
+atom z520,1.2
+avalon batch 1,107
+avalon batch 2,117
+avalon batch 3,117
+avalon721,6000
+avalon741,6350
+avalon761,6670
+avalon821,9170
+bfl  mini rig sc,185
+bfl monarch,1428
+bfl single 'sc',250
+bi*fury,1176
+bitcoin dominator x5000,14.7
+bitfily snow panther a1,9074.074074074077
+bitfily snow panther b1,11594.202898550724
+bitfily snow panther b1+,11666.666666666668
+bitforce sha256 single,10.4
+bitfury b8,7656.25
+bitfury tardis,12698.412698412698
+bitmain antminer r4,10295.85798816568
+bitmain antminer s11,13398.692810457516
+bitmain antminer s17,22222.222222222223
+bitmain antminer s17 pro,25316.45569620253
+bitmain antminer s17+,25000.0
+bitmain antminer s17e,22222.222222222223
+bitmain antminer s19,29230.76923076923
+bitmain antminer s19 hydro,28985.50724637681
+bitmain antminer s19 pro,33846.153846153844
+bitmain antminer s19 pro hyd,33901.551426929705
+bitmain antminer s19 pro+ hyd,36363.63636363636
+bitmain antminer s19 xp,46511.62790697674
+bitmain antminer s19 xp hyd,48076.92307692308
+bitmain antminer s19j,27692.30769230769
+bitmain antminer s19j pro,33898.30508474576
+bitmain antminer s19j pro+,36363.63636363636
+bitmain antminer s19k pro,41666.66666666666
+bitmain antminer s21,56338.02816901408
+bitmain antminer s21 hyd,62500.0
+bitmain antminer s3,1306.0109289617485
+bitmain antminer s5,1957.627118644068
+bitmain antminer s7,3658.15931941222
+bitmain antminer s7-ln,3873.7446197991394
+bitmain antminer s9,10204.08163265306
+bitmain antminer s9 hydro,10416.666666666666
+bitmain antminer s9 se,12500.0
+bitmain antminer s9i,10156.25
+bitmain antminer s9j,10740.74074074074
+bitmain antminer s9k,10305.343511450385
+bitmain antminer t17,18181.81818181818
+bitmain antminer t17+,20000.0
+bitmain antminer t17e,18181.81818181818
+bitmain antminer t19,26315.78947368421
+bitmain antminer t19 hydro,28985.50724637681
+bitmain antminer t21,52631.57894736842
+bitmain antminer t9,7931.472081218273
+bitmain antminer t9+,7332.402234636872
+bitmain antminer v9,3894.8393378773126
+black arrow prospero x-1,1000
+black arrow prospero x-3,1000
+blue fury,1000
+bolon miner b11,21212.12121212121
+btc garden am-v1,954
+butterflylabs mini rig,20.16
+canaan avalon made a1346,33333.333333333336
+canaan avalon made a1366,40000.0
+canaan avalon made a1446,40785.49848942598
+canaan avalon made a1466,46439.62848297214
+canaan avalonminer 1047,15546.21848739496
+canaan avalonminer 1066,15384.615384615385
+canaan avalonminer 1126 pro,19883.04093567252
+canaan avalonminer 1146 pro,19230.76923076923
+canaan avalonminer 1166 pro,23823.529411764703
+canaan avalonminer 1246,26315.78947368421
+canaan avalonminer 741,6347.826086956522
+canaan avalonminer 821,9583.333333333332
+canaan avalonminer 841,10542.635658914727
+canaan avalonminer 921,11764.70588235294
+celeron e330,2.2
+celeron e3400,5.9
+cell,22.866
+core 2 duo e5200,6.2
+core 2 duo e6550,2.45
+core 2 duo e6850,6.75
+core 2 duo e7300,5.14
+core 2 duo e8200,2.3
+core 2 duo e8400,6.9
+core 2 duo e8500,5.4
+core 2 duo p8700,5.9
+core 2 duo t5450,2.5
+core 2 duo t5500,4.3
+core 2 duo t6400,4.2
+core 2 duo t7250,4.5
+core 2 duo t7450,3.7
+core 2 duo t9400,4.2
+core 2 duo u7600,1.1
+core 2 extreme x9000,5.2566
+core 2 quad q6600,11
+core 2 quad q8200,10.9
+core 2 quad q9400,11
+core 2 quad q9650,18.67
+core i3 530,8.31
+core i3 m350,1.48
+core i3-2100,8.28
+core i5 2500k,20.6
+core i5 2600k,17.3
+core i5 m450,1.8
+core i5-2400,9.25
+core i5-2400s,16.6
+core i5-650,5.1
+core i5-750,14
+core i5 ?,6.5
+core i7 2600,23.9
+core i7 2600k,18.6
+core i7 2635qm,2.93
+core i7 3770k,5.2
+core i7 3930k,66.6
+core i7 620m,4.896
+core i7 720qm,7.9
+core i7 820,13.8
+core i7 920,19.2
+core i7 950,12.389
+core i7 980x,13.95
+core i7 990x,33.3
+cortex-a8,0.313
+cortex-a9,0.935
+ebang ebit e10,10909.09090909091
+ebang ebit e10d,7142.857142857142
+ebang ebit e11,15384.615384615385
+ebang ebit e11+,18181.81818181818
+ebang ebit e11++,22222.222222222223
+ebang ebit e12,17600.0
+ebang ebit e12+,20000.0
+ebang ebit e9,5849.58217270195
+ebang ebit e9+,6923.076923076923
+ebang ebit e9.2,9090.90909090909
+ebang ebit e9.3,9090.90909090909
+ebang ebit e9i,9507.042253521126
+ebit e10,11100
+ebit e9,7140
+ebit e9+,6900
+ebit e9++,10500
+g210,0.1175
+gmo miner b2,12307.692307692309
+gmo miner b3,9657.594381035997
+google app engine,0.144
+gt220,0.084
+gt230,0.161
+gt240,0.281
+gt240m,0.426
+gt430,0.413
+gt530,0.358
+gts 350m,1.214
+gts250,0.2435
+gts450,0.427
+gtx 560m,0.38
+gtx260,0.21
+gtx260c216,0.248
+gtx275,0.232
+gtx280,0.2435
+gtx285,0.262
+gtx295,0.3783
+gtx460,0.427
+gtx460 1gb,0.519
+gtx460se,0.376
+gtx465,0.322
+gtx470,0.4505
+gtx480,0.405
+gtx560,0.51
+gtx560 ti,0.4320
+gtx570,0.613
+gtx580,0.642
+gtx670,1.1
+gtx680,1.2
+halong mining dragonmint t1,10810.810810810812
+hashbuster micro,869
+hashfast baby jet,909
+hashfast sierra,909
+hashfast sierra evo 3,909
+holic h22,12941.176470588236
+holic h28,13333.333333333334
+ibm power4+ 2/way,0.58
+ibm power7,7.6
+icarus,19.79
+innosilicon t2 terminator,10955.414012738853
+innosilicon t2 turbo,12121.212121212122
+innosilicon t2 turbo 26t,12380.952380952382
+innosilicon t2 turbo hf+,12692.307692307691
+innosilicon t2 turbo+ 32t,14545.454545454546
+innosilicon t3 39t,18139.534883720928
+innosilicon t3 43t,20476.19047619048
+innosilicon t3 50t,16129.032258064515
+innosilicon t3+ 52t,18571.42857142857
+innosilicon t3+ 57t,17272.727272727272
+ion,0.067
+ipollo b1l,20000.0
+klondike,160
+knc jupiter,400
+knc neptune,1429
+knc saturn,400
+marvel feroceon,0.195
+metabank,705
+microbt whatsminer m10,15384.615384615385
+microbt whatsminer m10s,15714.285714285716
+microbt whatsminer m20s,20238.09523809524
+microbt whatsminer m21,16666.666666666668
+microbt whatsminer m21s,16666.666666666668
+microbt whatsminer m3,6000.0
+microbt whatsminer m30s,26315.78947368421
+microbt whatsminer m30s+,29411.764705882357
+microbt whatsminer m30s++,32258.06451612903
+microbt whatsminer m31s,23602.48447204969
+microbt whatsminer m31s+,23809.52380952381
+microbt whatsminer m32,18518.51851851852
+microbt whatsminer m32s,19230.76923076923
+microbt whatsminer m33s++,33333.333333333336
+microbt whatsminer m36s+,29411.764705882357
+microbt whatsminer m3x,6097.5609756097565
+microbt whatsminer m50,34482.75862068965
+microbt whatsminer m50s,38461.53846153846
+microbt whatsminer m53,34482.75862068965
+microbt whatsminer m53s,38461.53846153846
+microbt whatsminer m56,34954.95495495495
+microbt whatsminer m56s,38198.1981981982
+microbt whatsminer m60,50263.00409117475
+microbt whatsminer m60s,54054.05405405406
+mips,0.026
+modminer quad,20
+nanofury / icefury,800
+nanofury nf2,740
+old xeon 512k,2
+ontario c-50,6.2
+open shift,0.059
+pantech sx6,8500.0
+pantech wx6,6800.0
+pentium 4 2.0a,0.85
+pentium 4 630,1.29
+pentium dual-core e2180,3.4499
+pentium dual-core e5400,2.27
+pentium iii,0.39
+pentium iii mobile ?,0.3
+pentium m 1.6ghz,0.5766
+pentium m 1.73ghz,0.5
+phenom ii x3 720,5.5
+phenom ii x4 810,9.125
+phenom ii x4 955,11
+phenom ii x4 965,12
+phenom ii x6 1055t,19.72
+phenom ii x6 1075t,21.3
+phenom ii x6 1090t,18
+phenom ii x6 1100t,22
+phenom x4 9950 be,9.3
+powerpc 7447a,0.53
+powerpc 7450,1.29
+powerpc 750,0.14
+quadro 5000,0.445
+quadro fx 1600m,0.12
+quadro fx 2000m,0.397
+quadro fx 2800m,0.293
+quadro fx 3600m,0.514
+quadro fx 580,0.14
+quadro nvs 135m,0.1
+quadro nvs 295,0.07
+quadro nvs 3100m,0.257
+red/bluefury,1040
+rkminer r-box,711
+rkminer r-box 110g,917
+rkminer r3-box,1000
+rkminer r4-box,1000
+rkminer rocket box,937
+rkminer t1 800g,800
+sempron 3000+,0.8
+spondooliestech sp10 dawson,1120
+spondooliestech sp20 jackson,1545
+spondooliestech sp30 yukon,1500
+spondooliestech sp31 yukon,1633
+spondooliestech sp35 yukon,1506
+strongu hornbill h8,22222.222222222223
+strongu hornbill h8 pro,25000.0
+strongu stu-u8,21904.761904761905
+strongu stu-u8 pro,21428.571428571428
+terrahash dx large,140
+terrahash dx mini,140
+terrahash klondike 16,140
+terrahash klondike 64,140
+turion x2 rm-70,1.9
+twinfury,1174
+via eden,1.3
+x6500 fpga miner,23.25
+xeon 2.8,0.8
+xeon 3060,2.03
+xeon e3-1230 v2,19.7
+xeon e5-2690,66
+xeon e5335,9.35
+xeon e5410,9.8
+xeon e5440,7.3
+xeon e5506,9.6
+xeon e5520,6.5
+xeon e5530,7.14
+xeon e5620,11.2
+xeon e5630,8
+xeon e6520,24.7
+xeon e7220,6.3
+xeon e7320,1.5
+xeon e7450,60
+xeon e7520,18
+xeon phi 5100,140
+xeon prestonia 2.4,2.16
+xeon w3680,18
+xeon x5355,16.445
+xeon x5365,26
+xeon x5650,28.6
+zacate e-350,11.5

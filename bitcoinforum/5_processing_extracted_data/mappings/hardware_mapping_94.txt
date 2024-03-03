@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "a1041 m10": "unknown",  # No exact match, closest might be "microbt whatsminer m10" but not certain.
+    "a1046": "unknown",  # No exact match, possibly a typo or different version.
+    "a1047": "canaan avalonminer 1047",
+    "a1047 miners": "canaan avalonminer 1047",
+    "a1047i": "unknown",  # No exact match, possibly a typo or different version.
+    "a1066": "canaan avalonminer 1066",
+    "a1066 avalon": "canaan avalonminer 1066",
+    "a1066 model": "canaan avalonminer 1066",
+    "a1066is": "unknown",  # No exact match, possibly a typo or different version.
+    "a11 series": "unknown",  # No exact match, possibly referring to a series not listed.
+    "a1126 pro": "canaan avalonminer 1126 pro",
+    "a1166": "canaan avalonminer 1166 pro",  # Assuming closest match.
+    "a1166 81t": "canaan avalonminer 1166 pro",  # Assuming closest match with specification.
+    "a1166 psu": "canaan avalonminer 1166 pro",  # Assuming closest match, PSU refers to the power supply unit.
+    "a1166 units": "canaan avalonminer 1166 pro",  # Assuming closest match.
+    "a12": "unknown",  # No exact match, possibly referring to a series not listed.
+    "a12 series": "unknown",  # No exact match, possibly referring to a series not listed.
+    "a1246": "canaan avalonminer 1246",
+    "a1246 unit": "canaan avalonminer 1246",
+    "a1246-85t": "canaan avalonminer 1246",  # Assuming closest match with specification.
+    "a1256": "unknown",  # No exact match, possibly a typo or different version.
+    "a1p20": "unknown",  # No exact match, possibly a typo or different version.
+    "a1s": "unknown",  # No exact match, possibly a typo or different version.
+    "a2": "unknown",  # No exact match, possibly referring to "a2 terminator" but not certain.
+    "a2 85 mhash mashines": "a2 terminator",  # Assuming closest match with a typo in "machines".
+    "a2 based machines": "a2 terminator",  # Assuming reference to machines based on "a2 terminator".
+    "a2 board": "a2 terminator",  # Assuming reference to the board of "a2 terminator".
+    "a2 chips": "a2 terminator",  # Assuming reference to the chips of "a2 terminator".
+    "a2 miners": "a2 terminator",
+    "a2 terminator": "a2 terminator",
+    "a2 terminator 110mhz/s 6 boards with raspberry pi model b": "a2 terminator",  # Specific configuration of "a2 terminator".
+    "a2 terminator 90000mhz": "a2 terminator",  # Likely a typo in MHz, but referring to "a2 terminator".
+    "a2 terminators": "a2 terminator",
+    "a2's": "a2 terminator",  # Plural or possessive form of "a2 terminator".
+    "a20": "unknown",  # No exact match, possibly a typo or different version.
+    "a3": "unknown",  # No exact match, possibly referring to a series not listed.
+    "a3 miner": "unknown",  # No exact match, possibly referring to a series not listed.
+    "a3 psu": "unknown",  # No exact match, PSU refers to the power supply unit.
+    "a3200 hash boards": "unknown",  # No exact match, possibly a component of a larger system.
+    "a3201 control board": "unknown",  # No exact match, possibly a component of a larger system.
+    "a3206 7nm asics": "unknown",  # No exact match, possibly referring to ASIC chips not listed.
+    "a3233 40nm chips": "unknown",  # No exact match, possibly referring to ASIC chips not listed.
+    "a3233q48 avalon 3rd generation sha256 processor 28nm": "unknown",  # No exact match, detailed specification not listed.
+    "a3255-o48 avalon chips": "unknown",  # No exact match, possibly referring to ASIC chips not listed.
+    "a3256s": "unknown",  # No exact match, possibly a typo or different version.
+    "a3s": "unknown",  # No exact match, possibly a typo or different version.
+    "a4": "unknown",  # No exact match, possibly referring to a series not listed.
+    "a4 4000 box": "unknown",  # No exact match, possibly a typo or different version.
+    "a4 dominator tf": "unknown",  # No exact match, possibly referring to "a4 dominator" but not certain.
+    "a4 dominators": "unknown",  # No exact match, possibly referring to a series not listed.
+}
+```

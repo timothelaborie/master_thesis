@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "21197-00-40g radeon hd 7970 3gb 384-bit gddr5 pci express 3.0 x16 hdcp ready crossfirex support video card": "unknown",  # No exact match, closest would be "7970" but it's not listed.
+    "22": "unknown",
+    "22 asicminer blades": "asicminer be blade",  # Assuming "22" refers to quantity.
+    "22 inch westing house l2610nw": "unknown",
+    "22 s9": "antminer s9",  # Assuming "22" refers to quantity.
+    "22 s9s": "antminer s9",  # Assuming "s9s" refers to multiple S9 units.
+    "22\" box fan": "unknown",
+    "22'' 1080p monitor": "unknown",
+    "22-25 s9's": "antminer s9",  # Assuming "22-25" refers to quantity.
+    "22.5": "unknown",
+    "220 30 amp line": "unknown",
+    "220 breakers": "unknown",
+    "220 cord": "unknown",
+    "220 mhash/s computer": "unknown",  # No specific hardware listed that matches this description.
+    "220 plugs": "unknown",
+    "220 volt dryer outlet(30 amp)": "unknown",
+    "220 volt range outlet(up to 50 amp)": "unknown",
+    "220 volt wall outlet(15 amp)": "unknown",
+    "220 watt panels": "unknown",
+    "220/240": "unknown",
+    "220/240 line": "unknown",
+    "220/240v north america power meter (can be diy for under 60$ cad)": "unknown",
+    "220/240v power meter": "unknown",
+    "2200watt custom psus": "unknown",
+    "220v": "unknown",
+    "220v & 10-16a & 3*0.75mm^2 power cord": "unknown",
+    "220v (double throw) 20a breaker": "unknown",
+    "220v - 14awg cables": "unknown",
+    "220v 12v 1600w chinese generic power supply": "unknown",
+    "220v 20a sockets": "unknown",
+    "220v 20amp circuit": "unknown",
+    "220v 30 amp clothes dryer": "unknown",
+    "220v 30amp breakers": "unknown",
+    "220v 30amp circuits": "unknown",
+    "220v 50a line": "unknown",
+    "220v box with 30 amp breaker": "unknown",
+    "220v breaker": "unknown",
+    "220v converter": "unknown",
+    "220v cord": "unknown",
+    "220v line": "unknown",
+    "220v outlet": "unknown",
+    "220v outlets": "unknown",
+    "220v power cable": "unknown",
+    "220v power cord": "unknown",
+    "220v psu": "unknown",
+    "220v service": "unknown",
+    "220v socket": "unknown",
+    "220v splitter": "unknown",
+    "220v subpanel": "unknown",
+    "220v switched managed pdus": "unknown"
+}
+```

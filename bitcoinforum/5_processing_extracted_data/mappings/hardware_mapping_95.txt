@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "a4 fm2 processor": "unknown",
+    "a4 laptop with radeon hd 7420g gpu": "unknown",
+    "a4 processor": "unknown",
+    "a4+ miners": "unknown",
+    "a5": "unknown",
+    "a6": "unknown",
+    "a6 apu": "unknown",
+    "a6 cables": "unknown",
+    "a6 controller": "unknown",
+    "a6 fans": "unknown",
+    "a6 machines": "unknown",
+    "a6 units": "unknown",
+    "a6's": "unknown",
+    "a7": "unknown",
+    "a721": "avalon721",  # Closest match, assuming typo or shorthand.
+    "a721 fan": "avalon721",  # Assuming the fan is part of the Avalon721 setup.
+    "a741": "avalon741",  # Closest match, assuming typo or shorthand.
+    "a8": "unknown",
+    "a8 processor": "unknown",
+    "a821": "avalon821",  # Closest match, assuming typo or shorthand.
+    "a841": "avalonminer 841",  # Exact match.
+    "a851": "unknown",
+    "a851s": "unknown",
+    "a852": "unknown",
+    "a88x-pro": "unknown",
+    "a9": "unknown",
+    "a900": "unknown",
+    "a911": "unknown",
+    "a921": "avalonminer 921",  # Exact match.
+    "a921 new fans": "avalonminer 921",  # Assuming the fans are part of the Avalonminer 921 setup.
+    "a941": "unknown",
+    "aab 15-blade 9db fans": "unknown",
+    "ab 2.1.1": "unknown",
+    "ab 2.2.1": "unknown",
+    "abac": "unknown",
+    "abc asic miner": "unknown",
+    "abr32 mvp (socket 939)": "unknown",
+    "ac": "unknown",
+    "ac accelero xtreme": "unknown",
+    "ac adapter": "unknown",
+    "ac duct": "unknown",
+    "ac duct system": "unknown",
+    "ac fans": "unknown",
+    "ac freezer pro": "unknown",
+    "ac infinity 10\" air filter box": "unknown",
+    "ac inverters": "unknown",
+    "ac modules": "unknown",
+    "ac motor": "unknown",
+    "ac power": "unknown",
+    "ac power adapters": "unknown"
+}
+```

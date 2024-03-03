@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "2tb hd": "unknown",
+    "2tb sata-iii 6.0gb/s 64m cache 7200rpm hard drive (2tb (2tbx2) raid 1 high performance with data": "unknown",
+    "2th cointerra rig": "unknown",  # No exact match, likely a Cointerra product but not listed.
+    "2th machines": "unknown",
+    "2th miner": "unknown",
+    "2th/s dragon miner": "unknown",  # Likely a product similar to "dragonmint" but not listed.
+    "2ths dragon": "unknown",  # Likely a product similar to "dragonmint" but not listed.
+    "2u servers": "unknown",
+    "2wire uverse router": "unknown",
+    "2x 0": "unknown",
+    "2x 10 port powered usb 3.0": "unknown",
+    "2x 1000w psu": "unknown",
+    "2x 1000w psus": "unknown",
+    "2x 140mm fans": "unknown",
+    "2x 30 amp 240 volt circuits": "unknown",
+    "2x 4 pin fans": "unknown",
+    "2x 40x40mm copper plates": "unknown",
+    "2x 4u ct anonymous": "unknown",
+    "2x 5770": "5770",
+    "2x 5830": "5830",
+    "2x 5830 rig": "5830",
+    "2x 5830s": "5830",
+    "2x 5850 rig": "5850",
+    "2x 5870": "5870",
+    "2x 5970": "5970",
+    "2x 650w power supply": "unknown",
+    "2x 6870": "6870",
+    "2x 6950": "6950",
+    "2x 6970s": "6970",
+    "2x 6990": "6990",
+    "2x 700w psus": "unknown",
+    "2x 750 watt psu": "unknown",
+    "2x 7950": "7950",
+    "2x 7950s": "7950",
+    "2x 800 watt psu": "unknown",
+    "2x 92mm noctua fans": "unknown",
+    "2x am-v1 miners": "btc garden am-v1",  # Assuming a typo or version difference, closest match.
+    "2x asus ares 5870x2's": "5870",  # Closest match, assuming a specific model of 5870.
+    "2x bitmines": "unknown",  # No exact match, unclear reference.
+    "2x corsair 550w": "unknown",
+    "2x corsair cx600m": "unknown",
+    "2x corsair rm1000": "unknown",
+    "2x dell ultrasharp u3011 - lg 47lm7600": "unknown",
+    "2x driver (w7 x64 sp1)": "unknown",
+    "2x ft2232h modules": "unknown",
+    "2x gigabyte gv-r797oc-3gd": "unknown",  # No exact match, likely a specific model not listed.
+    "2x hd6950": "6950",
+    "2x hex8a1": "unknown",  # No exact match, unclear reference.
+    "2x module of 600gh/s": "unknown",  # No exact match, unclear reference.
+    "2x molex": "unknown"
+}
+```

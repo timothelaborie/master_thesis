@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "6950 graphics cards": "6950",
+    "6950 twinfrozr": "6950",
+    "6950's": "6950",
+    "6950s": "6950",
+    "6950s 11.6 drivers sdk 2.4": "6950",  # Assuming the specific drivers/sdk version is not relevant for hardware identification.
+    "6970": "6970",
+    "6970 card": "6970",
+    "6970 cards": "6970",
+    "6970 graphics card": "6970",
+    "6970 lightning (9401375x2)": "6970",  # Assuming the specific model number is not relevant for hardware identification.
+    "6970's": "6970",
+    "6970m 2gb": "6970m",
+    "6970s": "6970",
+    "6970x2": "unknown",  # No exact match, but implies a dual 6970 setup.
+    "6970x4": "unknown",  # No exact match, but implies a quad 6970 setup.
+    "6990": "6990",
+    "6990 card": "6990",
+    "6990 cards": "6990",
+    "6990 mining rig": "6990",
+    "6990's": "6990",
+    "6990's second gpu core": "6990",  # Specific detail about GPU core, but closest match is 6990.
+    "6990(s)": "6990",
+    "6990-based gpu miner": "6990",
+    "6990s": "6990",
+    "69xx": "unknown",  # General reference to the 6900 series, but no specific model provided.
+    "69xx cards": "unknown",  # General reference to the 6900 series, but no specific model provided.
+    "69xx series cards": "unknown",  # General reference to the 6900 series, but no specific model provided.
+    "6:sam": "unknown",
+    "6a output miners": "unknown",
+    "6awg 3 conductor wire": "unknown",
+    "6core": "unknown",  # General reference to a six-core CPU, but no specific model provided.
+    "6core 3.8ghz cpu": "unknown",  # General reference to a six-core CPU, but no specific model provided.
+    "6ft usb cables": "unknown",
+    "6ga al wire": "unknown",
+    "6gb ram": "unknown",
+    "6gh/s miners": "unknown",
+    "6gigs of ram": "unknown",
+    "6inch duct fan": "unknown",
+    "6inch one": "unknown",
+    "6k+ btc": "unknown",
+    "6mm/40a cable": "unknown",
+    "6pc": "unknown",
+    "6pin adapter": "unknown",
+    "6pin cable": "unknown",
+    "6pin connector": "unknown",
+    "6pin pci-e plugs": "unknown",
+    "6pin pci-e power cable": "unknown",
+    "6pin pcie": "unknown",
+    "6pin pcie cables": "unknown",
+    "6pin pcie power leads": "unknown"
+}
+```

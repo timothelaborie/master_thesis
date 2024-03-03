@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "air gun": "unknown",
+    "air intake fan": "unknown",
+    "air nozzle": "unknown",
+    "air purify (vornado fans)": "unknown",
+    "air source": "unknown",
+    "air tools": "unknown",
+    "air units": "unknown",
+    "air-cooled s9": "unknown",  # No exact match, but implies a cooling solution for an Antminer S9
+    "aircondition": "unknown",
+    "airconditioner": "unknown",
+    "airmover": "unknown",
+    "airport": "unknown",
+    "airport express": "unknown",
+    "airport extreme base station": "unknown",
+    "airport s1 gui": "unknown",  # No exact match, possibly a software interface for mining hardware
+    "airport time capsule": "unknown",
+    "aisc's from batch 1": "unknown",  # Likely a typo or shorthand for ASICs, but unclear which model
+    "aisen a1": "aisen a1",
+    "aisen a1 25th/s": "aisen a1",  # Assuming a specification detail of the Aisen A1
+    "aisen a1 miners": "aisen a1",  # General reference to Aisen A1 units
+    "aisen a1 pro 21t loveminer": "aisen a1 pro",  # Closest match, assuming a variant of Aisen A1 Pro
+    "aisen a1 pro 24t": "aisen a1 pro",  # Closest match, assuming a variant of Aisen A1 Pro
+    "aitech": "unknown",
+    "aitech 10 port": "unknown",
+    "aitech 10port": "unknown",
+    "aitech usb3 hubs": "unknown",
+    "aitech/anker 10 port usb hub": "unknown",
+    "aitminer": "unknown",  # Likely a typo, but unclear which miner it refers to
+    "aixin a1 25": "unknown",  # No exact match, possibly a variant or typo of Aisen A1
+    "aixin a1 25th": "unknown",  # No exact match, possibly a variant or typo of Aisen A1
+    "ak47": "unknown",
+    "akasa apache": "unknown",
+    "akasa ssd enclosure/heatsink": "unknown",
+    "akasa vipers": "unknown",
+    "akbash": "unknown",
+    "akp3++ psu": "unknown",
+    "aladdin l2 30th 2000w miner": "unknown",  # No exact match, but refers to an Aladdin miner model
+    "aladdin miner t1": "aladdinminer t1",
+    "aladdin miner t1 32th": "aladdinminer t1",  # Assuming a specification detail of the Aladdinminer T1
+    "aladdin miners": "unknown",  # General reference to Aladdin miners, but unclear which model
+    "aladdin t1": "aladdinminer t1",
+    "aladdinminer t1": "aladdinminer t1",
+    "alcheminers": "unknown",  # No exact match, possibly referring to a brand or model not listed
+    "alchemism 256": "unknown",
+    "alchminer": "unknown",
+    "alerting logic": "unknown",
+    "alfa panel": "unknown",
+    "alfa tube 2h": "unknown",
+    "algebra.com webservers": "unknown",
+    "alibaba fan 74y5220 qfr1212ghe 12038 12v 2.7a 12cm original and new": "unknown"
+}
+```

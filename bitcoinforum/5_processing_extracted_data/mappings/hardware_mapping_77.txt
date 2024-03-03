@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "64-bit windows 7 machine": "unknown",
+    "6450": "6450",
+    "6450 gpu": "6450",
+    "6470m": "unknown",
+    "6490": "6490m",  # Closest match, assuming a typo or version difference.
+    "64bit": "unknown",
+    "64bit pc": "unknown",
+    "64gb ram": "unknown",
+    "64gb sandisk ssd": "unknown",
+    "64mb ram": "unknown",
+    "65": "unknown",
+    "65 gh/s erupter blade mining rig": "unknown",  # No exact match, likely a description of a mining rig setup.
+    "65 nm custom asic": "unknown",  # Describes a technology, not a specific product in the list.
+    "65%": "unknown",
+    "650 cfm duct exhaust fan": "unknown",
+    "650 corsair psus": "unknown",
+    "650 watt power supply": "unknown",
+    "650+ghs jupiter miner": "knc jupiter",  # Closest match, assuming a typo or version difference.
+    "650gt": "unknown",
+    "650w 80+ gold fsp power supply": "unknown",
+    "650w be quiet": "unknown",
+    "650w corsair": "unknown",
+    "650w corsair psus": "unknown",
+    "650w hx psu's": "unknown",
+    "650w pc power unit": "unknown",
+    "650w power supplies": "unknown",
+    "650w power supply": "unknown",
+    "650w ps": "unknown",
+    "650w psu": "unknown",
+    "650w psus": "unknown",
+    "650wt ps": "unknown",
+    "6530 integrated card": "unknown",
+    "6550d": "unknown",
+    "65gh machine": "unknown",  # No exact match, likely a description of a mining rig's capability.
+    "65mm equipment": "unknown",
+    "65mm stuff": "unknown",
+    "65nm asics": "unknown",  # Describes a technology, not a specific product in the list.
+    "65nm chips": "unknown",  # Describes a technology, not a specific product in the list.
+    "65nm fpga": "unknown",  # Describes a technology, not a specific product in the list.
+    "65nm miners": "unknown",  # Describes a technology, not a specific product in the list.
+    "66 gh/s avalon": "unknown",  # No exact match, likely referring to an Avalon product but not specific enough.
+    "660 ti gpus": "unknown",
+    "660ti": "unknown",
+    "660w seasonic plat psu": "unknown",
+    "6670": "6670",
+    "6670 gpu": "6670",
+    "6670hd miner": "6670",  # Assuming a typo or version difference.
+    "670w psu": "unknown",
+    "674@12.4": "unknown",
+    "675 mhash": "unknown"
+}
+```

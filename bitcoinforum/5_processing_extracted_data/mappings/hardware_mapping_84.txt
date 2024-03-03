@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "7750": "7750",
+    "7770": "unknown",  # No exact match in the list.
+    "7790": "unknown",  # No exact match in the list.
+    "78 mh/s": "unknown",  # Performance metric, not hardware.
+    "7800 volts": "unknown",  # Voltage, not hardware.
+    "7850": "7850",
+    "7850 and 7770 cards": "7850",  # Partial match, assuming closest match for 7850.
+    "7850 card": "7850",
+    "7850 gpu": "7850",
+    "7850 gpus": "7850",
+    "7850 sapphire 2gb": "7850",  # Specific model, closest match to 7850.
+    "7850's": "7850",
+    "7850s": "7850",
+    "7870": "7870",
+    "7870 gpu": "7870",
+    "7870 radeon": "7870",
+    "7870 standard not xt": "7870",  # Specifies non-XT, closest match to 7870.
+    "7870 tahiti (7950 with cores cut down)": "7870 xt",  # Closest match considering description.
+    "7870 xt": "7870 xt",
+    "7870xt": "7870 xt",
+    "78xx": "unknown",  # Series reference, not specific hardware.
+    "7900 series": "unknown",  # Series reference, not specific hardware.
+    "790fx gd 70 mobo": "unknown",  # Motherboard, not directly related to mining hardware list.
+    "7950": "7950",
+    "7950 (5 - 7) win8": "7950",  # Specific condition, closest match to 7950.
+    "7950 2ls": "7950",  # Model variant, closest match to 7950.
+    "7950 card": "7950",
+    "7950 cards": "7950",
+    "7950 gpu": "7950",
+    "7950 molesk": "7950",  # Typo or variant, closest match to 7950.
+    "7950 msi twinfrozr": "7950",  # Specific model, closest match to 7950.
+    "7950 rig": "7950",
+    "7950 series cards": "7950",  # Series reference, closest match to 7950.
+    "7950 smos rig": "7950",  # Specific setup, closest match to 7950.
+    "7950 vapor-x": "7950",  # Specific model, closest match to 7950.
+    "7950's": "7950",
+    "7950`s": "7950",
+    "7950gbwf": "7950",  # Model variant, closest match to 7950.
+    "7950s": "7950",
+    "7970": "7970",
+    "7970 / gcn": "7970",  # Architecture reference, closest match to 7970.
+    "7970 box": "7970",  # Packaging reference, closest match to 7970.
+    "7970 card": "7970",
+    "7970 cards": "7970",
+    "7970 dual-x": "7970",  # Specific model, closest match to 7970.
+    "7970 gigabyte edition graphics cards": "7970",  # Specific model, closest match to 7970.
+    "7970 gpu": "7970",
+    "7970 gpu's": "7970",
+    "7970 gpus": "7970",
+    "7970 miner rigs": "7970",  # Specific setup, closest match to 7970.
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "4 pin wire cable": "unknown",
+    "4 place vented rackshelf": "unknown",
+    "4 port asus router": "unknown",
+    "4 port hub": "unknown",
+    "4 port hubs": "unknown",
+    "4 port switch": "unknown",
+    "4 port usb hubs": "unknown",
+    "4 prong plug": "unknown",
+    "4 prong standard dryer outlet": "unknown",
+    "4 reference 5970's": "5970",  # Assuming reference to multiple Radeon HD 5970 GPUs
+    "4 rig": "unknown",
+    "4 rigs": "unknown",
+    "4 s7s": "antminer s7",  # Assuming it refers to four Antminer S7 units
+    "4 sapphire radeon hd 5830s": "5830",  # Assuming it refers to Sapphire Radeon HD 5830 GPUs
+    "4 sapphire vapor x 7950 gpus": "7950",  # Assuming it refers to Sapphire Vapor-X HD 7950 GPUs
+    "4 sensors": "unknown",
+    "4 shares": "unknown",
+    "4 shelf rack": "unknown",
+    "4 shelf wire rack": "unknown",
+    "4 sticks": "unknown",
+    "4 ton ac unit": "unknown",
+    "4 units": "unknown",
+    "4 weeks on tour miner": "unknown",
+    "4 wheeler": "unknown",
+    "4 wires": "unknown",
+    "4 x 2 gb ram sticks": "unknown",
+    "4 x 4850": "4850",  # Assuming it refers to four Radeon HD 4850 GPUs
+    "4 x 5830": "5830",  # Assuming it refers to four Radeon HD 5830 GPUs
+    "4 x 5870": "5870",  # Assuming it refers to four Radeon HD 5870 GPUs
+    "4 x 5970 rig": "5970",  # Assuming it refers to a rig with four Radeon HD 5970 GPUs
+    "4 x 7970 rig": "7970",  # Assuming it refers to a rig with four Radeon HD 7970 GPUs
+    "4 x gigabyte 7970 oc mining rig": "7970",  # Assuming it refers to a rig with four Gigabyte Radeon HD 7970 GPUs
+    "4 x goldstrike i 500gh/s 28nm asic (2 per board)": "unknown",  # No direct match, possibly a specific ASIC model not listed
+    "4 x k32 container": "unknown",
+    "4 x pce-i ports": "unknown",
+    "4 xeon procs with ht": "unknown",  # Refers to Xeon processors but too vague for a specific model
+    "4 xfx double d black edition 7970s": "7970",  # Assuming it refers to four XFX Radeon HD 7970 Double Dissipation Black Edition GPUs
+    "4 zex quad bees": "unknown",
+    "4\" adapters": "unknown",
+    "4\" dryer exhaust": "unknown",
+    "4\" duct of ac": "unknown",
+    "4\" exhaust": "unknown",
+    "4\" flex duct": "unknown",
+    "4\" flex house": "unknown",
+    "4\" inline duct fan": "unknown",
+    "4*u1 usb stick": "antminer u1",  # Assuming it refers to four Antminer U1 USB sticks
+    "4-5 card headless linux setup": "unknown",
+    "4-6@ cablez": "unknown",
+    "4-6kw gpu setup": "unknown",
+    "4-core cpu": "unknown"
+}
+```

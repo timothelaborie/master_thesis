@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "280x r9 toxic": "unknown",  # No exact match, likely referring to AMD Radeon R9 280X models but not listed specifically for mining.
+    "280x risers": "unknown",  # Refers to a component used with GPUs, not a specific mining hardware.
+    "280x toxic": "unknown",  # Likely referring to a specific model of AMD Radeon R9 280X, not listed.
+    "280x vid cards": "unknown",  # General reference to video cards, not specific hardware.
+    "280x1 rig with 4": "unknown",  # Describes a rig setup, not specific hardware.
+    "286 8mhz at": "unknown",  # Refers to an old CPU model, not relevant to the list.
+    "2870 cards": "unknown",  # No exact match, possibly a typo or incorrect reference.
+    "2880 break out boards": "unknown",  # Refers to a component, not specific mining hardware.
+    "2880 breakout board": "unknown",  # Same as above, component not specific hardware.
+    "2880 watt psu": "unknown",  # Power supply units are not listed specifically.
+    "2880w ibm psu": "unknown",  # Specific brand PSU, not listed.
+    "2880w psu": "unknown",  # General PSU, not listed.
+    "2880w psus": "unknown",  # General PSU, not listed.
+    "2880w-4000w server psu's": "unknown",  # PSU range, not specific hardware.
+    "2880watt break out board": "unknown",  # Component, not specific hardware.
+    "2880watt psu": "unknown",  # PSU, not listed.
+    "28c": "unknown",  # Unclear reference, possibly temperature related, not hardware.
+    "28mm jupiters": "knc jupiter",  # Closest match based on "jupiter", assuming typo or variant.
+    "28nm arm": "unknown",  # Refers to a chip manufacturing process, not specific hardware.
+    "28nm asic": "unknown",  # General ASIC technology, not specific model.
+    "28nm asic hardware": "unknown",  # General ASIC technology, not specific model.
+    "28nm process chip": "unknown",  # Refers to manufacturing process, not specific hardware.
+    "29 watt gear": "unknown",  # No specific hardware match.
+    "290": "unknown",  # Likely referring to AMD Radeon R9 290 series, not listed.
+    "290 cards": "unknown",  # Likely referring to AMD Radeon R9 290 series, not listed.
+    "290 cfm exhaust fan": "unknown",  # Component, not mining hardware.
+    "290's": "unknown",  # Likely referring to AMD Radeon R9 290 series, not listed.
+    "290ah deep cycle non spill-able sealed lead acid batteries": "unknown",  # Battery, not mining hardware.
+    "290gh module": "unknown",  # No specific match, possibly a mining module but not listed.
+    "290x": "unknown",  # Likely referring to AMD Radeon R9 290X, not listed.
+    "290x's": "unknown",  # Likely referring to AMD Radeon R9 290X, not listed.
+    "296 chipsbatch 59/12/2013": "unknown",  # Specific batch, no direct hardware match.
+    "2980w power supplies": "unknown",  # PSU, not listed.
+    "29bit ubuntu": "unknown",  # Refers to an operating system, not hardware.
+    "2:maxpower": "unknown",  # No clear reference to listed mining hardware.
+    "2btc": "unknown",  # Likely referring to Bitcoin, not hardware.
+    "2cm750m": "unknown",  # No clear match, possibly a component or model number not listed.
+    "2dehands.nl": "unknown",  # Website, not hardware.
+    "2edg connectors": "unknown",  # Component, not specific mining hardware.
+    "2gb (<link>": "unknown",  # Incomplete reference, likely RAM but not specific to mining hardware.
+    "2gb asus": "unknown",  # General brand RAM, not specific to mining hardware.
+    "2gb crappy ram": "unknown",  # General description, not specific hardware.
+    "2gb ddr2": "unknown",  # RAM type, not specific to mining hardware.
+    "2gb ddr2 ram": "unknown",  # RAM type, not specific to mining hardware.
+    "2gb ddr3": "unknown",  # RAM type, not specific to mining hardware.
+    "2gb ddr3 1333mhz ram": "unknown",  # RAM type, not specific to mining hardware.
+    "2gb ddr3 ram": "unknown",  # RAM type, not specific to mining hardware.
+    "2gb eye-finity sapphire card": "unknown",  # Refers to a feature of Sapphire cards, not specific model.
+    "2gb g.skill 1333mhz ram": "unknown",  # RAM type, not specific to mining hardware.
+    "2gb gskill ram": "unknown",  # RAM type, not specific to mining hardware.
+}
+```

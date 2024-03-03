@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "4x xfx 7950": "7950",
+    "4x5830": "5830",
+    "4x5830 rig": "5830",
+    "4x5830's": "5830",
+    "4x5850": "5850",
+    "4x5850 sapphires": "5850",
+    "4x5870": "5870",
+    "4x5870 linux rigs": "5870",
+    "4x5870's": "5870",
+    "4x5970s": "5970",
+    "4x6770": "6770",
+    "4x6950's": "6950",
+    "4x6970 machine": "6970",
+    "4x7950": "7950",
+    "4x7950 mining rigs": "7950",
+    "4x7950 rig": "7950",
+    "4x7970": "7970",
+    "4x7970 rig": "7970",
+    "4x7970s": "7970",
+    "4xerupters": "unknown",  # No exact match, assuming generic term for ASIC miners
+    "4xgridseeds": "unknown",  # No exact match, assuming reference to Gridseed ASIC miners
+    "4xgu": "unknown",  # Unclear reference
+    "4xxx card": "unknown",  # Generic reference to a graphics card
+    "4ztex boards": "unknown",  # No exact match, assuming a specific FPGA board
+    "5": "unknown",  # Too vague
+    "5 * 30 mhs zeus & bitmain s2": "antminer s2",  # Assuming the Bitmain S2 is the relevant part
+    "5 30amp circuits": "unknown",  # Not hardware for mining
+    "5 5850's": "5850",
+    "5 5870": "5870",
+    "5 @ 0.08 with eu tracking": "unknown",  # Unclear reference
+    "5 amp power supply": "unknown",  # Not mining hardware
+    "5 and 6 blade rpi image": "unknown",  # Refers to software or setup, not hardware
+    "5 asicminer shares": "unknown",  # Refers to company shares, not hardware
+    "5 avalon": "avalon batch 1",  # Assuming reference to early Avalon units
+    "5 avalon 741s": "avalon741",
+    "5 bay auto type fuse bay": "unknown",  # Not mining hardware
+    "5 be blade's": "asicminer be blade",
+    "5 blade connectors": "unknown",  # Not mining hardware
+    "5 blades": "unknown",  # Vague, could refer to several ASIC miners
+    "5 boards": "unknown",  # Too vague, could refer to any circuit boards
+    "5 card eth rigs": "unknown",  # Generic reference to Ethereum mining rigs
+    "5 card with a1 chips rig": "unknown",  # No exact match, possibly referring to a specific ASIC setup
+    "5 chip bfgminer": "unknown",  # Refers to software, possibly used with specific hardware
+    "5 chip dual miners": "unknown",  # No exact match, possibly referring to dual-mining ASICs
+    "5 chip gridseed miner": "unknown",  # No exact match, but refers to Gridseed ASIC miners
+    "5 chip unit": "unknown",  # Too vague, possibly an ASIC miner
+    "5 compacs": "unknown",  # Possibly referring to USB miners, but no exact match
+    "5 core amd cpus": "unknown",  # No exact AMD CPU matches, and AMD doesn't make 5-core CPUs
+    "5 cubes": "asicminer be cube",
+    "5 erupter blades": "unknown"  # Possibly referring to ASICminer Block Erupter blades, but no exact match
+}
+```

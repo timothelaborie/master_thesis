@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "7970 reference cards": "unknown",  # No exact match, but likely referring to a generic 7970 GPU model.
+    "7970 sapphire": "unknown",  # No exact match, but likely referring to a Sapphire brand 7970 GPU.
+    "7970 single": "unknown",  # No exact match, likely referring to a single 7970 GPU.
+    "7970 unopened in the box": "unknown",  # No exact match, refers to a new 7970 GPU.
+    "7970 vapor-xs": "unknown",  # No exact match, possibly a typo for Sapphire's Vapor-X model.
+    "7970 video cards": "unknown",  # No exact match, generic reference to 7970 GPUs.
+    "7970 w/3gb": "unknown",  # No exact match, refers to a 7970 GPU with 3GB of memory.
+    "7970's": "unknown",  # No exact match, plural form of 7970 GPUs.
+    "7970poclbm": "unknown",  # No exact match, seems to be a specific configuration or software setting.
+    "7970s": "unknown",  # No exact match, plural form of 7970 GPUs.
+    "7990": "unknown",  # No exact match, refers to a dual-GPU Radeon HD 7990.
+    "7990 hd": "unknown",  # No exact match, refers to a Radeon HD 7990 GPU.
+    "7990 malta": "unknown",  # No exact match, refers to the Radeon HD 7990 "Malta" GPU.
+    "7990 malta power supply": "unknown",  # No exact match, refers to the power supply for a Radeon HD 7990 "Malta".
+    "7990's": "unknown",  # No exact match, plural form of 7990 GPUs.
+    "79xx cards": "unknown",  # No exact match, generic reference to the Radeon HD 7900 series GPUs.
+    "79xx gpu": "unknown",  # No exact match, generic reference to the Radeon HD 7900 series GPUs.
+    "7g": "unknown",  # No exact match, unclear reference.
+    "7gh": "unknown",  # No exact match, unclear reference.
+    "7gh bfl jally": "unknown",  # No exact match, possibly a typo or shorthand for a BFL Jalapeno miner.
+    "7gh jalapeno": "unknown",  # No exact match, likely referring to the Butterfly Labs Jalapeno miner.
+    "7gh jallies": "unknown",  # No exact match, likely a plural or typo for the Butterfly Labs Jalapeno miner.
+    "7gh unit": "unknown",  # No exact match, refers to a mining unit with 7 GH/s hash rate.
+    "7gh/s miner": "unknown",  # No exact match, refers to a miner with a 7 GH/s hash rate.
+    "7gh/s unit": "unknown",  # No exact match, refers to a mining unit with a 7 GH/s hash rate.
+    "7kwh solar system": "unknown",  # No exact match, refers to a solar power system, not mining hardware.
+    "7kwt (32a 220v) power": "unknown",  # No exact match, refers to electrical specifications, not mining hardware.
+    "7s": "unknown",  # No exact match, unclear reference.
+    "7th machine": "unknown",  # No exact match, unclear reference.
+    "7x boards": "unknown",  # No exact match, unclear reference.
+    "7x32": "unknown",  # No exact match, unclear reference.
+    "7xgu": "unknown",  # No exact match, unclear reference.
+    "7xxx cards": "unknown",  # No exact match, generic reference to the Radeon HD 7000 series GPUs.
+    "7xxx series": "unknown",  # No exact match, generic reference to the Radeon HD 7000 series GPUs.
+    "7xxx series cards": "unknown",  # No exact match, generic reference to the Radeon HD 7000 series GPUs.
+    "8": "unknown",  # No exact match, unclear reference.
+    "8 - 333mhz asic miners": "unknown",  # No exact match, refers to ASIC miners with a specific clock speed.
+    "8 750w power supplies": "unknown",  # No exact match, refers to power supplies, not mining hardware.
+    "8 a1 chips": "unknown",  # No exact match, refers to A1 ASIC chips.
+    "8 amp fuses": "unknown",  # No exact match, refers to electrical components, not mining hardware.
+    "8 ant miners": "unknown",  # No exact match, unclear reference, possibly referring to Antminer units.
+    "8 antminer s1": "antminer s1",  # Exact match for the Antminer S1, quantity specified.
+    "8 bitfury chips": "unknown",  # No exact match, refers to Bitfury ASIC chips.
+    "8 board unit": "unknown",  # No exact match, unclear reference.
+    "8 boards": "unknown",  # No exact match, unclear reference.
+    "8 chip board": "unknown",  # No exact match, refers to a board with 8 chips.
+    "8 chip boards": "unknown",  # No exact match, refers to boards with 8 chips.
+    "8 chip credits": "unknown",  # No exact match, unclear reference.
+    "8 chips": "unknown",  # No exact match, generic reference to chips.
+    "8 chipsthehamburglar; 4": "unknown",  # No exact match, seems to be a typo or unclear reference.
+}
+```

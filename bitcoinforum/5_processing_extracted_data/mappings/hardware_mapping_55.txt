@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "3xt9": "unknown",  # No clear match, possibly a typo or shorthand.
+    "3xu1": "antminer u1",  # Assuming "3x" indicates quantity.
+    "4": "unknown",  # Too vague, no specific hardware mentioned.
+    "4 - 16 x - 16x non powered risers": "unknown",  # Specific hardware not listed.
+    "4 --": "unknown",  # Too vague, no specific hardware mentioned.
+    "4 35x35x6mm heatsinks": "unknown",  # Component, not specific mining hardware.
+    "4 5830 cards": "5830",  # Refers to multiple Radeon HD 5830 cards.
+    "4 5870s": "5870",  # Refers to multiple Radeon HD 5870 cards.
+    "4 5970": "5970",  # Refers to Radeon HD 5970, possibly indicating a single or multiple units.
+    "4 5970s": "5970",  # Refers to multiple Radeon HD 5970 cards.
+    "4 6950 cards": "6950",  # Refers to multiple Radeon HD 6950 cards.
+    "4 7950 vaporx cards": "7950",  # Closest match, assuming typo or variant of Radeon HD 7950 Vapor-X.
+    "4 7950s": "7950",  # Refers to multiple Radeon HD 7950 cards.
+    "4 amp w/4 ports": "unknown",  # Describes a power-related component, not specific mining hardware.
+    "4 asic blades": "unknown",  # Generic term for ASIC blades, no specific model mentioned.
+    "4 asus r280": "unknown",  # Likely refers to ASUS Radeon R9 280 series, but not explicitly listed.
+    "4 at 6 pin output cables power supply": "unknown",  # Power supply component, not mining hardware.
+    "4 avalon 4's": "unknown",  # Ambiguous, possibly referring to an Avalon product, but not clearly listed.
+    "4 be's": "asicminer be blade",  # Assuming "be's" refers to multiple ASICminer BE Blades.
+    "4 bfl singles": "bfl single 'sc'",  # Refers to multiple Butterfly Labs Single SC units.
+    "4 blade image": "unknown",  # Unclear, possibly referring to a mining rig setup, not specific hardware.
+    "4 blade miners": "unknown",  # Generic term, no specific model mentioned.
+    "4 blade with screen dragon": "unknown",  # No clear match, possibly a custom or modified setup.
+    "4 blades": "unknown",  # Generic term, no specific model mentioned.
+    "4 board": "unknown",  # Too vague, possibly referring to a multi-board mining setup.
+    "4 board 1 ths models": "unknown",  # Describes a specification, not a specific model.
+    "4 board miner": "unknown",  # Generic term, no specific model mentioned.
+    "4 boards": "unknown",  # Generic term, could refer to multiple mining-related motherboards.
+    "4 card headless box": "unknown",  # Describes a mining rig setup, not specific hardware.
+    "4 card rig": "unknown",  # Generic term for a mining rig with four cards, no specific hardware mentioned.
+    "4 card rigs": "unknown",  # Generic term for multiple mining rigs with four cards each.
+    "4 card setup": "unknown",  # Describes a configuration, not specific hardware.
+    "4 cards": "unknown",  # Too vague, could refer to any graphics cards used for mining.
+    "4 case fan": "unknown",  # Component, not specific mining hardware.
+    "4 chip sample": "unknown",  # Could refer to a sample of ASIC chips, but no specific hardware mentioned.
+    "4 chips": "unknown",  # Generic term, could refer to ASIC chips but no specific model mentioned.
+    "4 core and 4gb ram server": "unknown",  # Describes server specifications, not specific mining hardware.
+    "4 cores": "unknown",  # Too vague, could refer to any multi-core processor.
+    "4 erupter blades": "unknown",  # Likely refers to ASICminer Erupter Blades, but not explicitly listed.
+    "4 fans": "unknown",  # Component, not specific mining hardware.
+    "4 fans like this one": "unknown",  # Too vague, refers to fans but not specific mining hardware.
+    "4 flexible tubing": "unknown",  # Component, likely for cooling but not mining hardware.
+    "4 ga wire to a sub panel": "unknown",  # Electrical component, not mining hardware.
+    "4 gauge wire": "unknown",  # Electrical component, not mining hardware.
+    "4 gb kingston sd card": "unknown",  # Storage component, not mining hardware.
+    "4 gb ram": "unknown",  # Component, not specific mining hardware.
+    "4 gh/s chips": "unknown",  # Describes performance, but no specific hardware mentioned.
+    "4 gigabyte": "unknown",  # Too vague, could refer to memory size but not specific hardware.
+    "4 gigs ram": "unknown",  # Component, not specific mining hardware.
+    "4 gpu rig": "unknown",  # Describes a mining rig setup, not specific hardware.
+}
+```

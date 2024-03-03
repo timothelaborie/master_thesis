@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "3u server case for bitfury asics": "unknown",  # No specific model mentioned
+    "3x 100mm": "unknown",  # Not related to specific mining hardware
+    "3x 3tb seagate baracuda": "unknown",  # Storage, not mining hardware
+    "3x 3tb seagate baracuda external": "unknown",  # Storage, not mining hardware
+    "3x 5 chip miner": "unknown",  # No specific model mentioned
+    "3x 5770 cards": "5770",
+    "3x 5830": "5830",
+    "3x 5830 rig": "5830",
+    "3x 5830's": "5830",
+    "3x 5850": "5850",
+    "3x 5850 system": "5850",
+    "3x 5850s": "5850",
+    "3x 5970 water cooled system": "5970",
+    "3x 6950s": "6950",
+    "3x 6990": "6990",
+    "3x 6990 cards": "6990",
+    "3x 7950": "7950",
+    "3x 7950 sapphire vapor-x oc edition": "7950",  # Closest match, assuming a specific edition of 7950
+    "3x bitfury 400 gh/s units": "unknown",  # No specific model mentioned
+    "3x corsair ax1200i psus": "unknown",  # Power supply, not mining hardware
+    "3x hd 7950": "7950",
+    "3x hdds": "unknown",  # Storage, not mining hardware
+    "3x module design": "unknown",  # Ambiguous, no specific hardware mentioned
+    "3x sapphire r9 270": "unknown",  # R9 270 not listed in the provided hardware list
+    "3x vapor-x": "unknown",  # Ambiguous, no specific model mentioned
+    "3x vapor-x + mobo @ 1250w ocz": "unknown",  # Ambiguous, no specific model mentioned
+    "3x xfx 6870": "6870",
+    "3x5850": "5850",
+    "3x5970": "5970",
+    "3x5970 rig": "5970",
+    "3x5970 rigs": "5970",
+    "3x5970s": "5970",
+    "3x60gh bfl miners": "unknown",  # No specific model mentioned
+    "3x60gh units": "unknown",  # Ambiguous, no specific model mentioned
+    "3x60gh/s bfl": "unknown",  # No specific model mentioned
+    "3x6870's": "6870",
+    "3x6950 mining pc": "6950",
+    "3x6970": "unknown",  # 6970 not listed in the provided hardware list
+    "3x6990": "6990",
+    "3x72gh": "unknown",  # No specific model mentioned
+    "3x750w setup": "unknown",  # Power setup, not specific mining hardware
+    "3x7950": "7950",
+    "3x7950's": "7950",
+    "3x9670 rig": "unknown",  # Likely a typo, no 9670 listed
+    "3xgu": "unknown",  # No specific model mentioned
+    "3xpsu": "unknown",  # Power supply units, not specific mining hardware
+    "3xr9 270": "unknown",  # R9 270 not listed in the provided hardware list
+    "3xs3": "antminer s3",  # Assuming "s3" refers to Antminer S3
+    "3xsapphire dual-x 7950 gpu": "7950",
+    "3xshares(40 gh/s)": "unknown"  # No specific model mentioned
+}
+```

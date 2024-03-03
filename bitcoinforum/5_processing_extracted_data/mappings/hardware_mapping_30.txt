@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "2 x 5830": "5830",
+    "2 x 5970": "5970",
+    "2 x 6870s": "6870",  # Assuming 's' indicates plural.
+    "2 x 6990": "6990",
+    "2 x 6990 video cards": "6990",
+    "2 x 6990s": "6990",  # Assuming 's' indicates plural.
+    "2 x hd5970": "5970",
+    "2 x kingston 1gb 240-pin ddr3 sdram ddr3 1066": "unknown",
+    "2 x msi 890 fx g70 mobo": "unknown",
+    "2 x msi r6950-2pm2d2gd5 radeon hd 6950 2gb": "unknown",
+    "2 x1 to x16 risers": "unknown",
+    "2 xfx": "unknown",
+    "2 xfx 5850": "5850",
+    "2 zeus cyclones": "unknown",
+    "2'nd batch icarus board": "icarus",  # Assuming a typo or version difference, closest match.
+    "2*1 mw transformers": "unknown",
+    "2*5830": "5830",
+    "2*5850": "5850",
+    "2*5870": "5870",
+    "2*6870": "6870",
+    "2+th/s bitfury mining equipment": "unknown",  # No specific model mentioned.
+    "2- 10 gh/s bfl miners": "unknown",  # No specific model mentioned.
+    "2- 1x - 16x powered risers": "unknown",
+    "2- 5 gpu mining rigs": "unknown",
+    "2-5a bench power supply": "unknown",
+    "2-8129": "unknown",
+    "2-chip 2pac": "unknown",
+    "2-chip fpgas": "unknown",
+    "2-l3+ (525gh/s @)": "unknown",  # No specific model mentioned.
+    "2-l3++ (580gh/s @)": "unknown",  # No specific model mentioned.
+    "2-pin connector": "unknown",
+    "2-pin curved screw terminal blocks": "unknown",
+    "2-pin female connectors": "unknown",
+    "2-port hub": "unknown",
+    "2-to-1 pcie y-connector": "unknown",
+    "2. generation": "unknown",
+    "2.0 slot": "unknown",
+    "2.0 usb hub": "unknown",
+    "2.1 sdk": "unknown",
+    "2.10.2": "unknown",
+    "2.1a tablet charger": "unknown",
+    "2.1btc for 7 shares": "unknown",
+    "2.1mm barrel connectors": "unknown",
+    "2.1th dragon miner": "unknown",  # No specific model mentioned.
+    "2.2 gh nano fury clone": "unknown",
+    "2.2.4": "unknown",
+    "2.2gh rig": "unknown",
+    "2.2gh/s bitfury redfury": "unknown",
+    "2.2gh/s blue fury": "blue fury",
+    "2.2ghash miners": "unknown"
+}
+```

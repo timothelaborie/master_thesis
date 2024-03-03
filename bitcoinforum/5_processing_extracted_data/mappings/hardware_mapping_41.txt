@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "2gb jump drive": "unknown",
+    "2gb persistence file": "unknown",
+    "2gb ram": "unknown",
+    "2gb sd card": "unknown",
+    "2gbs of ram": "unknown",
+    "2gh gpu": "unknown",
+    "2gh/s": "unknown",
+    "2gh/s rig": "unknown",
+    "2gh/s usb miner": "unknown",
+    "2ghash boxes": "unknown",
+    "2ghash/s usb device": "unknown",
+    "2ghs": "unknown",
+    "2gpu": "unknown",
+    "2gpu card pc's": "unknown",
+    "2gpu rig": "unknown",
+    "2i board": "unknown",
+    "2k and 4k": "unknown",
+    "2kw psus": "unknown",
+    "2kwatt boards": "unknown",
+    "2lb box": "unknown",
+    "2msi's tf 7950s": "7950",  # Assuming a typo or version difference, closest match.
+    "2nd 5970": "5970",
+    "2nd 8port switch": "unknown",
+    "2nd asic divice was": "unknown",  # Typo in "device", but still unknown
+    "2nd batch jupiter kncminer": "knc jupiter",  # Assuming "2nd batch" refers to a version of KNC Jupiter
+    "2nd card": "unknown",
+    "2nd core": "unknown",
+    "2nd fan": "unknown",
+    "2nd gen 3-card avalon": "unknown",  # Specific generation not listed
+    "2nd gen avalon": "unknown",  # Specific generation not listed
+    "2nd machine": "unknown",
+    "2nd miner": "unknown",
+    "2nd miner hosting facility": "unknown",
+    "2nd rig": "unknown",
+    "2nd sd card": "unknown",
+    "2nd unit": "unknown",
+    "2pac": "unknown",
+    "2pac - 2bm1384 usb stick miner": "unknown",  # No exact match found
+    "2pac gekko miner": "unknown",  # No exact match found
+    "2pac miners": "unknown",
+    "2pac stick": "unknown",
+    "2pac sticks": "unknown",
+    "2pac thumb asic miner": "unknown",
+    "2pac usb miners": "unknown",
+    "2pac usb stick": "unknown",
+    "2pac's": "unknown",
+    "2pacs": "unknown",
+    "2r2": "unknown",
+    "2t bitcoin miner": "unknown",
+    "2t worth of miners": "unknown"
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "60 gh/s units": "unknown",
+    "60 gh/sec box": "unknown",
+    "60 gigahash single": "unknown",
+    "60 machines": "unknown",
+    "60 watt power increase when i went from 67f to 76f": "unknown",
+    "60% power of an s5 usb stick miner": "unknown",
+    "60+ miners": "unknown",
+    "60-110ghs bfl hardware": "unknown",  # No exact match, but implies Butterfly Labs hardware
+    "60/60 mbit fiber internet connection": "unknown",
+    "600 watt pc": "unknown",
+    "600 watt power supply": "unknown",
+    "600 watt psu": "unknown",
+    "6000 5000 chips": "unknown",
+    "6000 cfm fans": "unknown",
+    "6000 rpm fan": "unknown",
+    "6000 series": "unknown",  # Could imply AMD Radeon 6000 series, but not specific enough
+    "6000 series cards": "unknown",  # Could imply AMD Radeon 6000 series, but not specific enough
+    "6000 series gpu": "unknown",  # Could imply AMD Radeon 6000 series, but not specific enough
+    "60000 btu ac": "unknown",
+    "60000 btu split ac": "unknown",
+    "6000mah usb battery": "unknown",
+    "6000rpm fans": "unknown",
+    "600ish": "unknown",
+    "600khash/s from 7970": "unknown",  # Implies AMD Radeon HD 7970, but not listed specifically for mining
+    "600mhz cpu": "unknown",
+    "600mm2 exhaust fan": "unknown",
+    "600v feed": "unknown",
+    "600w 80+ psu": "unknown",
+    "600w corsair cx600": "unknown",
+    "600w diablotek da series psu": "unknown",
+    "600w ocz": "unknown",
+    "600w ocz power supply": "unknown",
+    "600w peak to peak": "unknown",
+    "600w power supplies": "unknown",
+    "600w power supply": "unknown",
+    "600w psu": "unknown",
+    "600w psus": "unknown",
+    "60a (6 gauge wire) secondary panel": "unknown",
+    "60a 240v branch circuit": "unknown",
+    "60a 240v breakers": "unknown",
+    "60a 240v circuit": "unknown",
+    "60amp 220v feed": "unknown",
+    "60amp pdu": "unknown",
+    "60gb ocz vertex 2 (sdd)": "unknown",
+    "60gb ssd hdd": "unknown",
+    "60gb ssd ocz": "unknown",
+    "60gh avalon mini miner": "unknown",  # No exact match, but implies Avalon hardware
+    "60gh bfl's": "unknown",  # Implies Butterfly Labs hardware, but not specific enough
+    "60gh singles": "unknown",  # Implies Butterfly Labs hardware, but not specific enough
+    "60gh units": "unknown"  # Implies mining hardware, but not specific enough
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "4-core processor amd": "unknown",  # No specific model matches.
+    "4-module avalon": "unknown",  # Could refer to various Avalon models, but none specifically named "4-module".
+    "4-module batch 1 unit": "avalon batch 1",  # Closest match based on description.
+    "4-pin connector": "unknown",  # Generic part, not specific to mining hardware.
+    "4-pin corsair fan": "unknown",  # Generic part, not specific to mining hardware.
+    "4-pin molex": "unknown",  # Generic part, not specific to mining hardware.
+    "4-pin molex connectors": "unknown",  # Generic part, not specific to mining hardware.
+    "4-port jupiter": "knc jupiter",  # Assuming a reference to a model of KnCMiner Jupiter.
+    "4-prong dryer outlet": "unknown",  # Generic part, not specific to mining hardware.
+    "4. pcbs in x1": "unknown",  # Unclear reference, possibly to a component rather than a complete mining system.
+    "4.1 v zener": "unknown",  # Generic electronic component, not specific to mining hardware.
+    "4.1's": "unknown",  # Unclear reference.
+    "4.2th suite": "unknown",  # No specific model matches.
+    "4.5 gh miner": "unknown",  # No specific model matches, could refer to a range of hardware.
+    "4.99k ohm smd resistors": "unknown",  # Generic electronic component, not specific to mining hardware.
+    "40 amp breaker": "unknown",  # Generic part, not specific to mining hardware.
+    "40 amp fuse": "unknown",  # Generic part, not specific to mining hardware.
+    "40 asics": "unknown",  # Generic term, not specific to any model.
+    "40 be's": "unknown",  # Unclear reference.
+    "40 chip module": "unknown",  # Could refer to various ASIC miners, but none specifically named "40 chip module".
+    "40 chip version hardware": "unknown",  # Could refer to various ASIC miners, but none specifically named "40 chip version".
+    "40 chips": "unknown",  # Generic term, not specific to any model.
+    "40 gridseed miners": "unknown",  # Refers to a brand but not a specific model.
+    "40 hdds": "unknown",  # Generic term, not specific to mining hardware.
+    "40 high cube mining container (12.024 m x 2.350 m x 2.697 m )": "unknown",  # Refers to a container, not mining hardware itself.
+    "40 lpm 1/24hp march pump": "unknown",  # Generic part, not specific to mining hardware.
+    "40 mm fans": "unknown",  # Generic part, not specific to mining hardware.
+    "40 prepaid miners": "unknown",  # Unclear reference.
+    "40\" container": "unknown",  # Refers to a container, not mining hardware itself.
+    "40\" hdmi tv": "unknown",  # Generic part, not specific to mining hardware.
+    "40' (ft) rohn tower": "unknown",  # Refers to a tower, not mining hardware itself.
+    "40' container": "unknown",  # Refers to a container, not mining hardware itself.
+    "40-50th models": "unknown",  # No specific model matches.
+    "400 amp transformer": "unknown",  # Generic part, not specific to mining hardware.
+    "400 cfu fan": "unknown",  # Generic part, not specific to mining hardware.
+    "400 credits": "unknown",  # Unclear reference.
+    "400 gb hdi": "unknown",  # Unclear reference, possibly a typo or misinterpretation.
+    "400 gh/s unit": "unknown",  # Could refer to various ASIC miners, but none specifically named "400 gh/s unit".
+    "400 kw farm": "unknown",  # Refers to the capacity of a mining farm, not specific hardware.
+    "400 mhs": "unknown",  # Generic term, could refer to various hardware but not specific.
+    "400 series": "unknown",  # Unclear reference.
+    "400+ s1s": "antminer s1",  # Assuming a reference to owning multiple Antminer S1 units.
+    "400-500w psu": "unknown",  # Generic part, not specific to mining hardware.
+    "4000 cfm reversible model": "unknown",  # Generic part, not specific to mining hardware.
+    "4000 series": "unknown",  # Unclear reference.
+    "4000 watt break out board": "unknown",  # Generic part, not specific to mining hardware.
+    "4000 watter": "unknown",  # Unclear reference.
+    "4000mah battery": "unknown",  # Generic part, not specific to mining hardware.
+    "4000mah battery pack": "unknown",  # Generic part, not specific to mining hardware.
+    "400a panel": "unknown"  # Generic part, not specific to mining hardware.
+}
+```
