@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "antec pull fan": "unknown",
+    "antec sp-500": "unknown",
+    "antec tpq 1200 psu": "unknown",
+    "antec tpq-1200": "unknown",
+    "antec trueblue 480w": "unknown",
+    "antec truepower 550w power supply": "unknown",
+    "antec truepower 5850": "unknown",
+    "antec varying between 400w and 850w)": "unknown",
+    "antec vp650pm": "unknown",
+    "antech": "unknown",
+    "antenna": "unknown",
+    "antennas": "unknown",
+    "antennas high gain and wifi router": "unknown",
+    "antfarm s1": "unknown",  # Closest match could be "antminer s1" but not clear enough.
+    "antfarm s3": "unknown",  # Closest match could be "antminer s3" but not clear enough.
+    "antfarmer asic s5": "antminer s5",
+    "antfury": "unknown",  # Could be a typo for "blue fury" but not clear.
+    "anti static brush": "unknown",
+    "anti virus": "unknown",
+    "anti virus and malware detection": "unknown",
+    "anti-virus software": "unknown",
+    "anticonfig": "unknown",
+    "antiminer s7": "antminer s7",  # Typo corrected.
+    "antiminer s9 hashboard": "antminer s9",  # Assuming reference to a part of Antminer S9.
+    "antiminer u2": "antminer u2+",  # Closest match, assuming typo.
+    "antiminer u3": "antminer u3",
+    "antiminer z15": "unknown",  # No exact match, likely a typo but unclear for which model.
+    "antiminers": "unknown",  # General reference to Antminer products, not specific.
+    "antimner s9": "antminer s9",  # Typo corrected.
+    "antistatic brush": "unknown",
+    "antistatic pads": "unknown",
+    "antistatic workspace": "unknown",
+    "antivirus": "unknown",
+    "antivirus program": "unknown",
+    "antivirus software": "unknown",
+    "antmener s3+": "antminer s3+",  # Typo corrected.
+    "antmine s3+": "antminer s3+",  # Typo corrected.
+    "antmine s9s": "antminer s9",  # Typo corrected, assuming plural form.
+    "antminer": "unknown",  # Not specific enough.
+    "antminer (s3)": "antminer s3",
+    "antminer 1.6gh / s": "unknown",  # No exact match, unclear specification.
+    "antminer 12 mh/s": "unknown",  # No exact match, unclear specification.
+    "antminer 1600 watt psu": "unknown",  # PSU for Antminer but not a miner itself.
+    "antminer 1600w": "unknown",  # PSU for Antminer but not a miner itself.
+    "antminer 1600w psus": "unknown",  # PSU for Antminer but not a miner itself.
+    "antminer 17 series": "unknown",  # Refers to a series, not specific enough.
+    "antminer 17-serie": "unknown",  # Refers to a series, not specific enough.
+    "antminer 180 gh/s": "unknown",  # No exact match, unclear specification.
+    "antminer 180gh": "unknown",  # No exact match, unclear specification.
+    "antminer 180ghs": "unknown"  # No exact match, unclear specification.
+}
+```

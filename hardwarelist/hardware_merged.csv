@@ -22,6 +22,7 @@ hardware_name,Mhash/J
 5650,1.37
 5670,1.3784
 5750,1.401
+5750 vapor-x,1.56
 5770,1.9401
 5830,1.5452
 5850,1.8195
@@ -32,6 +33,7 @@ hardware_name,Mhash/J
 6490m,0.708
 6570,1.4836
 6670,1.69
+6750,1.0702
 6790,1.467
 6850,1.3996
 6870,1.7264
@@ -39,18 +41,30 @@ hardware_name,Mhash/J
 6970,1.8507
 6990,1.9056
 7750,2.66
+7770,2.3795
 7850,191
 7870 xt,3.09
+7970,3.1826
+8200 mgpu,0.001
 8400 gs,0.013
+8500gt,0.0026
+8600gt,0.0047
 8800 gts,0.124
+8800 gtx,0.0195
 8800gt,0.2672
 8800gts,0.109
+9300/nforce 730i,0.0017
+9300ge,0.0012
+9300gs,0.0012
 9400gt,0.067
 9400m,0.32
 9500gt,0.135
+9500m gs,0.0033
 9600gso,0.237
 9600gso512,0.131
 9600gt,0.165
+9600gt zotac,0.0090
+9600m gs,0.0037
 9800gt,0.289
 9800gt ee,0.263
 9800gtx,0.232
@@ -102,12 +116,14 @@ atom z520,1.2
 avalon batch 1,107
 avalon batch 2,117
 avalon batch 3,117
+avalon6,3240.7
 avalon721,6000
 avalon741,6350
 avalon761,6670
 avalon821,9170
 bfl  mini rig sc,185
 bfl monarch,1428
+bfl sc,166
 bfl single 'sc',250
 bi*fury,1176
 bitcoin dominator x5000,14.7
@@ -155,6 +171,7 @@ bitmain antminer t21,52631.57894736842
 bitmain antminer t9,7931.472081218273
 bitmain antminer t9+,7332.402234636872
 bitmain antminer v9,3894.8393378773126
+bitmine.ch avalon clone 85gh,130.76
 black arrow prospero x-1,1000
 black arrow prospero x-3,1000
 blue fury,1000
@@ -178,6 +195,7 @@ canaan avalonminer 921,11764.70588235294
 celeron e330,2.2
 celeron e3400,5.9
 cell,22.866
+cointerra terraminer iv,761.90
 core 2 duo e5200,6.2
 core 2 duo e6550,2.45
 core 2 duo e6850,6.75
@@ -243,36 +261,49 @@ g210,0.1175
 gmo miner b2,12307.692307692309
 gmo miner b3,9657.594381035997
 google app engine,0.144
+gt 320m,0.0050
+gt 325m,5.3206
+gt 330m,0.0144
 gt220,0.084
 gt230,0.161
 gt240,0.281
 gt240m,0.426
 gt430,0.413
+gt440,0.0124
 gt530,0.358
+gt610m,0.0126
+gt650m,0.0197
 gts 350m,1.214
 gts250,0.2435
 gts450,0.427
 gtx 560m,0.38
 gtx260,0.21
 gtx260c216,0.248
+gtx260m,0.045
 gtx275,0.232
 gtx280,0.2435
 gtx285,0.262
 gtx295,0.3783
 gtx460,0.427
-gtx460 1gb,0.519
+gtx460 1gb,8.2052
+gtx460 1gb directcu,0.0605
+gtx460 768mb,0.0428
 gtx460se,0.376
 gtx465,0.322
 gtx470,0.4505
 gtx480,0.405
+gtx480 amp!zotac,0.0824
 gtx560,0.51
 gtx560 ti,0.4320
 gtx570,0.613
 gtx580,0.642
+gtx590,1.1779
 gtx670,1.1
 gtx680,1.2
 halong mining dragonmint t1,10810.810810810812
 hashbuster micro,869
+hashcoins apollo v3,1100
+hashcoins zeus v3,1500
 hashfast baby jet,909
 hashfast sierra,909
 hashfast sierra evo 3,909
@@ -297,6 +328,8 @@ klondike,160
 knc jupiter,400
 knc neptune,1429
 knc saturn,400
+kncminer mercury,400
+lancelot,15.384
 marvel feroceon,0.195
 metabank,705
 microbt whatsminer m10,15384.615384615385
@@ -358,9 +391,11 @@ quadro fx 2000m,0.397
 quadro fx 2800m,0.293
 quadro fx 3600m,0.514
 quadro fx 580,0.14
+quadro fx 770m,0.0121
 quadro nvs 135m,0.1
 quadro nvs 295,0.07
 quadro nvs 3100m,0.257
+quadro nvs 4200m,0.0123
 red/bluefury,1040
 rkminer r-box,711
 rkminer r-box 110g,917
@@ -382,9 +417,16 @@ terrahash dx large,140
 terrahash dx mini,140
 terrahash klondike 16,140
 terrahash klondike 64,140
+tesla c1060,0.0405
+tesla k20,0.1909
+tesla m2050,0.0562
+tesla s1070,0.0001
+tesla s2070,0.6515
 turion x2 rm-70,1.9
 twinfury,1174
 via eden,1.3
+whatsminer m2,4496.5
+whatsminer m3,6442.5
 x6500 fpga miner,23.25
 xeon 2.8,0.8
 xeon 3060,2.03

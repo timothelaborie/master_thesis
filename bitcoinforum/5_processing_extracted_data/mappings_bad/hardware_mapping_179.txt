@@ -1,0 +1,53 @@
+```python
+mapping = {
+    "bitminter connect only 8 usb block erupter": "unknown",
+    "bitminter official client on windows": "unknown",
+    "bitminter pool": "unknown",
+    "bitminter's java miner v1.4.2": "unknown",
+    "bitparking": "unknown",
+    "bitpay": "unknown",
+    "bitphantom design": "unknown",
+    "bits chips for 100 th project in poland": "unknown",
+    "bitshopper.de's version of the compac": "unknown",
+    "bitstream": "unknown",
+    "bitsyncom": "unknown",
+    "bitwins": "unknown",
+    "bitxurex card": "unknown",
+    "biz desktop for books": "unknown",
+    "bi•fury": "bi*fury",
+    "bj": "unknown",
+    "bkkcoins 16 chip klondike boards": "klondike",
+    "bkkcoins chips": "unknown",
+    "black 10 port hubs": "unknown",
+    "black alpha": "unknown",
+    "black anker hubs": "unknown",
+    "black antminer test fixture": "unknown",
+    "black arrow": "unknown",  # Could refer to multiple 'black arrow' products, but not specific enough.
+    "black arrow 6": "unknown",
+    "black arrow bf bullet run": "unknown",
+    "black arrow bitfury boards": "unknown",
+    "black arrow bitfury prosperos": "unknown",
+    "black arrow bullet run": "unknown",
+    "black arrow bullet run boards": "unknown",
+    "black arrow bullet run w bitfury": "unknown",
+    "black arrow prospero x-1": "black arrow prospero x-1",
+    "black arrow prospero x-3": "black arrow prospero x-3",
+    "black arrow prospero x-3 (2000ghash/second)": "black arrow prospero x-3",  # Assuming a specification detail, matches product.
+    "black arrow prosperos": "unknown",  # Could refer to multiple 'black arrow prospero' products, but not specific enough.
+    "black arrow prosperus x1.5": "unknown",
+    "black arrow rigs": "unknown",
+    "black arrow x-1": "black arrow prospero x-1",  # Assuming a typo or shorthand, closest match.
+    "black arrow x3": "black arrow prospero x-3",  # Assuming a typo or shorthand, closest match.
+    "black arrow's prospero x3": "black arrow prospero x-3",  # Assuming ownership detail, matches product.
+    "black avalon": "unknown",
+    "black bfl labs psu": "unknown",
+    "black bitmain glue": "unknown",
+    "black bricks": "unknown",
+    "black edition xxx": "unknown",
+    "black fan": "unknown",
+    "black fruit fig tree": "unknown",
+    "black fuseholders from radio shack": "unknown",
+    "black miner": "unknown",
+    "black miner prime": "unknown"
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "cpu - i7 920": "core i7 920",
+    "cpu - inteli5-4690k 9ghz- socket lga 1150": "unknown",  # No exact match, typo in GHz and model.
+    "cpu amd sempron 140": "sempron 140",
+    "cpu cooler - arctic alpine12 - cpu cooler for intel sockets": "unknown",
+    "cpu e-240 apu": "unknown",
+    "cpu fan": "unknown",
+    "cpu fans": "unknown",
+    "cpu fans (thermaltake)": "unknown",
+    "cpu heatsink": "unknown",
+    "cpu i5 6600k": "unknown",  # No exact match, though it's a known CPU model.
+    "cpu i5 intel": "unknown",  # Too vague, multiple i5 models listed.
+    "cpu intercooler fan": "unknown",
+    "cpu miner": "unknown",
+    "cpu miner called rpcminer": "unknown",
+    "cpu mining": "unknown",
+    "cpu mining enabled rigs": "unknown",
+    "cpu of the pc": "unknown",
+    "cpu paste": "unknown",
+    "cpu performance monitor": "unknown",
+    "cpu pot": "unknown",
+    "cpu radeon 7570m": "unknown",  # Radeon 7570m is a GPU, not a CPU.
+    "cpu servers": "unknown",
+    "cpu tower cooler": "unknown",
+    "cpu with a processor": "unknown",
+    "cpu xmr": "unknown",
+    "cpu-based mining rig": "unknown",
+    "cpu/gpu": "unknown",
+    "cpu/ram": "unknown",
+    "cpu: amd sempron 130": "unknown",  # No exact match, likely typo or incorrect model.
+    "cpu: i3-2100": "core i3-2100",
+    "cpu: intel core i7 3610qm": "unknown",  # No exact match, though it's a known CPU model.
+    "cpuc": "unknown",
+    "cpuid hwmonitor": "unknown",
+    "cpuminer": "unknown",
+    "cpuminer (minerd)": "unknown",
+    "cpuminer 2.4.3": "unknown",
+    "cpuminer client": "unknown",
+    "cpuminer fork": "unknown",
+    "cpuminer forks": "unknown",
+    "cpuminer solo-miner": "unknown",
+    "cpuminer-gc3355": "unknown",
+    "cpuminer-gc3355 (v1.0e)": "unknown",
+    "cpuminers": "unknown",
+    "cpus": "unknown",
+    "cpus-chips and memory": "unknown",
+    "cpvc hardware": "unknown",
+    "cr-doped (bi": "unknown",
+    "crappy 400w psus": "unknown",
+    "crappy board": "unknown",
+    "crappy laptop": "unknown"
+}
+```

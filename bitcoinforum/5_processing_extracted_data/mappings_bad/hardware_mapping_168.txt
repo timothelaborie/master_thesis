@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "bifury 5+ gh/s usb miner": "bi*fury",  # Closest match based on the description.
+    "bifury usb miners": "bi*fury",  # Assuming a general reference to bi*fury products.
+    "big ass fan": "unknown",
+    "big box fan": "unknown",
+    "big capacitors": "unknown",
+    "big dents and casing": "unknown",
+    "big fan": "unknown",
+    "big fans": "unknown",
+    "big fat extension cords": "unknown",
+    "big fat power plugs (preferably grounded)": "unknown",
+    "big household fans": "unknown",
+    "big inductors": "unknown",
+    "big radiator": "unknown",
+    "big refurbished ups": "unknown",
+    "big rigs": "unknown",
+    "big scanner": "unknown",
+    "big server grade ups": "unknown",
+    "big time coin batch a": "unknown",
+    "big truck": "unknown",
+    "big wooden box": "unknown",
+    "bigger fan": "unknown",
+    "bigtec 10-port": "unknown",
+    "bike frame": "unknown",
+    "billion router": "unknown",
+    "bimain power supply": "unknown",  # Typo, but no clear match.
+    "binaries": "unknown",
+    "biodigestor genset system": "unknown",
+    "bioinfobank picostocks 100th mine": "unknown",
+    "biomass generators": "unknown",
+    "biomech": "unknown",
+    "bios": "unknown",
+    "bios <truncated> running": "unknown",
+    "biostar 890fxa": "unknown",
+    "biostar a870-u3 mobo": "unknown",
+    "biostar a870u3 mobo": "unknown",
+    "biostar btc-24gh mini": "unknown",  # No exact match, but suggests a product related to mining.
+    "biostar n68s3 mobo": "unknown",
+    "biostar ta-870 mobo": "unknown",
+    "biostar ta890fxe 890fx mobo": "unknown",
+    "biowaste and biomass stand": "unknown",
+    "bip100": "unknown",
+    "bip101": "unknown",
+    "bist": "unknown",
+    "bit": "unknown",
+    "bit burner fury": "unknown",
+    "bit coin wallet": "unknown",
+    "bit mint pc": "unknown",
+    "bit virus checker": "unknown",
+    "bit-tech a1": "unknown",  # No exact match, but could be a reference to a mining product not listed.
+    "bit-tech miners": "unknown"  # General reference to mining hardware, but no specific product match.
+}
+```

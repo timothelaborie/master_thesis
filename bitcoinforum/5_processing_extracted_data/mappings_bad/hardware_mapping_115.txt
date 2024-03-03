@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "antminer l3s": "unknown",  # No exact match found in the list
+    "antminer l7": "unknown",  # No exact match found in the list
+    "antminer l7 hash board": "unknown",  # No exact match found in the list
+    "antminer logo": "unknown",  # No exact match found in the list
+    "antminer machine": "unknown",  # No exact match found in the list
+    "antminer miners": "unknown",  # No exact match found in the list
+    "antminer mining status page": "unknown",  # No exact match found in the list
+    "antminer pc-e": "unknown",  # No exact match found in the list
+    "antminer power supply apw3++": "unknown",  # No exact match found in the list
+    "antminer products": "unknown",  # No exact match found in the list
+    "antminer psu": "unknown",  # No exact match found in the list
+    "antminer psu toggle switch": "unknown",  # No exact match found in the list
+    "antminer psus": "unknown",  # No exact match found in the list
+    "antminer r1": "antminer r1",  # Exact match found
+    "antminer r4": "antminer r4",  # Exact match found
+    "antminer r4 7.5th": "antminer r4",  # Closest match, assuming typo or version difference
+    "antminer r4 8.7th/s": "antminer r4",  # Closest match, assuming typo or version difference
+    "antminer r4 8.7ths": "antminer r4",  # Closest match, assuming typo or version difference
+    "antminer r4 batch 6": "antminer r4",  # Closest match, assuming batch detail is extra
+    "antminer r4b": "unknown",  # No exact match found in the list
+    "antminer s 17+ 70ths": "antminer s17+",  # Closest match, assuming typo or version difference
+    "antminer s 19 xp 134th": "antminer s19 xp",  # Closest match, assuming typo or version difference
+    "antminer s!'s": "unknown",  # No exact match found in the list, unclear reference
+    "antminer s-1": "antminer s1",  # Closest match, assuming typo
+    "antminer s-2": "antminer s2",  # Closest match, assuming typo
+    "antminer s-3": "antminer s3",  # Closest match, assuming typo
+    "antminer s-3 fan": "antminer s3",  # Closest match, assuming extra detail
+    "antminer s-3+": "antminer s3+",  # Closest match, assuming typo
+    "antminer s-5": "antminer s5",  # Closest match, assuming typo
+    "antminer s.17": "unknown",  # No exact match found in the list, unclear reference
+    "antminer s1": "antminer s1",  # Exact match found
+    "antminer s1 (pencil mod)": "antminer s1",  # Closest match, assuming mod detail is extra
+    "antminer s1 - s3": "unknown",  # No exact match found in the list, unclear reference
+    "antminer s1 180": "antminer s1",  # Closest match, assuming detail is extra
+    "antminer s1 180 gh/s": "antminer s1",  # Closest match, assuming detail is extra
+    "antminer s1 180gh/s": "antminer s1",  # Closest match, assuming detail is extra
+    "antminer s1 180ghs": "antminer s1",  # Closest match, assuming detail is extra
+    "antminer s1 180ghs x 2": "unknown",  # No exact match found in the list, unclear reference
+    "antminer s1 bitcoin miner": "antminer s1",  # Closest match, assuming extra detail is not critical
+    "antminer s1 blade": "antminer s1",  # Closest match, assuming detail is extra
+    "antminer s1 controller board": "antminer s1",  # Closest match, assuming detail is extra
+    "antminer s1 dual blade": "antminer s1",  # Closest match, assuming detail is extra
+    "antminer s1 dual blades": "antminer s1",  # Closest match, assuming detail is extra
+    "antminer s1 duel blade": "antminer s1",  # Closest match, assuming typo and detail is extra
+    "antminer s1 fan": "antminer s1",  # Closest match, assuming detail is extra
+    "antminer s1 farm": "antminer s1",  # Closest match, assuming detail is extra
+    "antminer s1 from bitmain": "antminer s1",  # Closest match, assuming manufacturer detail is extra
+    "antminer s1 hardware": "antminer s1",  # Closest match, assuming detail is extra
+    "antminer s1 mx": "unknown",  # No exact match found in the list, unclear reference
+    "antminer s1 network card": "antminer s1",  # Closest match, assuming detail is extra
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "asicminer 49 port hubs": "unknown",
+    "asicminer 49 port usb hub": "unknown",
+    "asicminer 49 port usb hubs": "unknown",
+    "asicminer 49-porter": "unknown",
+    "asicminer 8 nano": "unknown",
+    "asicminer 8 nano 44th/s model": "unknown",
+    "asicminer backplane": "unknown",
+    "asicminer backplane power supply": "unknown",
+    "asicminer blad v2": "unknown",  # Possible typo, closest match could be "asicminer be blade" but not certain.
+    "asicminer blade": "asicminer be blade",
+    "asicminer blade 2.0 lan connection": "asicminer be blade",  # Assuming a version or feature description.
+    "asicminer blade erupter": "asicminer be blade",
+    "asicminer blade miner": "asicminer be blade",
+    "asicminer blade v2": "asicminer be blade",
+    "asicminer blade v2 - green pcb": "asicminer be blade",  # Specific detail, but closest match.
+    "asicminer blades": "asicminer be blade",
+    "asicminer blades (rev2)": "asicminer be blade",  # Revision detail noted.
+    "asicminer blades 10.7gh": "asicminer be blade",  # Specific performance detail, closest match.
+    "asicminer blades 10.7gh power connector": "asicminer be blade",  # Specific detail, closest match.
+    "asicminer block erupter": "asicminer be sapphire",
+    "asicminer block erupter asic usb miners": "asicminer be sapphire",
+    "asicminer block erupter blade": "asicminer be blade",
+    "asicminer block erupter blade v2 boards r fuse": "asicminer be blade",  # Specific detail, closest match.
+    "asicminer block erupter blades": "asicminer be blade",
+    "asicminer block erupter cube": "asicminer be cube",
+    "asicminer block erupter cube 30gh/s to 38gh/s mines": "asicminer be cube",  # Performance range noted.
+    "asicminer block erupter cubes": "asicminer be cube",
+    "asicminer block erupter prisma": "asicminer be prisma",
+    "asicminer block erupter sapphire miner - advanced heat sink": "asicminer be sapphire",  # Feature detail noted.
+    "asicminer block erupter usb": "asicminer be sapphire",
+    "asicminer block erupter usb 330mh saphire miners": "asicminer be sapphire",
+    "asicminer block erupter usb 330mh/s": "asicminer be sapphire",
+    "asicminer block erupter usb 336mh/s sapphire miners": "asicminer be sapphire",
+    "asicminer block erupter usb's": "asicminer be sapphire",
+    "asicminer block erupter usbs": "asicminer be sapphire",
+    "asicminer block erupters": "asicminer be sapphire",
+    "asicminer block eruptors": "asicminer be sapphire",  # Possible typo but closest match.
+    "asicminer bluck erupter usb": "asicminer be sapphire",  # Typo but identifiable.
+    "asicminer company": "unknown",
+    "asicminer coupons": "unknown",
+    "asicminer cube": "asicminer be cube",
+    "asicminer cube (30gh/s)": "asicminer be cube",
+    "asicminer cube 30-38gh/s": "asicminer be cube",
+    "asicminer cube 30gh/s to 38gh/s": "asicminer be cube",
+    "asicminer cube miners": "asicminer be cube",
+    "asicminer cubes": "asicminer be cube",
+    "asicminer cubes 30-38gh/s": "asicminer be cube",
+    "asicminer cubes 30gh-32gh/s": "asicminer be cube",
+    "asicminer cubes 30gh-38gh/s": "asicminer be cube",
+    "asicminer eruetpper usb": "unknown"  # Unrecognizable, likely a typo with no clear match.
+}
+```

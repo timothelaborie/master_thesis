@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "avalon 1041": "unknown",
+    "avalon 1046": "unknown",
+    "avalon 1047": "canaan avalonminer 1047",
+    "avalon 1047 psu": "canaan avalonminer 1047",  # Assuming PSU refers to the power supply unit for the 1047 model.
+    "avalon 1066": "canaan avalonminer 1066",
+    "avalon 1066 asic": "canaan avalonminer 1066",  # ASIC is part of the model's specification.
+    "avalon 1066 machines": "canaan avalonminer 1066",  # General reference to the 1066 model.
+    "avalon 1066 pro55th miner": "unknown",  # No exact match, possibly a variant of the 1066 model.
+    "avalon 1066 psu": "canaan avalonminer 1066",  # PSU likely refers to the power supply for the 1066 model.
+    "avalon 110gh/s": "unknown",
+    "avalon 1126 pro-s mining machines": "canaan avalonminer 1126 pro",  # Closest match, assuming "pro-s" is a variant.
+    "avalon 1126s": "canaan avalonminer 1126 pro",  # Likely a shorthand or typo for the 1126 Pro model.
+    "avalon 116 pro75": "unknown",
+    "avalon 1166": "canaan avalonminer 1166 pro",  # Assuming a typo or shorthand for the 1166 Pro model.
+    "avalon 1166 - 81t miners": "canaan avalonminer 1166 pro",  # Specific reference to the 1166 Pro's capacity.
+    "avalon 1166 pro": "canaan avalonminer 1166 pro",
+    "avalon 1166 pro - 78t": "canaan avalonminer 1166 pro",  # Variant of the 1166 Pro model.
+    "avalon 1166 pro 81th": "canaan avalonminer 1166 pro",  # Another variant of the 1166 Pro model.
+    "avalon 1166 pro miner": "canaan avalonminer 1166 pro",  # General reference to the 1166 Pro model.
+    "avalon 1166 pro of 81 ths": "canaan avalonminer 1166 pro",  # Specific reference to the 1166 Pro's capacity.
+    "avalon 1166pro": "canaan avalonminer 1166 pro",  # Likely a typo or shorthand for the 1166 Pro model.
+    "avalon 1166pro 72th": "canaan avalonminer 1166 pro",  # Specific reference to the 1166 Pro's capacity.
+    "avalon 1166pro 81th": "canaan avalonminer 1166 pro",  # Another specific reference to the 1166 Pro's capacity.
+    "avalon 116pro n75 high temp n high tmax machine": "unknown",  # No clear match, possibly a highly specific variant.
+    "avalon 1246": "canaan avalonminer 1246",
+    "avalon 1246 83t": "canaan avalonminer 1246",  # Specific reference to the 1246 model's capacity.
+    "avalon 1246 85t": "canaan avalonminer 1246",  # Another specific reference to the 1246 model's capacity.
+    "avalon 1246 85th": "canaan avalonminer 1246",  # Another variant of the 1246 model.
+    "avalon 1246 miners": "canaan avalonminer 1246",  # General reference to the 1246 model.
+    "avalon 1246-83t device": "canaan avalonminer 1246",  # Specific reference to the 1246 model's capacity.
+    "avalon 180gh/s tower": "unknown",
+    "avalon 2": "avalon batch 2",  # Assuming reference to the second batch of Avalon miners.
+    "avalon 2 200 gh/s miner": "avalon batch 2",  # Specific reference to the capacity of the Avalon batch 2 model.
+    "avalon 2 200 ghs": "avalon batch 2",  # Another reference to the capacity of the Avalon batch 2 model.
+    "avalon 2 200 ghs miner": "avalon batch 2",  # Another variant of the Avalon batch 2 model.
+    "avalon 2 230 ghs miner": "avalon batch 2",  # Specific reference to a variant of the Avalon batch 2 model.
+    "avalon 2 bitcoin miner v2": "avalon batch 2",  # Another reference to the Avalon batch 2 model.
+    "avalon 2 boards": "avalon batch 2",  # Likely referring to the circuit boards of the Avalon batch 2 model.
+    "avalon 2 clone": "unknown",  # No clear match, possibly a clone of the Avalon batch 2 model.
+    "avalon 2 miners": "avalon batch 2",  # General reference to the Avalon batch 2 model.
+    "avalon 2 module": "avalon batch 2",  # Likely referring to a module of the Avalon batch 2 model.
+    "avalon 2 single": "avalon batch 2",  # Possibly referring to a single unit of the Avalon batch 2 model.
+    "avalon 2 units": "avalon batch 2",  # General reference to units of the Avalon batch 2 model.
+    "avalon 200 clone": "unknown",  # No clear match, possibly a clone with 200 GH/s capacity.
+    "avalon 200 ghz clone": "unknown",  # Likely a typo, intended to refer to GH/s, not GHz; still unknown.
+    "avalon 200g": "unknown",  # No clear match, possibly referring to a model with 200 GH/s capacity.
+    "avalon 200g miners": "unknown",  # No clear match, possibly referring to miners with 200 GH/s capacity.
+    "avalon 200gh": "unknown",  # No clear match, possibly referring to a model with 200 GH/s capacity.
+    "avalon 200gh/s": "unknown",  # No clear match, possibly referring to a model with 200 GH/s capacity.
+    "avalon 200gh/s clone": "unknown",  # No clear match, possibly a clone with 200 GH/s capacity.
+}
+```

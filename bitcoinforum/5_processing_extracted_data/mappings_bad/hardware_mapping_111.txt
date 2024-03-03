@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "ant (s1/s2/s3) monitor v3.3": "unknown",  # No exact match, but refers to antminer s1, s2, s3
+    "ant (s1/s2/s3) monitor v3.5": "unknown",  # No exact match, but refers to antminer s1, s2, s3
+    "ant (s1/s2/s3) monitor v3.7": "unknown",  # No exact match, but refers to antminer s1, s2, s3
+    "ant (s1/s2/s3/c1) monitor v3.8": "unknown",  # No exact match, but refers to antminer s1, s2, s3, c1
+    "ant (s1/s2/s3?)": "unknown",  # No exact match, but refers to antminer s1, s2, s3
+    "ant (s2)": "antminer s2",
+    "ant c1": "unknown",  # No exact match in the list
+    "ant f1": "unknown",  # No exact match in the list
+    "ant fans": "unknown",  # No exact match in the list
+    "ant farm": "unknown",  # No exact match in the list
+    "ant meter s-1": "unknown",  # No exact match, but possibly refers to antminer s1
+    "ant miner": "unknown",  # Generic term for antminer products
+    "ant miner asic": "unknown",  # Generic term for antminer ASIC products
+    "ant miner asic usb miner": "unknown",  # Generic term, possibly refers to antminer u1 or u2
+    "ant miner groupbuy": "unknown",  # No exact match in the list
+    "ant miner l3+": "unknown",  # No exact match in the list provided
+    "ant miner l3++": "unknown",  # No exact match in the list provided
+    "ant miner r4 control board": "unknown",  # No exact match, but refers to antminer r4
+    "ant miner s-1": "antminer s1",
+    "ant miner s1": "antminer s1",
+    "ant miner s3": "antminer s3",
+    "ant miner s3+": "antminer s3+",
+    "ant miner s7": "antminer s7",
+    "ant miner s9": "antminer s9",
+    "ant miner s9j": "antminer s9j",
+    "ant miner t19": "antminer t19",
+    "ant miner u-1": "unknown",  # No exact match, but possibly refers to antminer u1
+    "ant miner u1": "antminer u1",
+    "ant miner u1 asic": "antminer u1",
+    "ant miner u1s": "unknown",  # No exact match, but possibly refers to antminer u1
+    "ant miner u2": "antminer u2",
+    "ant miner u2's": "antminer u2",
+    "ant miner u3": "antminer u3",
+    "ant miner u3s": "unknown",  # No exact match, but possibly refers to antminer u3
+    "ant miner usb u-1 sticks": "unknown",  # No exact match, but possibly refers to antminer u1
+    "ant miners": "unknown",  # Generic term for antminer products
+    "ant miners for $717.65": "unknown",  # No exact match in the list
+    "ant miners s9": "antminer s9",
+    "ant miners1": "unknown",  # No exact match, but possibly a typo for antminer s1
+    "ant monitor": "unknown",  # No exact match in the list
+    "ant monitor v 3.4b7": "unknown",  # No exact match in the list
+    "ant monitor window": "unknown",  # No exact match in the list
+    "ant output": "unknown",  # No exact match in the list
+    "ant pool rig": "unknown",  # No exact match in the list
+    "ant power supply": "unknown",  # No exact match in the list
+    "ant r4": "antminer r4",
+    "ant s1": "antminer s1",
+    "ant s1 monitor": "unknown",  # No exact match, but refers to antminer s1
+    "ant s1's": "antminer s1",
+    "ant s1/s2": "unknown",  # No exact match, but refers to antminer s1, s2
+}
+```

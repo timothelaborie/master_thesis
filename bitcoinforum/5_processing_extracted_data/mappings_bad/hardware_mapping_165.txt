@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "bfl investment": "unknown",
+    "bfl item": "unknown",
+    "bfl jal unit": "unknown",  # No exact match, possibly referring to "bfl jalapeno"
+    "bfl jalaepno": "unknown",  # Typo, likely meant "bfl jalapeno"
+    "bfl jalapeno": "unknown",  # No exact match in the provided list
+    "bfl jalapeno 5 ghs": "unknown",  # No exact match, specifics about "bfl jalapeno"
+    "bfl jalapeno 7 ghs": "unknown",  # No exact match, specifics about "bfl jalapeno"
+    "bfl jalapeno board": "unknown",  # No exact match, component of "bfl jalapeno"
+    "bfl jalapeno miners": "unknown",  # No exact match, referring to "bfl jalapeno" units
+    "bfl jalapeno power brick": "unknown",  # No exact match, accessory for "bfl jalapeno"
+    "bfl jalapenos": "unknown",  # Likely a plural form of "bfl jalapeno"
+    "bfl jalapeo": "unknown",  # Typo, likely meant "bfl jalapeno"
+    "bfl jalapeo miners": "unknown",  # Typo, referring to miners of "bfl jalapeno"
+    "bfl jalapeos": "unknown",  # Typo, plural form of "bfl jalapeno"
+    "bfl jalapeñyo": "unknown",  # Typo, likely meant "bfl jalapeno"
+    "bfl jalepenoes": "unknown",  # Typo, likely meant "bfl jalapeno"
+    "bfl jallies": "unknown",  # No exact match, unclear reference
+    "bfl jally": "unknown",  # No exact match, unclear reference
+    "bfl jupiters": "unknown",  # No exact match in the provided list
+    "bfl labs 60 gh/s asic single": "unknown",  # No exact match, specifics about a BFL product
+    "bfl little": "unknown",  # No exact match, possibly referring to a smaller BFL product
+    "bfl little sc": "unknown",  # No exact match, specifics about a BFL product
+    "bfl little single": "unknown",  # No exact match, specifics about a BFL product
+    "bfl little single asic": "unknown",  # No exact match, specifics about a BFL product
+    "bfl little single sc": "unknown",  # No exact match, specifics about a BFL product
+    "bfl ls": "unknown",  # No exact match, possibly shorthand for a BFL product
+    "bfl machines": "unknown",  # No exact match, general reference to BFL products
+    "bfl miner": "unknown",  # No exact match, general reference to BFL mining products
+    "bfl miners": "unknown",  # No exact match, general reference to BFL mining products
+    "bfl miners 25 gh/s miners": "unknown",  # No exact match, specifics about BFL miners
+    "bfl miners 50 gh/s": "unknown",  # No exact match, specifics about BFL miners
+    "bfl mini single": "unknown",  # No exact match, specifics about a BFL product
+    "bfl mini-rig": "bfl mini rig sc",  # Closest match, assuming typo or shorthand
+    "bfl mini-rigs": "bfl mini rig sc",  # Plural form of "bfl mini-rig"
+    "bfl mining chip": "unknown",  # No exact match, component of BFL products
+    "bfl mining gear": "unknown",  # No exact match, general reference to BFL products
+    "bfl mining rig": "unknown",  # No exact match, general reference to BFL mining setups
+    "bfl minirig sc": "bfl mini rig sc",  # Closest match, assuming typo or shorthand
+    "bfl minirigs": "bfl mini rig sc",  # Plural form of "bfl minirig sc"
+    "bfl minirigs 500 gh": "bfl mini rig sc",  # Specifics about "bfl minirigs", assuming closest match
+    "bfl monarch": "bfl monarch",  # Exact match
+    "bfl monarch-style miner cards": "bfl monarch",  # Referring to the style of "bfl monarch"
+    "bfl monarchs": "bfl monarch",  # Plural form of "bfl monarch"
+    "bfl mugs": "unknown",  # No exact match, likely not a mining hardware
+    "bfl order": "unknown",  # No exact match, general reference to ordering BFL products
+    "bfl orders": "unknown",  # No exact match, plural form of "bfl order"
+    "bfl phone": "unknown",  # No exact match, likely not a mining hardware
+    "bfl power supplies": "unknown",  # No exact match, general reference to power supplies for BFL products
+    "bfl power supply": "unknown",  # No exact match, singular form of "bfl power supplies"
+    "bfl pre-orders": "unknown",  # No exact match, referring to pre-ordering BFL products
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "antminer s5 chain": "antminer s5",  # Assuming "chain" refers to a part or aspect of the S5
+    "antminer s5 fan": "antminer s5",  # Referring to the fan of the S5
+    "antminer s5 fans": "antminer s5",  # Referring to the fans of the S5
+    "antminer s5 sd access?": "antminer s5",  # Query about SD card access on the S5
+    "antminer s5 units": "antminer s5",  # Referring to S5 units
+    "antminer s5's": "antminer s5",  # Plural form of S5
+    "antminer s5(golden psu included)": "antminer s5",  # S5 variant with a golden PSU
+    "antminer s5+": "antminer s5+",  # Direct match
+    "antminer s5s": "antminer s5",  # Likely a typo or plural form of S5
+    "antminer s7": "antminer s7",  # Direct match
+    "antminer s7 - 4.73 th/s": "antminer s7",  # Specification detail of S7
+    "antminer s7 b10": "antminer s7",  # Batch or version detail of S7
+    "antminer s7 b7": "antminer s7",  # Batch or version detail of S7
+    "antminer s7 batch 1": "antminer s7",  # Batch detail of S7
+    "antminer s7 batch 1 2": "antminer s7",  # Batch detail, possibly a typo
+    "antminer s7 batch 11": "antminer s7",  # Batch detail of S7
+    "antminer s7 batch 2": "antminer s7",  # Batch detail of S7
+    "antminer s7 batch 3": "antminer s7",  # Batch detail of S7
+    "antminer s7 batch 6": "antminer s7",  # Batch detail of S7
+    "antminer s7 batch 7 units": "antminer s7",  # Batch detail of S7
+    "antminer s7 batch 8": "antminer s7",  # Batch detail of S7
+    "antminer s7 batch 8 units": "antminer s7",  # Batch detail of S7
+    "antminer s7 batch 9": "antminer s7",  # Batch detail of S7
+    "antminer s7 batch8": "antminer s7",  # Likely a typo of batch 8
+    "antminer s7 board": "antminer s7",  # Referring to a part of the S7
+    "antminer s7 fans": "antminer s7",  # Referring to the fans of the S7
+    "antminer s7 hash board": "antminer s7",  # Referring to a part of the S7
+    "antminer s7 manual": "antminer s7",  # Referring to the manual of the S7
+    "antminer s7 miners": "antminer s7",  # Referring to S7 units
+    "antminer s7 psu": "antminer s7",  # Referring to the PSU of the S7
+    "antminer s7 red light": "antminer s7",  # Referring to an indicator light on the S7
+    "antminer s7 rig": "antminer s7",  # Referring to a mining rig based on the S7
+    "antminer s7 unit (batch 1)": "antminer s7",  # Batch detail of S7
+    "antminer s7 used units": "antminer s7",  # Referring to used S7 units
+    "antminer s7's": "antminer s7",  # Plural form of S7
+    "antminer s7-f1": "antminer s7",  # Variant of the S7
+    "antminer s7-ln": "antminer s7-ln",  # Direct match
+    "antminer s7/s9": "unknown",  # Ambiguous, could refer to either S7 or S9
+    "antminer s7ln": "antminer s7-ln",  # Likely a typo of S7-LN
+    "antminer s7s": "antminer s7",  # Likely a typo or plural form of S7
+    "antminer s9": "antminer s9",  # Direct match
+    "antminer s9 (13.5gh/s)": "antminer s9",  # Specification detail of S9
+    "antminer s9 (13ths)": "antminer s9",  # Specification detail of S9
+    "antminer s9 - (13th/s) bitcoin miner new (16nm - 0.098 watt/gh)": "antminer s9",  # Detailed specification of S9
+    "antminer s9 11.85": "antminer s9",  # Likely referring to a specific version or performance metric of S9
+    "antminer s9 12.5th/s miner": "antminer s9",  # Specification detail of S9
+    "antminer s9 12.93 th/s": "antminer s9",  # Specification detail of S9
+    "antminer s9 13 th": "antminer s9",  # Specification detail of S9
+    "antminer s9 13.15 th": "antminer s9",  # Specification detail of S9
+    "antminer s9 13.5 th version": "antminer s9",  # Specification detail of S9
+}
+```

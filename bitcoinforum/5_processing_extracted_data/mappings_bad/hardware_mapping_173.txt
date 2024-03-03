@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "bitfury hardware": "unknown",
+    "bitfury miner": "unknown",
+    "bitfury miners": "unknown",
+    "bitfury mining rigs": "unknown",
+    "bitfury nano fury": "unknown",  # Closest match could be "nanofury / icefury", but not exact.
+    "bitfury october": "unknown",
+    "bitfury prosperos": "unknown",
+    "bitfury red fury - usb bitcoin asic miner 2.2+ gh/s": "red/bluefury",  # Assuming "red fury" refers to "red/bluefury".
+    "bitfury red usb": "unknown",
+    "bitfury redfury": "red/bluefury",
+    "bitfury rev1/rev2": "unknown",
+    "bitfury rig": "unknown",
+    "bitfury rigs": "unknown",
+    "bitfury s-hash case": "unknown",
+    "bitfury s1 and bitfury s2": "unknown",  # No exact matches for "bitfury s1" or "bitfury s2".
+    "bitfury sample chips": "unknown",
+    "bitfury shares": "unknown",
+    "bitfury shares (360+ gh/s)": "unknown",
+    "bitfury shares (680+ gh/s)": "unknown",
+    "bitfury starter kit": "unknown",
+    "bitfury starterkit": "unknown",
+    "bitfury starterkit (august)": "unknown",
+    "bitfury twin chip 4-5gh's asic": "unknown",
+    "bitfury twin chip usb miners": "unknown",
+    "bitfury twin chip usb miners 5 ghash each": "unknown",
+    "bitfury twinchip 4 - 5 gh/s asic usb miner": "unknown",
+    "bitfury unit": "unknown",
+    "bitfury usb miner": "unknown",
+    "bitfury usb sticks red blue ice nano 2x nano": "unknown",  # Closest match could be "nanofury / icefury", but not exact.
+    "bitfury v1.2 h-cards": "unknown",
+    "bitfury v2": "unknown",
+    "bitfury v2 boards": "unknown",
+    "bitfury's chips": "unknown",
+    "bitfuryasic": "unknown",
+    "bitfurys": "unknown",
+    "bitfurystrikesback": "unknown",
+    "bitfurystrikesback 16 blades miner": "unknown",
+    "bithopper": "unknown",
+    "bitmain": "unknown",  # While "bitmain" refers to a manufacturer, specific models are listed in the original list.
+    "bitmain & sorcerer psus": "unknown",
+    "bitmain 1550a1s": "unknown",
+    "bitmain 1600": "unknown",
+    "bitmain 1600 psu": "unknown",
+    "bitmain 1600w": "unknown",
+    "bitmain 1600w bitmain apw3++ psu": "unknown",
+    "bitmain 1600w power supply": "unknown",
+    "bitmain 1600w psu": "unknown",
+    "bitmain 1600w psus": "unknown",
+    "bitmain 1600w v3 psu": "unknown",
+    "bitmain 240": "unknown"
+}
+```

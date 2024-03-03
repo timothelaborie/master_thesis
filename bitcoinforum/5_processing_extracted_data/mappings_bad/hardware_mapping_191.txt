@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "cable box": "unknown",
+    "cable connections": "unknown",
+    "cable cutter": "unknown",
+    "cable for asicminer blade": "asicminer be blade",  # Closest match, assuming it refers to ASICMiner Blade hardware.
+    "cable internet": "unknown",
+    "cable internet with internet television from china unicom": "unknown",
+    "cable matters 10-port usb 3.0 hub 12v 3a": "unknown",
+    "cable modem": "unknown",
+    "cable modem/router": "unknown",
+    "cable modems": "unknown",
+    "cable network": "unknown",
+    "cable plugs": "unknown",
+    "cable router with a usb port": "unknown",
+    "cable wire": "unknown",
+    "cable/connection": "unknown",
+    "cable/wire": "unknown",
+    "cables": "unknown",
+    "cables and power supplies": "unknown",
+    "cables from antminer s4": "antminer s4",  # Assuming the cables are specifically for the Antminer S4.
+    "cables from the control board and psu": "unknown",
+    "cablesaurus cables": "unknown",
+    "cablez cables": "unknown",
+    "cablez power cables": "unknown",
+    "cablez version": "unknown",
+    "cablez's seasonic cables": "unknown",
+    "cabling": "unknown",
+    "cabling (ribbon": "unknown",
+    "cad drawings": "unknown",
+    "cadence incyte": "unknown",
+    "cage": "unknown",
+    "cages": "unknown",
+    "cainsmore": "unknown",
+    "cairnsmore": "cairnsmore1",  # Assuming a typo or shorthand for Cairnsmore1.
+    "cairnsmore 1": "cairnsmore1",
+    "cairnsmore boards": "cairnsmore1",  # Assuming it refers to boards for the Cairnsmore1.
+    "cairnsmore-1": "cairnsmore1",
+    "cairnsmore1": "cairnsmore1",
+    "cairnsmore1 135-235btc": "cairnsmore1",  # Specific performance detail, but clearly referring to Cairnsmore1.
+    "cairnsmore1 boards": "cairnsmore1",  # Referring to boards of the Cairnsmore1.
+    "cairnsmore1 device": "cairnsmore1",
+    "cairnsmore1 unit": "cairnsmore1",
+    "cairnsmore1s": "cairnsmore1",  # Plural form of Cairnsmore1.
+    "calculator": "unknown",
+    "calls": "unknown",
+    "cambrionix": "unknown",
+    "cambrionix 49 port": "unknown",
+    "cambrionix a6 49 port 2.0 hub": "unknown",
+    "camera": "unknown",
+    "camera fan": "unknown",
+    "cameras": "unknown"
+}
+```

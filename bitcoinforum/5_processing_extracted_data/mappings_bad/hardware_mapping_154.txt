@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "avalon64 th": "unknown",  # No exact match, possibly a typo or incorrect model number.
+    "avalon6s": "unknown",  # No exact match, possibly a typo or incorrect model number.
+    "avalon741": "avalon741",
+    "avalon741 1150w": "avalon741",  # Assuming the wattage is an additional specification.
+    "avalon841": "avalon841",
+    "avalon: box of fans": "unknown",  # No hardware match, likely an accessory.
+    "avalona chips": "unknown",  # No exact match, possibly a typo or incorrect model number.
+    "avalone 721": "avalon721",  # Assuming a typo, closest match.
+    "avalonminer": "unknown",  # Generic term for a range of products.
+    "avalonminer 1047": "avalonminer 1047",
+    "avalonminer 1066 50t": "avalonminer 1066",  # Closest match, assuming typo or variant.
+    "avalonminer 1066-50": "avalonminer 1066",  # Closest match, assuming typo or variant.
+    "avalonminer 1126pro-s-68": "unknown",  # No exact match, possibly a typo or incorrect model number.
+    "avalonminer 1166 pro": "avalonminer 1166 pro",
+    "avalonminer 1166 pro 81 t": "avalonminer 1166 pro",  # Assuming additional specification.
+    "avalonminer 1166pro 81 miner": "avalonminer 1166 pro",  # Assuming typo or variant.
+    "avalonminer 1166pro-72": "unknown",  # No exact match, possibly a typo or incorrect model number.
+    "avalonminer 1166pro-81": "avalonminer 1166 pro",  # Assuming typo or variant.
+    "avalonminer 1246": "avalonminer 1246",
+    "avalonminer 6.0": "unknown",  # No exact match, possibly a typo or incorrect model number.
+    "avalonminer 721": "avalon721",  # Closest match, assuming typo or variant.
+    "avalonminer 741": "avalon741",
+    "avalonminer 8 series hash board": "unknown",  # Likely a component rather than a complete miner model.
+    "avalonminer 821": "avalonminer 821",
+    "avalonminer 841": "avalonminer 841",
+    "avalonminer 921": "avalonminer 921",
+    "avalonminer a1246": "avalonminer 1246",  # Assuming typo or variant.
+    "avalonminer controller": "unknown",  # Accessory or component, not a miner model.
+    "avalonminer dashboard": "unknown",  # Likely software or interface, not hardware.
+    "avalonminer models 721 741 761 821 841": "unknown",  # General reference to multiple models.
+    "avalonminer usb converter": "unknown",  # Accessory or component, not a miner model.
+    "avalonminers": "unknown",  # Generic term for a range of products.
+    "avalonn countdown timer": "unknown",  # No hardware match, likely unrelated.
+    "avalues a1246": "avalonminer 1246",  # Assuming typo, closest match.
+    "avast": "unknown",  # Software, not mining hardware.
+    "avast antivirus": "unknown",  # Software, not mining hardware.
+    "avast av": "unknown",  # Software, not mining hardware.
+    "averaged sha miners": "unknown",  # No exact match, possibly a general term.
+    "avexir core red series 8gb (2x4gb) ddr3 pc3-12800c9 1600mhz dual channel memory kit": "unknown",  # RAM, not mining hardware.
+    "avg": "unknown",  # Software, not mining hardware.
+    "avg free": "unknown",  # Software, not mining hardware.
+    "aviation electronics technician": "unknown",  # Occupation, not mining hardware.
+    "avid mojo sdi fpga": "unknown",  # No exact match, possibly a typo or incorrect model number.
+    "avl asic": "unknown",  # No exact match, possibly a typo or incorrect model number.
+    "avlons": "unknown",  # No exact match, possibly a typo or incorrect model number.
+    "avm fritzbox": "unknown",  # Networking device, not mining hardware.
+    "avnets kintex-7 325 evaluation mmp module": "unknown",  # FPGA module, not directly a mining hardware.
+    "avr": "unknown",  # Microcontroller, not mining hardware.
+    "avr 3000w": "unknown",  # No exact match, possibly a typo or incorrect model number.
+    "avr dragon": "unknown",  # Development tool for AVR microcontrollers, not mining hardware.
+}
+```

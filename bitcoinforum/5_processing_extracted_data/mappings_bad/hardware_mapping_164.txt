@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "bfl 60gh single": "unknown",  # No exact match, but likely refers to a BFL Single product
+    "bfl 60gh unit": "unknown",  # No exact match, likely a general reference to BFL's 60GH/s products
+    "bfl 60gh/s single": "unknown",  # No exact match, but likely refers to a BFL Single product
+    "bfl 60gh/s single sc's": "unknown",  # No exact match, but likely refers to a BFL Single SC product
+    "bfl 60ghs": "unknown",  # No exact match, likely a general reference to BFL's 60GH/s products
+    "bfl 60ghs asic": "unknown",  # No exact match, likely a general reference to BFL's ASIC products
+    "bfl 60ghz single": "unknown",  # Likely a typo, meant to refer to a BFL Single product
+    "bfl 65nm units": "unknown",  # No exact match, refers to the manufacturing process of BFL ASICs
+    "bfl 7 gh/s jalapeno": "bfl single 'sc'",  # Closest match, considering product lineup
+    "bfl 7gh/s jalapeno": "bfl single 'sc'",  # Closest match, considering product lineup
+    "bfl 7ghash": "unknown",  # No exact match, likely a general reference to BFL's mining capability
+    "bfl 9": "unknown",  # No exact match, unclear reference
+    "bfl asic": "unknown",  # General reference to BFL's ASIC products
+    "bfl asic 65nm": "unknown",  # Refers to the manufacturing process, not a specific product
+    "bfl asic chip": "unknown",  # General reference to BFL's ASIC chips
+    "bfl asic chips": "unknown",  # General reference to BFL's ASIC chips
+    "bfl asic miner": "unknown",  # General reference to BFL's ASIC miners
+    "bfl asic mining board": "unknown",  # Specific component, no exact match
+    "bfl asic sample chip": "unknown",  # Specific component, no exact match
+    "bfl asic single": "unknown",  # Likely refers to a BFL Single ASIC product, but no exact match
+    "bfl asics": "unknown",  # General reference to BFL's ASIC products
+    "bfl b1": "unknown",  # No exact match, unclear reference
+    "bfl bitforce 50 gh/s": "unknown",  # No exact match, but likely refers to a BFL product
+    "bfl bitforce sc": "unknown",  # Likely refers to BFL's SC product line, but no exact match
+    "bfl bitforce single": "unknown",  # Likely refers to a BFL Single product, but no exact match
+    "bfl board": "unknown",  # General reference to BFL's boards
+    "bfl boxes": "unknown",  # Likely refers to packaging, not a specific product
+    "bfl cases": "unknown",  # Likely refers to product cases, not a specific product
+    "bfl chip": "unknown",  # General reference to BFL's ASIC chips
+    "bfl chip credits": "unknown",  # Specific to BFL's sales or promotions, not a product
+    "bfl chip discount credits": "unknown",  # Specific to BFL's sales or promotions, not a product
+    "bfl chip symbol": "unknown",  # Unclear reference, possibly related to branding
+    "bfl chips": "unknown",  # General reference to BFL's ASIC chips
+    "bfl credits": "unknown",  # Likely refers to a sales or promotion mechanism
+    "bfl custom made psus": "unknown",  # Refers to power supply units, not a mining product
+    "bfl customer": "unknown",  # Not a product
+    "bfl declared as 1 item": "unknown",  # Likely related to shipping or sales, not a product
+    "bfl device": "unknown",  # General reference to BFL's devices
+    "bfl devices": "unknown",  # General reference to BFL's devices
+    "bfl easy miner": "unknown",  # Likely refers to software, not hardware
+    "bfl easy miner software": "unknown",  # Software, not hardware
+    "bfl equipment": "unknown",  # General reference to BFL's mining equipment
+    "bfl fan plate set": "unknown",  # Accessory, not a mining product
+    "bfl fpga": "unknown",  # General reference to BFL's FPGA products
+    "bfl fpga old single": "unknown",  # Specific reference to an older FPGA product
+    "bfl fpga single": "unknown",  # Likely refers to a BFL FPGA Single product, but no exact match
+    "bfl fpga singles": "unknown",  # Likely refers to BFL FPGA Single products, but no exact match
+    "bfl fpgas": "unknown",  # General reference to BFL's FPGA products
+    "bfl gear": "unknown",  # General reference to BFL's products
+    "bfl hardware": "unknown"  # General reference to BFL's mining hardware
+}
+```

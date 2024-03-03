@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "avalon gen 2 chips": "unknown",  # No exact match, but implies Avalon's second generation chips.
+    "avalon gen iii (28nm)": "unknown",  # No exact match, but implies third generation Avalon ASICs.
+    "avalon gen1": "unknown",  # No exact match, but implies first generation Avalon ASICs.
+    "avalon gen1 chip": "unknown",  # No exact match, but implies first generation Avalon ASIC chips.
+    "avalon gen1.3": "unknown",  # No exact match, but implies a specific version within the first generation.
+    "avalon gen2": "unknown",  # No exact match, but implies second generation Avalon ASICs.
+    "avalon gen2 (a3255)": "unknown",  # No exact match, but specifies a chip model within the second generation.
+    "avalon gen2 55nm board": "unknown",  # No exact match, but specifies a board type within the second generation.
+    "avalon gen2 batch 1 220gh/s miners": "unknown",  # No exact match, but specifies a batch and hash rate.
+    "avalon gen2 chips": "unknown",  # No exact match, but implies second generation Avalon ASIC chips.
+    "avalon gen2  220gh/s": "unknown",  # No exact match, but specifies a hash rate for the second generation.
+    "avalon gen2  220gh/s  limited batch 67 of 100 units": "unknown",  # No exact match, but specifies a limited batch.
+    "avalon gen3 asic (e.g. a3233)": "unknown",  # No exact match, but specifies a chip model within the third generation.
+    "avalon generation 3": "unknown",  # No exact match, but implies third generation Avalon ASICs.
+    "avalon generation one orders": "unknown",  # No exact match, but implies orders for the first generation.
+    "avalon group buys": "unknown",  # No exact match, implies group purchases of Avalon miners.
+    "avalon has units": "unknown",  # Ambiguous, unclear reference to Avalon units.
+    "avalon hash rate": "unknown",  # General term, not specific to any model.
+    "avalon hashing": "unknown",  # General term, not specific to any model.
+    "avalon hashing engines": "unknown",  # General term, not specific to any model.
+    "avalon i": "unknown",  # No exact match, possibly implies first generation.
+    "avalon icarus": "icarus",  # Closest match to "icarus".
+    "avalon in the cart": "unknown",  # No relevant hardware match, likely a transactional reference.
+    "avalon klondike": "klondike",  # Closest match to "klondike".
+    "avalon logo": "unknown",  # Not hardware related.
+    "avalon machine": "unknown",  # General term, not specific to any model.
+    "avalon machines": "unknown",  # General term, not specific to any model.
+    "avalon miner": "unknown",  # General term, not specific to any model.
+    "avalon miner (and associated auc3)": "unknown",  # No exact match, but implies Avalon miners with AUC3 controller.
+    "avalon miner 1166 pro": "canaan avalonminer 1166 pro",  # Closest match to "canaan avalonminer 1166 pro".
+    "avalon miner 1166 pro 81 th": "canaan avalonminer 1166 pro",  # Closest match to "canaan avalonminer 1166 pro".
+    "avalon miner 1166pro 81th": "canaan avalonminer 1166 pro",  # Closest match to "canaan avalonminer 1166 pro".
+    "avalon miner 1166pro-78th": "canaan avalonminer 1166 pro",  # Closest match to "canaan avalonminer 1166 pro", assuming typo in hash rate.
+    "avalon miner 200 gh/s": "unknown",  # No exact match, but specifies a hash rate.
+    "avalon miner 230gh": "unknown",  # No exact match, but specifies a hash rate.
+    "avalon miner 230ghs": "unknown",  # No exact match, but specifies a hash rate.
+    "avalon miner 741s": "canaan avalonminer 741",  # Closest match to "canaan avalonminer 741", assuming typo.
+    "avalon miner 821": "canaan avalonminer 821",  # Exact match.
+    "avalon miner 841": "canaan avalonminer 841",  # Exact match.
+    "avalon miner 851 pmu": "unknown",  # No exact match, but specifies a model with PMU detail.
+    "avalon miner 921 20th/s": "canaan avalonminer 921",  # Closest match to "canaan avalonminer 921", hash rate for context.
+    "avalon miner a1166 pro-81t": "canaan avalonminer 1166 pro",  # Closest match to "canaan avalonminer 1166 pro".
+    "avalon miner a1246": "canaan avalonminer 1246",  # Exact match.
+    "avalon miner a851": "unknown",  # No exact match, possibly a typo or variant of "canaan avalonminer 851".
+    "avalon miner batch 2": "unknown",  # No exact match, but implies a second batch of an unspecified model.
+    "avalon miners": "unknown",  # General term, not specific to any model.
+    "avalon miners 841": "canaan avalonminer 841",  # Exact match.
+    "avalon miners a1246": "canaan avalonminer 1246",  # Exact match.
+    "avalon mini": "unknown",  # No exact match, but implies a smaller or compact model.
+    "avalon mini (60 gh/s)": "unknown",  # No exact match, but specifies a hash rate for a compact model.
+}
+```

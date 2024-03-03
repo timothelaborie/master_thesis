@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "avalon batch 3 units": "avalon batch 3",
+    "avalon batch 4": "unknown",  # No exact match in the list
+    "avalon batch#3": "avalon batch 3",
+    "avalon batch1": "avalon batch 1",
+    "avalon blade": "unknown",  # No exact match, possibly referring to a type of product rather than a specific model
+    "avalon board": "unknown",  # Generic term, not specific to any listed hardware
+    "avalon boards": "unknown",  # Generic term, not specific to any listed hardware
+    "avalon box": "unknown",  # Generic term, could refer to various Avalon products but not specific
+    "avalon boxes": "unknown",  # Generic term, could refer to various Avalon products but not specific
+    "avalon cables": "unknown",  # Accessory, not a mining hardware
+    "avalon canaan 1246 85th/s": "canaan avalonminer 1246",  # Closest match with some details provided
+    "avalon cgminer": "unknown",  # Software, not hardware
+    "avalon chip": "unknown",  # Generic term, not specific to any listed hardware
+    "avalon chip module board": "unknown",  # Generic term, not specific to any listed hardware
+    "avalon chip-based rigs": "unknown",  # Generic term, not specific to any listed hardware
+    "avalon chips": "unknown",  # Generic term, not specific to any listed hardware
+    "avalon chips & board assembly": "unknown",  # Generic term, not specific to any listed hardware
+    "avalon chips 2654": "unknown",  # Specific chip model not listed
+    "avalon chips 3264": "unknown",  # Specific chip model not listed
+    "avalon chips 5022": "unknown",  # Specific chip model not listed
+    "avalon chips named beehive": "unknown",  # No exact match, possibly a project or product name
+    "avalon chips through steamboat's assembly batch 6": "unknown",  # No exact match, detailed description but not in list
+    "avalon clone": "unknown",  # Generic term, not specific to any listed hardware
+    "avalon clone 200ghz": "unknown",  # Likely a typo (GHz instead of GH/s), and no exact match
+    "avalon clone board": "unknown",  # Generic term, not specific to any listed hardware
+    "avalon clone btmine box": "unknown",  # No exact match, detailed description but not in list
+    "avalon clone pcb": "unknown",  # Generic term, not specific to any listed hardware
+    "avalon clone prototype": "unknown",  # Generic term, not specific to any listed hardware
+    "avalon clones": "unknown",  # Generic term, not specific to any listed hardware
+    "avalon connector": "unknown",  # Accessory, not a mining hardware
+    "avalon control board": "unknown",  # Generic term, not specific to any listed hardware
+    "avalon controler": "unknown",  # Likely a typo for "controller", but still no exact match
+    "avalon controller": "unknown",  # Generic term, not specific to any listed hardware
+    "avalon controllers": "unknown",  # Generic term, not specific to any listed hardware
+    "avalon customer": "unknown",  # Not hardware
+    "avalon customers": "unknown",  # Not hardware
+    "avalon device": "unknown",  # Generic term, not specific to any listed hardware
+    "avalon devices": "unknown",  # Generic term, not specific to any listed hardware
+    "avalon factory 50pcs 110g 4# avalon mining": "unknown",  # No exact match, seems to describe a product batch
+    "avalon fan": "unknown",  # Accessory, not a mining hardware
+    "avalon fans": "unknown",  # Accessory, not a mining hardware
+    "avalon firmware": "unknown",  # Software, not hardware
+    "avalon firmware - 20170603 luci: ffc1d59 cgminer: 2354004 cgminer-packages: d309c69socket connect failed => connection refused": "unknown",  # Software versioning, not hardware
+    "avalon firmware for avalon8": "unknown",  # Software for a specific model, but "avalon8" not listed
+    "avalon fpga control unit": "unknown",  # Generic term, not specific to any listed hardware
+    "avalon fpga controller board": "unknown",  # Generic term, not specific to any listed hardware
+    "avalon from a721 up to currently a10": "unknown",  # Describes a range but not specific models listed
+    "avalon gb1": "unknown",  # No exact match in the list
+    "avalon gear": "unknown",  # Generic term, not specific to any listed hardware
+    "avalon gen 2": "unknown",  # Generic term, could refer to a generation of products but not specific
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "apevia as520w": "unknown",
+    "apevia atx-cb700w": "unknown",
+    "apevia atx-tl450w": "unknown",
+    "api fifo overflow flag": "unknown",
+    "api flot graphs": "unknown",
+    "apis": "unknown",
+    "apminertool": "unknown",
+    "apollo": "unknown",
+    "apollo atc": "unknown",
+    "apollo btc": "unknown",
+    "apollo btc miner": "unknown",
+    "apollo btc standard usb controlled version": "unknown",
+    "apollo full node": "unknown",
+    "apollo miner": "unknown",
+    "apollo node": "unknown",
+    "apolloe futurebit full node miner": "unknown",  # Closest match could be "apollo", but no exact hardware match.
+    "app": "unknown",
+    "app 2.4": "unknown",
+    "app 2.5870": "5870",  # Assuming a typo or shorthand for "Radeon HD 5870".
+    "app 2.9": "unknown",
+    "app sdk": "unknown",
+    "app sdk 2.5": "unknown",
+    "appdata bitcoin file": "unknown",
+    "apphire radeon 5850 gpus": "5850",  # Assuming a typo for "Sapphire Radeon HD 5850".
+    "apple 5870": "5870",  # Assuming reference to "Radeon HD 5870" used in some Apple products.
+    "apple airport extreme": "unknown",
+    "apple charger": "unknown",
+    "apple computer": "unknown",
+    "apple extreme base station router": "unknown",
+    "apple ii": "unknown",
+    "apple ipad charger": "unknown",
+    "apple iphone": "unknown",
+    "apple iphone4 charger": "unknown",
+    "apple laptop": "unknown",
+    "apple of btc miners": "unknown",
+    "apple router": "unknown",
+    "apple routers": "unknown",
+    "apple routers (tall time capsule": "unknown",
+    "apple tv": "unknown",
+    "appliance management program (amp)": "unknown",
+    "application monitor": "unknown",
+    "appolo": "unknown",  # Likely a typo for "Apollo", but no exact hardware match.
+    "approached miners": "unknown",
+    "apps": "unknown",
+    "april batch miner": "unknown",
+    "april bfl preorder": "unknown",
+    "apu": "unknown",
+    "apw 1600 psu": "unknown",
+    "apw 3+ power supply": "unknown",
+    "apw 3++": "unknown"
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "bitfury 16 chip boards": "unknown",  # No exact match, but related to Bitfury products.
+    "bitfury 16 chip boards 41.7gh/s": "unknown",  # No exact match, specifics about performance.
+    "bitfury 16-board kit 400gh/s": "unknown",  # No exact match, specifics about performance.
+    "bitfury 16nm chip product": "unknown",  # No exact match, refers to chip technology.
+    "bitfury 250-300gh": "unknown",  # No exact match, performance range given.
+    "bitfury 28 nm chip": "unknown",  # No exact match, refers to chip technology.
+    "bitfury 400": "unknown",  # No exact match, possibly refers to performance.
+    "bitfury 400 gh": "unknown",  # No exact match, possibly refers to performance.
+    "bitfury 400 gh kit": "unknown",  # No exact match, kit with performance specification.
+    "bitfury 400 ghash units": "unknown",  # No exact match, performance specification.
+    "bitfury 400 gigahash units": "unknown",  # No exact match, performance specification.
+    "bitfury 400g": "unknown",  # No exact match, possibly refers to performance.
+    "bitfury 400g bitcoin mining hardware": "unknown",  # No exact match, performance and hardware specified.
+    "bitfury 400gh/s miner": "unknown",  # No exact match, performance and hardware specified.
+    "bitfury 450g rig": "unknown",  # No exact match, performance and rig specified.
+    "bitfury 48 h-board rigs": "unknown",  # No exact match, specific hardware configuration.
+    "bitfury 55nm": "unknown",  # No exact match, refers to chip technology.
+    "bitfury 55nm asic chips": "unknown",  # No exact match, specific chip technology.
+    "bitfury 55nm chip": "unknown",  # No exact match, specific chip technology.
+    "bitfury 8board rig": "unknown",  # No exact match, specific hardware configuration.
+    "bitfury and bfl shares (200 gh/s)": "unknown",  # No exact match, refers to performance and possibly shares.
+    "bitfury asic": "unknown",  # No exact match, refers to ASIC technology.
+    "bitfury asic (ua) 120gh": "unknown",  # No exact match, specific performance.
+    "bitfury asic miner 120gh/s": "unknown",  # No exact match, specific performance.
+    "bitfury asics": "unknown",  # No exact match, refers to ASIC technology.
+    "bitfury august delivery 400gh miner": "unknown",  # No exact match, specific performance and delivery.
+    "bitfury b8": "bitfury b8",  # Exact match.
+    "bitfury b8 server 50th": "bitfury b8",  # Closest match, though specifics about performance.
+    "bitfury b8's": "bitfury b8",  # Closest match, plural form.
+    "bitfury bare chips": "unknown",  # No exact match, refers to chip technology.
+    "bitfury bare chips ~2.6 gh/s": "unknown",  # No exact match, specific performance.
+    "bitfury beauty": "unknown",  # No exact match, unclear reference.
+    "bitfury bf1 usb miner (com100)": "unknown",  # No exact match, specific product.
+    "bitfury bf3500": "unknown",  # No exact match, specific product.
+    "bitfury boards": "unknown",  # No exact match, general reference to hardware.
+    "bitfury burner board": "unknown",  # No exact match, specific hardware.
+    "bitfury burners": "unknown",  # No exact match, unclear reference.
+    "bitfury cases": "unknown",  # No exact match, possibly refers to hardware housing.
+    "bitfury chip": "unknown",  # No exact match, general reference to chip technology.
+    "bitfury chips": "unknown",  # No exact match, general reference to chip technology.
+    "bitfury chips 55nm rev.1": "unknown",  # No exact match, specific chip technology.
+    "bitfury controller": "unknown",  # No exact match, refers to hardware component.
+    "bitfury controller v2": "unknown",  # No exact match, specific version of hardware component.
+    "bitfury cougar fans": "unknown",  # No exact match, specific hardware component.
+    "bitfury farm 7-8 miner": "unknown",  # No exact match, refers to a mining setup.
+    "bitfury frame": "unknown",  # No exact match, possibly refers to hardware housing.
+    "bitfury full kit": "unknown",  # No exact match, refers to a complete set of hardware.
+    "bitfury gear": "unknown",  # No exact match, general reference to hardware.
+    "bitfury h cards": "unknown",  # No exact match, specific hardware component.
+    "bitfury h-board": "unknown"  # No exact match, specific hardware configuration.
+}
+```

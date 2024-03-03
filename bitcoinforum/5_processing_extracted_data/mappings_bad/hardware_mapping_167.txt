@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "bfl's $2500 50gh/s": "unknown",
+    "bfl's 80w fpga singles": "unknown",
+    "bfl's single board": "unknown",
+    "bfl+2xica": "unknown",
+    "bfl+ica": "unknown",
+    "bfl+icas": "unknown",
+    "bfl-chip": "unknown",
+    "bfl-miners": "unknown",
+    "bfl-sc-single": "unknown",
+    "bfl60": "unknown",
+    "bfle": "unknown",
+    "bflminer": "unknown",
+    "bfls": "unknown",
+    "bfls 60hg/s boxes": "unknown",
+    "bflsingle sc 60 gh/s device": "unknown",
+    "bfmg bitfury bf1": "unknown",
+    "bfminer": "unknown",
+    "bfsb miner": "unknown",
+    "bfsb starter kit": "unknown",
+    "bfx2 bitfury usb stick miner": "unknown",
+    "bfx2 miner": "unknown",
+    "bfy chips": "unknown",
+    "bg eu 4632": "unknown",
+    "bga board": "unknown",
+    "bga chips": "unknown",
+    "bgear fans": "unknown",
+    "bgears pwm 120mm": "unknown",
+    "bgl 60gh\s miners": "unknown",
+    "bgminer 5.0.0": "unknown",
+    "bhb42651": "unknown",
+    "bhb42651 hashboard": "unknown",
+    "bi fury 5 gh/s usb 2.0 bitcoin miner": "bi*fury",  # Closest match, assuming typo.
+    "bi fury usb": "bi*fury",  # Closest match, assuming typo.
+    "bi fury usb miner": "bi*fury",  # Closest match, assuming typo.
+    "bi fury usb stick": "bi*fury",  # Closest match, assuming typo.
+    "bi*furry": "bi*fury",  # Typo, closest match.
+    "bi*fury": "bi*fury",
+    "bi*fury (bxf) devices": "bi*fury",  # Additional detail, but matches.
+    "bi-fury": "bi*fury",  # Typo or alternate spelling.
+    "bi-fury 5 gh/s": "bi*fury",  # Closest match, assuming typo.
+    "bi-metal thermostat": "unknown",
+    "bicknellski k1 nano usa only group buy": "unknown",
+    "bicknellski's biased & opinionated (consumer focused) manufacturer trustworthiness guide": "unknown",
+    "bicycle": "unknown",
+    "bicycle generator": "unknown",
+    "bifasical to 60amp circuit breakers": "unknown",
+    "bifury": "bi*fury",  # Typo, closest match.
+    "bifury 4gh": "bi*fury",  # Typo, closest match.
+    "bifury 5 gh": "bi*fury",  # Typo, closest match.
+    "bifury 5+ gh/s": "bi*fury"  # Typo, closest match.
+}
+```

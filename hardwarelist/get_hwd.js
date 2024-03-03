@@ -9,18 +9,26 @@ tables.forEach((element, index) => {
     var rows = element.querySelectorAll('tr');
 
     for (var i = 1; i < rows.length; i++) {
-		if(true){
-			var cells = rows[i].querySelectorAll('td');
-			var hardwareName = cells[0].textContent.trim();
-			var hashrate = cells[1].textContent.trim().replace(/[^0-9.]/g, "");
-			var efficiency = cells[2].textContent.trim().replace(/[^0-9.]/g, "");
-		} else {
-			var cells = rows[i].querySelectorAll('td');
-			var hashrate = cells[0].textContent.trim().replace(/[^0-9.]/g, "");
-			var efficiency = cells[1].textContent.trim().replace(/[^0-9.]/g, "");
-			var th = rows[i].querySelectorAll('th');
-			var hardwareName = th[0].textContent.trim();
-		}
+
+        // delete any <sup> tags
+        var sups = rows[i].querySelectorAll('sup');
+        for (var j = 0; j < sups.length; j++) {
+            sups[j].remove();
+        }
+
+        var cells = rows[i].querySelectorAll('td');
+        var hardwareName = cells[0].textContent.trim();
+        var hashrate = cells[1].textContent.trim().replace(/[^0-9.]/g, "");
+        var efficiency = cells[2].textContent.trim().replace(/[^0-9.]/g, "");
+        var Watts = cells[4].textContent.trim().replace(/[^0-9.]/g, "");
+
+        // var cells = rows[i].querySelectorAll('td');
+        // var hashrate = cells[0].textContent.trim().replace(/[^0-9.]/g, "");
+        // var efficiency = cells[1].textContent.trim().replace(/[^0-9.]/g, "");
+        // var Watts = cells[3].textContent.trim().replace(/[^0-9.]/g, "");
+        // var th = rows[i].querySelectorAll('th');
+        // var hardwareName = th[0].textContent.trim();
+    
 
 		
 
@@ -34,7 +42,12 @@ tables.forEach((element, index) => {
                 efficiency: {
                     total: 0,
                     count: 0
+                },
+                Watts: {
+                    total: 0,
+                    count: 0
                 }
+                
             };
         }
 
@@ -49,13 +62,26 @@ tables.forEach((element, index) => {
             hashTable[hardwareName].efficiency.total += efficiency;
             hashTable[hardwareName].efficiency.count++;
         }
+
+        if (/\d/.test(Watts)) { // check if there are any digits present in Watts
+            Watts = parseFloat(Watts);
+            hashTable[hardwareName].Watts.total += Watts;
+            hashTable[hardwareName].Watts.count++;
+        }
     }
 });
 
 for (var hardware in hashTable) {
     var avgHashrate = hashTable[hardware].hashrate.count > 0 ? hashTable[hardware].hashrate.total / hashTable[hardware].hashrate.count : 'N/A';
     var avgEfficiency = hashTable[hardware].efficiency.count > 0 ? hashTable[hardware].efficiency.total / hashTable[hardware].efficiency.count : 'N/A';
-    output.push(hardware + '<sep>' + (avgHashrate+"").substr(0,6) + '<sep>' + (avgEfficiency+"").substr(0,6));
+    var avgWatts = hashTable[hardware].Watts.count > 0 ? hashTable[hardware].Watts.total / hashTable[hardware].Watts.count : 'N/A';
+
+    //if avgEfficiency is N/A but the other two are not, then calculate it
+    // if (avgEfficiency === 'N/A' && avgHashrate !== 'N/A' && avgWatts !== 'N/A') {
+    //     avgEfficiency = avgHashrate / avgWatts;
+    // }
+
+    output.push(hardware + '<sep>' + (avgHashrate+"").substr(0,6) + '<sep>' + (avgEfficiency+"").substr(0,6) + '<sep>' + (avgWatts+"").substr(0,6));
 }
 
 console.log(output);

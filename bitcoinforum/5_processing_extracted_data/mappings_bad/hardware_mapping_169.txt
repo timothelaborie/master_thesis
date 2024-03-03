@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "bit-winkor a1": "unknown",  # No close match found.
+    "bitamain s1": "antminer s1",  # Typo in "bitamain", assuming meant "bitmain".
+    "bitaxe v2 pcbs": "unknown",  # No close match found.
+    "bitburner": "unknown",  # No exact match, could refer to a general term for certain mining hardware.
+    "bitburner boards": "unknown",  # No exact match, likely refers to parts of a specific miner.
+    "bitburner furry": "unknown",  # Likely a typo meant for "bitburner fury".
+    "bitburner furry 45ghs miner": "unknown",  # Likely a typo meant for "bitburner fury".
+    "bitburner fury": "unknown",  # No exact match, but clearly refers to a specific model.
+    "bitburner fury (single board)": "unknown",  # Detailed specification, but no exact match.
+    "bitburner fury boards": "unknown",  # Refers to parts of the "bitburner fury" miner.
+    "bitburner usb miner": "unknown",  # General description, no exact match.
+    "bitburner x": "unknown",  # No exact match found.
+    "bitburner xx boards": "unknown",  # No exact match found.
+    "bitburners": "unknown",  # Likely a general term for "bitburner" products.
+    "bitburnersxx": "unknown",  # No exact match found.
+    "bitburnerx (10 chip board)": "unknown",  # Detailed specification, but no exact match.
+    "bitburnerx 10chip boards": "unknown",  # Detailed specification, but no exact match.
+    "bitburnerxx": "unknown",  # No exact match found.
+    "bitburnerxx 20chip": "unknown",  # Detailed specification, but no exact match.
+    "bitcare": "unknown",  # No close match found.
+    "bitcoin": "unknown",  # General term, not hardware.
+    "bitcoin \"data centers\"": "unknown",  # General term, not specific hardware.
+    "bitcoin (btc) miner 1th/s": "unknown",  # General description, no exact match.
+    "bitcoin -server": "unknown",  # General term, not specific hardware.
+    "bitcoin application": "unknown",  # General term, not hardware.
+    "bitcoin asic": "unknown",  # General term for a type of miner, not specific hardware.
+    "bitcoin asic miner cube 30 to 38 ghs": "asicminer be cube",  # Closest match based on description.
+    "bitcoin asics": "unknown",  # General term, not specific hardware.
+    "bitcoin block": "unknown",  # General term, not hardware.
+    "bitcoin calculator": "unknown",  # General term, not hardware.
+    "bitcoin classic": "unknown",  # Refers to a version of Bitcoin software, not hardware.
+    "bitcoin client": "unknown",  # Software term, not hardware.
+    "bitcoin conf": "unknown",  # Likely refers to configuration files, not hardware.
+    "bitcoin core": "unknown",  # Bitcoin software, not mining hardware.
+    "bitcoin core (v0.9.0-beta 64-bit)": "unknown",  # Specific version of Bitcoin software, not hardware.
+    "bitcoin core .21.0 full node": "unknown",  # Software, not hardware.
+    "bitcoin core 0.10.0": "unknown",  # Software version, not hardware.
+    "bitcoin core app": "unknown",  # Software, not hardware.
+    "bitcoin core based wallet": "unknown",  # Software, not hardware.
+    "bitcoin core node": "unknown",  # Refers to a software node, not hardware.
+    "bitcoin core v0.13.0 (64-bit)": "unknown",  # Software version, not hardware.
+    "bitcoin core v0.18.1": "unknown",  # Software version, not hardware.
+    "bitcoin core v22": "unknown",  # Software version, not hardware.
+    "bitcoin core wallet": "unknown",  # Software, not hardware.
+    "bitcoin gpu miner": "unknown",  # General term, could refer to any GPU based mining setup.
+    "bitcoin helper": "unknown",  # Likely software or service, not hardware.
+    "bitcoin loterymachine": "unknown",  # No close match found, likely a typo or non-standard hardware.
+    "bitcoin machine": "unknown",  # General term, not specific hardware.
+    "bitcoin merch mars lander": "unknown",  # No close match found.
+    "bitcoin merchant 3x gekko compac f": "unknown",  # No exact match, but seems to refer to a specific setup involving GekkoScience products.
+}
+```

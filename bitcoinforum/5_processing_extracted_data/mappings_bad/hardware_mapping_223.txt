@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "crystalcpuid": "unknown",
+    "crystaldiskmark": "unknown",
+    "crystals": "unknown",
+    "cs016321 1248p mtsm7 chips": "unknown",
+    "cs19j pro 104": "unknown",
+    "cs650m": "unknown",
+    "cs650m (gold atx)": "unknown",
+    "cs650m 650w 80+gold psu": "unknown",
+    "cs750m": "unknown",
+    "cs750m psu": "unknown",
+    "ct-scan": "unknown",
+    "cta 0": "unknown",
+    "cta 1": "unknown",
+    "cta0": "unknown",
+    "cta0 core2": "unknown",
+    "cta1": "unknown",
+    "cta1 board": "unknown",
+    "cta1 core 2": "unknown",
+    "ctr1 light": "unknown",
+    "cubbieboard2": "unknown",
+    "cube": "unknown",  # No exact match, but could be referring to ASICminer be cube, clarification needed.
+    "cube 30gh/s - 38gh/s": "unknown",  # No exact match, but could be referring to ASICminer be cube, clarification needed.
+    "cube 38 gh btc miners": "unknown",  # No exact match, but could be referring to ASICminer be cube, clarification needed.
+    "cube cables": "unknown",
+    "cube from jones' gear": "unknown",
+    "cube miners": "unknown",  # No exact match, but could be referring to ASICminer be cube, clarification needed.
+    "cubes": "unknown",  # No exact match, but could be referring to ASICminer be cube, clarification needed.
+    "cubieboard 2": "unknown",
+    "cubieboard2": "unknown",
+    "cubieboards": "unknown",
+    "cubietruck": "unknown",
+    "cubox-i": "unknown",
+    "cuda": "unknown",
+    "cuda cores": "unknown",
+    "cuda drivers": "unknown",
+    "cuda gpu": "unknown",
+    "cuda miner": "unknown",
+    "cuda-3.2.16-1": "unknown",
+    "cudaminer": "unknown",
+    "cuminer": "unknown",
+    "cupons from 2 jalapenos": "unknown",
+    "cupv": "unknown",
+    "curl return value": "unknown",
+    "currency exchange site": "unknown",
+    "current 3kw miners": "unknown",
+    "current computer": "unknown",
+    "current computer with a 7570": "unknown",
+    "current computer with the old card": "unknown",
+    "current meters": "unknown",
+    "current probes": "unknown"
+}
+```

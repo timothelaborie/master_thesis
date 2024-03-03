@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "asicminer's qfn48s": "unknown",
+    "asicminer-pt": "unknown",
+    "asicminer/avalon": "unknown",  # Could be related to "avalon batch 1" or similar, but not clear.
+    "asicminers": "unknown",
+    "asicminers block erupter": "unknown",  # Close to "block erupter asics" but not an exact match.
+    "asicminerv3": "unknown",
+    "asicmining cube": "unknown",
+    "asics": "unknown",
+    "asics antminer s11": "bitmain antminer s11",
+    "asics antminers u1": "antminer u1",
+    "asics block erupter": "unknown",  # Close to "block erupter asics" but not an exact match.
+    "asics from various manufacturers": "unknown",
+    "asics l3+/d3/s8 (2500+ devices)": "unknown",
+    "asics machines": "unknown",
+    "asics made w/ avalon asic chips": "unknown",  # Could imply a connection to Avalon products but not specific.
+    "asics made w/ avalon chips": "unknown",  # Similar to above, implies Avalon but not specific.
+    "asics miner": "unknown",
+    "asics usb": "unknown",
+    "asictube": "unknown",
+    "asiics": "unknown",
+    "asiminer tubes": "unknown",
+    "asisc": "unknown",
+    "asmedia technology inc.": "unknown",
+    "asmedia usb3 hub": "unknown",
+    "asmedia usb3 ports": "unknown",
+    "asrock": "unknown",
+    "asrock 870 extreme 3 r2 motherboard": "unknown",
+    "asrock 880g pro3 atx amd motherboard": "unknown",
+    "asrock 890gx extreme3 (motherboard)": "unknown",
+    "asrock 890gx extreme4": "unknown",
+    "asrock 939a785gmh opteron 2gb ram": "2x opteron 6128",  # Assuming a typo or version difference, closest match.
+    "asrock 970": "unknown",
+    "asrock 970 extereme 4": "unknown",  # Likely meant "asrock 970 extreme 4" but typo present.
+    "asrock 970 extreme 3": "unknown",
+    "asrock 970 extreme 3 rev2": "unknown",
+    "asrock 970 extreme 4": "unknown",
+    "asrock 970 extreme 4 mbs": "unknown",
+    "asrock 970 extreme3": "unknown",
+    "asrock 970 extreme4": "unknown",
+    "asrock 970 extreme4 (3 x16 pci-e slots 2 x1 slots)": "unknown",
+    "asrock 970 extreme4 mobo": "unknown",
+    "asrock 970ex4": "unknown",  # Likely a shorthand or typo for "asrock 970 extreme4".
+    "asrock 990fx extreme4": "unknown",
+    "asrock 990fx professional fatal1ty mobo": "unknown",
+    "asrock alivexfire e-sata 2": "unknown",
+    "asrock alivexfire esata 2 r3": "unknown",
+    "asrock alivexfire-esata2": "unknown",
+    "asrock am2xli-esata2 motherboard": "unknown",
+    "asrock extreme 4": "unknown",  # Likely shorthand for one of the "asrock extreme4" models but not specific.
+    "asrock extreme 4 mb": "unknown",
+}
+```

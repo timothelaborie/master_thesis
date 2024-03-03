@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "antminer s9i": "antminer s9i",
+    "antminer s9i boards": "antminer s9i",  # Assuming the context refers to parts of the s9i.
+    "antminer s9i dashboard": "antminer s9i",  # Assuming the context refers to the s9i's interface.
+    "antminer s9j": "antminer s9j",
+    "antminer s9j (14.5t 1350w)": "antminer s9j",
+    "antminer s9j 14.5ths": "antminer s9j",
+    "antminer s9j 14th": "antminer s9j",
+    "antminer s9j arround 3 months ago": "antminer s9j",  # Contextual reference to the s9j.
+    "antminer s9k": "antminer s9k",
+    "antminer s9s": "unknown",  # No exact match found.
+    "antminer s9se": "antminer s9se",
+    "antminer sp10": "unknown",  # No exact match found.
+    "antminer sp20": "unknown",  # No exact match found.
+    "antminer sp35": "unknown",  # No exact match found.
+    "antminer ssh": "unknown",  # Likely refers to a command or interface, not a model.
+    "antminer status": "unknown",  # General term, not a model.
+    "antminer stick": "unknown",  # Ambiguous, could refer to several USB miner models.
+    "antminer switch": "unknown",  # Likely not a model.
+    "antminer t15": "antminer t15",
+    "antminer t15 control board": "antminer t15",  # Referring to parts of the t15.
+    "antminer t15 has board": "antminer t15",  # Likely a typo, assuming it refers to the t15.
+    "antminer t17": "antminer t17",
+    "antminer t17 + problems with hashboard": "antminer t17",  # Contextual reference to the t17.
+    "antminer t17+": "antminer t17+",
+    "antminer t17+ 55 th/s": "antminer t17+",
+    "antminer t17+ 64th": "antminer t17+",
+    "antminer t17+55": "antminer t17+",  # Likely a typo or shorthand for t17+ 55 th/s.
+    "antminer t17/s17": "unknown",  # Ambiguous, could refer to either t17 or s17.
+    "antminer t17e": "antminer t17e",
+    "antminer t19 84t": "antminer t19",
+    "antminer t9": "antminer t9",
+    "antminer t9 12.5 ths": "antminer t9",
+    "antminer t9+": "antminer t9+",
+    "antminer t9-11.5th": "antminer t9",  # Likely referring to a variant of the t9.
+    "antminer test fixture for s9 t9": "unknown",  # Refers to a testing device, not a mining model.
+    "antminer u*": "unknown",  # Wildcard, ambiguous.
+    "antminer u-1": "unknown",  # Likely a typo or incorrect reference.
+    "antminer u-2": "unknown",  # Likely a typo or incorrect reference.
+    "antminer u1": "antminer u1",
+    "antminer u1 miners": "antminer u1",  # Contextual reference to the u1.
+    "antminer u1 rigs": "antminer u1",  # Contextual reference to the u1.
+    "antminer u1 usb": "antminer u1",
+    "antminer u1 usb 1.6gh/s": "antminer u1",
+    "antminer u1 usb 1.6gh/s+": "antminer u1",
+    "antminer u1 usb miner sticks": "antminer u1",
+    "antminer u1 usb stick": "antminer u1",
+    "antminer u1 usb sticks": "antminer u1",
+    "antminer u1 usb sticks (world wide) gb": "antminer u1",  # Contextual reference to the u1.
+    "antminer u1 usb stickss": "antminer u1",  # Likely a typo, referring to u1 usb sticks.
+    "antminer u1's": "antminer u1"  # Plural or possessive form of u1.
+}
+```

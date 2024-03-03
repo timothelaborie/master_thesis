@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "arctic fan": "unknown",
+    "arctic feeze pro (usb hub+desktop fan)": "unknown",
+    "arctic freezer 7": "unknown",
+    "arctic mx-4": "unknown",
+    "arctic silver 5": "unknown",
+    "arctic silver 5 thermally conductive paste": "unknown",
+    "arctic silver 7g premium silver thermal cooling adhesive set (asta-7g)": "unknown",
+    "arctic silver adhesive/epoxy": "unknown",
+    "arctic silver two part heatsink adhesive": "unknown",
+    "arctic thermal pad": "unknown",
+    "arctic usb fans": "unknown",
+    "arctic usb powered mini fan": "unknown",
+    "arctic white pc": "unknown",
+    "arduino": "unknown",
+    "arduino due": "unknown",
+    "arduino duo miner": "unknown",  # No exact match, but implies a custom mining setup using Arduino
+    "arduino like board": "unknown",
+    "arduino mega": "unknown",
+    "arduino miner": "unknown",  # Implies a custom mining setup using Arduino
+    "arduino uno": "unknown",
+    "arduino watchdog": "unknown",
+    "ardulonminer shield": "unknown",  # No exact match, but implies a custom mining setup using Arduino
+    "arizona bitcoin meetup": "unknown",
+    "arlec energy meter": "unknown",
+    "arm": "unknown",
+    "arm a9 processors and a fpga": "unknown",  # Implies a custom mining setup using ARM A9 processors
+    "arm arch linux-based mining platform": "unknown",  # Implies a custom mining setup using ARM architecture
+    "arm chip": "unknown",
+    "arm cortex m3": "unknown",
+    "arm microcontroller from calico miner": "unknown",  # No exact match, but implies a custom mining setup
+    "arm processors": "unknown",
+    "armchairminer": "unknown",
+    "armhf device": "unknown",
+    "arml7": "unknown",
+    "armory": "unknown",
+    "armory offline wallet": "unknown",
+    "armory wallet": "unknown",
+    "armour plates": "unknown",
+    "array using 100kwatt array per hour": "unknown",
+    "arris cable router": "unknown",
+    "arris cable router/modem": "unknown",
+    "arris modem assisting through skype as arris modem with a built-in router": "unknown",
+    "arris nvg589 router": "unknown",
+    "arris router": "unknown",
+    "arris two in one modem router": "unknown",
+    "arsia": "unknown",
+    "artemis trojan": "unknown",
+    "artesyn 7001138-y000": "unknown",
+    "artesyn 7001138-y000 power supply": "unknown",
+    "artic accelero cooler": "unknown"
+}
+```

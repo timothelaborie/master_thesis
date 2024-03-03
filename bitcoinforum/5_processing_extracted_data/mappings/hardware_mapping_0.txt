@@ -1,11 +1,11 @@
 ```python
 mapping = {
-    " nano ledger wallet": "unknown",
+    "nano ledger wallet": "unknown",
     "+&\" screw terminals": "unknown",
     "2xgpu+2xicarus": "icarus",
     "45 chip boards": "unknown",
     "cgminer --api-listen": "unknown",
-    "lip" formed by the different widths of the flat bar: "unknown",
+    "lip formed by the different widths of the flat bar": "unknown",
     "#1 unit": "unknown",
     "#11 and #13": "unknown",
     "#12 2-conductor with ground wire cable": "unknown",
@@ -14,7 +14,7 @@ mapping = {
     "#2 pencil": "unknown",
     "#5-40 (1/2 or 3/4\" shcs": "unknown",
     "#6/#8(linked 15+15a)": "unknown",
-    "$12 grand in black arrow": "unknown",
+    "$12 grand in black arrow": "black arrow prospero x-1",  # Assuming a reference to Black Arrow manufacturer, questionable mapping
     "$16 holmes personal fans": "unknown",
     "$2 usb hub": "unknown",
     "$20 plastic box fan": "unknown",
@@ -25,7 +25,7 @@ mapping = {
     "$50 hp pdu": "unknown",
     "$500 pc": "unknown",
     "$7 cheap 10 port powered usb wrack": "unknown",
-    "$70= 10-15gh/s": "unknown",
+    "$70= 10-15gh/s": "unknown",  # No direct match, possibly referring to mining efficiency but unclear
     "$78 thermaltake sp-750p psus": "unknown",
     "$7k resistor": "unknown",
     "%insert%": "unknown",
@@ -35,7 +35,7 @@ mapping = {
     "'shorty' rack for a single rig": "unknown",
     "(gpu)": "unknown",
     "(ground) --- (10k-resistor) -------|------- (thermistor) ---- (+5v)": "unknown",
-    "(inno t2 turbo 2s)": "innosilicon t2 turbo",
+    "(inno t2 turbo 2s)": "innosilicon t2 turbo",  # Assuming a typo or shorthand for Innosilicon T2 Turbo
     "(sapphire) 7850": "7850",
     "(windows or osx boxes)": "unknown",
     "*team - t-force / night hawk 16gb (2 x 8gb) ddr4-3200 memory": "unknown",
@@ -49,6 +49,6 @@ mapping = {
     ".bat file": "unknown",
     ".bat files": "unknown",
     ".cmd files": "unknown",
-    ".net": "unknown"
+    ".net": "unknown",
 }
 ```

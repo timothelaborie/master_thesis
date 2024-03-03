@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "asic#": "unknown",
+    "asic#1": "unknown",
+    "asic#1 module": "unknown",
+    "asic#3": "unknown",
+    "asic#4": "unknown",
+    "asic#5": "unknown",
+    "asic#: 30": "unknown",
+    "asic's": "unknown",
+    "asic's chips": "unknown",
+    "asic's from bfl": "unknown",  # Could refer to any BFL (Butterfly Labs) product, but not specific enough.
+    "asic-freq file": "unknown",
+    "asic-k": "unknown",
+    "asic-machines": "unknown",
+    "asic.repair kit": "unknown",
+    "asic.to": "unknown",
+    "asic.to firmware": "unknown",
+    "asic/gpu": "unknown",
+    "asic[ 0]": "unknown",
+    "asic[ 1]": "unknown",
+    "asic[ 2]": "unknown",
+    "asic[ 3]": "unknown",
+    "asic[ 4]": "unknown",
+    "asic[ 5]": "unknown",
+    "asic[ 6]": "unknown",
+    "asic[ 7]": "unknown",
+    "asic[ 8]": "unknown",
+    "asic[ 9]": "unknown",
+    "asic[10]": "unknown",
+    "asic[11]": "unknown",
+    "asic[12]": "unknown",
+    "asic[13]": "unknown",
+    "asic[14]": "unknown",
+    "asic[15]": "unknown",
+    "asic[16]": "unknown",
+    "asic[29] chip": "unknown",
+    "asic[57] chip": "unknown",
+    "asicblockerupters": "unknown",  # Likely a misspelling of "Block Erupter", but not specific enough.
+    "asicboost": "unknown",
+    "asicboost firmware": "unknown",
+    "asicboost software": "unknown",
+    "asicboosted s9": "antminer s9",  # Assuming the term "asicboosted" refers to a modified or enhanced Antminer S9.
+    "asicboosted s9i": "antminer s9i",  # Assuming the term "asicboosted" refers to a modified or enhanced Antminer S9i.
+    "asicchain[j7]": "unknown",
+    "asicchain[j8]": "unknown",
+    "asicgigahash k1 miners": "unknown",
+    "asicminer": "unknown",  # Could refer to any ASICminer product, but not specific enough.
+    "asicminer 10g board": "unknown",
+    "asicminer 10gh/s blades": "asicminer be blade",  # Closest match based on description.
+    "asicminer 333": "unknown",
+    "asicminer 49 port hub": "unknown"
+}
+```

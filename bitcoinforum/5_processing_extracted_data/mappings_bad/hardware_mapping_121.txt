@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "antminer u1/u2": "unknown",  # Ambiguous between U1 and U2
+    "antminer u1/u2s": "unknown",  # Ambiguous and unclear
+    "antminer u1s": "unknown",  # Likely a typo, closest to antminer u1
+    "antminer u2": "antminer u2",
+    "antminer u2 2gh/s usb miner": "antminer u2",
+    "antminer u2 4ghs": "antminer u2",
+    "antminer u2 asic": "antminer u2",
+    "antminer u2 asic usb chip": "antminer u2",
+    "antminer u2 asics": "antminer u2",
+    "antminer u2 sticks": "antminer u2",
+    "antminer u2 usb asic miners": "antminer u2",
+    "antminer u2 usb stick": "antminer u2",
+    "antminer u2 usb sticks": "antminer u2",
+    "antminer u2's": "antminer u2",
+    "antminer u2+": "antminer u2+",
+    "antminer u2+ 1.6-2.2gh/s usb mining sticks": "antminer u2+",
+    "antminer u2+ 2.0gh/s usb": "antminer u2+",
+    "antminer u2s": "unknown",  # Likely a typo, closest to antminer u2
+    "antminer u3": "antminer u3",
+    "antminer u3 bitmain": "antminer u3",
+    "antminer u3 devices": "antminer u3",
+    "antminer u3 usb": "antminer u3",
+    "antminer u3 v2": "antminer u3",  # Assuming version difference, closest match.
+    "antminer u3+": "unknown",  # No direct match, possibly a typo or version not listed
+    "antminer u3s": "unknown",  # Likely a typo, closest to antminer u3
+    "antminer ui": "unknown",  # Likely a typo, no direct match
+    "antminer units": "unknown",  # Too vague
+    "antminer units (ant/sp)": "unknown",  # Too vague and unclear
+    "antminer usb": "unknown",  # Too vague, multiple USB models exist
+    "antminer usb miner": "unknown",  # Too vague, multiple USB models exist
+    "antminer usb sticks": "unknown",  # Too vague, multiple USB models exist
+    "antminer usb u2": "antminer u2",
+    "antminer usbs": "unknown",  # Too vague, multiple USB models exist
+    "antminer v1.2 2013/12/4": "unknown",  # No direct match, unclear versioning
+    "antminer v1.5 2013/12/16": "unknown",  # No direct match, unclear versioning
+    "antminer v9 4th": "antminer v9",
+    "antminer vent shroud": "unknown",  # Accessory, not a miner model
+    "antminer web console": "unknown",  # Not a hardware model
+    "antminer wifi": "unknown",  # Feature or accessory, not a model
+    "antminer with heatsinks": "unknown",  # Too vague, many models have heatsinks
+    "antminer xp": "unknown",  # No direct match
+    "antminer z9": "antminer z9",
+    "antminer z9 machine": "antminer z9",
+    "antminer's running": "unknown",  # Not a hardware model
+    "antminer's s7": "antminer s7",
+    "antminer's website": "unknown",  # Not a hardware model
+    "antminer(s)": "unknown",  # Too vague
+    "antminer.local": "unknown",  # Likely referring to a local network address, not a model
+    "antminerach s1": "unknown",  # Likely a typo, closest to antminer s1
+    "antminerchain": "unknown"  # No direct match, unclear reference
+}
+```

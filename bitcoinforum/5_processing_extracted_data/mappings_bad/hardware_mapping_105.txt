@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "amd gpu": "unknown",
+    "amd gpu clock controller": "unknown",
+    "amd gpu clock tool": "unknown",
+    "amd gpu tool": "unknown",
+    "amd gpus": "unknown",
+    "amd graphics card": "unknown",
+    "amd hd 6970": "6970",
+    "amd hd 7800 series": "unknown",  # No exact match, but implies 7850 or 7870
+    "amd hd6870": "6870",
+    "amd hd7870xt": "7870 xt",
+    "amd k10": "unknown",
+    "amd k6-450": "unknown",
+    "amd kernel": "unknown",
+    "amd lga 2011 board": "unknown",
+    "amd lt gpu": "unknown",
+    "amd m5a97": "unknown",
+    "amd mobo with athlon fx-62": "unknown",
+    "amd msi rx 470 gpu": "unknown",  # No exact match, but implies Radeon RX 470
+    "amd opetron 2ghz": "unknown",  # Typo, closest would be Opteron but no specific model provided
+    "amd overclock tool": "unknown",
+    "amd phenom": "unknown",
+    "amd phenom 9600": "unknown",
+    "amd phenom ii x4 955 (quad-core 3200)": "phenom ii x4 955",
+    "amd phenom ii x6": "unknown",  # No specific model provided
+    "amd phenom processor quad core 9600": "unknown",
+    "amd phenom x4": "unknown",  # No specific model provided
+    "amd phenom x8": "unknown",
+    "amd phenom(tm) ii x4 965 processor": "phenom ii x4 965",
+    "amd proc": "unknown",
+    "amd proprietary drivers": "unknown",
+    "amd psu": "unknown",
+    "amd quad": "unknown",
+    "amd quad something": "unknown",
+    "amd r9 270": "unknown",  # No exact match, but implies Radeon R9 270
+    "amd r9 380": "unknown",  # No exact match, but implies Radeon R9 380
+    "amd radeon (tm) rx 470": "unknown",  # No exact match, but implies Radeon RX 470
+    "amd radeon 5800 (crossfire enabled)": "unknown",  # No exact match, but implies Radeon HD 5800 series
+    "amd radeon 5970": "5970",
+    "amd radeon 5970x2": "unknown",  # No exact match, but implies dual Radeon HD 5970 setup
+    "amd radeon 7670m": "unknown",
+    "amd radeon 7770": "unknown",  # No exact match, but implies Radeon HD 7770
+    "amd radeon 7800 series": "unknown",  # No exact match, but implies 7850 or 7870
+    "amd radeon hd 5700 series": "unknown",  # No specific model provided
+    "amd radeon hd 5970": "5970",
+    "amd radeon hd 6290 graphics": "unknown",
+    "amd radeon hd 6310 graphics": "unknown",
+    "amd radeon hd 6450": "6450",
+    "amd radeon hd 6700": "unknown",  # No specific model provided, implies 6750 or 6770
+    "amd radeon hd 6700 series core": "unknown",  # No specific model provided, implies 6750 or 6770
+    "amd radeon hd 6750m gpu": "unknown"  # No exact match, but implies Radeon HD 6750M
+}
+```

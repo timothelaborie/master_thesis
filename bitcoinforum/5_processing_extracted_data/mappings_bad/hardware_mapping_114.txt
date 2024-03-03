@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "antminer 19 series": "unknown",  # Could refer to several models like S19, but not specific enough
+    "antminer 1th": "unknown",  # No specific model matches exactly
+    "antminer 2": "unknown",  # No specific model matches exactly
+    "antminer 205 gh/s": "unknown",  # No specific model matches exactly
+    "antminer a1": "aisen a1 pro",  # Closest match, assuming typo or shorthand
+    "antminer a1 dragon": "unknown",  # No specific model matches exactly
+    "antminer a3": "antminer a3",
+    "antminer a6": "unknown",  # No specific model matches exactly
+    "antminer admin worker": "unknown",  # Not a hardware model
+    "antminer an": "unknown",  # No specific model matches exactly
+    "antminer apw++": "unknown",  # Refers to a power supply, but not a specific model listed
+    "antminer apw3++ a3": "unknown",  # Refers to a power supply for A3, but not a specific model listed
+    "antminer apw3++ a6": "unknown",  # Refers to a power supply, but not a specific model listed
+    "antminer apw3++ psu": "unknown",  # Refers to a power supply, but not a specific model listed
+    "antminer apw3++ psu 1600w": "unknown",  # Refers to a power supply, but not a specific model listed
+    "antminer apw3-12-1600 psu series 1600w power supply": "unknown",  # Refers to a power supply, but not a specific model listed
+    "antminer apw5 psu": "unknown",  # Refers to a power supply, but not a specific model listed
+    "antminer asic": "unknown",  # Too general, refers to the technology not a specific model
+    "antminer asic miner usb": "unknown",  # No specific model matches exactly
+    "antminer asics": "unknown",  # Too general, refers to the technology not a specific model
+    "antminer b2": "gmo miner b2",  # Closest match, assuming typo or shorthand
+    "antminer bhb42xxx": "unknown",  # No specific model matches exactly
+    "antminer bitmains": "unknown",  # Refers to the manufacturer, not a specific model
+    "antminer blades": "unknown",  # No specific model matches exactly
+    "antminer bmminer": "unknown",  # Refers to mining software, not hardware
+    "antminer c1": "antminer c1",
+    "antminer c1 batch 2": "antminer c1",  # Assuming batch variation, closest match
+    "antminer c1220v pumpboiler": "unknown",  # No specific model matches exactly
+    "antminer code editor": "unknown",  # Not a hardware model
+    "antminer d3": "antminer d3",
+    "antminer dual blade s1": "antminer s1",  # Assuming a variation of S1
+    "antminer e9 pro": "unknown",  # No specific model matches exactly
+    "antminer ethernet cable": "unknown",  # Not a hardware model
+    "antminer fan": "unknown",  # Accessory, not a specific mining model
+    "antminer fan controller": "unknown",  # Accessory, not a specific mining model
+    "antminer farm shares": "unknown",  # Not a hardware model
+    "antminer fix .tar file": "unknown",  # Refers to software/firmware, not hardware
+    "antminer gear": "unknown",  # Too general, could refer to various accessories or models
+    "antminer groupbuy": "unknown",  # Not a hardware model
+    "antminer gui": "unknown",  # Refers to software, not hardware
+    "antminer hydro x19s": "unknown",  # No specific model matches exactly
+    "antminer inductor chips": "unknown",  # Component, not a complete mining model
+    "antminer interface": "unknown",  # Likely refers to software or a component, not a specific model
+    "antminer jumper switch": "unknown",  # Component, not a complete mining model
+    "antminer jumper switch gb": "unknown",  # Component, not a complete mining model
+    "antminer kanoi": "unknown",  # No specific model matches exactly
+    "antminer l3": "antminer l3",
+    "antminer l3+": "antminer l3+",
+    "antminer l3++": "antminer l3++",
+    "antminer l3/s9/s15": "unknown",  # Refers to multiple models, not specific enough
+}
+```

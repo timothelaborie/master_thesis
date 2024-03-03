@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "bfl psu": "unknown",
+    "bfl refund": "unknown",
+    "bfl reliable": "unknown",
+    "bfl rev2 x16": "unknown",
+    "bfl rig": "unknown",
+    "bfl rigs": "unknown",
+    "bfl sample asic chip": "unknown",
+    "bfl sample chips": "unknown",
+    "bfl sc": "unknown",
+    "bfl sc 60gh/s bitcoin miner": "unknown",  # No exact match, likely referring to a BFL product not listed
+    "bfl sc miner": "unknown",
+    "bfl sc minirigs": "unknown",
+    "bfl sc power supplies": "unknown",
+    "bfl sc single": "bfl single 'sc'",
+    "bfl sc single 60gh/s": "bfl single 'sc'",
+    "bfl sc single miners": "unknown",  # Likely referring to BFL Single SC but not explicitly listed
+    "bfl sc singles": "unknown",  # Likely referring to BFL Single SC but not explicitly listed
+    "bfl scs": "unknown",
+    "bfl sgl600g units": "unknown",
+    "bfl singe": "unknown",  # Typo, likely meant "bfl single"
+    "bfl single": "bfl single 'sc'",  # Assuming closest match
+    "bfl single (fpga)": "unknown",  # No explicit FPGA models listed under BFL
+    "bfl single 50gh": "unknown",  # No exact match, likely a variant of BFL Single SC
+    "bfl single 60 ghs": "bfl single 'sc'",
+    "bfl single 60 power supplies": "unknown",
+    "bfl single 60gh/s machine": "bfl single 'sc'",
+    "bfl single 60ghs": "bfl single 'sc'",
+    "bfl single cg miner": "unknown",
+    "bfl single fpga": "unknown",  # No explicit FPGA models listed under BFL
+    "bfl single fpgai": "unknown",  # Likely a typo, no FPGA models listed
+    "bfl single miner": "bfl single 'sc'",  # Assuming closest match
+    "bfl single psu": "unknown",
+    "bfl single sc": "bfl single 'sc'",
+    "bfl single sc (60ghs)": "bfl single 'sc'",
+    "bfl single sc 60gh": "bfl single 'sc'",
+    "bfl single sc jalapeno": "unknown",  # Jalapeno is a different product, not explicitly listed as such
+    "bfl single sc power supply": "unknown",
+    "bfl single/30 supply": "unknown",
+    "bfl singles": "bfl single 'sc'",  # Assuming closest match
+    "bfl singles (fpgas)": "unknown",  # No explicit FPGA models listed under BFL
+    "bfl singles 50 gh": "unknown",  # No exact match, likely a variant of BFL Single SC
+    "bfl singles 50gh/s": "unknown",  # No exact match, likely a variant of BFL Single SC
+    "bfl singles 60gh": "bfl single 'sc'",
+    "bfl stuff": "unknown",
+    "bfl two jalapenos": "unknown",  # Jalapeno is a different product, not explicitly listed as such
+    "bfl unit": "unknown",
+    "bfl unit fan": "unknown",
+    "bfl units": "unknown",
+    "bfl v1.3": "unknown",
+    "bfl's": "unknown"
+}
+```

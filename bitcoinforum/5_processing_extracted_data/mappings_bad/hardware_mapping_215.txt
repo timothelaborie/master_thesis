@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "core i7 860 win 7 x64 rig": "unknown",  # No exact match, but implies use of "core i7 860"
+    "core i7 920": "core i7 920",
+    "core i7 920 cpu": "core i7 920",
+    "core i7-860": "unknown",  # Close to "core i7 860", but not listed
+    "core i7-950": "core i7 950",
+    "core wallet": "unknown",
+    "core-i5 750": "core i5-750",
+    "core2 duo cpu": "unknown",  # General category, not specific
+    "core2 extreme qx6700": "unknown",  # Close to "core 2 extreme x9000", but not listed
+    "core2 quad processor": "unknown",  # General category, not specific
+    "core2 with a dual pcie slot": "unknown",
+    "core2duo 2gb ram 500gb hdd / intel motherboard": "unknown",
+    "core2duo e7300": "core 2 duo e7300",
+    "core2duo notebook": "unknown",
+    "core2duo servers": "unknown",
+    "core2quad q9550 12mb cache": "unknown",  # Close to "core 2 quad" models, but not listed
+    "core2quad xeons": "unknown",  # Mixing two different product lines
+    "cores": "unknown",
+    "cores in the cpu (best of old core series": "unknown",
+    "corner asic": "unknown",
+    "corrosion": "unknown",
+    "corsai 860i": "unknown",  # Likely a typo for a Corsair product, but not a mining hardware
+    "corsair": "unknown",
+    "corsair (rebranded seasonic)": "unknown",
+    "corsair 100 water cooling block": "unknown",
+    "corsair 1000": "unknown",
+    "corsair 1000 watt": "unknown",
+    "corsair 1000w psu": "unknown",
+    "corsair 1000w rmx": "unknown",
+    "corsair 1050hx": "unknown",
+    "corsair 1200": "unknown",
+    "corsair 1200 axi": "unknown",
+    "corsair 1200 psu": "unknown",
+    "corsair 1200 w": "unknown",
+    "corsair 1200axi": "unknown",
+    "corsair 1200i power supply": "unknown",
+    "corsair 1500 titanium": "unknown",
+    "corsair 1500 titanium atx": "unknown",
+    "corsair 1500 watt psu": "unknown",
+    "corsair 1500 watt titanium psu": "unknown",
+    "corsair 1kw": "unknown",
+    "corsair 2gb ddr3 1333mhz": "unknown",
+    "corsair 3 pin fans": "unknown",
+    "corsair 430": "unknown",
+    "corsair 430x": "unknown",
+    "corsair 4gb ddr 3 1666mhz": "unknown",
+    "corsair 500 power supply": "unknown",
+    "corsair 500 w 6 pin": "unknown",
+    "corsair 500w cx500 psu": "unknown",
+    "corsair 500watt 80 plus": "unknown"
+}
+```

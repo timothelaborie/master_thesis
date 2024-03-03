@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "bitmain scorcer": "unknown",  # No direct match, possibly a typo.
+    "bitmain sp10": "spondooliestech sp10 dawson",  # Closest match based on context.
+    "bitmain sp30": "spondooliestech sp30 yukon",  # Closest match based on context.
+    "bitmain sp31": "spondooliestech sp31 yukon",  # Closest match based on context.
+    "bitmain sp35": "spondooliestech sp35 yukon",  # Closest match based on context.
+    "bitmain supplies": "unknown",  # General term, no specific hardware match.
+    "bitmain t15s": "unknown",  # No direct match, possibly a typo or a model not listed.
+    "bitmain t17": "bitmain antminer t17",  # Exact match.
+    "bitmain t9+ unit": "bitmain antminer t9+",  # Exact match.
+    "bitmain u1 gb": "antminer u1",  # Closest match, assuming "gb" is not relevant to model.
+    "bitmain u1 miner": "antminer u1",  # Exact match.
+    "bitmain u1 units": "antminer u1",  # Exact match, plural form.
+    "bitmain u1 usb": "antminer u1",  # Exact match, specifying connection type.
+    "bitmain u2": "antminer u2+",  # Closest match, assuming "+" is omitted.
+    "bitmain u3": "antminer u3",  # Exact match.
+    "bitmain units": "unknown",  # General term, no specific hardware match.
+    "bitmain usa service": "unknown",  # Service, not hardware.
+    "bitmain usb devices": "unknown",  # General term, no specific hardware match.
+    "bitmain usb miners": "unknown",  # General term, no specific hardware match.
+    "bitmain v9": "bitmain antminer v9",  # Exact match.
+    "bitmain warranty replacement psu": "unknown",  # Service component, not hardware.
+    "bitmain website": "unknown",  # Not hardware.
+    "bitmain's 1600watt psu": "unknown",  # Power supply unit, not listed specifically.
+    "bitmain's api": "unknown",  # Software, not hardware.
+    "bitmain's apw3+ psu": "unknown",  # Power supply unit, not listed specifically.
+    "bitmain's fan": "unknown",  # Component, not a complete mining hardware.
+    "bitmain's miners": "unknown",  # General term, no specific hardware match.
+    "bitmain's psus": "unknown",  # General term, no specific hardware match.
+    "bitmain's s7": "bitmain antminer s7",  # Exact match.
+    "bitmain's supply": "unknown",  # General term, no specific hardware match.
+    "bitmain6 gear": "unknown",  # No direct match, possibly a typo or a model not listed.
+    "bitmains apw3 psu": "unknown",  # Power supply unit, not listed specifically.
+    "bitmains latest firmware": "unknown",  # Software, not hardware.
+    "bitmains official taobao link": "unknown",  # Not hardware.
+    "bitmains r4": "bitmain antminer r4",  # Exact match.
+    "bitmains19pro": "bitmain antminer s19 pro",  # Closest match, assuming a typo.
+    "bitmaintech": "unknown",  # Company name, not specific hardware.
+    "bitmaintech antminer jumper switch": "unknown",  # Component, not a complete mining hardware.
+    "bitmaintech antminer s1 to s3 kit": "unknown",  # Upgrade kit, not original hardware.
+    "bitmaintech boxes": "unknown",  # General term, possibly packaging, not hardware.
+    "bitmaintech s-7": "bitmain antminer s7",  # Closest match, assuming a typo.
+    "bitmaintech s1 miner": "antminer s1",  # Exact match.
+    "bitmaintech u3": "antminer u3",  # Exact match.
+    "bitmaintech.com": "unknown",  # Website, not hardware.
+    "bitmaintool app": "unknown",  # Software, not hardware.
+    "bitman": "unknown",  # Likely a typo or shorthand for Bitmain, no specific hardware match.
+    "bitman antminer": "unknown",  # General term, no specific hardware match.
+    "bitman antminers s3": "antminer s3",  # Exact match.
+    "bitman antminers s4": "antminer s4",  # Exact match.
+    "bitman antminers s5": "antminer s5",  # Exact match.
+}
+```

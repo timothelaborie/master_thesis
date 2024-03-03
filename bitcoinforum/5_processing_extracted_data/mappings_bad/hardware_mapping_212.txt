@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "controller unit": "unknown",
+    "controllers": "unknown",
+    "controlling board": "unknown",
+    "conversion kit": "unknown",
+    "conversion of fan": "unknown",
+    "converter": "unknown",
+    "converter wire for tripplite pdu plug to dryer plug": "unknown",
+    "convertor": "unknown",
+    "convetion cables": "unknown",
+    "cookiesheet": "unknown",
+    "cool": "unknown",
+    "cool air": "unknown",
+    "cool little coffee mug": "unknown",
+    "cool master fans": "unknown",  # Likely meant "Cooler Master" fans, but exact product not listed
+    "cool master glacer 240l": "unknown",  # Likely a typo for "Cooler Master Glacer 240L", but not listed
+    "cool master psu": "unknown",  # Likely meant "Cooler Master PSU", but specific model not listed
+    "cool max 1600": "unknown",
+    "coolant": "unknown",
+    "cooler": "unknown",
+    "cooler components": "unknown",
+    "cooler master": "unknown",  # Brand name, but no specific product listed
+    "cooler master - cooler master haf 932 advanced": "unknown",  # Specific model not listed
+    "cooler master 1000w": "unknown",  # General description, specific model not listed
+    "cooler master 1000w psu": "unknown",  # General description, specific model not listed
+    "cooler master 1200w": "unknown",  # General description, specific model not listed
+    "cooler master 1300w hybrid silentocz le": "unknown",  # Specific model not listed
+    "cooler master cm 690 ii case": "unknown",  # Specific model not listed
+    "cooler master elite 370 (case)": "unknown",  # Specific model not listed
+    "cooler master extreme power plus 500w psu": "unknown",  # Specific model not listed
+    "cooler master fan": "unknown",  # General description, specific model not listed
+    "cooler master gx 750 watt psu": "unknown",  # General description, specific model not listed
+    "cooler master gx ii 750w": "unknown",  # General description, specific model not listed
+    "cooler master gx750 psu": "unknown",  # General description, specific model not listed
+    "cooler master haf 932": "unknown",  # Specific model not listed
+    "cooler master haf 932 case": "unknown",  # Specific model not listed
+    "cooler master haf x": "unknown",  # Specific model not listed
+    "cooler master haf x atx full tower black": "unknown",  # Specific model not listed
+    "cooler master haf9122g": "unknown",  # Specific model not listed
+    "cooler master hyper 212 evo - cpu cooler with 120 mm pwm fan": "unknown",  # Specific model not listed
+    "cooler master megaflow 200": "unknown",  # Specific model not listed
+    "cooler master nepton 120xl": "unknown",  # Specific model not listed
+    "cooler master psu": "unknown",  # General description, specific model not listed
+    "cooler master rp-650-pcap psu": "unknown",  # Specific model not listed
+    "cooler master rr-b10-212p-g1": "unknown",  # Specific model not listed
+    "cooler master silent pro 1000w 80 plus bronze certified ps": "unknown",  # Specific model not listed
+    "cooler master silent pro 1200w gold psu": "unknown",  # Specific model not listed
+    "cooler master thunder 450": "unknown",  # Specific model not listed
+    "cooler master v1000 (1000w)": "unknown",  # General description, specific model not listed
+    "cooler master v1000 / 1000w": "unknown",  # General description, specific model not listed
+    "cooler master v1000 power supply": "unknown"  # General description, specific model not listed
+}
+```

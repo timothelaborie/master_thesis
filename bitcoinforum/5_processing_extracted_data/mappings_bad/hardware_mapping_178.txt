@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "bitman apw 3++": "unknown",  # No direct match, possibly a power supply for Bitmain products.
+    "bitman t15": "unknown",  # Likely a typo for Bitmain Antminer T15, but "Bitmain Antminer T15" is not in the list.
+    "bitman t17 just repaired": "bitmain antminer t17",  # Assuming typo for "Bitmain".
+    "bitman u2 block eruptor": "antminer u2+",  # Assuming typo for "Bitmain" and "Block Erupter".
+    "bitmap power supply": "unknown",  # Likely a typo for "Bitmain", but no specific hardware match.
+    "bitmine": "unknown",  # Generic term, no specific hardware match.
+    "bitmine 1 th": "unknown",  # No specific hardware match.
+    "bitmine 1th": "unknown",  # No specific hardware match.
+    "bitmine 1th machines": "unknown",  # No specific hardware match.
+    "bitmine 950 gh/s miner": "unknown",  # No specific hardware match.
+    "bitmine a1 28nm 1t colorbit": "unknown",  # No specific hardware match.
+    "bitmine a1 chips": "unknown",  # No specific hardware match.
+    "bitmine bitcoin miner": "unknown",  # No specific hardware match.
+    "bitmine coincraft 1 th/s": "unknown",  # No specific hardware match.
+    "bitmine coincraft a1": "unknown",  # No specific hardware match.
+    "bitmine coincraft desk units": "unknown",  # No specific hardware match.
+    "bitmine coincraft desk v2": "unknown",  # No specific hardware match.
+    "bitmine coincraft rig": "unknown",  # No specific hardware match.
+    "bitmine coincraft rigs": "unknown",  # No specific hardware match.
+    "bitmine coingraft": "unknown",  # Likely a typo for "Coincraft", but no specific hardware match.
+    "bitmine coingraft desk 1th/s": "unknown",  # Likely a typo for "Coincraft", but no specific hardware match.
+    "bitmine desk": "unknown",  # No specific hardware match.
+    "bitmine desk 1th": "unknown",  # No specific hardware match.
+    "bitmine hashing unit": "unknown",  # No specific hardware match.
+    "bitmine hashing unit pcb": "unknown",  # No specific hardware match.
+    "bitmine miner": "unknown",  # No specific hardware match.
+    "bitmine reference board": "unknown",  # No specific hardware match.
+    "bitmine rig": "unknown",  # No specific hardware match.
+    "bitmine rig 800gh/s": "unknown",  # No specific hardware match.
+    "bitmine rig modules": "unknown",  # No specific hardware match.
+    "bitmine's avalon clone": "unknown",  # No specific hardware match but suggests a relation to "Avalon" series.
+    "bitmine's coindesk": "unknown",  # Likely a confusion with "CoinDesk", the news site, or a typo.
+    "bitmine.ch coincraft": "unknown",  # No specific hardware match.
+    "bitmine.ch coincraft desk unit": "unknown",  # No specific hardware match.
+    "bitmine.ch module": "unknown",  # No specific hardware match.
+    "bitminer": "unknown",  # Generic term, no specific hardware match.
+    "bitminer app": "unknown",  # Software, not hardware.
+    "bitminer apw3": "unknown",  # Likely referring to a power supply for Bitmain products, but not a mining device.
+    "bitminer client": "unknown",  # Software, not hardware.
+    "bitminer monitoring software": "unknown",  # Software, not hardware.
+    "bitminer r4": "bitmain antminer r4",  # Assuming typo for "Bitmain".
+    "bitminer s7": "bitmain antminer s7",  # Assuming typo for "Bitmain".
+    "bitminer usb": "unknown",  # No specific hardware match.
+    "bitminerjoe": "unknown",  # No specific hardware match.
+    "bitminers": "unknown",  # Generic term, no specific hardware match.
+    "bitminers s1": "antminer s1",  # Assuming typo for "Bitmain".
+    "bitminter": "unknown",  # Software, not hardware.
+    "bitminter app": "unknown",  # Software, not hardware.
+    "bitminter client": "unknown",  # Software, not hardware.
+    "bitminter client with my erupters": "unknown",  # Software, not hardware.
+}
+```

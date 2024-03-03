@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "antminer s1 s3 s5 miners": "unknown",  # Multiple models mentioned, unclear which one to map to.
+    "antminer s1 s3 s5 s7 s9 t9 l3+ 120mm fan duct cooling shroud to 4 inch vent hose": "unknown",  # Accessory, not a miner model.
+    "antminer s1 systems": "antminer s1",
+    "antminer s1 units": "antminer s1",
+    "antminer s1 upgrade kit": "unknown",  # Upgrade kit, not a miner model.
+    "antminer s1 uv": "unknown",  # Unclear, possibly a typo or variant not listed.
+    "antminer s1's": "antminer s1",
+    "antminer s1/s3 blade": "unknown",  # Part of a miner, not a complete model.
+    "antminer s1/s3 upgrade kit": "unknown",  # Upgrade kit, not a miner model.
+    "antminer s11": "antminer s11",
+    "antminer s11 19.5 th miner": "antminer s11",
+    "antminer s11 unit": "antminer s11",
+    "antminer s15": "antminer s15",
+    "antminer s17": "antminer s17",
+    "antminer s17 / s17 pro miners": "unknown",  # Multiple models mentioned, unclear which one to map to.
+    "antminer s17 hash board": "unknown",  # Part of a miner, not a complete model.
+    "antminer s17 miner control board": "unknown",  # Part of a miner, not a complete model.
+    "antminer s17 pro": "antminer s17 pro",
+    "antminer s17 pro 53t": "antminer s17 pro",
+    "antminer s17+": "antminer s17+",
+    "antminer s17+ (70 th/s)": "antminer s17+",
+    "antminer s17+ 70ths": "antminer s17+",
+    "antminer s17+ hashboards": "unknown",  # Part of a miner, not a complete model.
+    "antminer s17/t17": "unknown",  # Multiple models mentioned, unclear which one to map to.
+    "antminer s17e": "antminer s17e",
+    "antminer s17e 60t": "antminer s17e",
+    "antminer s17e hashcards": "unknown",  # Part of a miner, not a complete model.
+    "antminer s17pro": "antminer s17 pro",
+    "antminer s19": "antminer s19",
+    "antminer s19 90t": "antminer s19",
+    "antminer s19 95th": "antminer s19",
+    "antminer s19 horizontal": "unknown",  # Unclear, possibly a typo or variant not listed.
+    "antminer s19 pro": "antminer s19 pro",
+    "antminer s19 pro 110th": "antminer s19 pro",
+    "antminer s19 xp": "antminer s19 xp",
+    "antminer s19 xp hyd. (btc machine with the highest hashrate currently)": "antminer s19 xp hyd",
+    "antminer s19+": "unknown",  # No exact match, possibly a typo or variant not listed.
+    "antminer s19j pro": "antminer s19j pro",
+    "antminer s19j pro +": "antminer s19j pro",  # Assuming "+" is a variant indicator, not part of the model name.
+    "antminer s19j pro 100t": "antminer s19j pro",
+    "antminer s19j pro 104th": "antminer s19j pro",
+    "antminer s19j pro 104th/s": "antminer s19j pro",
+    "antminer s19j pro+": "antminer s19j pro",  # Assuming "+" is a variant indicator, not part of the model name.
+    "antminer s19k_pro": "unknown",  # No exact match, possibly a typo or variant not listed.
+    "antminer s19pro": "antminer s19 pro",
+    "antminer s19xp": "antminer s19 xp",
+    "antminer s1s": "antminer s1",
+    "antminer s2": "antminer s2",
+    "antminer s2 1th/s kit": "antminer s2",
+    "antminer s2 1th/s miner": "antminer s2"
+}
+```
