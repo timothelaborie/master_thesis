@@ -1,5 +1,4 @@
 hardware_name,Mhash/J
-320m,0.35
 3410,0.074
 4350,0.346
 4550,0.289
@@ -41,26 +40,16 @@ hardware_name,Mhash/J
 7850,191
 7870 xt,3.09
 7970,3.1826
-8200 mgpu,0.001
 8400 gs,0.013
-8500gt,0.0026
-8600gt,0.0047
 8800 gts,0.124
-8800 gtx,0.0195
 8800gt,0.2672
 8800gts,0.109
-9300/nforce 730i,0.0017
-9300ge,0.0012
-9300gs,0.0012
 9400gt,0.067
 9400m,0.32
 9500gt,0.135
-9500m gs,0.0033
 9600gso,0.237
 9600gso512,0.131
 9600gt,0.165
-9600gt zotac,0.0090
-9600m gs,0.0037
 9800gt,0.289
 9800gt ee,0.263
 9800gtx,0.232
@@ -183,25 +172,18 @@ ebit e9++,10500
 g210,0.1175
 gmo miner b2,12307.692307692309
 gmo miner b3,9657.594381035997
-gt 320m,0.0050
-gt 325m,5.3206
-gt 330m,0.0144
 gt220,0.084
 gt230,0.161
 gt240,0.281
 gt240m,0.426
 gt430,0.413
-gt440,0.0124
 gt530,0.358
-gt610m,0.0126
-gt650m,0.0197
 gts 350m,1.214
 gts250,0.2435
 gts450,0.427
 gtx 560m,0.38
 gtx260,0.21
 gtx260c216,0.248
-gtx260m,0.045
 gtx275,0.232
 gtx280,0.2435
 gtx285,0.262
@@ -210,12 +192,10 @@ gtx460,0.427
 gtx465,0.322
 gtx470,0.4505
 gtx480,0.405
-gtx480 amp!zotac,0.0824
 gtx560,0.51
 gtx560 ti,0.4320
 gtx570,0.613
 gtx580,0.642
-gtx590,1.1779
 gtx670,1.1
 gtx680,1.2
 halong mining dragonmint t1,10810.810810810812
@@ -282,14 +262,10 @@ quadro fx 2000m,0.397
 quadro fx 2800m,0.293
 quadro fx 3600m,0.514
 quadro fx 580,0.14
-quadro fx 770m,0.0121
 quadro nvs 135m,0.1
 quadro nvs 295,0.07
 quadro nvs 3100m,0.257
-quadro nvs 4200m,0.0123
 red/bluefury,1040
-rkminer r-box,711
-rkminer r-box 110g,917
 rkminer r3-box,1000
 rkminer r4-box,1000
 rkminer rocket box,937
@@ -307,11 +283,6 @@ terrahash dx large,140
 terrahash dx mini,140
 terrahash klondike 16,140
 terrahash klondike 64,140
-tesla c1060,0.0405
-tesla k20,0.1909
-tesla m2050,0.0562
-tesla s1070,0.0001
-tesla s2070,0.6515
 twinfury,1174
 whatsminer m2,4496.5
 whatsminer m3,6442.5

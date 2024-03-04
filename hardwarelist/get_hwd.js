@@ -20,7 +20,12 @@ tables.forEach((element, index) => {
         var hardwareName = cells[0].textContent.trim();
         var hashrate = cells[1].textContent.trim().replace(/[^0-9.]/g, "");
         var efficiency = cells[2].textContent.trim().replace(/[^0-9.]/g, "");
-        var Watts = cells[4].textContent.trim().replace(/[^0-9.]/g, "");
+
+        //amd table
+        // var Watts = cells[4].textContent.trim().replace(/[^0-9.]/g, "");
+
+        //nvidia table
+        var Watts = cells[3].textContent.trim().replace(/[^0-9.]/g, "");
 
         // var cells = rows[i].querySelectorAll('td');
         // var hashrate = cells[0].textContent.trim().replace(/[^0-9.]/g, "");
