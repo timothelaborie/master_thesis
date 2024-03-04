@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "netgear 3400": "unknown",
+    "netgear 48 port switches": "unknown",
+    "netgear 8 port gigabit switch": "unknown",
+    "netgear bridge": "unknown",
+    "netgear readynas duo v1": "unknown",
+    "netgear wireless access points": "unknown",
+    "netgear wireless to cable connector": "unknown",
+    "netgear wn2500": "unknown",
+    "nets": "unknown",
+    "nettop": "unknown",
+    "network": "unknown",
+    "network adapter": "unknown",
+    "network adapters": "unknown",
+    "network cable": "unknown",
+    "network card": "unknown",
+    "network component": "unknown",
+    "network configuration": "unknown",
+    "network controlled pdus": "unknown",
+    "network engineers": "unknown",
+    "network equipment": "unknown",
+    "network hubs and cables": "unknown",
+    "network interface": "unknown",
+    "network switch": "unknown",
+    "network unit": "unknown",
+    "neutrino particle detector": "unknown",
+    "new 12guage wire": "unknown",
+    "new blade miners": "unknown",
+    "new blades": "unknown",
+    "new boards": "unknown",
+    "new caps": "unknown",
+    "new fans": "unknown",
+    "new module pcb": "unknown",
+    "new r-box": "rkminer r4-box", # Assuming "new r-box" refers to the latest RKMiner R4 Box model.
+    "new r-box 2.0": "rkminer r4-box", # Assuming "new r-box 2.0" is another reference to RKMiner R4 Box, as no specific 2.0 version is listed.
+    "new rbox": "rkminer r4-box", # Assuming "new rbox" is a typo or shorthand for RKMiner R4 Box.
+    "new router": "unknown",
+    "new switch": "unknown",
+    "new units": "unknown",
+    "new usb miner": "unknown",
+    "new zealand + australia group buy": "unknown",
+    "newer technology 7-port usb 1.0 hub": "unknown",
+    "newpac": "nanofury / icefury", # Assuming "newpac" refers to the NewPac version of NanoFury/IceFury.
+    "newpac usb miners": "nanofury / icefury", # Direct reference to NanoFury/IceFury USB miners.
+    "newpacs": "nanofury / icefury", # Plural form of "newpac", referring to multiple units of NanoFury/IceFury.
+    "nex1500": "unknown",
+    "next units": "unknown",
+    "nextreme-3": "unknown",
+    "nexus 7": "unknown",
+    "nf1": "unknown",
+    "nf1 / nf2 boards": "nanofury nf2", # Assuming "nf1 / nf2 boards" refers to NanoFury NF2, as NF1 is not listed but NF2 is.
+}
+```

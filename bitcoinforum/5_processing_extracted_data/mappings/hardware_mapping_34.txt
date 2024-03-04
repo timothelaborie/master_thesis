@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "5v 30a psu": "unknown",
+    "5v 40 amp led meanwell power supply": "unknown",
+    "5v 4a hub from amazon basics": "unknown",
+    "5v 4a wired": "unknown",
+    "5v at psu": "unknown",
+    "5v charger": "unknown",
+    "5v fan adapter * dual ended cable with 5v fan": "unknown",
+    "5v rail from psu": "unknown",
+    "5v relay": "unknown",
+    "5vdc@10a psu": "unknown",
+    "5x rs419 16v 270 capacitors": "unknown",
+    "5x7950": "7950",
+    "5x7970": "7970",
+    "5xxx cards": "unknown", # Could refer to any card in the 5000 series, but not specific enough.
+    "5xxx gpu rigs": "unknown", # Could refer to any GPU in the 5000 series, but not specific enough.
+    "5xxx series card": "unknown", # Could refer to any card in the 5000 series, but not specific enough.
+    "5xxx series cards": "unknown", # Could refer to any card in the 5000 series, but not specific enough.
+    "5xxx/6xxx cards": "unknown", # Could refer to any card in the 5000 or 6000 series, but not specific enough.
+    "6 6500s": "unknown", # No exact match, could potentially refer to "6570" or "6670" but not clear.
+    "6 7950 gpu": "7950",
+    "6 bfl single order": "bfl single 'sc'", # Assuming it refers to an order of BFL Single SC units.
+    "6 blades": "unknown",
+    "6 boards": "unknown",
+    "6 boards with 40 chips each": "unknown",
+    "6 chips": "unknown",
+    "6 core phenom 2": "unknown",
+    "6 cube neptune": "knc neptune", # Assuming it refers to the KnCMiner Neptune.
+    "6 discount sticks": "unknown",
+    "6 gauge cords": "unknown",
+    "6 gb of gddr5": "unknown",
+    "6 gb of ram": "unknown",
+    "6 inch mufflers": "unknown",
+    "6 meters pipe 10mm": "unknown",
+    "6 pin cable": "unknown",
+    "6 pin connectors": "unknown",
+    "6 pin pcie": "unknown",
+    "6 pin pcie cables": "unknown",
+    "6 pin pcie connectors": "unknown",
+    "6 pin pcie female slots": "unknown",
+    "6 pin power": "unknown",
+    "6 port controller": "unknown",
+    "6 port hub": "unknown",
+    "6 samples": "unknown",
+    "6 to 6+2 cables": "unknown",
+    "6 units": "unknown",
+    "6 x 290w solar panels": "unknown",
+    "6\" duct": "unknown",
+    "6\" ducting": "unknown",
+    "6\" ducts": "unknown",
+    "6\" y-splitters": "unknown",
+}
+```

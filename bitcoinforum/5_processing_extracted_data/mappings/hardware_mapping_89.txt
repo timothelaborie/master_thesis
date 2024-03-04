@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "btmine avalon": "unknown",
+    "btmine v1 miner 200gh/s": "unknown",
+    "btminer v1 units": "unknown",
+    "bubble envelope": "unknown",
+    "bubble wrap": "unknown",
+    "buck bucker": "unknown",
+    "buck inductors": "unknown",
+    "buck inverter": "unknown",
+    "buck regulator aoz1025d": "unknown",
+    "buffalo link stations": "unknown",
+    "buffalo wzr-hp-ag300h": "unknown",
+    "bullet": "unknown",
+    "bullet run black arrow boards": "unknown",
+    "bumblebee": "unknown",
+    "burned up s9": "antminer s9", # Assuming the user refers to a damaged Antminer S9
+    "burnin's 20 boards": "unknown",
+    "burnt s7 hash blades": "antminer s7", # Assuming the user refers to damaged parts of an Antminer S7
+    "bus 003 device 002": "unknown",
+    "bus pirate": "unknown",
+    "butterfly 50": "unknown",
+    "butterfly 60ghash boxes": "unknown",
+    "butterfly bitforce asics": "unknown", # No exact match, but clearly refers to Butterfly Labs ASIC miners
+    "butterfly labs": "unknown", # General reference to the company, not a specific product
+    "butterfly labs 1 jala": "butterflylabs (bfl) jalapeno", # Likely a typo or shorthand for Jalapeno
+    "butterfly labs 1500 gh/s": "unknown", # No exact match, but clearly a Butterfly Labs product
+    "butterfly labs 25gh/s miner": "unknown", # No exact match, but clearly a Butterfly Labs product
+    "butterfly labs 30gh": "unknown", # No exact match, but clearly a Butterfly Labs product
+    "butterfly labs 50-55 gh/s sha bitcoin miner": "unknown", # No exact match, but clearly a Butterfly Labs product
+    "butterfly labs 500gh/s mini rigs (bitforce 500)": "unknown", # No exact match, but refers to Butterfly Labs' Bitforce 500 GH/s mini rigs
+    "butterfly labs 60gh/s": "unknown", # No exact match, but clearly a Butterfly Labs product
+    "butterfly labs fpga singles": "unknown", # No exact match, but refers to Butterfly Labs FPGA single units
+    "butterfly labs gear": "unknown", # General reference to Butterfly Labs products
+    "butterfly labs jalapeno": "butterflylabs (bfl) jalapeno",
+    "butterfly labs jalapeno box": "butterflylabs (bfl) jalapeno",
+    "butterfly labs jalapenos": "butterflylabs (bfl) jalapeno",
+    "butterfly labs minirig sc": "butterflylabs mini rig",
+    "butterfly labs operation": "unknown", # General reference to the company's operations
+    "butterfly labs rigs": "unknown", # General reference to Butterfly Labs mining rigs
+    "butterfly labs single fpga unit": "bfl single 'sc'", # Closest match, assuming the user refers to single FPGA units by Butterfly Labs
+    "butterfly labs stuff": "unknown", # General reference to Butterfly Labs products
+    "butterfly monarch": "bfl monarch",
+    "butterflylabs": "unknown", # General reference to the company, not a specific product
+    "butterflylabs jalapeno": "butterflylabs (bfl) jalapeno",
+    "butterflylabs jalapeno miner": "butterflylabs (bfl) jalapeno",
+    "buysolar machines": "unknown",
+    "bw": "unknown",
+    "bxp600": "unknown",
+    "c++ 2008 redist": "unknown",
+    "c-64": "unknown",
+    "c-scape hexfury usb": "unknown", # No exact match, but could be referring to a product similar to Hexfury
+}
+```

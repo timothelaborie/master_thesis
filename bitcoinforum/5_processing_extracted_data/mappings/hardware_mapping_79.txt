@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "big fans": "unknown",
+    "big inductor": "unknown",
+    "big inductors": "unknown",
+    "big miners": "unknown",
+    "big scanner": "unknown",
+    "big wooden box": "unknown",
+    "bigtec 10-port": "unknown",
+    "billion router": "unknown",
+    "biodigestor genset system": "unknown",
+    "bionaire": "unknown",
+    "biostar btc-24gh": "unknown",
+    "biostar ta-870 mobo": "unknown",
+    "bit burner furys": "unknown", # No exact match, possibly related to "bitburner" but unclear
+    "bit message": "unknown",
+    "bit-tech": "unknown",
+    "bit-tech miners": "unknown",
+    "bit-winkor a1": "unknown", # No exact match, possibly a typo or variant not listed
+    "bit-winkor miners": "unknown",
+    "bitaxe v2 pcbs": "unknown",
+    "bitburner": "unknown", # No exact match, but related to "bitburner fury" series
+    "bitburner boards": "unknown", # Related to "bitburner fury" but not a direct match
+    "bitburner fury": "unknown", # Closest match would be "bitburner fury" but not listed exactly
+    "bitburner fury (40-60 gh/s) single board": "unknown", # Detailed but no exact match
+    "bitburner fury boards": "unknown",
+    "bitburner xx boards": "unknown",
+    "bitburners": "unknown",
+    "bitburnerx (10 chip board)": "unknown",
+    "bitburnerxx": "unknown",
+    "bitburnserxx": "unknown", # Likely a typo, but unclear exact match
+    "bitcare": "unknown",
+    "bitcoin \"data centers\"": "unknown",
+    "bitcoin (btc) miner 1th/s": "unknown", # Descriptive but no exact match
+    "bitcoin asics": "unknown", # General category, not a specific model
+    "bitcoin blades": "unknown", # Could refer to a type of ASIC but not specific enough
+    "bitcoin block (bitcoin erupter cube)": "unknown", # Descriptive but no exact match
+    "bitcoin client": "unknown",
+    "bitcoin daemon": "unknown",
+    "bitcoin miner": "unknown", # General term, not specific hardware
+    "bitcoin mining equipment": "unknown", # General term, not specific hardware
+    "bitcoin mining kb 1150": "unknown",
+    "bitcoin mining machine": "unknown", # General term, not specific hardware
+    "bitcoin rig": "unknown", # General term, not specific hardware
+    "bitcoin server": "unknown",
+    "bitcoin spinner": "unknown",
+    "bitcoin stetson": "unknown",
+    "bitcoin wallet": "unknown",
+    "bitcoin-qt": "unknown",
+    "bitcoin-qt wallet": "unknown",
+    "bitcoind": "unknown",
+    "bitcoind server": "unknown",
+}
+```

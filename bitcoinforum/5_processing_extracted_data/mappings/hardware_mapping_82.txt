@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "bitfurystrikesback 16 blades miner": "unknown",  # No exact match, and "bitfury" related hardware doesn't match the description.
+    "bitfurystrikesback hardware": "unknown",  # No exact match, and unclear which "bitfury" hardware it refers to.
+    "bithopper": "unknown",  # No corresponding hardware in the list.
+    "bithopper 2.6.2": "unknown",  # No corresponding hardware in the list.
+    "bitmain": "unknown",  # General brand, not specific hardware.
+    "bitmain 1600w psu": "unknown",  # Power supply units are not listed in the hardware list.
+    "bitmain 1600w v3 psu": "unknown",  # Power supply units are not listed in the hardware list.
+    "bitmain 240v psu": "unknown",  # Power supply units are not listed in the hardware list.
+    "bitmain above power supply": "unknown",  # Power supply units are not listed in the hardware list.
+    "bitmain and a1 clones": "unknown",  # No specific hardware, and clones are not listed.
+    "bitmain antminer 180 gh/s": "unknown",  # No exact match, possibly referring to early Antminer models but not specific.
+    "bitmain antminer 180gh": "unknown",  # Similar to above, no exact match.
+    "bitmain antminer 180gh/s": "unknown",  # Similar to above, no exact match.
+    "bitmain antminer 2.0 u2 usb miner": "antminer u2+",  # Closest match based on description.
+    "bitmain antminer 2.0+ gh/s u2 usb miners": "antminer u2+",  # Closest match based on description.
+    "bitmain antminer 2.0+ gh/s u2+ usb miners": "antminer u2+",  # Closest match based on description.
+    "bitmain antminer apw3-12-1600 psu": "unknown",  # Power supply units are not listed in the hardware list.
+    "bitmain antminer c1": "unknown",  # No exact match in the list.
+    "bitmain antminer d3": "antminer d3",  # Exact match.
+    "bitmain antminer s1": "antminer s1",  # Exact match.
+    "bitmain antminer s1 180 gh/s": "antminer s1",  # Exact match, with additional specification.
+    "bitmain antminer s1 180gh": "antminer s1",  # Exact match, with additional specification.
+    "bitmain antminer s1 180gh/s miner": "antminer s1",  # Exact match, with additional specification.
+    "bitmain antminer s1 dual blade 180-200 gh/s": "antminer s1",  # Exact match, with additional specification.
+    "bitmain antminer s17+": "antminer s17+",  # Exact match.
+    "bitmain antminer s19 90th": "antminer s19",  # Closest match, assuming typo or version difference.
+    "bitmain antminer s2": "antminer s2",  # Exact match.
+    "bitmain antminer s3": "antminer s3",  # Exact match.
+    "bitmain antminer s3 controller board": "antminer s3",  # Exact match, specifying a part of the hardware.
+    "bitmain antminer s3+": "antminer s3+",  # Exact match.
+    "bitmain antminer s3+ (batch 10)": "antminer s3+",  # Exact match, with batch information.
+    "bitmain antminer s4": "antminer s4",  # Exact match.
+    "bitmain antminer s5": "antminer s5",  # Exact match.
+    "bitmain antminer s5+": "antminer s5+",  # Exact match.
+    "bitmain antminer s7": "antminer s7",  # Exact match.
+    "bitmain antminer s7 apw3-12-1600 psu": "antminer s7",  # Exact match, with PSU information.
+    "bitmain antminer s9": "antminer s9",  # Exact match.
+    "bitmain antminer s9k": "antminer s9k",  # Exact match.
+    "bitmain antminer u1 (1.6ghs)": "antminer u1",  # Exact match, with specification.
+    "bitmain antminer u1 usb bitcoion miner": "antminer u1",  # Typo in "bitcoin", but closest match is "antminer u1".
+    "bitmain antminer u2": "antminer u2+",  # Closest match, assuming typo or version difference.
+    "bitmain antminer u3": "antminer u3",  # Exact match.
+    "bitmain antminers": "unknown",  # General term, not specific hardware.
+    "bitmain antrouter r1": "unknown",  # No exact match in the list.
+    "bitmain apw series": "unknown",  # Power supply units are not listed in the hardware list.
+    "bitmain apw1600": "unknown",  # Power supply units are not listed in the hardware list.
+    "bitmain apw3+": "unknown",  # Power supply units are not listed in the hardware list.
+    "bitmain apw3+ psu": "unknown",  # Power supply units are not listed in the hardware list.
+    "bitmain apw3++": "unknown",  # Power supply units are not listed in the hardware list.
+    "bitmain apw3-12-1600 psu series psus": "unknown",  # Power supply units are not listed in the hardware list.
+}
+```

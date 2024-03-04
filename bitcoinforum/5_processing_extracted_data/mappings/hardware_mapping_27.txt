@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "4\" insulated pipe": "unknown",
+    "4-core cpu": "unknown",
+    "4-module avalon": "unknown",  # No exact match, but implies Avalon series.
+    "4-module batch 1 unit": "avalon batch 1",  # Assuming a reference to the first batch of Avalon.
+    "4-pin atx connectors": "unknown",
+    "4-pin fan header splitter": "unknown",
+    "4-pin molex": "unknown",
+    "4-pin ribbon cable": "unknown",
+    "4-port jupiter": "knc jupiter",  # Assuming a reference to KnCMiner Jupiter.
+    "4-slot usb hub": "unknown",
+    "4.2th suite": "unknown",
+    "4.5 gh miner": "unknown",
+    "40 a switch": "unknown",
+    "40 amp 32v blade fuse": "unknown",
+    "40 chips batch #2": "unknown",
+    "40 conductor ide cable": "unknown",
+    "40 mm fans": "unknown",
+    "40-pin adapter cable": "unknown",
+    "400 gh/s technobit hex4m 4 chip ba minion based bitcoin miner": "unknown",  # No exact match, possibly a specific product not listed.
+    "400 watt ps": "unknown",
+    "4000 cfm reversible model 22 inches exhaust fan": "unknown",
+    "4000 series": "unknown",
+    "4000 watt break out board": "unknown",
+    "4000mah battery": "unknown",
+    "400a 208v 3-phase panel": "unknown",
+    "400a 3-phase service": "unknown",
+    "400a service": "unknown",
+    "400gh": "unknown",  # Could refer to several miners but not specific enough.
+    "400gh/s mining kit from megabigpower": "unknown",  # No exact match, possibly a kit including various hardware.
+    "400ghs miner": "unknown",  # Could refer to several miners but not specific enough.
+    "400mhz s1": "antminer s1",  # Assuming a reference to the Antminer S1.
+    "400mhz units": "unknown",
+    "400w dell server ps": "unknown",
+    "400w ps": "unknown",
+    "400w psu's": "unknown",
+    "400w ul certified power supply": "unknown",
+    "400watt psu": "unknown",
+    "40a breaker": "unknown",
+    "40mm fans": "unknown",
+    "40mm prime": "unknown",
+    "40nm chips": "unknown",  # Could refer to the technology used in several miners but not specific enough.
+    "40x mining board": "unknown",
+    "40x40mm copper plates": "unknown",
+    "425gh/s bitfury": "bitfury b8",  # Assuming a reference to Bitfury's mining hardware, though the exact hash rate doesn't match.
+    "42u rack": "unknown",
+    "439gh/s": "unknown",  # Could refer to several miners but not specific enough.
+    "44 chips": "unknown",  # Could refer to the technology used in several miners but not specific enough.
+    "440 cfm 6\" exhaust fan": "unknown",
+    "45 watt solar array": "unknown",
+    "450 cfm blower": "unknown",
+}
+```

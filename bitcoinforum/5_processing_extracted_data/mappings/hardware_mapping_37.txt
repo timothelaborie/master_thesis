@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "6850hd": "unknown",  # Closest match would be "6850" but the "hd" makes it uncertain without context.
+    "6870": "6870",
+    "6870 card": "6870",
+    "6870 graphics cards": "6870",
+    "6870hd": "unknown",  # Closest match would be "6870" but the "hd" makes it uncertain without context.
+    "6870s": "6870",
+    "6870x2 dual (or triple) gpus": "unknown",  # No exact match, and the specification of dual or triple GPUs adds complexity.
+    "68xx": "unknown",  # General reference to a series, not a specific model.
+    "6950": "6950",
+    "6950 card": "6950",
+    "6950 gpu": "6950",
+    "6950's": "6950",
+    "6950s": "6950",
+    "6950s 11.6 drivers sdk 2.4": "6950",  # Specific software configuration, but hardware matches "6950".
+    "6970": "6970",
+    "6970's": "6970",
+    "6970s": "6970",
+    "698 kh/s": "unknown",  # Hashrate provided, but no specific hardware model.
+    "6990": "6990",
+    "6990 card": "6990",
+    "6990s": "6990",
+    "69xx cards": "unknown",  # General reference to a series, not a specific model.
+    "6ghs miningpower": "unknown",  # Describes a hashrate, not a specific model.
+    "6krpm 80mm fan": "unknown",  # Describes a fan, not mining hardware.
+    "6kv plus shocks of capasator banks": "unknown",  # Describes electrical components, not mining hardware.
+    "6mm wires": "unknown",  # Describes a component, not mining hardware.
+    "6pin": "unknown",  # Describes a power connector type, not mining hardware.
+    "6pin atx connectors": "unknown",  # Describes a connector type, not mining hardware.
+    "6pin cable": "unknown",  # Describes a cable, not mining hardware.
+    "6pin pcie": "unknown",  # Describes a connector type, not mining hardware.
+    "6pin pcie to 8pin eps adaptor": "unknown",  # Describes an adaptor, not mining hardware.
+    "6pin to 4x molex cable": "unknown",  # Describes a cable, not mining hardware.
+    "6pin with link": "unknown",  # Describes a connector with unspecified context.
+    "6th miner": "unknown",  # No specific model or context provided.
+    "6x gpu: sapphire nitro+ rx 580 8 gb (11265-01-20g)": "unknown",  # Specific GPU model not listed in the provided hardware list.
+    "6x1000 th/s 1000 watt": "unknown",  # Describes a hashrate and power consumption, not a specific model.
+    "6x7950 system": "unknown",  # Refers to a system setup with "7950" GPUs, but "7950" is not in the provided list.
+    "6xxx gpu rig": "unknown",  # General reference to a series, not a specific model.
+    "6xxx series card": "unknown",  # General reference to a series, not a specific model.
+    "6xxx/5xxx mixed gpu rig": "unknown",  # Refers to a mixed GPU rig, not a specific model.
+    "7": "unknown",  # No context or model provided.
+    "7 bfl's": "unknown",  # Refers to Butterfly Labs products, but no specific model provided.
+    "7 gh/s asic miner": "unknown",  # Describes a hashrate, not a specific model.
+    "7 ghash bfl": "unknown",  # Refers to a hashrate and Butterfly Labs, but no specific model provided.
+    "7 gpu rig": "unknown",  # Describes a rig setup, not a specific model.
+    "7 gpus": "unknown",  # Describes a component quantity, not mining hardware.
+    "7 port 2.0 hub": "unknown",  # Describes a USB hub, not mining hardware.
+    "7 port 2a hub": "unknown",  # Describes a USB hub, not mining hardware.
+    "7 port hub": "unknown",  # Describes a USB hub, not mining hardware.
+    "7 port hub from trust": "unknown",  # Describes a USB hub, not mining hardware.
+}
+```

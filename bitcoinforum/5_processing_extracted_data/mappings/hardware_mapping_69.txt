@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "avalon gen3 asic (e.g. a3233)": "unknown",  # No exact match, but suggests a third generation Avalon ASIC.
+    "avalon generation one": "avalon batch 1",  # Closest match to first generation Avalon.
+    "avalon group buys": "unknown",  # Refers to a purchasing method, not a specific model.
+    "avalon hash board": "unknown",  # Component, not a specific miner model.
+    "avalon hashing": "unknown",  # General term, not specific hardware.
+    "avalon icarus": "icarus",  # Closest match, assuming a typo or shorthand.
+    "avalon machine": "unknown",  # Generic term, not specific.
+    "avalon machines": "unknown",  # Generic term, not specific.
+    "avalon miner": "unknown",  # Generic term, not specific.
+    "avalon miner 1166pro-78th": "canaan avalonminer 1166 pro",  # Closest match with known model.
+    "avalon miner 200 gh/s": "unknown",  # No specific model matches this description.
+    "avalon miner 230gh": "unknown",  # No specific model matches this description.
+    "avalon miner a1166 pro-81t": "canaan avalonminer 1166 pro",  # Closest match with known model.
+    "avalon miner a851": "canaan avalonminer 741",  # Assuming typo, closest model by number.
+    "avalon miner controller": "unknown",  # Accessory, not a miner model.
+    "avalon miner europe": "unknown",  # Refers to a location, not a model.
+    "avalon miners": "unknown",  # Generic term, not specific.
+    "avalon mini": "unknown",  # No specific model matches this description.
+    "avalon mini module": "unknown",  # Component, not a specific miner model.
+    "avalon mining farm": "unknown",  # Refers to a setup, not specific hardware.
+    "avalon module": "unknown",  # Component, not a specific miner model.
+    "avalon modules": "unknown",  # Component, not a specific miner model.
+    "avalon nano": "avalon nano",  # Exact match.
+    "avalon nano 3": "avalon nano 3",  # Exact match.
+    "avalon nano usb": "avalon nano",  # Closest match, assuming referring to the nano series.
+    "avalon nano usb miners": "avalon nano",  # Closest match, assuming referring to the nano series.
+    "avalon overclockable chips": "unknown",  # Refers to a feature, not a specific model.
+    "avalon patch1": "unknown",  # No specific model matches this description.
+    "avalon patch2": "unknown",  # No specific model matches this description.
+    "avalon pdu": "unknown",  # Power distribution unit, not a miner.
+    "avalon pdu pcbs": "unknown",  # Component, not a specific miner model.
+    "avalon pre order": "unknown",  # Refers to a sales method, not a specific model.
+    "avalon pre-order": "unknown",  # Refers to a sales method, not a specific model.
+    "avalon products": "unknown",  # Generic term, not specific.
+    "avalon rasp pi": "unknown",  # Likely refers to using a Raspberry Pi with Avalon miners, not a specific model.
+    "avalon reference design": "unknown",  # Refers to design specifications, not a specific model.
+    "avalon reference design units": "unknown",  # Refers to design specifications, not a specific model.
+    "avalon rig": "unknown",  # Generic term, not specific.
+    "avalon s9": "antminer s9",  # Incorrectly attributed to Avalon; should be Antminer.
+    "avalon sample chip": "unknown",  # Component, not a specific miner model.
+    "avalon sample chips": "unknown",  # Component, not a specific miner model.
+    "avalon samples": "unknown",  # Generic term, possibly referring to sample chips.
+    "avalon site": "unknown",  # Likely refers to a website, not hardware.
+    "avalon stock": "unknown",  # Refers to inventory, not a specific model.
+    "avalon store batch 3": "avalon batch 3",  # Closest match to a known batch.
+    "avalon store batch 3 miner": "avalon batch 3",  # Closest match to a known batch.
+    "avalon team members": "unknown",  # Refers to personnel, not hardware.
+    "avalon tech": "unknown",  # Generic term, not specific.
+    "avalon tools": "unknown",  # Likely refers to software or physical tools, not a miner model.
+    "avalon unit": "unknown",  # Generic term, not specific.
+}
+```

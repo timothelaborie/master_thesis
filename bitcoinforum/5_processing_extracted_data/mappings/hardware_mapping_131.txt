@@ -1,0 +1,56 @@
+```python
+mapping = {
+    "graphics cards gigabyte hd795": "unknown",
+    "graphite": "unknown",
+    "greatwall 500w psu": "unknown",
+    "greatwall power supply": "unknown",
+    "greed-seed board": "unknown",
+    "green \"miner\" leds": "unknown",
+    "green and yellow pair of single wires": "unknown",
+    "green controller board": "unknown",
+    "green controller card": "unknown",
+    "green house": "unknown",
+    "green light": "unknown",
+    "green phoenix power connector": "unknown",
+    "green power adapters": "unknown",
+    "green power connector": "unknown",
+    "green power connectors/adapters": "unknown",
+    "green screw terminals": "unknown",
+    "greenwave power monitoring system": "unknown",
+    "grid controlla community edition": "unknown",
+    "grid seed": "unknown",  # No exact match, but likely referring to Gridseed devices
+    "grid seed blade": "unknown",  # Likely referring to Gridseed Blade
+    "grid seed blades": "unknown",  # Likely referring to Gridseed Blade
+    "grid seed miners": "unknown",  # Likely referring to Gridseed devices
+    "grid seeds": "unknown",  # Likely referring to Gridseed devices
+    "gridseed": "unknown",  # No exact match, but clearly referring to Gridseed devices
+    "gridseed 1 chip": "unknown",  # Refers to a specific Gridseed model, but not listed
+    "gridseed 115": "unknown",
+    "gridseed 5 chip": "unknown",  # Refers to a specific Gridseed model, but not listed
+    "gridseed 5 chip miners": "unknown",  # Refers to a specific Gridseed model, but not listed
+    "gridseed 5-chip miners": "unknown",  # Refers to a specific Gridseed model, but not listed
+    "gridseed 5-chip orbs": "unknown",  # Refers to a specific Gridseed model, but not listed
+    "gridseed 5-chip units": "unknown",  # Refers to a specific Gridseed model, but not listed
+    "gridseed 5-chip usb miner": "unknown",  # Refers to a specific Gridseed model, but not listed
+    "gridseed 5-chips usb miner": "unknown",  # Refers to a specific Gridseed model, but not listed
+    "gridseed 5chip miners": "unknown",  # Refers to a specific Gridseed model, but not listed
+    "gridseed 80s": "unknown",
+    "gridseed asic miner": "unknown",  # Refers to Gridseed ASIC miners, but not specifically listed
+    "gridseed asic's": "unknown",  # Refers to Gridseed ASIC miners, but not specifically listed
+    "gridseed blade": "unknown",  # Likely referring to Gridseed Blade
+    "gridseed blades": "unknown",  # Likely referring to Gridseed Blade
+    "gridseed cgminer": "unknown",
+    "gridseed chips": "unknown",
+    "gridseed dual asic": "unknown",  # Refers to a specific Gridseed model, but not listed
+    "gridseed dual miner": "unknown",  # Refers to a specific Gridseed model, but not listed
+    "gridseed dual miners": "unknown",  # Refers to a specific Gridseed model, but not listed
+    "gridseed dualmine 300+ kh/s asic scrypt & sha miner": "unknown",  # Refers to a specific Gridseed model, but not listed
+    "gridseed dualminer 5chip": "unknown",  # Refers to a specific Gridseed model, but not listed
+    "gridseed fans": "unknown",
+    "gridseed g-black": "unknown",
+    "gridseed g-blade": "unknown",  # Likely referring to Gridseed Blade
+    "gridseed gc3355": "unknown"  # Refers to the Gridseed chip, but not a specific product listed
+}
+```
+
+Note: The entries marked as "unknown" are because they either do not exactly match any hardware listed or refer to a broader category or specific model not explicitly listed. Some entries have comments indicating they likely refer to Gridseed devices but without a direct match in the provided list.

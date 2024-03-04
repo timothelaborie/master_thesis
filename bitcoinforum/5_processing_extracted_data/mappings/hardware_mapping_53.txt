@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "antminer s1 v1.6": "antminer s1",
+    "antminer s15": "unknown",
+    "antminer s15 27.0 th/s 1600 w bitcoin (sha-256) asic miner": "unknown",
+    "antminer s17 miner control board": "antminer s17", # Assuming the control board implies the model.
+    "antminer s17 pro": "antminer s17 pro",
+    "antminer s17 pro 53t": "antminer s17 pro", # Specific configuration of s17 pro.
+    "antminer s17+": "antminer s17+",
+    "antminer s17+ hashboards": "antminer s17+", # Assuming hashboards implies the model.
+    "antminer s17pro": "antminer s17 pro", # Typo or alternative spelling.
+    "antminer s19": "antminer s19",
+    "antminer s19 95th": "antminer s19", # Specific configuration of s19.
+    "antminer s19 pro 110th": "antminer s19 pro",
+    "antminer s19j pro": "antminer s19j pro",
+    "antminer s19kpro": "antminer s19k pro", # Typo or alternative spelling.
+    "antminer s19xp": "antminer s19 xp", # Typo or alternative spelling.
+    "antminer s1s": "unknown",
+    "antminer s2": "antminer s2",
+    "antminer s2 (batch 4)": "antminer s2", # Specific batch of s2.
+    "antminer s2 1 th/s miner batch 4": "antminer s2", # Specific batch and configuration of s2.
+    "antminer s2 1th/s kit": "antminer s2", # Kit version of s2.
+    "antminer s2 1th/s miner": "antminer s2", # Specific configuration of s2.
+    "antminer s2 1th/s miner batch 4": "antminer s2", # Specific batch and configuration of s2.
+    "antminer s2 asic": "antminer s2", # ASIC version of s2.
+    "antminer s2 power supplies": "antminer s2", # Assuming power supplies implies the model.
+    "antminer s220": "unknown",
+    "antminer s2s": "unknown",
+    "antminer s3": "antminer s3",
+    "antminer s3 asic": "antminer s3", # ASIC version of s3.
+    "antminer s3 batch 6": "antminer s3", # Specific batch of s3.
+    "antminer s3 x2": "unknown",
+    "antminer s3(+) fans (jdh1238b)": "antminer s3+", # Fans for s3+, assuming model.
+    "antminer s3+": "antminer s3+",
+    "antminer s3+ (batch 9)": "antminer s3+", # Specific batch of s3+.
+    "antminer s3+ -b9": "antminer s3+", # Specific batch of s3+, alternative notation.
+    "antminer s3+ b11": "antminer s3+", # Specific batch of s3+.
+    "antminer s3+ controller boards": "antminer s3+", # Assuming controller boards implies the model.
+    "antminer s3+ units": "antminer s3+", # General units of s3+.
+    "antminer s35": "unknown",
+    "antminer s3s": "unknown",
+    "antminer s4": "antminer s4",
+    "antminer s4 beaglebone card": "antminer s4", # Specific part of s4.
+    "antminer s4 card": "antminer s4", # Assuming card implies the model.
+    "antminer s4 fan": "antminer s4", # Specific part of s4.
+    "antminer s4 psu": "antminer s4", # Power supply unit for s4.
+    "antminer s4 server": "antminer s4", # Server version of s4.
+    "antminer s4+": "antminer s4+",
+    "antminer s5": "antminer s5",
+    "antminer s5 1250gh/s": "antminer s5", # Specific configuration of s5.
+    "antminer s5 asics": "antminer s5", # ASIC version of s5.
+    "antminer s5 batch 4": "antminer s5", # Specific batch of s5.
+}
+```

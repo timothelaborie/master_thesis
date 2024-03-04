@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "asic miner prisma": "asicminer be prisma",
+    "asic miner prisma tube": "unknown",  # No exact match, but seems related to "asicminer be tube"
+    "asic miner stick": "unknown",
+    "asic miner sticks": "unknown",
+    "asic miner tube": "asicminer be tube",
+    "asic miner usb stick": "unknown",  # Could be related to various "usb" miners but no exact match
+    "asic miner v2": "unknown",
+    "asic miners": "unknown",
+    "asic miners ( pinidea x11 600mhs)": "unknown",  # Specific product not listed
+    "asic mining computer": "unknown",
+    "asic minirig": "unknown",
+    "asic modules": "unknown",
+    "asic orders": "unknown",
+    "asic rig": "unknown",
+    "asic rigs": "unknown",
+    "asic sc singles": "unknown",
+    "asic scs": "unknown",
+    "asic single": "unknown",
+    "asic slot #1": "unknown",
+    "asic slot #2": "unknown",
+    "asic slot #3": "unknown",
+    "asic slot #4": "unknown",
+    "asic slot #5": "unknown",
+    "asic slot #6": "unknown",
+    "asic stat page": "unknown",
+    "asic stats": "unknown",
+    "asic stats page": "unknown",
+    "asic status": "unknown",
+    "asic sticks": "unknown",
+    "asic unit": "unknown",
+    "asic usb": "unknown",
+    "asic usb erupter": "unknown",  # Likely referring to "block erupter" but not an exact match
+    "asic usb miner": "unknown",  # Could refer to various USB miners but no exact match
+    "asic usb miner block errupters": "unknown",  # Likely a typo for "block erupter" but not an exact match
+    "asic usb miners": "unknown",
+    "asic usb stick": "unknown",  # Could refer to various USB miners but no exact match
+    "asic usbs": "unknown",
+    "asic x": "unknown",
+    "asic#": "unknown",
+    "asic#1": "unknown",
+    "asic#1 & asic#3": "unknown",
+    "asic#1 module": "unknown",
+    "asic#3": "unknown",
+    "asic#4 & asic#5": "unknown",
+    "asic's": "unknown",
+    "asic's chips": "unknown",
+    "asic/gpu": "unknown",
+    "asic_freq file": "unknown",
+    "asicblockerupters": "unknown",  # Likely a typo for "block erupter" but not an exact match
+    "asicgigahash.com k1 miners": "unknown",  # Specific product not listed
+}
+```

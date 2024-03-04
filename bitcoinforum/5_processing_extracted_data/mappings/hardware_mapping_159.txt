@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "miners": "unknown",
+    "miners #23": "unknown",
+    "miners 23": "unknown",
+    "miners blade": "unknown", # No exact match, could be a generic term for blade servers/miners
+    "miners cooperative": "unknown",
+    "miners experiencing network problems": "unknown",
+    "miners from bitmain": "unknown", # Could refer to any Bitmain product, but too vague
+    "miners r5/r6": "unknown",
+    "minersgroupbuy 2": "unknown",
+    "minersource": "unknown",
+    "minerwarez": "unknown",
+    "mingw shell": "unknown",
+    "mingw/msys": "unknown",
+    "mini blade": "unknown", # No exact match, could be a generic term or specific product not listed
+    "mini blades": "unknown",
+    "mini doge": "unknown",
+    "mini fan": "unknown",
+    "mini neptune": "knc neptune", # Assuming a reference to the KnCMiner Neptune
+    "mini pc": "unknown",
+    "mini rig": "butterflylabs mini rig",
+    "mini rig product": "butterflylabs mini rig",
+    "mini rig sc": "butterflylabs mini rig",
+    "mini rigs": "butterflylabs mini rig",
+    "mini sdcard": "unknown",
+    "mini titan": "unknown", # Could refer to a product not listed or a generic term
+    "mini usb cable": "unknown",
+    "mini usb cables": "unknown",
+    "mini usb plugs": "unknown",
+    "mini-itx atom d510mo": "unknown",
+    "mini-itx/haswell rig": "unknown",
+    "mini-refrigerator": "unknown",
+    "mini-rig": "butterflylabs mini rig",
+    "mini-usb cable": "unknown",
+    "miniitx case": "unknown",
+    "mining": "unknown",
+    "mining area": "unknown",
+    "mining asics": "unknown", # Could refer to any ASIC miner, but too vague
+    "mining board": "unknown",
+    "mining boards": "unknown",
+    "mining box": "unknown",
+    "mining card": "unknown",
+    "mining computers": "unknown",
+    "mining container ~100kw by polivka gmbh": "unknown",
+    "mining contract": "unknown",
+    "mining contracts": "unknown",
+    "mining equipment": "unknown",
+    "mining farm": "unknown",
+    "mining gear": "unknown",
+    "mining gpu": "unknown",
+    "mining hardware": "unknown",
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "hermit crab tank": "unknown",
+    "hero gopro3": "unknown",
+    "heslo": "unknown",
+    "hessaire swamp cooler": "unknown",
+    "hex board from technobit": "unknown",  # No exact match, but related to mining hardware.
+    "hex miners": "unknown",  # Could refer to various hex-named miners but too vague.
+    "hex mounts": "unknown",
+    "hex16": "unknown",  # Close to hex16a series but not exact.
+    "hex16 boards": "unknown",  # Implies boards for hex16 series but not a direct match.
+    "hex16a": "unknown",  # Close to hex16a series but not listed exactly.
+    "hex16a - avalon based board": "unknown",  # Descriptive but no exact match.
+    "hex16a miner": "unknown",  # Implies a miner based on hex16a but not listed.
+    "hex16a1": "unknown",  # Close to hex16a series but not listed.
+    "hex16a2": "unknown",  # Close to hex16a series but not listed.
+    "hex16a2 miners": "unknown",  # Implies miners based on hex16a2 but not a direct match.
+    "hex16a2/b/a1": "unknown",  # Composite of several models but not directly listed.
+    "hex16a3 miner": "unknown",  # Implies a miner based on hex16a3 but not listed.
+    "hex16a4 board": "unknown",  # Implies a board for hex16a4 but not a direct match.
+    "hex16b": "unknown",  # Close to hex16a series but not listed.
+    "hex16b miners": "unknown",  # Implies miners based on hex16b but not a direct match.
+    "hex16c": "unknown",  # Close to hex16a series but not listed.
+    "hex2a miners": "unknown",  # Implies miners based on hex2a but not listed.
+    "hex4m": "unknown",  # Close to hex-named miners but not listed.
+    "hex4m board": "unknown",  # Implies a board for hex4m but not a direct match.
+    "hex4m boards": "unknown",  # Implies boards for hex4m but not a direct match.
+    "hex8": "unknown",  # Close to hex8a1 series but not listed.
+    "hex8a1": "unknown",  # Close to hex8a1 series but not listed.
+    "hex8a1 130": "unknown",  # Specific version of hex8a1 but not listed.
+    "hex8a1 130gh/s": "unknown",  # Specific version of hex8a1 but not listed.
+    "hex8a1 240": "unknown",  # Specific version of hex8a1 but not listed.
+    "hex8a1 boards": "unknown",  # Implies boards for hex8a1 but not a direct match.
+    "hexacopter": "unknown",
+    "hexacore": "unknown",
+    "hexb": "unknown",  # Close to hex16b series but not listed.
+    "hexcube": "unknown",
+    "hexfury": "unknown",  # Close to various fury-named miners but not listed.
+    "hexminer": "unknown",  # General term for hex-named miners but not specific.
+    "hexminer hex16a2": "unknown",  # Implies a hexminer model hex16a2 but not listed.
+    "hexminer software": "unknown",
+    "hexminer windoze": "unknown",
+    "hexminerc": "unknown",  # Close to hex-named miners but not listed.
+    "hexminers": "unknown",  # General term for hex-named miners but not specific.
+    "hf baby jet": "hashfast baby jet",
+    "hf baby jet r2 upgrade shares": "unknown",  # Specific to an upgrade but not a miner model.
+    "hf boards": "unknown",  # Implies boards for hashfast miners but not a direct match.
+    "hf miner": "unknown",  # General term for hashfast miner but not specific.
+    "hf miner #4": "unknown",  # Specific to a unit but not a miner model.
+    "hf preordered units": "unknown",  # Refers to preordered units but not specific hardware.
+    "hf sierra": "hashfast sierra",
+    "hf unit": "unknown",  # General term for hashfast unit but not specific.
+}
+```

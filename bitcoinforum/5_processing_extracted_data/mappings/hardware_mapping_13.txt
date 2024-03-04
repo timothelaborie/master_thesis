@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "1x c19": "unknown",
+    "1x power supply": "unknown",
+    "1x-16x pci-e extender cable": "unknown",
+    "1x32g": "unknown",
+    "1x5850 rig": "5850",
+    "1x6950": "6950",
+    "1x72g": "unknown",
+    "1xamu": "unknown",
+    "1xbfl": "unknown",  # Could potentially refer to any BFL (Butterfly Labs) product, but too vague.
+    "1xblt": "unknown",
+    "1xica": "unknown",
+    "1xjalapeno": "butterflylabs (bfl) jalapeno",
+    "1xmmq": "unknown",
+    "2 -hd 6870's": "6870",
+    "2 1500 watt power supplies": "unknown",
+    "2 1miner rigs": "unknown",
+    "2 28nm mining cards": "unknown",
+    "2 2kwatt boards from optimizer": "unknown",
+    "2 4 ft exhaust fans": "unknown",
+    "2 5870s": "5870",
+    "2 6870's": "6870",
+    "2 bitfury starter kits": "unknown",  # Could refer to any Bitfury product, but too vague.
+    "2 blades": "unknown",  # Could potentially refer to ASICminer BE Blade, but too vague.
+    "2 card amd": "unknown",
+    "2 chip jally": "unknown",
+    "2 chip ones": "unknown",
+    "2 computers": "unknown",
+    "2 coupons": "unknown",
+    "2 dedicated rigs": "unknown",
+    "2 dps 2000 psus": "unknown",
+    "2 dual and 4 singles": "unknown",
+    "2 from 17": "unknown",
+    "2 from 22": "unknown",
+    "2 ft 15 gauge custom cables": "unknown",
+    "2 gb 1067 mhz ddr3 memory": "unknown",
+    "2 gb ram": "unknown",
+    "2 gh/s upgrade": "unknown",
+    "2 ghz intel core 2 duo processor": "unknown",
+    "2 gigs ddr3": "unknown",
+    "2 gpio 26 pin to 8 pin wires": "unknown",
+    "2 gpu system": "unknown",
+    "2 hub 10 ports": "unknown",
+    "2 jalapenos": "butterflylabs (bfl) jalapeno",
+    "2 jallies": "unknown",  # Could potentially refer to jalapeno, but too vague.
+    "2 joining apartments": "unknown",
+    "2 million doge": "unknown",
+    "2 miner": "unknown",
+    "2 miners": "unknown",
+    "2 module avalon": "unknown",  # Could potentially refer to any Avalon product, but too vague.
+    "2 of my be with no hubs": "unknown"
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "gekkoscience powered hub": "unknown",
+    "gekkoscience r909": "unknown",
+    "gekkoscience terminus r606": "unknown",
+    "gekkoscience terminus r606 miners": "unknown",
+    "gekkoscience usb hub": "unknown",
+    "geld paste": "unknown",
+    "gembird dc120sf-12as3": "unknown",
+    "gembird dc120sf-12as3 fans": "unknown",
+    "gembird fans": "unknown",
+    "gen 1 blades": "unknown",
+    "gen 4 s2": "unknown",
+    "gen one avalon": "unknown",  # Could potentially refer to an early Avalon model, but not specific enough.
+    "gen-1 avalon": "unknown",  # Could potentially refer to an early Avalon model, but not specific enough.
+    "gen2 blades": "unknown",
+    "gen2 chips": "unknown",
+    "gen2.5 modules": "unknown",
+    "gen3 40nm chips": "unknown",
+    "general electric ge90": "unknown",
+    "generator": "unknown",
+    "generators": "unknown",
+    "generic #2 pencil": "unknown",
+    "generic 4 pin cable": "unknown",
+    "generic arctic fan": "unknown",
+    "generic atx 550w psus": "unknown",
+    "generic cpu": "unknown",
+    "generic mesh": "unknown",
+    "generic no-name chinese 'heatsink compounds'": "unknown",
+    "generic s17 board": "unknown",  # Could potentially refer to Antminer S17 parts, but not specific enough.
+    "generic usbserial thing": "unknown",
+    "genesys virtex-5 fpga development board": "unknown",
+    "genius sw 5.1 speaker system": "unknown",
+    "genssi s-200-5": "unknown",
+    "gentle typhoon 1850rpm fans": "unknown",
+    "gentle typhoon fans": "unknown",
+    "getwork gpu's": "unknown",
+    "gfx": "unknown",
+    "ghashes": "unknown",
+    "gigabit fiber optic connection": "unknown",
+    "gigabyte 5850": "5850",
+    "gigabyte 5870": "5870",
+    "gigabyte 6950": "6950",
+    "gigabyte 6950 1gb": "6950",  # Assuming the 1GB variant is not significantly different for mining.
+    "gigabyte 7950": "7950",
+    "gigabyte 7950s": "7950",  # Assuming plural form refers to multiple units of the same model.
+    "gigabyte 7970 ghz edition": "7970",
+    "gigabyte amd radeon hd 7850 1gb": "7850",
+    "gigabyte ga p67a ud5": "unknown",
+    "gigabyte ga-970a-ud3": "unknown",
+    "gigabyte ga-z77x-ud4h board": "unknown",
+    "gigabyte ga990fxa-ud7": "unknown"
+}
+```

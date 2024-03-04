@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "bfl fpga": "unknown",
+    "bfl fpga single": "unknown",
+    "bfl fpga singles": "unknown",
+    "bfl fpga units": "unknown",
+    "bfl fpgas": "unknown",
+    "bfl gear": "unknown",
+    "bfl hardware": "unknown",
+    "bfl hardware (little single)": "unknown",
+    "bfl jal unit": "unknown",
+    "bfl jalaepno": "butterflylabs (bfl) jalapeno",  # Closest match, assuming typo.
+    "bfl jalapeno": "butterflylabs (bfl) jalapeno",
+    "bfl jalapeno miners": "butterflylabs (bfl) jalapeno",
+    "bfl jalapeno power brick": "unknown",
+    "bfl jalapenos": "butterflylabs (bfl) jalapeno",
+    "bfl jalapeo": "butterflylabs (bfl) jalapeno",  # Assuming typo.
+    "bfl jalapeo miners": "butterflylabs (bfl) jalapeno",  # Assuming typo.
+    "bfl jalapeos": "butterflylabs (bfl) jalapeno",  # Assuming typo.
+    "bfl jalepeno": "butterflylabs (bfl) jalapeno",  # Assuming typo.
+    "bfl jallies": "unknown",
+    "bfl labs": "unknown",
+    "bfl labs 60 gh/s asic single": "unknown",  # No exact match, possibly related to "bfl single 'sc'" but not clear.
+    "bfl little single": "unknown",  # No exact match, possibly related to "bfl single 'sc'" but not clear.
+    "bfl little single asic": "unknown",  # No exact match, possibly related to "bfl single 'sc'" but not clear.
+    "bfl little single sc": "unknown",  # No exact match, possibly related to "bfl single 'sc'" but not clear.
+    "bfl ls": "unknown",
+    "bfl miner": "unknown",
+    "bfl miners": "unknown",
+    "bfl mini single": "unknown",  # No exact match, possibly related to "bfl single 'sc'" but not clear.
+    "bfl mini-rig": "butterflylabs mini rig",
+    "bfl mini-rigs": "butterflylabs mini rig",
+    "bfl monarch": "bfl monarch",
+    "bfl mugs": "unknown",
+    "bfl oem psus": "unknown",
+    "bfl orders": "unknown",
+    "bfl paypal order": "unknown",
+    "bfl power supplies": "unknown",
+    "bfl power supply": "unknown",
+    "bfl pre-orders": "unknown",
+    "bfl product": "unknown",
+    "bfl products": "unknown",
+    "bfl psu": "unknown",
+    "bfl rev2 x16": "unknown",
+    "bfl sc": "bfl sc",
+    "bfl sc minirigs": "unknown",  # No exact match, possibly related to "butterflylabs mini rig" but not clear.
+    "bfl sc power supplies": "unknown",
+    "bfl sc single": "bfl single 'sc'",
+    "bfl sc single 60": "unknown",  # No exact match, possibly related to "bfl single 'sc'" but not clear.
+    "bfl sc single miners": "unknown",  # No exact match, possibly related to "bfl single 'sc'" but not clear.
+    "bfl sc singles": "unknown",  # No exact match, possibly related to "bfl single 'sc'" but not clear.
+    "bfl scs": "unknown"
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "bitmaintech antminer s1": "antminer s1",
+    "bitmaintech fans": "unknown",
+    "bitmaintech gb5": "unknown",
+    "bitmaintech psu": "unknown",
+    "bitmaintech s-7": "antminer s7",  # Assuming a typo, closest match.
+    "bitmaintech s1 miner": "antminer s1",
+    "bitmaintech s3 mining": "antminer s3",
+    "bitman t15": "unknown",  # No direct match, possibly a typo or different model.
+    "bitmine": "unknown",
+    "bitmine 1th desk unit": "unknown",  # No exact match, possibly referring to a Bitmine product.
+    "bitmine a1 28nm 1t colorbit": "unknown",  # No exact match, possibly referring to a Bitmine product.
+    "bitmine clones": "unknown",
+    "bitmine coincraft 1 th/s": "unknown",  # No exact match, but related to Bitmine Coincraft products.
+    "bitmine coincraft a1 28nm chip": "unknown",  # No exact match, but related to Bitmine Coincraft products.
+    "bitmine coincraft desk units": "unknown",  # No exact match, but related to Bitmine Coincraft products.
+    "bitmine coincraft desk v2": "unknown",  # No exact match, but related to Bitmine Coincraft products.
+    "bitmine coingraft": "unknown",  # Typo, possibly referring to Bitmine Coincraft products.
+    "bitmine coingraft desk 1th/s": "unknown",  # Typo and no exact match, possibly referring to Bitmine Coincraft products.
+    "bitmine desk": "unknown",  # No exact match, possibly referring to a Bitmine product.
+    "bitmine desk 1th": "unknown",  # No exact match, possibly referring to a Bitmine product.
+    "bitmine reference board": "unknown",  # No exact match, possibly referring to a Bitmine product.
+    "bitmine rig": "unknown",  # No exact match, possibly referring to a Bitmine product.
+    "bitmine rig modules": "unknown",  # No exact match, possibly referring to a Bitmine product.
+    "bitmine.ch coincraft": "unknown",  # No exact match, but related to Bitmine Coincraft products.
+    "bitmine.ch coincraft desk": "unknown",  # No exact match, but related to Bitmine Coincraft products.
+    "bitmine.ch coincraft desk unit": "unknown",  # No exact match, but related to Bitmine Coincraft products.
+    "bitminer s7": "antminer s7",
+    "bitminer.exe": "unknown",
+    "bitminers s1": "antminer s1",
+    "bitmines": "unknown",
+    "bitminter": "unknown",
+    "bitminter client": "unknown",
+    "bitminter client ( bfl single )": "bfl single 'sc'",  # Assuming a reference to BFL Single 'SC'.
+    "bitminter client 1.4.0": "unknown",
+    "bitminter official client": "unknown",
+    "bitpay": "unknown",
+    "bitpay bb": "unknown",
+    "bitscope": "unknown",
+    "bitseed node v2": "unknown",
+    "bitsyncom": "unknown",
+    "bitvise": "unknown",
+    "bitwins": "unknown",
+    "bi•fury": "bi*fury",
+    "bkkcoins 16 chip klondike boards": "unknown",  # No exact match, possibly referring to Klondike products.
+    "black": "unknown",
+    "black anker hubs": "unknown",
+    "black arrow": "unknown",  # No exact match, but related to Black Arrow products.
+    "black arrow 28nm 100ghash bitcoin asic": "unknown",  # No exact match, but related to Black Arrow products.
+    "black arrow bitfury prosperos": "unknown",  # No exact match, but related to Black Arrow Prospero products.
+    "black arrow boards": "unknown",  # No exact match, but related to Black Arrow products.
+}
+```

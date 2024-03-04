@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "jalapeno 5gh/s units": "butterflylabs (bfl) jalapeno",
+    "jalapeno board": "unknown",
+    "jalapeno boards": "unknown",
+    "jalapeno eeprom": "unknown",
+    "jalapeno from bfl": "butterflylabs (bfl) jalapeno",
+    "jalapeno rig": "unknown",
+    "jalapeno+upgrade": "unknown", # Assuming it refers to an upgraded version of the BFL Jalapeno, but not explicitly listed
+    "jalapenos": "butterflylabs (bfl) jalapeno",
+    "jalapenos (5 ghash)": "butterflylabs (bfl) jalapeno",
+    "jalapeo": "butterflylabs (bfl) jalapeno", # Assuming a typo for "jalapeno"
+    "jalapeo 8": "unknown", # No specific 8 GH/s version listed, assuming typo for "jalapeno"
+    "jalapeo's": "butterflylabs (bfl) jalapeno", # Assuming a typo for "jalapeno"
+    "jalapeos": "butterflylabs (bfl) jalapeno", # Assuming a typo for "jalapeno"
+    "jalapeños": "butterflylabs (bfl) jalapeno", # Assuming a typo for "jalapeno"
+    "jale's": "unknown",
+    "jalepeno": "butterflylabs (bfl) jalapeno", # Assuming a typo for "jalapeno"
+    "jalepenos": "butterflylabs (bfl) jalapeno", # Assuming a typo for "jalapeno"
+    "jall base model": "unknown",
+    "jalla": "unknown",
+    "jallies": "unknown",
+    "jally": "unknown",
+    "jallys": "unknown",
+    "january unit": "unknown",
+    "japs": "unknown",
+    "java": "unknown",
+    "java 7 update 25": "unknown",
+    "javaconsole": "unknown",
+    "jbc hot air station": "unknown",
+    "jelapenos": "butterflylabs (bfl) jalapeno", # Assuming a typo for "jalapeno"
+    "jgarzik": "unknown",
+    "jmumich": "unknown",
+    "jockey-gtk": "unknown",
+    "joint triped": "unknown",
+    "jovy professional hot air station": "unknown",
+    "jtag": "unknown",
+    "jtag ice mkii programmer": "unknown",
+    "jtag port": "unknown",
+    "juiced 10-port": "unknown",
+    "juiced 10-port hubs": "unknown",
+    "juiced hub": "unknown",
+    "juiced systems 10 port usb 3.0 10hub-01": "unknown",
+    "juiced systems 10 port usb 3.0 hubs": "unknown",
+    "juiced systems usb 3.0 / 2.0 - 13 port usb hub": "unknown",
+    "juiced systems usb 3.0 powered hub": "unknown",
+    "jumper cable": "unknown",
+    "jumper cases": "unknown",
+    "jumper j1": "unknown",
+    "jumper p5": "unknown",
+    "jumper plug": "unknown",
+    "junction box": "unknown",
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "icefury usb sticks": "unknown",
+    "id card": "unknown",
+    "idc 5 male (single row) to usb a male": "unknown",
+    "ide cables": "unknown",
+    "ide drives of 20 gig": "unknown",
+    "ide ultra 133 cables": "unknown",
+    "identical machines": "unknown",
+    "idevice": "unknown",
+    "idsonix usb 3.0 hub": "unknown",
+    "iec power cables": "unknown",
+    "iis server": "unknown",
+    "iis7": "unknown",
+    "ikea helmer locker": "unknown",
+    "imac": "unknown",
+    "imet": "unknown",
+    "immersion cooling system": "unknown",
+    "immersion cooling tank": "unknown",
+    "impact driver": "unknown",
+    "inc. pl2303 serial port": "unknown",
+    "inductor": "unknown",
+    "inductors": "unknown",
+    "industrial barrel fans": "unknown",
+    "industrial class rigs": "unknown",
+    "industrial fans": "unknown",
+    "industrial grade chips": "unknown",
+    "industrial hub": "unknown",
+    "industrial material": "unknown",
+    "industrial misting": "unknown",
+    "industrial resistors": "unknown",
+    "industrial sized fan": "unknown",
+    "industrial wirecutter": "unknown",
+    "infirm": "unknown",
+    "infrared thermometer": "unknown",
+    "injector": "unknown",
+    "inline 5inch fan": "unknown",
+    "inline duct fan": "unknown",
+    "inline regulator": "unknown",
+    "inline resistor": "unknown",
+    "inno silicon": "unknown", # Closest match would be "innosilicon" but not exact.
+    "inno t2 turbo 24m10": "unknown", # No exact match, possibly a typo or variant of "innosilicon t2 turbo".
+    "inno t3": "unknown", # Closest match would be "innosilicon t3" variants but not exact.
+    "inno t39": "unknown", # No exact match, possibly a typo or variant of "innosilicon t3" models.
+    "innosilicon": "unknown", # Brand name without specific model.
+    "innosilicon a2": "unknown", # No exact match in the provided list.
+    "innosilicon t1": "innosilicon t2 terminator", # Assuming a typo, closest match.
+    "innosilicon t2": "innosilicon t2 terminator",
+    "innosilicon t2t+ 32th": "innosilicon t2 turbo+ 32t",
+    "innosilicon t2t-26t": "innosilicon t2 turbo 26t",
+    "innosilicon t2turbo 24th miner": "innosilicon t2 turbo", # Assuming "24th" refers to hash rate, closest match.
+    "innosilicon t3 50": "innosilicon t3 50t",
+}
+```

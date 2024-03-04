@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "keyboard": "unknown",
+    "kia": "unknown",
+    "kia forte": "unknown",
+    "kicad library part for the avalon chip": "unknown",  # No specific Avalon model mentioned
+    "kids windows box": "unknown",
+    "kill o watt": "unknown",
+    "kill-a-watt": "unknown",
+    "kill-a-watt inline meter": "unknown",
+    "kill-a-watt meter": "unknown",
+    "kill-o-watt 360w": "unknown",
+    "kill-o-watt meter": "unknown",
+    "killa watt": "unknown",
+    "killawatt": "unknown",
+    "killawatt tool": "unknown",
+    "killawatt's": "unknown",
+    "killawatti": "unknown",
+    "kindle": "unknown",
+    "kingston sd card": "unknown",
+    "kintex 7 chips": "unknown",
+    "kintex-7 boards": "unknown",
+    "kis3r33 modules": "unknown",
+    "kit-forms": "unknown",
+    "klintay's 19 port hubs": "unknown",
+    "klondike 1 usb miner": "klondike",  # Assuming a general reference to Klondike miners
+    "klondike board": "klondike",  # General reference to Klondike hardware
+    "klondike boards": "klondike",  # General reference to Klondike hardware
+    "klondike components": "klondike",  # General reference to Klondike hardware
+    "klondike fans": "unknown",  # No specific hardware, accessory for Klondike
+    "klondike gen2 board": "klondike",  # Assuming a version of Klondike hardware
+    "klondike k16": "klondike",  # Specific reference to a Klondike model
+    "klondike k16 full miner assembly": "klondike",  # Specific reference to a Klondike model
+    "klondike k16 pcb": "klondike",  # Specific reference to a Klondike model
+    "klondike k16s": "klondike",  # Specific reference to a Klondike model
+    "klondike miners": "klondike",  # General reference to Klondike hardware
+    "klondike platform": "unknown",  # No specific hardware, could be referring to software/platform
+    "klondike project": "unknown",  # Likely referring to the project, not specific hardware
+    "klondike'sh": "unknown",  # Unclear reference, possibly a typo or slang
+    "klondike16 prototype": "klondike",  # Specific reference to a Klondike prototype
+    "klondikes": "klondike",  # General reference to Klondike hardware
+    "knc": "unknown",  # KNC is a manufacturer, not a specific model
+    "knc - saturn": "knc saturn",  # Specific reference to a KNC model
+    "knc 175g miner": "unknown",  # No specific model mentioned, unclear reference
+    "knc 33 th/s neptune": "knc neptune",  # Specific reference to a KNC model
+    "knc 550ghs": "unknown",  # No specific model mentioned, unclear reference
+    "knc asic": "unknown",  # General reference to KNC ASICs, not a specific model
+    "knc bitcoin miner": "unknown",  # General reference to KNC miners, not a specific model
+    "knc boxes": "unknown",  # Likely referring to packaging, not specific hardware
+    "knc controller board": "unknown",  # Accessory or part of KNC hardware, not a specific miner model
+    "knc device": "unknown",  # General reference to KNC devices, not a specific model
+    "knc gear": "unknown",  # General reference to KNC products, not a specific model
+}
+```

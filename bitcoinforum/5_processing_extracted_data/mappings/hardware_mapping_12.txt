@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "1kw 80plus gold psu": "unknown",
+    "1kw fan heater": "unknown",
+    "1kw server psu": "unknown",
+    "1kw stand-by ups's": "unknown",
+    "1mm thick copper wire": "unknown",
+    "1mm2 internal wires power cables": "unknown",
+    "1s3": "unknown",
+    "1st and 2nd half of the payments": "unknown",
+    "1st batch a1 chips": "unknown",  # Could potentially relate to devices using A1 chips but not specific enough.
+    "1st batch no refund no roi titan": "unknown",
+    "1st gen avalon": "avalon batch 1",  # Assuming "1st gen" refers to the first batch.
+    "1st gen bfl hardware": "unknown",  # Could refer to any early BFL device, but not specific.
+    "1st gpu": "unknown",
+    "1t": "unknown",
+    "1t dragon": "unknown",
+    "1t dragon miner": "unknown",
+    "1t miner": "unknown",
+    "1t15": "unknown",
+    "1t2turbo": "unknown",
+    "1tb antminer": "unknown",
+    "1tb hdds": "unknown",
+    "1tb machine": "unknown",
+    "1tb samsung f3": "unknown",
+    "1tb ssd": "unknown",
+    "1th": "unknown",
+    "1th bitmine": "unknown",
+    "1th dragon miner": "unknown",
+    "1th dragon miners": "unknown",
+    "1th dragons": "unknown",
+    "1th machine parts like modules (200-250mh/s each with a1 chips) power supplies raspberry pi's cables": "unknown",
+    "1th miner": "unknown",
+    "1th miners": "unknown",
+    "1th rackmount avalon3 miner": "unknown",  # Could potentially refer to an Avalon model but not specific enough.
+    "1th rig from amt": "unknown",
+    "1th rigs": "unknown",
+    "1th units": "unknown",
+    "1th/s dragon asic miners": "unknown",
+    "1th/s dragonminer unit": "unknown",
+    "1th/s miner": "unknown",
+    "1th/s s2 antminer": "antminer s2",
+    "1th/s stock": "unknown",
+    "1ths 1kw 28nm miner": "unknown",
+    "1ths coincraft a1 28nm asic miner": "unknown",
+    "1ths dragon miner": "unknown",
+    "1tminer": "unknown",
+    "1u linux server": "unknown",
+    "1u racks": "unknown",
+    "1wire thermal sensor": "unknown",
+    "1x 7950 rig": "7950",  # Assuming the rig is built around the 7950 GPU.
+    "1x base board": "unknown"
+}
+```

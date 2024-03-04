@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "avalon batch 2 system": "avalon batch 2",
+    "avalon batch 2 units": "avalon batch 2",
+    "avalon batch 2#": "avalon batch 2",
+    "avalon batch 2s": "avalon batch 2",
+    "avalon batch 3": "avalon batch 3",
+    "avalon batch 3s": "avalon batch 3",
+    "avalon batch1": "avalon batch 1",
+    "avalon batch4 psu": "unknown",  # No "avalon batch 4" in the list
+    "avalon bitcoin mainer": "unknown",  # Likely a typo, but no direct match
+    "avalon blade": "asicminer be blade",  # Assuming "blade" refers to a common form factor
+    "avalon board": "unknown",
+    "avalon boards": "unknown",
+    "avalon box": "unknown",
+    "avalon boxes": "unknown",
+    "avalon bulk chips": "unknown",
+    "avalon cgminer": "unknown",  # cgminer is software, not hardware
+    "avalon chip": "unknown",
+    "avalon chip module board": "unknown",
+    "avalon chip-based rigs": "unknown",
+    "avalon chips": "unknown",
+    "avalon chips 2654": "unknown",
+    "avalon chips from batch 1": "avalon batch 1",
+    "avalon chips from batch 2": "avalon batch 2",
+    "avalon chips named beehive": "unknown",
+    "avalon clone": "bitmine.ch avalon clone 85gh",
+    "avalon clone btmine box": "bitmine.ch avalon clone 85gh",  # Assuming typo for "bitmine"
+    "avalon clone prototype": "bitmine.ch avalon clone 85gh",  # Assuming prototype refers to the clone
+    "avalon clones": "bitmine.ch avalon clone 85gh",
+    "avalon connector": "unknown",
+    "avalon control board": "unknown",
+    "avalon controller": "unknown",
+    "avalon designer": "unknown",
+    "avalon equipment": "unknown",
+    "avalon fans": "unknown",
+    "avalon firmware": "unknown",
+    "avalon from canaan": "unknown",  # Canaan is the manufacturer, but this is too vague
+    "avalon from taobao": "unknown",  # Taobao is a marketplace, not specific hardware
+    "avalon gen 1": "unknown",  # No specific "gen 1" hardware listed
+    "avalon gen 1 miners": "unknown",
+    "avalon gen 2": "unknown",  # No specific "gen 2" hardware listed
+    "avalon gen 2 chips": "unknown",
+    "avalon gen 3 chips": "unknown",
+    "avalon gen i chips": "unknown",
+    "avalon gen1": "unknown",
+    "avalon gen1 chip": "unknown",
+    "avalon gen1.3": "unknown",
+    "avalon gen2": "unknown",
+    "avalon gen2 (a3255)": "unknown",
+    "avalon gen2 chips": "unknown",
+    "avalon gen2  220gh/s": "unknown",
+}
+```

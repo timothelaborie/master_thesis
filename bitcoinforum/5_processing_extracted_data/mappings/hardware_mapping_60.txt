@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "asicminer": "unknown",
+    "asicminer 49 port hub": "unknown",
+    "asicminer 49 port hubs": "unknown",
+    "asicminer 49 port usb hub": "unknown",
+    "asicminer 49 port usb hubs": "unknown",
+    "asicminer 49-porter": "unknown",
+    "asicminer blade": "asicminer be blade",
+    "asicminer blade erupter": "asicminer be blade",
+    "asicminer blade miner": "asicminer be blade",
+    "asicminer blades": "asicminer be blade",
+    "asicminer blades (rev2) 10.7gh/s": "asicminer be blade", # Assuming closest match, though specifics may vary.
+    "asicminer blades 10.7gh": "asicminer be blade", # Assuming closest match.
+    "asicminer block erupter blade": "asicminer be blade",
+    "asicminer block erupter cube": "asicminer be cube",
+    "asicminer block erupter cube 30gh/s": "asicminer be cube",
+    "asicminer block erupter cubes": "asicminer be cube",
+    "asicminer block erupter prisma": "asicminer be prisma",
+    "asicminer block erupter usb": "asicminer be tube", # Assuming closest match for USB form factor.
+    "asicminer block erupter usbs": "asicminer be tube",
+    "asicminer block erupters": "unknown", # Could refer to multiple products.
+    "asicminer bluck erupter usb": "asicminer be tube", # Assuming typo, closest match.
+    "asicminer chips": "unknown",
+    "asicminer container miner farm": "unknown",
+    "asicminer cube": "asicminer be cube",
+    "asicminer cube 30-38gh/s": "asicminer be cube",
+    "asicminer cube 30gh/s to 38gh/s": "asicminer be cube",
+    "asicminer cube miners": "asicminer be cube",
+    "asicminer cubes": "asicminer be cube",
+    "asicminer cubes 30- 38gh/s": "asicminer be cube",
+    "asicminer cubes 30-38gh/s": "asicminer be cube",
+    "asicminer cubes 30gh-32gh/s": "asicminer be cube",
+    "asicminer cubes 30gh-38gh/s": "asicminer be cube",
+    "asicminer erupter": "unknown", # Could refer to multiple products.
+    "asicminer erupter gb#8": "unknown",
+    "asicminer erupter usb": "asicminer be tube",
+    "asicminer erupter usb gb": "unknown",
+    "asicminer erupter usb gb#7": "unknown",
+    "asicminer erupter usb miner": "asicminer be tube",
+    "asicminer erupter usb sticks": "asicminer be tube",
+    "asicminer erupters": "unknown", # Could refer to multiple products.
+    "asicminer gear": "unknown",
+    "asicminer gen 3 chip": "unknown",
+    "asicminer hubs": "unknown",
+    "asicminer prisma": "asicminer be prisma",
+    "asicminer prisma 1.4th/s": "asicminer be prisma",
+    "asicminer prisma 2.0": "asicminer be prisma",
+    "asicminer rigs": "unknown",
+    "asicminer shares": "unknown",
+    "asicminer sinks": "unknown",
+    "asicminer sticks": "unknown",
+}
+```

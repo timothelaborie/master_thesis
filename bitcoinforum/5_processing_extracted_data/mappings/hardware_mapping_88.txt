@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "break out boards": "unknown",
+    "breaker": "unknown",
+    "breaker box": "unknown",
+    "breaker boxes": "unknown",
+    "breaker panel": "unknown",
+    "breakers": "unknown",
+    "breakout board": "unknown",
+    "breakout board + usb": "unknown",
+    "breakout board from eyeboot": "unknown",
+    "breakout boards": "unknown",
+    "breakout box": "unknown",
+    "breakout box casing": "unknown",
+    "brennenstuhl energy monitor": "unknown",
+    "brick power supplies": "unknown",
+    "bricked jallies": "unknown",
+    "bridges": "unknown",
+    "broken bes": "unknown",
+    "bronze 620 psu": "unknown",
+    "bronze dell": "unknown",
+    "bronze power supplies": "unknown",
+    "bronze psu": "unknown",
+    "bronze tr2 600w power supplies": "unknown",
+    "browser": "unknown",
+    "bt home hub problems": "unknown",
+    "bt home hubs": "unknown",
+    "btc": "unknown",
+    "btc asics": "unknown",
+    "btc atms": "unknown",
+    "btc garden am v2": "unknown", # No exact match, closest is "btc garden am-v1" but not listed as v2.
+    "btc garden am-v1 stack": "btc garden am-v1", # Assuming "stack" refers to a configuration or setup.
+    "btc guild": "unknown",
+    "btc heating system 280ghs @ 244w - 0.10a fan": "unknown",
+    "btc miner snow panther b1+": "bitfily snow panther b1+",
+    "btc miners": "unknown",
+    "btc-e wallet": "unknown",
+    "btc-garden am-v1": "btc garden am-v1",
+    "btc0.01": "unknown",
+    "btc6000": "unknown",
+    "btcfpga": "unknown",
+    "btcg.miner": "unknown",
+    "btcgarden": "unknown",
+    "btcgarden 620ghash": "unknown", # No exact match, could refer to a specific model not listed.
+    "btcgarden am-v1": "btc garden am-v1",
+    "btcgarden based hardware": "unknown", # General reference to btcgarden products.
+    "btcgarden hardware": "unknown", # General reference to btcgarden products.
+    "btcguild": "unknown",
+    "btcminer ( ztex boards)": "unknown", # Refers to a specific use of ztex boards for mining, but no exact product match.
+    "btcminer from ztex": "unknown", # Refers to a specific use of ztex boards for mining, but no exact product match.
+    "btiman psu": "unknown",
+    "btl cupones": "unknown",
+}
+```

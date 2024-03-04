@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "avalon 1246 85th": "canaan avalonminer 1246",  # Closest match based on model number.
+    "avalon 2": "unknown",  # No specific match, could refer to any second generation Avalon product.
+    "avalon 2 a3255-q48 55nm asic chips": "unknown",  # Specific chip detail not listed in the provided hardware list.
+    "avalon 2 boards": "unknown",  # Generic reference to Avalon 2 series boards, no exact match.
+    "avalon 2 miners": "unknown",  # Generic reference to Avalon 2 series miners, no exact match.
+    "avalon 2's": "unknown",  # Generic reference to Avalon 2 series, no exact match.
+    "avalon 200": "unknown",  # No specific match, could be a generic reference to an early Avalon miner.
+    "avalon 200gh": "unknown",  # No specific match, generic reference to mining capability.
+    "avalon 200gh/s box": "unknown",  # No specific match, generic reference to mining capability.
+    "avalon 200ghs miner batch 2": "unknown",  # No specific match, refers to a batch but not listed.
+    "avalon 200ghs tp-link": "unknown",  # No specific match, includes additional detail not listed.
+    "avalon 210": "unknown",  # No specific match, could be a generic reference to an early Avalon miner.
+    "avalon 230g": "unknown",  # No specific match, generic reference to mining capability.
+    "avalon 230gh/s": "unknown",  # No specific match, generic reference to mining capability.
+    "avalon 23gh modules": "unknown",  # No specific match, refers to module capability not listed.
+    "avalon 290 single modules": "unknown",  # No specific match, refers to module capability not listed.
+    "avalon 290gh module": "unknown",  # No specific match, refers to module capability not listed.
+    "avalon 2nd gen chips": "unknown",  # Generic reference to second generation Avalon chips, no exact match.
+    "avalon 2t": "unknown",  # No specific match, could be a generic reference to an early Avalon miner.
+    "avalon 3": "unknown",  # No specific match, could refer to any third generation Avalon product.
+    "avalon 3 module": "unknown",  # Generic reference to Avalon 3 series modules, no exact match.
+    "avalon 3 nano asic miner": "unknown",  # Specific product not listed in the provided hardware list.
+    "avalon 3g 820g bitcoinminer": "unknown",  # Specific product not listed in the provided hardware list.
+    "avalon 3module": "unknown",  # Generic reference to Avalon 3 series modules, no exact match.
+    "avalon 4": "unknown",  # No specific match, could refer to any fourth generation Avalon product.
+    "avalon 4 1000gh/s@694w": "unknown",  # Specific product not listed in the provided hardware list.
+    "avalon 4.1": "unknown",  # No specific match, could refer to an updated version of a fourth generation Avalon product.
+    "avalon 4.1 miner": "unknown",  # No specific match, could refer to an updated version of a fourth generation Avalon product.
+    "avalon 55nm": "unknown",  # Specific chip detail not listed in the provided hardware list.
+    "avalon 55nm 230ghs": "unknown",  # Specific chip detail not listed in the provided hardware list.
+    "avalon 6": "avalon6",  # Exact match based on model number.
+    "avalon 6 miner": "avalon6",  # Exact match based on model number.
+    "avalon 6 miners": "avalon6",  # Exact match based on model number.
+    "avalon 6 units": "avalon6",  # Exact match based on model number.
+    "avalon 60gh mini rig": "unknown",  # No specific match, refers to a product not listed.
+    "avalon 60gh/s mini rig": "unknown",  # No specific match, refers to a product not listed.
+    "avalon 7": "unknown",  # No specific match, could refer to any seventh generation Avalon product.
+    "avalon 721": "avalon721",  # Exact match based on model number.
+    "avalon 741": "avalon741",  # Exact match based on model number.
+    "avalon 741 miners": "avalon741",  # Exact match based on model number.
+    "avalon 741s": "avalon741",  # Assuming a plural or variant, closest match.
+    "avalon 741x2": "avalon741",  # Assuming a configuration detail, closest match.
+    "avalon 8": "unknown",  # No specific match, could refer to any eighth generation Avalon product.
+    "avalon 82": "unknown",  # No specific match, could be a generic reference to an Avalon product.
+    "avalon 821": "avalon821",  # Exact match based on model number.
+    "avalon 841": "avalon841",  # Exact match based on model number.
+    "avalon 841s": "avalon841",  # Assuming a plural or variant, closest match.
+    "avalon 851": "unknown",  # No specific match, could be a newer model not listed.
+    "avalon 851s": "unknown",  # No specific match, could be a newer model not listed.
+    "avalon 88gh/s": "unknown",  # No specific match, refers to a product not listed.
+}
+```

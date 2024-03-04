@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "32 gb samsung cards": "unknown",
+    "32 mb": "unknown",
+    "32 mb ram": "unknown",
+    "32-36gh/s": "unknown",
+    "3200": "unknown",
+    "3200 watt pieces of gear": "unknown",
+    "3220": "unknown",
+    "3250 m3 (kitchen) extraction fan": "unknown",
+    "3252": "unknown",
+    "32gb microsd card": "unknown",
+    "32gb r-box": "unknown",  # No exact match, but seems related to mining hardware.
+    "32gb ram": "unknown",
+    "32ghs r boxes": "unknown",  # No exact match, but seems related to mining hardware.
+    "32vrm jupiters": "unknown",  # No exact match, but seems related to mining hardware.
+    "333mh/s block eruptors": "unknown",  # No exact match, but seems related to mining hardware.
+    "333mh/s erupters": "unknown",  # No exact match, but seems related to mining hardware.
+    "333mh/s usb asic's": "unknown",  # No exact match, but seems related to mining hardware.
+    "333mh/s usb erupters": "unknown",  # No exact match, but seems related to mining hardware.
+    "333mhs asic block erupter": "unknown",  # No exact match, but seems related to mining hardware.
+    "333mhz asic miners": "unknown",  # No exact match, but seems related to mining hardware.
+    "3355 chips": "unknown",
+    "336mh/s block erupter": "unknown",  # No exact match, but seems related to mining hardware.
+    "34 chip": "unknown",
+    "34 chips": "unknown",
+    "3400 watt gpu farm": "unknown",
+    "3420": "unknown",
+    "350w 1u power supplies": "unknown",
+    "350watt psu": "unknown",
+    "3570k": "unknown",
+    "35k cfm fans": "unknown",
+    "35x35x6mm heatsinks": "unknown",
+    "36\" cables": "unknown",
+    "360 chips from zefir": "unknown",
+    "360w ps": "unknown",
+    "3700": "unknown",
+    "3770k": "unknown",
+    "3770k/z77 chipset": "unknown",
+    "380w raid max": "unknown",
+    "384": "unknown",
+    "3900 cpus": "unknown",
+    "399.4 mh/s gpu": "unknown",
+    "3a adapter": "unknown",
+    "3a buck voltage regulator": "unknown",
+    "3d printed cases": "unknown",
+    "3d printer": "unknown",
+    "3d-printed material": "unknown",
+    "3dmark": "unknown",
+    "3ft / 100cm per individual cable": "unknown",
+    "3g backup dongle": "unknown",
+    "3g modem": "unknown",
+}
+```

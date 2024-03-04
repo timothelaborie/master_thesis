@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "2.3th/s dragons": "unknown",
+    "2.4 sdk": "unknown",
+    "2.4k resistors": "unknown",
+    "2.4sdk": "unknown",
+    "2.5 sdk": "unknown",
+    "2.5mm barrel connectors": "unknown",
+    "2.5mm copper wire": "unknown",
+    "2.5mm plugs": "unknown",
+    "2.5mm2 cables": "unknown",
+    "2.6 amp wallwort": "unknown",
+    "2.7a and 6000 rpm fans": "unknown",
+    "2.7a fan": "unknown",
+    "2.7gh/s block erupter": "unknown", # No exact match, closest would be "block erupter asics" but not listed.
+    "2.8th/s gb": "unknown",
+    "2/3 months late batch 3 avalon": "avalon batch 3", # Assuming a reference to the late delivery of this batch.
+    "20 amp 120 volt service": "unknown",
+    "20 amp 250v outlets": "unknown",
+    "20 amp breaker": "unknown",
+    "20 amp line & outlet": "unknown",
+    "20 amp outlets": "unknown",
+    "20 amp plugs": "unknown",
+    "20 chips": "unknown",
+    "20 chips board": "unknown",
+    "20 inch box fan": "unknown",
+    "20 order trial shipment": "unknown",
+    "20 pack": "unknown",
+    "20 pin connector housings": "unknown",
+    "20 port hub": "unknown",
+    "20 port hubs": "unknown",
+    "20 port usb hubs": "unknown",
+    "20 ports usb hub": "unknown",
+    "20 s9's": "antminer s9", # Assuming a reference to multiple units of Antminer S9.
+    "20 to 24 pin atx adapter cable": "unknown",
+    "20 unit gridseed full pack": "unknown", # No exact match, could refer to a product bundle not listed.
+    "20 units": "unknown",
+    "20 units gridseed voltmodded with simple mod": "unknown", # No exact match, could refer to modified units not listed.
+    "20 usb cables 4 power supply with 5 jacks 25mm ready to go": "unknown",
+    "20\" box fan": "unknown",
+    "20\" plastic crapbox": "unknown",
+    "20\" window fans": "unknown",
+    "20\"x20\" furnace filters": "unknown",
+    "20-inch box": "unknown",
+    "200 amp 40 breaker box": "unknown",
+    "200 amp box": "unknown",
+    "200 amp single phase service setup": "unknown",
+    "200 gh/s units": "unknown", # No exact match, could refer to a generic specification not listed.
+    "200 gig sat": "unknown",
+    "200 i service": "unknown",
+    "200 lbs of dogs": "unknown",
+    "200 order from china": "unknown",
+}
+```

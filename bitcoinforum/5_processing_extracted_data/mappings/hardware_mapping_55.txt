@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "antminer u1": "antminer u1",
+    "antminer u1 usb 1.6gh/s+": "antminer u1",  # Assuming closest match, specific version not listed
+    "antminer u1 usb sticks": "antminer u1",  # Assuming "usb sticks" refers to the model itself
+    "antminer u1s": "antminer u1",  # Likely a typo or plural form
+    "antminer u2": "antminer u2+",
+    "antminer u2 1.6gh/s - 2.2gh/s usbs": "antminer u2+",  # Closest match, considering the hash rate
+    "antminer u2 4ghs": "antminer u2+",  # Assuming typo or over-clocked version, not listed specifically
+    "antminer u2 [anu]": "antminer u2+",  # Assuming code or internal designation
+    "antminer u2 asic usb chip": "antminer u2+",  # Descriptive, assuming closest match
+    "antminer u2 usb sticks": "antminer u2+",  # Assuming "usb sticks" refers to the model itself
+    "antminer u2+ 1.6-2.2gh/s usb mining sticks": "antminer u2+",
+    "antminer u2+ 2.0gh/s usb": "antminer u2+",
+    "antminer u2s": "antminer u2+",  # Likely a typo or plural form
+    "antminer u3": "antminer u3",
+    "antminer u3+": "antminer u3",  # Assuming closest match, specific "+" version not listed
+    "antminer units": "unknown",  # Too vague, no specific model mentioned
+    "antminer usbs": "unknown",  # Refers to a category, not a specific model
+    "antminer v9 4th": "antminer v9",
+    "antminer wifi": "unknown",  # No specific model related to wifi mentioned
+    "antminer z9": "unknown",  # Not listed in the provided hardware list
+    "antminers": "unknown",  # Too vague, no specific model mentioned
+    "antminers (s3)": "antminer s3",
+    "antminers s1": "antminer s1",
+    "antminers s1-s5": "unknown",  # Refers to a range, not a specific model
+    "antminers s2": "antminer s2",
+    "antminers s3": "antminer s3",
+    "antminers s5": "antminer s5",
+    "antminers u1": "antminer u1",
+    "antminers u1s": "antminer u1",  # Likely a typo or plural form
+    "antminers1": "antminer s1",  # Likely a typo, missing space
+    "antminers2": "antminer s2",  # Likely a typo, missing space
+    "antminers5": "antminer s5",  # Likely a typo, missing space
+    "antminers7": "antminer s7",
+    "antminers9": "antminer s9",
+    "antminter s2": "antminer s2",  # Typo, assuming closest match
+    "antrouter": "unknown",  # No specific model mentioned
+    "antrouter r1": "unknown",  # Not listed in the provided hardware list
+    "ants": "unknown",  # Too vague, no specific model mentioned
+    "ants s1": "antminer s1",  # Assuming typo, meant "antminers s1"
+    "ants3 water block": "antminer s3",  # Assuming a specific setup for s3, not a separate model
+    "anubis": "unknown",  # Not listed in the provided hardware list
+    "aoclbf": "unknown",  # Not listed in the provided hardware list
+    "aoclbf 1.75": "unknown",  # Not listed in the provided hardware list
+    "aoclbf phoenix 1.5 miner": "unknown",  # Not listed in the provided hardware list
+    "aoyue 853a": "unknown",  # Not related to mining hardware listed
+    "aoyue 968 rework station": "unknown",  # Not related to mining hardware listed
+    "aoyue pre-heater": "unknown",  # Not related to mining hardware listed
+    "aoz1021ai 3a synchronous buck regulator": "unknown",  # Not related to mining hardware listed
+    "ap": "unknown",  # Too vague, no specific model mentioned
+    "ap3++": "unknown",  # Not listed in the provided hardware list
+}
+```

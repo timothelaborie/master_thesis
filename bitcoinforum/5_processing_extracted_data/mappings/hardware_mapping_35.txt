@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "6+2 pci cables": "unknown",
+    "6+2 pin cable": "unknown",
+    "6+2 pin pci connectors": "unknown",
+    "6-30 to c15 cable": "unknown",
+    "6-32 screws": "unknown",
+    "6-cores amd phenom": "unknown",
+    "6-in-1 digital tester": "unknown",
+    "6-pin connectors": "unknown",
+    "6-pin pci-e power connectors": "unknown",
+    "6-pin pcie power": "unknown",
+    "6-pin pcie power cables": "unknown",
+    "6-pin plugs": "unknown",
+    "6-pin power adapter cable for pci-express": "unknown",
+    "6-port hubs": "unknown",
+    "6. (1x1 + 2x2)": "unknown",
+    "6/8 2.5 cables": "unknown",
+    "6/8 pce-i for short": "unknown",
+    "60 gh": "unknown", # No exact match, could refer to a general performance metric rather than a specific model
+    "60 gh/s asic": "unknown", # Could potentially refer to a specific ASIC miner, but no exact match in the list
+    "60 gh/s models": "unknown", # General reference to performance, not a specific model
+    "60 gh/s ones": "unknown", # General reference, not specific
+    "60 gh/s singles scs": "unknown", # No exact match, possibly referring to a specific model but unclear
+    "60 gh/s units": "unknown", # General reference, not specific
+    "60 gh/sec box": "unknown", # General reference, not specific
+    "60 gigahash single": "unknown", # Could potentially refer to a specific ASIC miner, but no exact match in the list
+    "60 sticks": "unknown",
+    "60% profit miner": "unknown",
+    "600 mhz s9": "antminer s9", # Closest match based on the reference to "s9", though "600 mhz" is not a standard specification
+    "600 watt adapter": "unknown",
+    "600 watt pc": "unknown",
+    "600 watt power supply": "unknown",
+    "600 watt ps": "unknown",
+    "600 watt psu": "unknown",
+    "6000 series cards": "unknown", # Could refer to a range of graphics cards, but no specific model in the list
+    "6000mah usb battery": "unknown",
+    "600rpm fans": "unknown",
+    "600w bronze": "unknown",
+    "600w corsair power supply": "unknown",
+    "600w ocz": "unknown",
+    "600w peak to peak pos bestbuy psu": "unknown",
+    "600w power supply": "unknown",
+    "600w psu": "unknown",
+    "600w psu (50a/12v 4xpcie)": "unknown",
+    "600w solar panel": "unknown",
+    "60a 220v breaker": "unknown",
+    "60a 240v circuit": "unknown",
+    "60a charge controller": "unknown",
+    "60amp 240v circuit": "unknown",
+    "60amp 3phase (17kw usable) cabinet": "unknown",
+    "60gh bfl's": "bfl single 'sc'", # Assuming a reference to BFL's 60 GH/s model, though not explicitly named as such
+}
+```

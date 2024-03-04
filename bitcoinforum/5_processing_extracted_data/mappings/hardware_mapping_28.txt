@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "450 cfm inline blower": "unknown",
+    "450 watt psu": "unknown",
+    "4500kh/s rigs": "unknown",
+    "4500rpm fan": "unknown",
+    "450d case rig": "unknown",
+    "450w psus": "unknown",
+    "450w(+5v@30a) psu": "unknown",
+    "4547 chips": "unknown",
+    "4570m": "4570m",
+    "45u open frame rack": "unknown",
+    "460": "unknown",
+    "4650": "4650",
+    "4670": "4670",
+    "4770": "4770",
+    "48 chips": "unknown",
+    "48 core box": "unknown",
+    "48 more chips": "unknown",
+    "48 port linksys": "unknown",
+    "48 port switch": "unknown",
+    "48 port switches": "unknown",
+    "480 trannies": "unknown",
+    "480 volt panel 3 phase": "unknown",
+    "480/277 to 208/120 transformer": "unknown",
+    "480v 40kva ups": "unknown",
+    "485 chips": "unknown",
+    "4850": "4850",
+    "4870": "4870",
+    "4890": "4890",
+    "48port switch": "unknown",
+    "49 port asicminer usb hub": "unknown", # No exact match, but related to ASIC mining hardware.
+    "49 port block erupter usb hubs": "unknown", # Related to ASIC mining but no exact match.
+    "49 port hub": "unknown", # Related to ASIC mining but no exact match.
+    "49 port hubs": "unknown", # Related to ASIC mining but no exact match.
+    "49 port usb hub": "unknown", # Related to ASIC mining but no exact match.
+    "49 port with splitter": "unknown", # Related to ASIC mining but no exact match.
+    "49-port be hub": "unknown", # Related to ASIC mining but no exact match.
+    "49-port hub": "unknown", # Related to ASIC mining but no exact match.
+    "49-port hubs": "unknown", # Related to ASIC mining but no exact match.
+    "49-port usb hub": "unknown", # Related to ASIC mining but no exact match.
+    "49-port usb hubs": "unknown", # Related to ASIC mining but no exact match.
+    "49er hubs": "unknown", # Possibly related to ASIC mining but no exact match.
+    "49ers": "unknown",
+    "4a adapter": "unknown",
+    "4a psu": "unknown",
+    "4btc": "unknown",
+    "4chip slot": "unknown",
+    "4cm fan": "unknown",
+    "4g lte": "unknown",
+    "4g modem/router": "unknown",
+    "4gb drive": "unknown"
+}
+```

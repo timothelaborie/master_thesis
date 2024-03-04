@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "nvidia gt330m": "unknown",
+    "nvidia gt620": "unknown",
+    "nvidia gtx 1060": "unknown",
+    "nvidia gtx 280": "gtx280",
+    "nvidia gtx 750": "unknown",
+    "nvidia gtx 980": "unknown",
+    "nvidia gtx460 cards": "gtx460",
+    "nvidia gtx580 video card": "gtx580",
+    "nvidia ion": "ion",
+    "nvidia ion video card": "ion", # Assuming "nvidia ion" is a close enough match.
+    "nvidia machines": "unknown",
+    "nvidia systems": "unknown",
+    "nvidia-cuda support": "unknown",
+    "nvidia-xconfig": "unknown",
+    "nvidias": "unknown",
+    "nxp arm": "unknown",
+    "nxp semiconductor 74hc574": "unknown",
+    "nxzt bronze 650 watt": "unknown",
+    "nzxt psu": "unknown",
+    "objective lens focus motor coil": "unknown",
+    "oc guru tool": "unknown",
+    "oc i7 3930k": "unknown",
+    "oc pc": "unknown",
+    "oced gpu": "unknown",
+    "oct bitfury": "unknown", # No specific Bitfury model mentioned.
+    "oct jupiters": "knc jupiter", # Assuming "oct" refers to a batch or time frame.
+    "oct knc": "unknown", # No specific KNC model mentioned.
+    "oct-delivery h-board": "unknown",
+    "oct. bitfury 160": "unknown", # No specific Bitfury model mentioned.
+    "oct. boards": "unknown",
+    "octa-core amd processor": "unknown",
+    "october jupiter": "knc jupiter",
+    "october jupiter 4 vrm": "knc jupiter", # Assuming "october jupiter" is a close enough match.
+    "october jupiters": "knc jupiter",
+    "october knc jupiter": "knc jupiter",
+    "october units": "unknown",
+    "octopus 4port usb hub(fe1.1 chip)": "unknown",
+    "octotank12": "unknown",
+    "ocz": "unknown",
+    "ocz 1250w": "unknown",
+    "ocz 550w": "unknown",
+    "ocz 550w psu": "unknown",
+    "ocz 600w": "unknown",
+    "ocz 600w psu": "unknown",
+    "ocz 750w modular power supply": "unknown",
+    "ocz bronze 550 watt": "unknown",
+    "ocz zx 850w": "unknown",
+    "ocz zx series psu": "unknown",
+    "odriod u3": "unknown", # Likely a typo for "odroid u3".
+    "odroid u3": "unknown",
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "noiseblocker b12-pi": "unknown",
+    "noiseblocker blacksilentfan xr-2": "unknown",
+    "noisy fan": "unknown",
+    "nokia e72": "unknown",
+    "nokia n9 power supply": "unknown",
+    "nokia webcl version": "unknown",
+    "non + version of the b": "unknown",
+    "non anker generic cheap hub": "unknown",
+    "non conductive grills": "unknown",
+    "non-mpp sierra": "unknown",
+    "non-us securities": "unknown",
+    "noname usb stick": "unknown",
+    "norco rpc-3016/3116 case": "unknown",
+    "norco ss 500 5 in 3 hd hot swap bay": "unknown",
+    "normal switches": "unknown",
+    "normal wall outlet": "unknown",
+    "northbridge cooling blocks": "unknown",
+    "northbridge heat sinks": "unknown",
+    "northbridge passive cooler": "unknown",
+    "not functional dummy chips": "unknown",
+    "notebook": "unknown",
+    "notebook with ubuntu desktop": "unknown",
+    "notlist3d's dragon 1.5": "unknown",
+    "nov jupiter": "knc jupiter", # Assuming "nov" is a shorthand or typo for "KnC"
+    "nova fitness sds 011 sensor": "unknown",
+    "november patch jupiter modules": "knc jupiter", # Assuming it refers to modules for the KnC Jupiter
+    "november saturn": "knc saturn", # Assuming "november" refers to a batch or version of KnC Saturn
+    "npn transistor": "unknown",
+    "ntc 16d-20 thermistor fuse": "unknown",
+    "ntpd": "unknown",
+    "nuts": "unknown",
+    "nv550ti": "unknown",
+    "nvidia": "unknown",
+    "nvidia 450": "unknown",
+    "nvidia 630m": "gt630m", # Closest match, assuming a typo or shorthand
+    "nvidia 8600gt": "8600gt",
+    "nvidia card": "unknown",
+    "nvidia cards": "unknown",
+    "nvidia driver": "unknown",
+    "nvidia drivers": "unknown",
+    "nvidia fx5200": "fx5200",
+    "nvidia geforce 630m card": "gt630m", # Closest match, assuming a typo or shorthand
+    "nvidia geforce 9400m 256 mb graphics": "9400m",
+    "nvidia geforce 9600m gt": "9600m gt",
+    "nvidia gforce 9400m": "9400m", # Assuming "gforce" is a typo for "GeForce"
+    "nvidia gforce 9600m gt": "9600m gt", # Assuming "gforce" is a typo for "GeForce"
+    "nvidia gpu": "unknown",
+    "nvidia gpus": "unknown",
+    "nvidia graphics card": "unknown",
+    "nvidia gt 330": "gt330",
+}
+```

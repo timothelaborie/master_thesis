@@ -1,0 +1,53 @@
+```python
+mapping = {
+    "10x 60g/h bfl": "unknown",  # No exact match, possibly referring to a BFL product but unclear which.
+    "10x hashing units": "unknown",  # Generic term, not specific to any listed hardware.
+    "11.5 drivers": "unknown",  # Refers to software drivers, not hardware.
+    "11.6 ccc": "unknown",  # Likely software related, not hardware.
+    "11.8 catalyst drivers": "unknown",  # Software drivers, not hardware.
+    "110 electric furnace": "unknown",  # Not related to listed mining hardware.
+    "110 volts p": "unknown",  # Unclear reference, possibly power supply but not specific.
+    "110-120 to 200-240v psu's": "unknown",  # Generic power supply units, not specific hardware.
+    "110/120v 15a circuit": "unknown",  # Electrical specification, not hardware.
+    "110/120v plugs": "unknown",  # Generic electrical component, not specific hardware.
+    "110/120v server psu's": "unknown",  # Generic server power supplies, not specific hardware.
+    "11000kh/s": "unknown",  # Hash rate specification without hardware reference.
+    "1100w chinese psu": "unknown",  # Generic power supply, not specific hardware.
+    "1100w power supply kits": "unknown",  # Generic power supply kits, not specific hardware.
+    "1100w psu": "unknown",  # Generic power supply unit, not specific hardware.
+    "1100w server power supplies": "unknown",  # Generic server power supplies, not specific hardware.
+    "1100w x11 rig": "unknown",  # Refers to a rig setup, not specific hardware.
+    "110gh/s avalon": "avalon batch 1",  # Closest match based on hash rate and brand, but not exact.
+    "110nm asic chip": "unknown",  # Generic chip technology, not specific hardware.
+    "110nm node": "unknown",  # Refers to semiconductor technology, not specific hardware.
+    "110s miners": "unknown",  # Unclear reference, no exact match.
+    "110v 20 amp breakers": "unknown",  # Electrical component, not mining hardware.
+    "1125 mhz": "unknown",  # Frequency specification, not specific hardware.
+    "1150w power": "unknown",  # Power specification, not specific hardware.
+    "1166": "canaan avalonminer 1166 pro",  # Closest match based on model number.
+    "12 amp power supply": "unknown",  # Generic power supply, not specific hardware.
+    "12 awg cables": "unknown",  # Generic electrical component, not specific hardware.
+    "12 be setup (with hubs)": "unknown",  # Unclear reference, possibly a setup but not specific hardware.
+    "12 chips 4 board 4": "unknown",  # Describes a configuration but not specific hardware.
+    "12 computers": "unknown",  # Generic term, not specific to any listed hardware.
+    "12 cubes": "unknown",  # Unclear reference, possibly a configuration but not specific hardware.
+    "12 free credits": "unknown",  # Not related to mining hardware.
+    "12 gauge cable rated to 20 amps": "unknown",  # Generic electrical component, not specific hardware.
+    "12 gauge cords": "unknown",  # Generic electrical component, not specific hardware.
+    "12 gauge wire": "unknown",  # Generic electrical component, not specific hardware.
+    "12 meter": "unknown",  # Unclear reference, possibly a measurement but not specific hardware.
+    "12 pieces": "unknown",  # Generic term, not specific to any listed hardware.
+    "12 pin cable": "unknown",  # Generic electrical component, not specific hardware.
+    "12 port hub": "unknown",  # Generic networking hardware, not specific to mining.
+    "12 power risers v006c 6-pin": "unknown",  # Specific to PC building, not a mining hardware model.
+    "12 singles": "unknown",  # Unclear reference, possibly a configuration but not specific hardware.
+    "12 tons of high powered dc hvac": "unknown",  # HVAC system, not mining hardware.
+    "12 volt 3 amp brick hubs": "unknown",  # Power supply component, not specific hardware.
+    "12 volt fan": "unknown",  # Generic cooling component, not specific hardware.
+    "12 volt fans": "unknown",  # Generic cooling components, not specific hardware.
+    "12 volt marine batteries": "unknown",  # Power source, not mining hardware.
+    "12 volt power source": "unknown",  # Generic power source, not specific hardware.
+    "12 volt supply fuse": "unknown",  # Electrical component, not mining hardware.
+    "12 x 1mh titans": "unknown",  # Refers to a setup, possibly Titan miners but not specific enough.
+}
+```

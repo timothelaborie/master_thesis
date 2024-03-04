@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "atx psu": "unknown",
+    "atx psu connector": "unknown",
+    "atx psu's": "unknown",
+    "atx psus": "unknown",
+    "atx pus": "unknown",
+    "atx24 5v 28a": "unknown",
+    "atx_24p connector": "unknown",
+    "auc dongles": "unknown",
+    "auc3": "unknown",
+    "auc3 i2c 5pin cable": "unknown",
+    "audi a4 station wagon": "unknown",
+    "aug": "unknown",
+    "aug bitfury's": "unknown", # No exact match, but suggests Bitfury hardware
+    "aug kits": "unknown",
+    "aug. bitfury 32": "unknown", # Suggests Bitfury hardware but no exact match
+    "august starter kits": "unknown",
+    "august-delivery starter kit": "unknown",
+    "aurum psu": "unknown",
+    "auto relays": "unknown",
+    "auto voltage regulator": "unknown",
+    "auto-tune controller": "unknown",
+    "auto-tune driver": "unknown",
+    "autoconf": "unknown",
+    "autogen": "unknown",
+    "automake": "unknown",
+    "automated cutting/stripping machine": "unknown",
+    "automatic assembly machines": "unknown",
+    "automatic dividend payment software": "unknown",
+    "autotransformers": "unknown",
+    "autotune s9": "antminer s9", # Assuming it refers to tuning or optimizing an Antminer S9
+    "av1-3: avalon batch 1 3 modules": "avalon batch 1", # Closest match, assuming typo or shorthand
+    "av985713.05mhs 5s12194.92": "unknown",
+    "avaloans": "unknown",
+    "avalon": "unknown", # General term, could refer to any Avalon series without specific model
+    "avalon #1": "avalon batch 1", # Assuming it refers to the first batch of Avalon miners
+    "avalon (clone)": "unknown", # Indicates a clone but not specific
+    "avalon (the car)": "unknown",
+    "avalon 1 gb": "unknown",
+    "avalon 10 chip board": "unknown",
+    "avalon 10 series": "unknown",
+    "avalon 1041": "unknown",
+    "avalon 10k chip": "unknown",
+    "avalon 110gh/s": "unknown",
+    "avalon 116 pro75": "unknown",
+    "avalon 1166 pro 81th": "canaan avalonminer 1166 pro", # Closest match, assuming typo or shorthand
+    "avalon 1166 pro miner": "canaan avalonminer 1166 pro",
+    "avalon 1166pro 81th": "canaan avalonminer 1166 pro",
+    "avalon 116pro n75": "unknown",
+    "avalon 1246": "canaan avalonminer 1246",
+    "avalon 1246 ( 88 th)": "canaan avalonminer 1246", # Closest match, assuming typo or shorthand
+}
+```

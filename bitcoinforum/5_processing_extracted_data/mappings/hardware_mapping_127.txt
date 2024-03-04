@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "gds-ii": "unknown",
+    "gear": "unknown",
+    "gearmo 10 port 3.0": "unknown",
+    "gears": "unknown",
+    "geccoscience miner": "unknown",  # Possible typo but no clear match.
+    "gecko stick": "unknown",
+    "geda - gschem and pcb": "unknown",
+    "geforce 320m": "unknown",
+    "geforce 7500 le": "unknown",
+    "geforce 8600m gt": "unknown",
+    "geforce 9400gt": "9400gt",
+    "geforce 9800 gtx": "9800gtx",
+    "geforce gt 400": "unknown",
+    "geforce gts 360m": "unknown",
+    "geforce gtx 470": "gtx470",
+    "geforce gtx 570": "gtx570",
+    "geforce gtx 660": "unknown",
+    "gekk0science": "unknown",  # Likely a typo for "gekkoscience" but unclear specific product.
+    "gekko 2pac": "gekkoscience 2pac",
+    "gekko boards": "unknown",
+    "gekko r909 pod": "unknown",
+    "gekko science hub": "unknown",
+    "gekko science usb stock miner": "unknown",
+    "gekko sidehack stick": "unknown",
+    "gekko stick": "unknown",
+    "gekko-cgminer": "unknown",
+    "gekkoscience": "unknown",  # Brand name without specific product.
+    "gekkoscience 2pac": "gekkoscience 2pac",
+    "gekkoscience 2pac bm1384 stickminer": "gekkoscience 2pac",
+    "gekkoscience 2pacs": "gekkoscience 2pac",
+    "gekkoscience bm1384": "unknown",  # Refers to the chip used in several products.
+    "gekkoscience bm1384 usb stick miner": "unknown",  # Likely refers to the 2pac or compac but not specific.
+    "gekkoscience breakouts": "unknown",
+    "gekkoscience compac": "gekkoscience compac",
+    "gekkoscience compac bm1384 stickminer": "gekkoscience compac",
+    "gekkoscience compac f": "unknown",  # No exact match, possibly a variant of the compac.
+    "gekkoscience compac f usb miner": "unknown",  # No exact match, possibly a variant of the compac.
+    "gekkoscience compac fs": "unknown",  # No exact match, possibly a variant of the compac.
+    "gekkoscience compac stick": "gekkoscience compac",
+    "gekkoscience compac usb miner": "gekkoscience compac",
+    "gekkoscience compacs": "gekkoscience compac",
+    "gekkoscience compaq": "gekkoscience compac",  # Likely a typo.
+    "gekkoscience fs7 compact": "unknown",  # No exact match, possibly a variant of the compac.
+    "gekkoscience hubs": "unknown",
+    "gekkoscience newpac": "gekkoscience newpac",
+    "gekkoscience newpac 22 bis 45 gh/s": "gekkoscience newpac",
+    "gekkoscience newpac stickminer": "gekkoscience newpac",
+    "gekkoscience newpacs": "gekkoscience newpac",
+    "gekkoscience pac2": "unknown",  # Likely a typo or shorthand for "newpac".
+    "gekkoscience pods and sticks": "unknown",  # General description, not a specific product.
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "bitmain apw3-12-1600-b2": "unknown",
+    "bitmain apw3-1200-1600-a3": "unknown",
+    "bitmain apw7 power supply": "unknown",
+    "bitmain apw9": "unknown",
+    "bitmain blades": "unknown",
+    "bitmain bm1387": "unknown",
+    "bitmain boards": "unknown",
+    "bitmain c1": "unknown",
+    "bitmain c1 liquid cooled miner": "unknown",
+    "bitmain fans": "unknown",
+    "bitmain gear": "unknown",
+    "bitmain gui": "unknown",
+    "bitmain h/w": "unknown",
+    "bitmain hardware": "unknown",
+    "bitmain hw": "unknown",
+    "bitmain l3+": "unknown",  # While Bitmain produces the L3+, it's not listed explicitly in the provided list.
+    "bitmain miner": "unknown",
+    "bitmain miners": "unknown",
+    "bitmain products": "unknown",
+    "bitmain psu": "unknown",
+    "bitmain psus": "unknown",
+    "bitmain r4": "antminer r4",
+    "bitmain s1": "antminer s1",
+    "bitmain s1 antminers": "antminer s1",
+    "bitmain s17 pro psu": "antminer s17 pro",  # Assuming the PSU refers to the power supply for the S17 Pro.
+    "bitmain s19": "antminer s19",
+    "bitmain s19 pro (110t)": "antminer s19 pro",
+    "bitmain s19j pros": "antminer s19j pro",
+    "bitmain s2": "antminer s2",
+    "bitmain s3": "antminer s3",
+    "bitmain s3 batch 6": "antminer s3",  # Assuming "batch 6" refers to a specific batch of S3 miners.
+    "bitmain s3 miner": "antminer s3",
+    "bitmain s3+": "antminer s3+",
+    "bitmain s4": "antminer s4",
+    "bitmain s5 miners": "antminer s5",
+    "bitmain s7": "antminer s7",
+    "bitmain s9 13.5th w/ apw3++ psu": "antminer s9",  # Assuming the description refers to an S9 miner with a specific PSU.
+    "bitmain s9i": "antminer s9i",
+    "bitmain sent replacements psu": "unknown",
+    "bitmain t15s": "unknown",
+    "bitmain t17": "antminer t17",
+    "bitmain u1": "antminer u1",
+    "bitmain u1 gb": "antminer u1",  # Assuming "gb" refers to a variant or specification not listed.
+    "bitmain u1 miners": "antminer u1",
+    "bitmain website ant": "unknown",
+    "bitmain's antminer s3+ units": "antminer s3+",
+    "bitmain's latest gadget the \"antminer jumper switch\" psu plug": "unknown",
+    "bitmain's t17e": "antminer t17e",
+    "bitmains latest firmware": "unknown",
+    "bitmaintech": "unknown"
+}
+```

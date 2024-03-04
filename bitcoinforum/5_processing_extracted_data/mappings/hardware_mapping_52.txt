@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "antiminer z151": "unknown",  # Typo in "antiminer", no matching hardware
+    "antistatic pads": "unknown",  # Not mining hardware
+    "antistatic workspace": "unknown",  # Not mining hardware
+    "antivirus program": "unknown",  # Not mining hardware
+    "antmine s3+": "antminer s3+",  # Typo in "antmine", assuming meant "antminer s3+"
+    "antminer": "unknown",  # Too vague, no specific model provided
+    "antminer 1600 watt psu": "unknown",  # PSU for miners, not a miner itself
+    "antminer 1600w psus": "unknown",  # PSU for miners, not a miner itself
+    "antminer 17 series": "unknown",  # Refers to a series, not a specific model
+    "antminer 17-serie": "unknown",  # Refers to a series, not a specific model
+    "antminer 180gh": "unknown",  # No exact match, unclear reference
+    "antminer 180ghs": "unknown",  # No exact match, unclear reference
+    "antminer 205 gh/s": "unknown",  # No exact match, unclear reference
+    "antminer a1 dragon": "aisen a1 pro",  # Assuming "a1 dragon" refers to "aisen a1 pro"
+    "antminer apw3-12-1600 psu series 1600w power supply": "unknown",  # PSU, not a miner
+    "antminer c1": "unknown",  # No "C1" model in the provided list
+    "antminer c12": "unknown",  # No "C12" model in the provided list
+    "antminer combos": "unknown",  # Vague, unclear reference
+    "antminer dual blade s1": "antminer s1",  # Refers to a feature of "antminer s1"
+    "antminer e9 pro": "unknown",  # No "E9 Pro" model in the provided list
+    "antminer hydro x19s": "unknown",  # No exact match, unclear reference
+    "antminer inductor chips": "unknown",  # Component, not a miner
+    "antminer jumper switch": "unknown",  # Component, not a miner
+    "antminer jumper switch gb": "unknown",  # Component, not a miner
+    "antminer original fan": "unknown",  # Component, not a miner
+    "antminer power supply jumper": "unknown",  # Component, not a miner
+    "antminer psu": "unknown",  # PSU for miners, not a miner itself
+    "antminer psu toggle switch": "unknown",  # Component, not a miner
+    "antminer quite": "unknown",  # Typo and vague, unclear reference
+    "antminer r1": "unknown",  # No "R1" model in the provided list
+    "antminer r4": "antminer r4",  # Exact match
+    "antminer r4 7.5th": "antminer r4",  # Refers to "antminer r4" with specific hash rate
+    "antminer r4 8.7th/s": "antminer r4",  # Refers to "antminer r4" with specific hash rate
+    "antminer radio": "unknown",  # Not mining hardware
+    "antminer s-1": "antminer s1",  # Typo, meant "antminer s1"
+    "antminer s-2": "antminer s2",  # Typo, meant "antminer s2"
+    "antminer s-3": "antminer s3",  # Typo, meant "antminer s3"
+    "antminer s-3 fan": "unknown",  # Component, not a miner
+    "antminer s-5": "antminer s5",  # Typo, meant "antminer s5"
+    "antminer s1": "antminer s1",  # Exact match
+    "antminer s1 180gh/s": "antminer s1",  # Refers to "antminer s1" with specific hash rate
+    "antminer s1 180ghs": "antminer s1",  # Refers to "antminer s1" with specific hash rate
+    "antminer s1 antminers": "antminer s1",  # Refers to "antminer s1"
+    "antminer s1 blade": "antminer s1",  # Refers to a part of "antminer s1"
+    "antminer s1 chips/boards": "unknown",  # Component, not a miner
+    "antminer s1 controller board": "unknown",  # Component, not a miner
+    "antminer s1 dual blades": "antminer s1",  # Refers to a feature of "antminer s1"
+    "antminer s1 fan": "unknown",  # Component, not a miner
+    "antminer s1 systems": "antminer s1",  # Refers to "antminer s1" systems
+    "antminer s1 units": "antminer s1",  # Refers to "antminer s1" units
+}
+```

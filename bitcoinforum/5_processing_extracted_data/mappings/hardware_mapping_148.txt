@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "knc group buy": "unknown",
+    "knc group buys": "unknown",
+    "knc juniper": "unknown",
+    "knc jup": "unknown",
+    "knc jupiter": "knc jupiter",
+    "knc jupiter (november unit from the factory": "knc jupiter",  # Closest match, assuming typo.
+    "knc jupiter 12cm case fans": "knc jupiter",  # Related accessory, mapping to main product.
+    "knc jupiter 400gh/s": "knc jupiter",
+    "knc jupiter 550gh": "knc jupiter",
+    "knc jupiter batch1": "knc jupiter",
+    "knc jupiter cards": "knc jupiter",  # Likely referring to the mining cards/modules.
+    "knc jupiter miner": "knc jupiter",
+    "knc jupiter miner (550ghs)": "knc jupiter",
+    "knc jupiter miners": "knc jupiter",
+    "knc jupiter november modules": "knc jupiter",
+    "knc jupiter october version": "knc jupiter",
+    "knc jupiter rig": "knc jupiter",
+    "knc jupiter shares": "unknown",  # Likely referring to a share in mining profits, not hardware.
+    "knc jupiters": "knc jupiter",
+    "knc machine": "unknown",
+    "knc machines": "unknown",
+    "knc maincontroller": "unknown",
+    "knc mercury": "kncminer mercury",
+    "knc miner": "unknown",
+    "knc miner [neptune 3000ghs]": "knc neptune",
+    "knc miner [neptune]": "knc neptune",
+    "knc miner hardware": "unknown",
+    "knc miner jupiter": "knc jupiter",
+    "knc miner jupiter 400gh": "knc jupiter",
+    "knc miner neptune": "knc neptune",
+    "knc miner saturn": "knc saturn",
+    "knc miner unit": "unknown",
+    "knc miners": "unknown",
+    "knc n3ptune": "knc neptune",  # Assuming typo.
+    "knc neptune": "knc neptune",
+    "knc neptune 2.7 th/s": "knc neptune",
+    "knc neptune 20nm chip": "knc neptune",  # Referring to the technology used, mapping to main product.
+    "knc neptune 3th/s": "knc neptune",
+    "knc neptune power supply 2400w fused": "knc neptune",  # Accessory specific to the model.
+    "knc neptune unit": "knc neptune",
+    "knc neptune-dayone": "knc neptune",
+    "knc neptunes": "knc neptune",
+    "knc november jupiter": "knc jupiter",
+    "knc order": "unknown",
+    "knc preorder": "unknown",
+    "knc rig": "unknown",
+    "knc rigs": "unknown",
+    "knc saturn": "knc saturn",
+    "knc saturn 280": "knc saturn",
+    "knc saturn [200ghs miner]": "knc saturn"
+}
+```

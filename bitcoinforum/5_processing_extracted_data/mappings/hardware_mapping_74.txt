@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "batch 3 unit": "unknown",
+    "batch 3s": "unknown",
+    "batch 4": "unknown",
+    "batch 4 model": "unknown",
+    "batch 5": "unknown",
+    "batch 5.16 chips": "unknown",
+    "batch 5/6": "unknown",
+    "batch 8 miners": "unknown",
+    "batch 8 s9": "antminer s9",  # Assuming a typo or version difference, closest match.
+    "batch file": "unknown",
+    "batch one s3": "antminer s3",  # Assuming "batch one" refers to an early or specific batch of Antminer S3.
+    "batch one units": "unknown",
+    "batch s9": "antminer s9",
+    "batch#3": "unknown",
+    "batch-1": "avalon batch 1",  # Assuming "batch-1" refers to the first batch of Avalon.
+    "batch-17": "unknown",
+    "batch-3": "avalon batch 3",  # Assuming "batch-3" refers to the third batch of Avalon.
+    "batch1 14th model": "unknown",
+    "batch2": "unknown",
+    "batch2 units": "unknown",
+    "batch2 wave 1 unit": "unknown",
+    "batch2 wave 2 unit": "unknown",
+    "batch3": "avalon batch 3",  # Assuming "batch3" refers to the third batch of Avalon.
+    "batteries": "unknown",
+    "battery bank": "unknown",
+    "battle-finch": "unknown",
+    "bb": "unknown",
+    "bb black board": "unknown",
+    "bb board": "unknown",
+    "bb v2.3 control board": "unknown",
+    "bbb": "unknown",
+    "bbb (rev b hotplug)": "unknown",
+    "bbb boards": "unknown",
+    "bbb chips": "unknown",
+    "be": "unknown",
+    "be blade": "asicminer be blade",
+    "be blade 13gh": "asicminer be blade",  # Assuming the "13gh" is a specification detail of the BE Blade.
+    "be controller": "unknown",
+    "be cube v9.17 asic gt (proxy auto longpoll support)": "asicminer be cube",  # Assuming a specific version of BE Cube.
+    "be cubes": "asicminer be cube",
+    "be stick": "unknown",
+    "be sticks": "unknown",
+    "be's": "unknown",
+    "be100 chip": "unknown",
+    "be200": "unknown",
+    "be200 8mmx8mm chips": "unknown",
+    "be200 chips": "unknown",
+    "be200-based boards": "unknown",
+    "beagle board": "unknown",
+    "beagle bone": "unknown",
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "asicminer tube": "asicminer be tube",
+    "asicminer tubes": "unknown",  # Closest match would be "asicminer be tube" but plural form is not exact.
+    "asicminer usb": "unknown",  # General term, not specific to any listed model.
+    "asicminer usb (block erupter usb)": "unknown",  # Close, but no exact match.
+    "asicminer usb block erupter": "unknown",  # Close, but no exact match.
+    "asicminer usb block erupter 336mh/s": "unknown",  # Close, but no exact match.
+    "asicminer usb block erupters": "unknown",  # Close, but no exact match.
+    "asicminer usb block eruptor 300 mh/s": "unknown",  # Close, but no exact match.
+    "asicminer usb devices": "unknown",  # General term, not specific to any listed model.
+    "asicminer usb erupter": "unknown",  # Close, but no exact match.
+    "asicminer usb erupters": "unknown",  # Close, but no exact match.
+    "asicminer usb eruptors": "unknown",  # Close, but no exact match.
+    "asicminer usb sticks": "unknown",  # General term, not specific to any listed model.
+    "asicminer usbs": "unknown",  # General term, not specific to any listed model.
+    "asicminer usbs (330 mh)": "unknown",  # Close, but no exact match.
+    "asicminer v2 backplane": "unknown",  # No exact match, possibly related to "asicminer be blade" or "asicminer be cube".
+    "asicminer v2 blades": "unknown",  # No exact match, possibly related to "asicminer be blade".
+    "asicminer's 49 port hub": "unknown",  # No exact match, accessory not listed.
+    "asicminer's chip": "unknown",  # General term, not specific to any listed model.
+    "asicminer's chips": "unknown",  # General term, not specific to any listed model.
+    "asicminer's erupter usbs": "unknown",  # Close, but no exact match.
+    "asicminer's qfn48s": "unknown",  # No exact match, possibly a component rather than a complete miner.
+    "asicminer/avalon": "unknown",  # No exact match, implies a collaboration or combination not listed.
+    "asicminers": "unknown",  # General term, not specific to any listed model.
+    "asicminerv3": "unknown",  # No exact match, possibly a version or model not listed.
+    "asics": "unknown",  # General term for ASIC devices, not specific to any listed model.
+    "asics antminer s11ive": "unknown",  # Typo or incorrect model, closest match would be "antminer s11" but not listed.
+    "asics antminer s9": "antminer s9",
+    "asics antminers u1": "antminer u1",
+    "asictube": "unknown",  # Closest match would be "asicminer be tube" but not exact.
+    "asiminer tubes": "unknown",  # Likely a typo, closest match would be "asicminer be tube" but not exact.
+    "asm": "unknown",  # General term or abbreviation, not specific to any listed model.
+    "asmedia technology inc.": "unknown",  # Manufacturer of chipsets, not a mining hardware.
+    "asrock 970 extreme 4": "unknown",  # Motherboard, not a mining hardware.
+    "asrock alivexfire esata 2 r3": "unknown",  # Motherboard, not a mining hardware.
+    "asrock fatal1ty z68 gen3 mb": "unknown",  # Motherboard, not a mining hardware.
+    "asrock pro btc": "unknown",  # Motherboard designed for mining but not a miner itself.
+    "asrock z77 extreme3": "unknown",  # Motherboard, not a mining hardware.
+    "assembled avalon": "unknown",  # General term, could refer to any Avalon miner but not specific.
+    "assembled board": "unknown",  # General term, not specific to any listed model.
+    "assembled miners": "unknown",  # General term, not specific to any listed model.
+    "assembly board": "unknown",  # General term, not specific to any listed model.
+    "assembly factory": "unknown",  # General term, not related to a specific model.
+    "assmedia controller": "unknown",  # Likely a typo, and not related to mining hardware.
+    "astek 510lc": "unknown",  # No exact match, not a mining hardware.
+    "asteroid": "unknown",  # General term, not specific to any listed model.
+    "astro": "unknown",  # General term, not specific to any listed model.
+    "astro (100mh)": "unknown",  # General term, not specific to any listed model.
+    "astron rs-50a": "unknown",  # Power supply unit, not a mining hardware.
+    "asus": "unknown",  # Manufacturer of various computer hardware, not a mining hardware.
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "ccc 11.9": "unknown",
+    "ccc 12.1": "unknown",
+    "ccc12.4": "unknown",
+    "ccmbc avalon": "unknown",  # No exact match, but seems related to Avalon series.
+    "cd drive": "unknown",
+    "cd-rw": "unknown",
+    "cdm v2.10.00 whql certified": "unknown",
+    "ce+rohs sticker": "unknown",
+    "cedartec": "unknown",
+    "ceiling fan": "unknown",
+    "ceiling tiles": "unknown",
+    "celeron": "unknown",
+    "celeron 420": "unknown",
+    "celeron 500 usb 1.1 notebook": "unknown",
+    "celeron ii": "unknown",
+    "celeron nuc": "unknown",
+    "cell internal power": "unknown",
+    "cell leakage power": "unknown",
+    "cell phone": "unknown",
+    "cell phone charger": "unknown",
+    "cellophane": "unknown",
+    "cells": "unknown",
+    "cent os": "unknown",
+    "center board": "unknown",
+    "centos 6": "unknown",
+    "centos 6 x86_64": "unknown",
+    "central air conditioning units": "unknown",
+    "central hvac system": "unknown",
+    "centre fans": "unknown",
+    "cepillos de diente": "unknown",
+    "ceramique": "unknown",
+    "certain miner": "unknown",  # No exact match, but implies a mining device.
+    "cex.io shares": "unknown",
+    "cf cables": "unknown",
+    "cg miner": "unknown",  # Likely a typo for "cgminer" but no version specified.
+    "cg miner 4.4": "unknown",  # Likely a typo for "cgminer" but no version specified.
+    "cg-wd": "unknown",
+    "cgiminer": "unknown",  # Likely a typo for "cgminer" but no version specified.
+    "cgm 2.8.7": "unknown",
+    "cgminer": "unknown",  # No specific version or hardware mentioned.
+    "cgminer (3.1.1)": "unknown",  # No specific hardware mentioned.
+    "cgminer (7950gbwf)": "unknown",  # No exact match, but seems related to a specific configuration of cgminer.
+    "cgminer / chainminer": "unknown",
+    "cgminer 2.11.3": "unknown",  # No specific hardware mentioned.
+    "cgminer 2.11.4": "unknown",  # No specific hardware mentioned.
+    "cgminer 2.3.1": "unknown",  # No specific hardware mentioned.
+    "cgminer 2.3.1-based rig": "unknown",  # No specific hardware mentioned.
+    "cgminer 2.3.1f": "unknown",  # No specific hardware mentioned.
+    "cgminer 2.4.0": "unknown",  # No specific hardware mentioned.
+    "cgminer 2.4.2": "unknown",  # No specific hardware mentioned.
+}
+```

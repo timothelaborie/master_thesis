@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "aluminum heatsink": "unknown",
+    "aluminum non-heatpipe heatsink": "unknown",
+    "aluminum pad": "unknown",
+    "aluminum pieces": "unknown",
+    "aluminum rivets": "unknown",
+    "aluminum sides": "unknown",
+    "aluminum t-slot extrusions": "unknown",
+    "aluminum washers": "unknown",
+    "am": "unknown",
+    "am 49 port hub": "unknown",
+    "am blade": "asicminer be blade",
+    "am blades": "unknown",  # Could refer to multiple ASICMiner Blade products, but not specific enough.
+    "am cube memories": "unknown",
+    "am cubes": "asicminer be cube",
+    "am erupters": "unknown",  # Likely refers to ASICMiner Block Erupters, but not specific enough.
+    "am hardware": "unknown",
+    "am original 49 port hubs": "unknown",
+    "am prisma": "asicminer be prisma",
+    "am radio": "unknown",
+    "am sticks": "unknown",  # Likely refers to ASICMiner USB sticks, but not specific enough.
+    "am stock": "unknown",
+    "am tubes": "asicminer be tube",
+    "am usb miner arrays": "unknown",
+    "am usb sticks": "unknown",  # Likely refers to ASICMiner USB sticks, but not specific enough.
+    "am usb's": "unknown",  # Likely refers to ASICMiner USB sticks, but not specific enough.
+    "am's new rk-box": "unknown",
+    "am-v1": "btc garden am-v1",
+    "am-v1 miners": "btc garden am-v1",  # Assuming a typo or version difference, closest match.
+    "am-v1x2": "unknown",  # No direct match, possibly a custom or modified version.
+    "am-v2": "unknown",  # No direct match, possibly referring to a version 2 of a product not listed.
+    "amazon basics 7-port hub": "unknown",
+    "ambery ip-p3": "unknown",
+    "ambric / nethra am2045 mppa": "unknown",
+    "amc-pt shares": "unknown",
+    "amd": "unknown",
+    "amd 11.12 driver": "unknown",
+    "amd 12.2 driver": "unknown",
+    "amd 12.3 drivers": "unknown",
+    "amd 13.4 drivers": "unknown",
+    "amd 2.4 sdk": "unknown",
+    "amd 2700": "unknown",
+    "amd 6700": "unknown",
+    "amd 6750m": "unknown",
+    "amd 7770 gpus": "7770",
+    "amd 7950": "7950",
+    "amd 7970 rig": "7970",
+    "amd a10-5750m (4 cpu) 2.5-3.5 ghz": "unknown",
+    "amd a10-5800k": "unknown",
+    "amd a6-4400m apu": "unknown",
+    "amd accelerated parallel": "unknown",
+}
+```

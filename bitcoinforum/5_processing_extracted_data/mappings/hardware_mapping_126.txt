@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "ga hd 6950": "6950",
+    "ga-ep45-ud3p": "unknown",
+    "galaga": "unknown",
+    "galaxy nexus": "unknown",
+    "galaxy s3": "unknown",
+    "galaxy10": "unknown",
+    "gaming and server rigs": "unknown",
+    "gaming computer": "unknown",
+    "gaming machines": "unknown",
+    "gaming pc": "unknown",
+    "gaming rig": "unknown",
+    "gaming rigs": "unknown",
+    "garage door": "unknown",
+    "garage door opener": "unknown",
+    "garage door openers": "unknown",
+    "garden am": "unknown",  # Closest match could be "btc garden am-v1" but not clear enough to map directly.
+    "garden blades": "unknown",
+    "garden house": "unknown",
+    "gas dryer": "unknown",
+    "gas generator": "unknown",
+    "gas heat": "unknown",
+    "gas oven": "unknown",
+    "gas/explosive gasdetectors": "unknown",
+    "gaskets": "unknown",
+    "gateway": "unknown",
+    "gateway (g1100)": "unknown",
+    "gaw 13/14mh'er": "unknown",  # GAW Miners had various products, but specific hash rate not listed.
+    "gaw falcon": "unknown",  # GAW Miners product, but not listed specifically.
+    "gaw falcon/zeus rebrand": "unknown",  # GAW Miners product, but not listed specifically.
+    "gaw fury": "unknown",  # GAW Miners product, but not listed specifically.
+    "gaw miner": "unknown",  # GAW Miners product, but not listed specifically.
+    "gaw miners": "unknown",  # GAW Miners product, but not listed specifically.
+    "gaw srypt miner": "unknown",  # Likely a typo for "scrypt", but no specific product listed.
+    "gawminers": "unknown",  # GAW Miners product, but not listed specifically.
+    "gawminers flash sale": "unknown",  # GAW Miners product, but not listed specifically.
+    "gb": "unknown",
+    "gb1": "unknown",
+    "gb1 miners": "unknown",
+    "gb1 shares": "unknown",
+    "gb2": "unknown",
+    "gb2 shares": "unknown",
+    "gb4": "unknown",
+    "gb5": "unknown",
+    "gb5 neptune": "unknown",  # Closest match could be "knc neptune", but not clear enough to map directly.
+    "gb6": "unknown",
+    "gc-3355": "unknown",  # Closest match could be "gc3355", but not clear enough to map directly.
+    "gc3355": "unknown",  # Likely refers to a chip used in mining hardware, but not a specific product listed.
+    "gc3355 55nm chips": "unknown",  # Refers to the chip technology, not a specific product.
+    "gddr clocks": "unknown",
+    "gds unit": "unknown",
+}
+```

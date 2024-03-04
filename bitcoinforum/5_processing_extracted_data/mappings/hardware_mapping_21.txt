@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "2x5830": "5830",
+    "2x5830 machine": "5830",
+    "2x5870": "5870",
+    "2x5970": "5970",
+    "2x5970 box": "5970",
+    "2x6 pci-e cables": "unknown",
+    "2x650w psu": "unknown",
+    "2x6770": "6770",
+    "2x6770s": "6770",
+    "2x6990": "6990",
+    "2x72mm fans": "unknown",
+    "2x7970": "7970",
+    "2x7970 gpu/mem": "7970",
+    "2xbm1384 stick": "unknown", # No direct match, but possibly related to a specific ASIC chip not listed as a standalone device.
+    "2xdps-1200": "unknown",
+    "2xgpu": "unknown",
+    "2xgpu+2xicarus": "icarus", # Includes Icarus, but "2xgpu" part is unclear.
+    "2xica": "icarus",
+    "2xicarus": "icarus",
+    "2xpsu": "unknown",
+    "2xs7": "antminer s7",
+    "3 120mm fans": "unknown",
+    "3 33v uc's": "unknown",
+    "3 5870": "5870",
+    "3 bgl 60gh\\s miners": "unknown", # No direct match, possibly a specific model not listed.
+    "3 boards": "unknown",
+    "3 card": "unknown",
+    "3 card miners": "unknown",
+    "3 devices": "unknown",
+    "3 fans": "unknown",
+    "3 fpga's": "unknown", # General reference to FPGA miners, but no specific model listed.
+    "3 ft 15 gauge custom pcie cables": "unknown",
+    "3 gizmos usb asicminer": "unknown", # Possibly referring to a type of ASIC miner, but not specific enough.
+    "3 gpu machine": "unknown",
+    "3 gpus": "unknown",
+    "3 hole twist-lock receptacles": "unknown",
+    "3 hp 1200 wattpsu": "unknown",
+    "3 jupiters": "knc jupiter",
+    "3 machines": "unknown",
+    "3 main caps": "unknown",
+    "3 mh": "unknown",
+    "3 miner": "unknown",
+    "3 miners": "unknown",
+    "3 modal jupiter": "knc jupiter", # Assuming "modal" is a typo or variant for "model".
+    "3 module": "unknown",
+    "3 module avalon": "unknown", # Refers to Avalon modules, but not specific enough for a direct match.
+    "3 modules unit": "unknown",
+    "3 mw 8300 to 480v primary transformer": "unknown",
+    "3 of 5 modules": "unknown",
+    "3 other fpga's": "unknown",
+}
+```

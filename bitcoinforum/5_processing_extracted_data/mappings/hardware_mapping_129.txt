@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "gigabyte gtx 460 dual fan": "gtx460",
+    "gigabyte gv-r587u": "5870",  # Assuming a model number typo or variation, closest match.
+    "gigabyte oc'd edition with twin fan design": "unknown",  # No specific model mentioned.
+    "gigabyte radeon 7950 hd gpus": "7950",
+    "gigabyte radeon 7950 mining rig": "7950",
+    "gigabyte reference cards": "unknown",  # No specific model mentioned.
+    "gigabyte super overclock 5870": "5870",
+    "gigabyte switch": "unknown",  # No relevant hardware match.
+    "gigabyte's old 7950s": "7950",
+    "gigampz adapter board": "unknown",  # No relevant hardware match.
+    "gigampz adapter boards": "unknown",  # No relevant hardware match.
+    "gigampz adapters": "unknown",  # No relevant hardware match.
+    "gigapmz breakout board": "unknown",  # No relevant hardware match.
+    "gigashyte": "unknown",  # Likely a typo, but no specific hardware match.
+    "gigavps": "unknown",  # No relevant hardware match.
+    "gigavps's pool": "unknown",  # No relevant hardware match.
+    "gigbt up5 mobo": "unknown",  # No relevant hardware match.
+    "gimpy r4": "antminer r4",  # Assuming "gimpy" is a typo or nickname.
+    "git": "unknown",  # No relevant hardware match.
+    "glasswalker controller": "unknown",  # No relevant hardware match.
+    "glock 19": "unknown",  # No relevant hardware match.
+    "gn chips": "unknown",  # No relevant hardware match.
+    "gnu screen": "unknown",  # No relevant hardware match.
+    "gold": "unknown",  # No relevant hardware match.
+    "gold 605w psu": "unknown",  # No relevant hardware match.
+    "gold hp": "unknown",  # No relevant hardware match.
+    "gold miners": "unknown",  # No relevant hardware match.
+    "gold psu": "unknown",  # No relevant hardware match.
+    "gold psus": "unknown",  # No relevant hardware match.
+    "gold rush boards": "unknown",  # No relevant hardware match.
+    "gold rush cards": "unknown",  # No relevant hardware match.
+    "gold state psu": "unknown",  # No relevant hardware match.
+    "gold units": "unknown",  # No relevant hardware match.
+    "gold-rated 1300w psu": "unknown",  # No relevant hardware match.
+    "gold-rated power supplies": "unknown",  # No relevant hardware match.
+    "golden nonce evo board": "unknown",  # No relevant hardware match.
+    "goldshells": "unknown",  # No relevant hardware match.
+    "goldstrike chips": "unknown",  # No relevant hardware match.
+    "goldstrike i 500gh/s 28nm asic": "unknown",  # No exact match, but related to mining ASICs.
+    "goldstrike i asic": "unknown",  # No exact match, but related to mining ASICs.
+    "goldstrike i asics": "unknown",  # No exact match, but related to mining ASICs.
+    "goldstrike i board": "unknown",  # No exact match, but related to mining ASICs.
+    "good fan": "unknown",  # No relevant hardware match.
+    "google nexus 7": "unknown",  # No relevant hardware match.
+    "gopro hero3": "unknown",  # No relevant hardware match.
+    "gpk's board": "unknown",  # No relevant hardware match.
+    "gps": "unknown",  # No relevant hardware match.
+    "gpu": "unknown",  # No specific model mentioned.
+    "gpu (device) 0: pciex16 - sapphire radeon hd 6790": "6790",
+    "gpu (device) 1: agp - ati radeon hd 46xx": "unknown",  # No exact match, closest would be in the 4600 series but not listed.
+}
+```

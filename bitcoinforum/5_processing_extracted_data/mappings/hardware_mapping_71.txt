@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "awg16 cables": "unknown",
+    "awg16 custom cables": "unknown",
+    "aws codes": "unknown",
+    "ax1200i": "unknown",
+    "ax1200i platinum psus": "unknown",
+    "ax750": "unknown",
+    "ax860 psu": "unknown",
+    "ax860me : cx600": "unknown",
+    "aywun a1 850w psu": "unknown",
+    "aywun mega pro 850w psu": "unknown",
+    "b - gears 140m blue": "unknown",
+    "b#2 order": "unknown",
+    "b+ model": "unknown",
+    "b1": "unknown",
+    "b1 avalon": "avalon batch 1",  # Assuming "b1" refers to "batch 1"
+    "b1 box": "unknown",
+    "b1 s3": "antminer s3",  # Assuming "b1" is a prefix not relevant to the model
+    "b1 s5": "antminer s5",  # Assuming "b1" is a prefix not relevant to the model
+    "b1 s7": "antminer s7",  # Assuming "b1" is a prefix not relevant to the model
+    "b1 s9": "antminer s9",  # Assuming "b1" is a prefix not relevant to the model
+    "b1+": "unknown",
+    "b1/b2 avalon": "unknown",  # No direct match, could refer to multiple Avalon models
+    "b11 board": "unknown",
+    "b1s": "unknown",
+    "b2": "unknown",
+    "b2 3 module": "unknown",
+    "b2 30mh": "unknown",
+    "b2 avalon": "avalon batch 2",  # Assuming "b2" refers to "batch 2"
+    "b2 s7's": "antminer s7",  # Assuming "b2" is a prefix not relevant to the model
+    "b2 unit": "unknown",
+    "b29": "unknown",
+    "b3": "unknown",
+    "b3 module": "unknown",
+    "b3 modules": "unknown",
+    "b3 units": "unknown",
+    "b3 with b2/b1 'incompatibility'": "unknown",
+    "b4": "unknown",
+    "b4 s9": "antminer s9",  # Assuming "b4" is a prefix not relevant to the model
+    "b4 units": "unknown",
+    "b450 for ryzen cpus": "unknown",
+    "b460": "unknown",
+    "b470 for intel cpus": "unknown",
+    "b5": "unknown",
+    "b526": "unknown",
+    "b6": "unknown",
+    "b8": "bitfury b8",
+    "b9": "unknown",
+    "ba bb": "unknown",
+    "ba boards": "unknown",
+    "ba break out boards": "unknown",
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "nano's": "unknown",
+    "nanofuries": "unknown",
+    "nanofury": "nanofury / icefury",  # Closest match, assuming typo or shorthand.
+    "nanofury 2.5gh/s": "nanofury / icefury",  # Assuming specification detail, closest match.
+    "nanofury miners": "nanofury / icefury",  # Assuming general reference to nanofury devices.
+    "nanofury nf1 miners": "unknown",  # No exact match, nf1 not listed.
+    "nanofury nf2": "nanofury nf2",
+    "nanofuryii": "unknown",  # No exact match, assuming typo or variant not listed.
+    "nas": "unknown",
+    "nat routers": "unknown",
+    "natasha": "unknown",
+    "national instruments thermocouple": "unknown",
+    "navipower hdb-1212ua": "unknown",
+    "ncs": "unknown",
+    "ncs p40115agu": "unknown",
+    "ncurses": "unknown",
+    "nekonos's scan of his driving licence and electrical bill": "unknown",
+    "nema 5-15p / c13 power cords": "unknown",
+    "nema 515 usa 3 pin plug": "unknown",
+    "nema 6-15 outlet": "unknown",
+    "nema 6-15 plug": "unknown",
+    "nema 6-20 to c13 plugs": "unknown",
+    "nema 6-20p outlets": "unknown",
+    "nema l6-30p twist-lock": "unknown",
+    "nema l6-30r": "unknown",
+    "nema l6-30r receptacles": "unknown",
+    "neolinux hp thin client": "unknown",
+    "neptune": "knc neptune",
+    "neptune #3": "knc neptune",  # Assuming reference to a specific unit or batch.
+    "neptune 1": "knc neptune",  # Assuming reference to a specific unit or batch.
+    "neptune 1st batch preorder": "knc neptune",  # Specific preorder batch.
+    "neptune 3 th knc miner": "knc neptune",  # Assuming typo in "th", referring to KNC Neptune.
+    "neptune 3000 ghs knc miner": "knc neptune",  # Specification detail, referring to KNC Neptune.
+    "neptune 40/85": "unknown",  # No clear match, possibly a specification detail not listed.
+    "neptune 43/85": "unknown",  # No clear match, possibly a specification detail not listed.
+    "neptune batch 2 miner": "knc neptune",  # Specific batch reference.
+    "neptune board": "knc neptune",  # Assuming part of or related to KNC Neptune.
+    "neptune cubes": "knc neptune",  # Assuming part of or related to KNC Neptune.
+    "neptune gb": "unknown",  # "gb" could refer to many things, unclear.
+    "neptune knc miner": "knc neptune",
+    "neptune units": "knc neptune",  # General reference to KNC Neptune units.
+    "neptune/titan": "knc neptune",  # Assuming reference to KNC Neptune, Titan not listed.
+    "neptunes": "knc neptune",  # Plural, assuming general reference to KNC Neptune units.
+    "net interconnect area": "unknown",
+    "net switching power": "unknown",
+    "net tp-link tl-ant2405cl 24ghz 5dbi rsma": "unknown",
+    "net. eng.": "unknown",
+    "netbook": "unknown",
+    "netcat": "unknown",
+    "netgear \"blue box\" appliance unit": "unknown",
+}
+```

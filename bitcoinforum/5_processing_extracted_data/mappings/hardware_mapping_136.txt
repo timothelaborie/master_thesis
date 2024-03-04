@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "hd5870": "5870",
+    "hd58xx": "unknown",  # No exact match, "58xx" could refer to any in the 5800 series
+    "hd5970": "5970",
+    "hd6450": "6450",
+    "hd6770": "6770",
+    "hd6950": "6950",
+    "hd6950 2gb": "6950",  # Specific memory variant not listed, but model matches
+    "hd6970": "6970",
+    "hd6990": "6990",
+    "hd7650m": "unknown",  # No mobile versions listed
+    "hd770": "unknown",  # Likely a typo or incorrect model number
+    "hd7850": "7850",
+    "hd7970": "7970",
+    "hdd": "unknown",  # Refers to a hard disk drive, not relevant to mining hardware
+    "hdmi": "unknown",  # Refers to a digital interface, not relevant to mining hardware
+    "hdmi monitor": "unknown",  # Refers to a monitor, not relevant to mining hardware
+    "hdmi to vga adaptater": "unknown",  # Refers to an adapter, not relevant to mining hardware
+    "headless box": "unknown",  # General term, not specific hardware
+    "headless rig": "unknown",  # General term, not specific hardware
+    "headless rigs": "unknown",  # General term, not specific hardware
+    "heat chimney": "unknown",  # Refers to a cooling solution, not specific hardware
+    "heat gun": "unknown",  # Tool for applying heat, not relevant to mining hardware
+    "heat pipes": "unknown",  # Component of cooling systems, not specific hardware
+    "heat shielding": "unknown",  # Refers to thermal protection, not specific hardware
+    "heat sink": "unknown",  # General cooling component, not specific hardware
+    "heat sink 8.8mm x 8.8mm x 5.0mm": "unknown",  # Specific component size, not specific hardware
+    "heat sink compound": "unknown",  # Thermal paste, not specific hardware
+    "heat sink grease": "unknown",  # Another term for thermal paste, not specific hardware
+    "heat sink screws": "unknown",  # Fasteners for heat sinks, not specific hardware
+    "heat sink shrouds": "unknown",  # Covers for heat sinks, not specific hardware
+    "heat sink with fan": "unknown",  # General cooling solution, not specific hardware
+    "heat sinks": "unknown",  # General cooling components, not specific hardware
+    "heat-sink front-case 2-in-1 logo-ed (sapphire)": "unknown",  # Specific case component, not mining hardware
+    "heatbit mini miner": "unknown",  # Not listed in the provided hardware list
+    "heaters": "unknown",  # General term, not specific hardware
+    "heathkit": "unknown",  # Brand known for electronic kits, not specific hardware
+    "heatsink": "unknown",  # General cooling component, not specific hardware
+    "heatsink fans": "unknown",  # Fans attached to heatsinks, not specific hardware
+    "heatsink paste": "unknown",  # Another term for thermal paste, not specific hardware
+    "heatsink screws": "unknown",  # Fasteners for heatsinks, not specific hardware
+    "heatsink support plate": "unknown",  # Mounting hardware for heatsinks, not specific hardware
+    "heatsink/board": "unknown",  # General term, not specific hardware
+    "heatsinks": "unknown",  # General cooling components, not specific hardware
+    "heatsinks 11mmx11mmx5mm": "unknown",  # Specific component size, not specific hardware
+    "heatsinks and chips": "unknown",  # General components, not specific hardware
+    "heatspreader": "unknown",  # Component of cooling systems, not specific hardware
+    "heatspreaders": "unknown",  # Components of cooling systems, not specific hardware
+    "heavy duty iec cable 10a fuse 240v(uk power)": "unknown",  # Power cable, not specific hardware
+    "heavy duty staple gun": "unknown",  # Tool, not relevant to mining hardware
+    "hec cougar cmx 1000w psu": "unknown",  # Power supply unit, not specific mining hardware
+}
+```

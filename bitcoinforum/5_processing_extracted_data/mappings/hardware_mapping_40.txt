@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "7970's": "7970",
+    "7970s": "7970",
+    "7990": "unknown",  # No exact match, but likely referring to a model similar to those listed.
+    "7990 malta": "unknown",  # No exact match, specific model not listed.
+    "7990s": "unknown",  # No exact match, but likely referring to a model similar to those listed.
+    "79xx card": "unknown",  # Generic reference to 79xx series, no specific model listed.
+    "79xx cards": "unknown",  # Generic reference to 79xx series, no specific model listed.
+    "7gh bfl": "unknown",  # No exact match, but likely referring to a Butterfly Labs product.
+    "7gh jalapeno": "butterflylabs (bfl) jalapeno",
+    "7gh jallys": "butterflylabs (bfl) jalapeno",  # Assuming typo, closest match.
+    "7gh unit": "unknown",  # Generic, no specific model listed.
+    "7gh/s miner": "unknown",  # Generic, no specific model listed.
+    "7gh/s pre-order": "unknown",  # Generic, no specific model listed.
+    "7ghs bfl unit": "unknown",  # No exact match, but likely referring to a Butterfly Labs product.
+    "7kwt power line": "unknown",  # Not a mining hardware model.
+    "7m10's": "unknown",  # No recognizable reference to listed hardware.
+    "7xxx": "unknown",  # Generic reference to 7xxx series, no specific model listed.
+    "7xxx cards": "unknown",  # Generic reference to 7xxx series, no specific model listed.
+    "8 awg copper cable": "unknown",  # Not a mining hardware model.
+    "8 be usbs": "unknown",  # No recognizable reference to listed hardware.
+    "8 chip": "unknown",  # Generic, could refer to several multi-chip models but none specifically listed.
+    "8 chip boards": "unknown",  # Generic, no specific model listed.
+    "8 chip credits": "unknown",  # No recognizable reference to listed hardware.
+    "8 chip jalapeno": "butterflylabs (bfl) jalapeno",  # Assuming reference to a variant.
+    "8 chips": "unknown",  # Generic, no specific model listed.
+    "8 gb ram": "unknown",  # Not a mining hardware model.
+    "8 gb sd card": "unknown",  # Not a mining hardware model.
+    "8 ghash rig": "unknown",  # Generic, no specific model listed.
+    "8 gpu machine": "unknown",  # Generic, no specific model listed.
+    "8 gpus": "unknown",  # Generic, no specific model listed.
+    "8 inch fan": "unknown",  # Not a mining hardware model.
+    "8 new controllers": "unknown",  # No recognizable reference to listed hardware.
+    "8 new m20 v1": "microbt whatsminer m20s",  # Assuming typo or version difference, closest match.
+    "8 pin cable": "unknown",  # Not a mining hardware model.
+    "8 pin connector": "unknown",  # Not a mining hardware model.
+    "8 pin cpu power leads": "unknown",  # Not a mining hardware model.
+    "8 port switches": "unknown",  # Not a mining hardware model.
+    "8 scs": "unknown",  # No recognizable reference to listed hardware.
+    "8 th": "unknown",  # Generic, no specific model listed.
+    "8 units": "unknown",  # Generic, no specific model listed.
+    "8\" inline fan": "unknown",  # Not a mining hardware model.
+    "8\" shroud": "unknown",  # Not a mining hardware model.
+    "8-10 s-9's": "antminer s9",  # Assuming reference to multiple S9 units.
+    "8-chip boards": "unknown",  # Generic, no specific model listed.
+    "8-core fx cpu": "unknown",  # Not a mining hardware model.
+    "8-core icarus-compatible fpga miner": "icarus",  # Closest match based on compatibility mention.
+    "8-pin connectors": "unknown",  # Not a mining hardware model.
+    "8-pin cpu jack": "unknown",  # Not a mining hardware model.
+    "8-pin cpu power connector": "unknown",  # Not a mining hardware model.
+    "8.0ths r4b2": "antminer r4",  # Assuming typo or version difference, closest match.
+}
+```

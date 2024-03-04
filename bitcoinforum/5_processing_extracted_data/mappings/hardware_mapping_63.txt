@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "ati 12.45870": "unknown",  # No clear match, typo likely intended for 5870 but uncertain
+    "ati 4670": "4670",
+    "ati 4xxx": "unknown",  # General series, not specific
+    "ati 5750": "5750",
+    "ati 5830": "5830",
+    "ati 5830s": "5830",  # Plural, assuming typo or variant
+    "ati 5850": "5850",
+    "ati 5850 card": "5850",
+    "ati 5850 cards": "5850",
+    "ati 5870": "5870",
+    "ati 6750": "6750",
+    "ati 6770": "unknown",  # Not in the list
+    "ati 6950": "6950",
+    "ati 6970m gpu": "unknown",  # Mobile GPU variant not listed
+    "ati 7690m xt graphics card": "unknown",  # Not in the list, likely typo or incorrect model
+    "ati 7950": "unknown",  # Not in the list
+    "ati 7970": "7970",
+    "ati card": "unknown",  # Too general
+    "ati cards": "unknown",  # Too general
+    "ati catalyst graphics drivers": "unknown",  # Software, not hardware
+    "ati driver": "unknown",  # Software, not hardware
+    "ati driver 11.5 for linux 64bit": "unknown",  # Software, not hardware
+    "ati driver 11.6": "unknown",  # Software, not hardware
+    "ati drivers": "unknown",  # Software, not hardware
+    "ati drivers 12.6 12.7 12.8 12.9 12.10": "unknown",  # Software, not hardware
+    "ati gpu": "unknown",  # Too general
+    "ati gt525m video card": "unknown",  # Not in the list
+    "ati hd 5870": "5870",
+    "ati hd 6870": "6870",
+    "ati hd5450": "5450",
+    "ati hd5970 graphics cards": "5970",
+    "ati hd6870": "6870",
+    "ati overdrive": "unknown",  # Software feature, not hardware
+    "ati radeion 6700 series": "unknown",  # Typo and too general
+    "ati radeon 4670": "4670",
+    "ati radeon 5770": "5770",
+    "ati radeon 5830": "5830",
+    "ati radeon hd 4290": "unknown",  # Not in the list
+    "ati radeon hd 4670": "4670",
+    "ati radeon hd 5450": "5450",
+    "ati radeon hd 5700": "unknown",  # General series, not specific
+    "ati radeon hd 5700 series": "unknown",  # General series, not specific
+    "ati radeon hd 5770": "5770",
+    "ati radeon hd 5800 series": "unknown",  # General series, not specific
+    "ati radeon hd 5850": "5850",
+    "ati radeon hd 5870": "5870",
+    "ati radeon hd 5900": "unknown",  # General series, not specific
+    "ati radeon hd 5900 series": "unknown",  # General series, not specific
+    "ati radeon hd 6490m": "unknown",  # Not in the list
+    "ati radeon hd 6750m": "unknown",  # Not in the list
+}
+```

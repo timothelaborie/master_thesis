@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "5850s": "5850",  # Assuming plural form of the listed "5850"
+    "5870": "5870",
+    "5870 card": "5870",  # Assuming "card" refers to the listed "5870"
+    "5870 cards": "5870",  # Assuming "cards" refers to the listed "5870"
+    "5870 cf": "5870",  # Assuming "cf" refers to CrossFire, related to "5870"
+    "5870 fan": "5870",  # Assuming it refers to the cooling fan of "5870"
+    "5870's": "5870",  # Assuming possessive form of the listed "5870"
+    "5870m": "5870m",
+    "5870n1": "unknown",  # No direct match or close approximation
+    "5870n2": "unknown",  # No direct match or close approximation
+    "5870s": "5870",  # Assuming plural form of the listed "5870"
+    "58xx": "unknown",  # General reference to a series, not specific enough
+    "58xx cards": "unknown",  # General reference to a series, not specific enough
+    "58xx series": "unknown",  # General reference to a series, not specific enough
+    "5970": "5970",
+    "5970 card": "5970",  # Assuming "card" refers to the listed "5970"
+    "5970 cards": "5970",  # Assuming "cards" refers to the listed "5970"
+    "5970 farm": "5970",  # Assuming it refers to a mining farm using "5970"
+    "5970 reference card": "5970",  # Specific type of "5970"
+    "5970 rigs": "5970",  # Assuming it refers to mining rigs using "5970"
+    "5970's": "5970",  # Assuming possessive form of the listed "5970"
+    "5970s": "5970",  # Assuming plural form of the listed "5970"
+    "5a 12v charger": "unknown",  # No direct match or close approximation
+    "5a ps": "unknown",  # No direct match or close approximation
+    "5a psu": "unknown",  # No direct match or close approximation
+    "5c430l mosfet": "unknown",  # No direct match or close approximation
+    "5chip": "unknown",  # No direct match or close approximation
+    "5chips pod": "unknown",  # No direct match or close approximation
+    "5cm fan": "unknown",  # No direct match or close approximation
+    "5gh unit": "unknown",  # No direct match or close approximation
+    "5gh units": "unknown",  # No direct match or close approximation
+    "5gh/s asic miner": "unknown",  # General description, not specific enough
+    "5gh/s jalapenos": "butterflylabs (bfl) jalapeno",  # Assuming typo, closest match
+    "5gh/s miner": "unknown",  # General description, not specific enough
+    "5gh/s pre-order": "unknown",  # General description, not specific enough
+    "5gh/s unit": "unknown",  # General description, not specific enough
+    "5gh/s version": "unknown",  # General description, not specific enough
+    "5ghash bfl": "unknown",  # General description, not specific enough
+    "5ghash jalapenio": "butterflylabs (bfl) jalapeno",  # Assuming typo, closest match
+    "5ghs bi-fury modules": "bi*fury",  # Closest match, assuming typo
+    "5ghs jalapeno": "butterflylabs (bfl) jalapeno",
+    "5ghz butterflylabs miner": "unknown",  # No direct match, likely a typo or confusion with "gh/s"
+    "5k6 resistor": "unknown",  # No direct match or close approximation
+    "5kw grid connected system": "unknown",  # No direct match or close approximation
+    "5kw photovoltaic plant": "unknown",  # No direct match or close approximation
+    "5mh/s miner from alpha-t": "unknown",  # No direct match or close approximation
+    "5pcs 1ths": "unknown",  # No direct match or close approximation
+    "5th device": "unknown",  # No direct match or close approximation
+    "5u rack": "unknown",  # No direct match or close approximation
+    "5v 2a microusb charger": "unknown",  # No direct match or close approximation
+}
+```
