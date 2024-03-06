@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "sanyo fan": "unknown",
+    "sapphire": "unknown",
+    "sapphire 21197-00-40g radeon hd 7970 3gb 384-bit gddr5 pci express 3.0 x16 hdcp ready crossfirex support video card": "7970",
+    "sapphire 5830": "5830",
+    "sapphire 5830 xtreme": "5830", # Assuming "xtreme" is a variant of the base model.
+    "sapphire 5830 xtremes": "5830", # Assuming "xtremes" is a typo or variant of the base model.
+    "sapphire 5850": "5850",
+    "sapphire 5850 xtreme": "5850", # Assuming "xtreme" is a variant of the base model.
+    "sapphire 5870": "5870",
+    "sapphire 5970": "5970",
+    "sapphire 5970 4gb": "5970", # Assuming the 4gb is a variant of the base model.
+    "sapphire 7950": "7950",
+    "sapphire 7950 boxes": "7950", # Assuming "boxes" refers to multiple units of the model.
+    "sapphire 7950 oc dual-x (11196-19 flavor)": "7950", # Assuming this specific version still maps to the base model.
+    "sapphire 7950s": "7950", # Assuming plural form of the base model.
+    "sapphire 7970": "7970",
+    "sapphire 7970 dual-x": "7970", # Assuming "dual-x" is a variant of the base model.
+    "sapphire 7970 reference": "7970", # Assuming "reference" refers to the standard version of the model.
+    "sapphire 7970s": "7970", # Assuming plural form of the base model.
+    "sapphire batch usb asic miners": "unknown", # No specific model mentioned.
+    "sapphire gpus": "unknown", # General term, not specific to any model.
+    "sapphire hd5850 xtreme": "5850", # Assuming "hd5850 xtreme" refers to the 5850 model.
+    "sapphire hd5850 xtremes": "5850", # Assuming "xtremes" is a typo or variant of the base model.
+    "sapphire miners": "unknown", # No specific model mentioned.
+    "sapphire r9 280x gb": "unknown", # No exact match in the list.
+    "sapphire radeon hd 6870": "6870",
+    "sapphire radeon hd 7870": "7870",
+    "sapphire radeon hd 7970": "7970",
+    "sapphire radeon hd 7970 oc with boost 3gb cards": "7970", # Assuming this specific version still maps to the base model.
+    "sapphire trixx": "unknown", # No specific model mentioned, possibly software.
+    "sapphire vapor-x 7950": "7950",
+    "sapphire vaporx 11196-09-40g": "unknown", # No exact match, likely a specific version of a model not listed.
+    "sapphires": "unknown", # General term, not specific to any model.
+    "sata": "unknown", # General term, not a mining hardware model.
+    "sata 16 pin to pci-e 6 pin adapter": "unknown", # An adapter, not a mining hardware model.
+    "satechi hub": "unknown", # A USB hub, not a mining hardware model.
+    "satechi uh-12p 12 port usb 2 hub": "unknown", # A USB hub, not a mining hardware model.
+    "saturn": "knc saturn",
+    "saturn knc miner": "knc saturn",
+    "saturn kncminer": "knc saturn",
+    "saturn miner": "knc saturn",
+    "saturns": "knc saturn", # Assuming plural form of the base model.
+    "sb-fpga module 1.15y": "unknown", # No exact match in the list.
+    "sc": "unknown", # Too vague, could refer to multiple "sc" models.
+    "sc orders": "unknown", # Not a model.
+    "sc single": "bfl single 'sc'",
+    "sc single #1": "bfl single 'sc'", # Assuming a specific unit of the model.
+    "sc single #2": "bfl single 'sc'", # Assuming another specific unit of the model.
+    "sc single mining unit": "bfl single 'sc'",
+    "sc singles": "bfl single 'sc'", # Assuming plural form of the base model.
+}
+```

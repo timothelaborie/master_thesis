@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "s-9": "antminer s9",
+    "s-9 controller": "unknown",  # No specific hardware for controllers mentioned
+    "s-91 board": "unknown",  # Likely a typo or specific part not listed
+    "s-9s": "antminer s9",  # Assuming a typo or variant
+    "s-hash board": "unknown",  # General component, not specific hardware
+    "s-hash boards": "unknown",  # General component, not specific hardware
+    "s-s": "unknown",  # Unclear reference
+    "s/t15s": "unknown",  # No clear match, possibly a typo
+    "s1": "antminer s1",
+    "s1 0.05 coupons": "unknown",  # Coupons are not hardware
+    "s1 > s3 upgrades": "unknown",  # Refers to an upgrade process, not specific hardware
+    "s1 ant": "antminer s1",
+    "s1 antminer": "antminer s1",
+    "s1 antminer usb": "antminer s1",  # Assuming reference to USB connectivity
+    "s1 antminers": "antminer s1",
+    "s1 blades": "antminer s1",  # Blades likely refer to the mining boards of S1
+    "s1 controller": "unknown",  # No specific hardware for controllers mentioned
+    "s1 coupons": "unknown",  # Coupons are not hardware
+    "s1 fan": "unknown",  # Fans are components, not the specific mining hardware
+    "s1 fans": "unknown",  # Fans are components, not the specific mining hardware
+    "s1 heatsinks": "unknown",  # Heatsinks are components, not the specific mining hardware
+    "s1 miner": "antminer s1",
+    "s1 miners": "antminer s1",
+    "s1 power supplies": "unknown",  # Power supplies are components, not specific hardware
+    "s1 racks (6xs1)": "antminer s1",  # Refers to a setup of multiple S1 miners
+    "s1 to s3 upgrade kit": "unknown",  # Refers to an upgrade kit, not specific hardware
+    "s1 to s3 upgrade kits": "unknown",  # Refers to upgrade kits, not specific hardware
+    "s1 units": "antminer s1",
+    "s1 upgrade kits": "unknown",  # Refers to upgrade kits, not specific hardware
+    "s1's": "antminer s1",
+    "s1-s": "antminer s1",  # Assuming a typo or variant
+    "s1/3": "unknown",  # Unclear reference, possibly referring to an upgrade or comparison
+    "s1/s3 fan": "unknown",  # Fans are components, not the specific mining hardware
+    "s11": "antminer s11",
+    "s15": "unknown",  # No "S15" listed, possibly a typo or unlisted model
+    "s17": "antminer s17",
+    "s17 boards": "unknown",  # Specific parts of S17 not listed separately
+    "s17 control boards": "unknown",  # Specific parts of S17 not listed separately
+    "s17 pro": "antminer s17 pro",
+    "s17 pro 53th": "antminer s17 pro",  # Specific configuration of S17 Pro
+    "s17 pro units": "antminer s17 pro",
+    "s17 pro version": "antminer s17 pro",
+    "s17 pros": "antminer s17 pro",
+    "s17 series": "antminer s17",  # Referring to the series, could include all S17 models
+    "s17 series miners": "antminer s17",  # Referring to the series, could include all S17 models
+    "s17+": "antminer s17+",
+    "s17+ boxes": "unknown",  # Boxes are not hardware
+    "s17+73": "antminer s17+",  # Assuming a typo or specific configuration
+    "s17e": "antminer s17e",
+    "s17e 64": "antminer s17e",  # Specific configuration of S17e
+}
+```

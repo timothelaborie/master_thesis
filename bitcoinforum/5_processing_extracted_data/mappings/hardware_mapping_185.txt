@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "r9-280x": "unknown",  # No exact match, but similar to Radeon HD 7000 series naming convention
+    "r9-290x": "unknown",  # No exact match, but similar to Radeon HD 7000 series naming convention
+    "rabbit": "unknown",
+    "rack": "unknown",
+    "rack cabinet": "unknown",
+    "rack shelves": "unknown",
+    "racking": "unknown",
+    "rackmount holders": "unknown",
+    "racks": "unknown",
+    "radeon": "unknown",
+    "radeon 290s": "unknown",  # No exact match, but implies Radeon HD 2900 series which is not listed
+    "radeon 4650": "4650",
+    "radeon 4850s": "4850",
+    "radeon 5450": "5450",
+    "radeon 5770": "5770",
+    "radeon 5830 card": "5830",
+    "radeon 5850": "5850",
+    "radeon 5870": "5870",
+    "radeon 5970": "5970",
+    "radeon 5xxx": "unknown",  # General reference to Radeon HD 5000 series, not specific
+    "radeon 6570": "6570",
+    "radeon 6770": "unknown",  # No exact match, possibly a typo or variant not listed
+    "radeon 6870": "6870",
+    "radeon 6950": "6950",
+    "radeon 7670m": "unknown",  # No exact match, mobile variant not listed
+    "radeon 7770": "7770",
+    "radeon 7970": "7970",
+    "radeon 7970 graphic cards": "7970",
+    "radeon 7xxx cards": "unknown",  # General reference to Radeon HD 7000 series, not specific
+    "radeon cards": "unknown",  # General reference to Radeon graphics cards, not specific
+    "radeon drivers (12.x)": "unknown",  # Refers to software, not hardware
+    "radeon hd 2000 and 3000 series": "unknown",  # No exact matches, series not listed
+    "radeon hd 3410": "3410",
+    "radeon hd 3600": "unknown",  # No exact match, series not listed
+    "radeon hd 4000": "unknown",  # General reference to Radeon HD 4000 series, not specific
+    "radeon hd 4550": "4550",
+    "radeon hd 4670 agp": "4670",
+    "radeon hd 4850": "4850",
+    "radeon hd 4870": "4870",
+    "radeon hd 5000": "unknown",  # General reference to Radeon HD 5000 series, not specific
+    "radeon hd 5770 gpus": "5770",
+    "radeon hd 5830": "5830",
+    "radeon hd 5870": "5870",
+    "radeon hd 7750": "7750",
+    "radeon hd 7770": "7770",
+    "radeon hd 7900 series": "unknown",  # General reference to Radeon HD 7900 series, not specific
+    "radeon hd4870 1gig": "4870",
+    "radeon hd6870 core edition 1 gb ddr5 xfx graphics cards": "6870",
+    "radeon r9": "unknown",  # General reference to Radeon R9 series, not specific
+    "radeon(tm) hd graphics 2.70 ghz": "unknown",  # Refers to processor speed, not a specific GPU model
+}
+```

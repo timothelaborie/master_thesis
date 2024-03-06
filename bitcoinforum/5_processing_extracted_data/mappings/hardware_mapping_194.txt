@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "s17e 64th/s": "antminer s17e",
+    "s17pro": "antminer s17 pro",
+    "s17pro_50th/s": "antminer s17 pro",  # Assuming a specific model based on hash rate.
+    "s17pro_53th/s": "antminer s17 pro",  # Assuming a specific model based on hash rate.
+    "s17pros": "unknown",  # No exact match, possibly a typo or variant of s17 pro.
+    "s17s": "unknown",  # No exact match, possibly a typo or variant.
+    "s19": "antminer s19",
+    "s19 jpro+": "unknown",  # No exact match, possibly a typo or variant of s19 pro.
+    "s19 pro": "antminer s19 pro",
+    "s19 pro 100th": "antminer s19 pro",  # Assuming a specific model based on hash rate.
+    "s19 pro 110t": "antminer s19 pro",  # Assuming a specific model based on hash rate.
+    "s19 pro j": "unknown",  # No exact match, possibly a typo or variant of s19 pro.
+    "s19a": "unknown",  # No exact match, possibly referring to a variant of s19.
+    "s19a models": "unknown",  # No exact match, possibly referring to variants of s19.
+    "s19a pro": "unknown",  # No exact match, possibly referring to a variant of s19 pro.
+    "s19apro": "antminer s19 pro",  # Assuming typo without space.
+    "s19apro 110th": "antminer s19 pro",  # Assuming a specific model based on hash rate.
+    "s19j": "antminer s19j",
+    "s19j 100": "antminer s19j",  # Assuming a specific model based on hash rate.
+    "s19j 96t": "antminer s19j",  # Assuming a specific model based on hash rate.
+    "s19j pro": "antminer s19j pro",
+    "s19j pro 100": "antminer s19j pro",  # Assuming a specific model based on hash rate.
+    "s19j pro 100 / 104th units": "antminer s19j pro",  # Assuming a specific model or models based on hash rate.
+    "s19j pro 100t": "antminer s19j pro",  # Assuming a specific model based on hash rate.
+    "s19j pro 104": "antminer s19j pro",  # Assuming a specific model based on hash rate.
+    "s19j pro unit": "antminer s19j pro",  # Assuming referring to a single unit.
+    "s19jpro": "antminer s19j pro",  # Assuming typo without space.
+    "s19jpro 100th": "antminer s19j pro",  # Assuming a specific model based on hash rate.
+    "s19js": "unknown",  # No exact match, possibly a typo or variant of s19j.
+    "s19k pro": "antminer s19k pro",
+    "s19pro": "antminer s19 pro",  # Assuming typo without space.
+    "s19pro 110t": "antminer s19 pro",  # Assuming a specific model based on hash rate.
+    "s19pros": "unknown",  # No exact match, possibly a typo or variant of s19 pro.
+    "s19s": "unknown",  # No exact match, possibly a typo or variant.
+    "s19x": "unknown",  # No exact match, possibly referring to a future or unlisted variant.
+    "s19xp": "antminer s19 xp",
+    "s1s": "unknown",  # No exact match, possibly a typo or variant.
+    "s2": "antminer s2",
+    "s2 $400 coupons": "unknown",  # Referring to a promotion, not hardware.
+    "s2 $400 dollar coupons": "unknown",  # Referring to a promotion, not hardware.
+    "s2 antminer": "antminer s2",
+    "s2 antminers (bitmain)": "antminer s2",
+    "s2 asic": "antminer s2",
+    "s2 batch 2": "antminer s2",  # Assuming referring to a batch of s2.
+    "s2 blade": "unknown",  # No exact match, possibly referring to a component or variant.
+    "s2 board": "unknown",  # No exact match, possibly referring to a component.
+    "s2 button": "unknown",  # No exact match, possibly referring to a component.
+    "s2 coupon": "unknown",  # Referring to a promotion, not hardware.
+    "s2 coupons": "unknown",  # Referring to a promotion, not hardware.
+    "s2 hashboards": "unknown",  # Referring to components, not a complete mining hardware.
+}
+```

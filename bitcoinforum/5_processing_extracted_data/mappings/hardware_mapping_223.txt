@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "usb erupter miners": "unknown",
+    "usb erupters": "unknown",
+    "usb eruptor": "unknown",
+    "usb eruptors": "unknown",
+    "usb extension cable": "unknown",
+    "usb extension cables": "unknown",
+    "usb extensions": "unknown",
+    "usb fan": "unknown",
+    "usb fans": "unknown",
+    "usb flash drive": "unknown",
+    "usb fury": "unknown",  # Could potentially refer to "blue fury" or "red/bluefury", but not clear.
+    "usb gear": "unknown",
+    "usb gizmos": "unknown",
+    "usb ground": "unknown",
+    "usb hardware": "unknown",
+    "usb header to usb-a adapter": "unknown",
+    "usb hub": "unknown",
+    "usb hub 10-ports": "unknown",
+    "usb hub/fan": "unknown",
+    "usb hubs": "unknown",
+    "usb hubs from ebay": "unknown",
+    "usb idc female connector": "unknown",
+    "usb idc male header": "unknown",
+    "usb idc to type a cable": "unknown",
+    "usb interface": "unknown",
+    "usb interfaces for prisma": "unknown",  # No direct match, but "asicminer be prisma" is a potential related product.
+    "usb keys": "unknown",
+    "usb lead": "unknown",
+    "usb miner": "unknown",  # Generic term for various USB miners listed.
+    "usb miner (2 gh)": "unknown",  # Could refer to several low-power USB miners, but not specific enough.
+    "usb miner 333mhs blockerupter": "unknown",  # Likely a typo for "Block Erupter", but not listed specifically.
+    "usb miner eruptor": "unknown",  # Likely meant "Block Erupter", but not listed specifically.
+    "usb miner redfury": "red/bluefury",  # Assuming "Red Fury", but could also be a typo.
+    "usb miner sticks": "unknown",  # Generic term for various USB miners listed.
+    "usb miners": "unknown",  # Generic term for various USB miners listed.
+    "usb mini wires": "unknown",
+    "usb mining devices": "unknown",  # Generic term for various USB miners listed.
+    "usb mining sticks": "unknown",  # Generic term for various USB miners listed.
+    "usb modded zipit z2": "unknown",
+    "usb moonlander miner": "unknown",  # No direct match, but could refer to a specific type of USB miner not listed.
+    "usb port": "unknown",
+    "usb ports": "unknown",
+    "usb power": "unknown",
+    "usb power meter stick": "unknown",
+    "usb power mod": "unknown",
+    "usb powered cup warmer": "unknown",
+    "usb powered fan": "unknown",
+    "usb powered hub": "unknown",
+    "usb redfury gizmos": "red/bluefury",  # Assuming "Red Fury", but could also be a typo.
+    "usb rigs": "unknown",  # Generic term for various USB miners listed.
+}
+```

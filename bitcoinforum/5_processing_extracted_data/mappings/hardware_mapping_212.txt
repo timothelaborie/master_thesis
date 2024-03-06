@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "t-p link board": "unknown",
+    "t1": "unknown",  # No exact match, could be confused with "t1 800g" but that's not listed.
+    "t1 second batch": "unknown",
+    "t11": "unknown",
+    "t13hydra": "unknown",
+    "t13hydra batch 1": "unknown",
+    "t15": "unknown",
+    "t17": "antminer t17",
+    "t17 40 th": "antminer t17",  # Assuming a specification detail, closest match.
+    "t17 42th": "antminer t17",  # Assuming typo or specification detail, closest match.
+    "t17 42th/s": "antminer t17",  # Assuming typo or specification detail, closest match.
+    "t17 improved": "antminer t17",  # Assuming a variant, closest match.
+    "t17+": "antminer t17+",
+    "t17+ 58t units": "antminer t17+",  # Assuming a specification detail, closest match.
+    "t17+ heat sinks": "antminer t17+",  # Assuming a part or accessory, closest match.
+    "t17+ miner": "antminer t17+",  # Direct reference to the model.
+    "t17+ units": "antminer t17+",  # Assuming a specification detail, closest match.
+    "t17-40th": "antminer t17",  # Assuming a typo or specification detail, closest match.
+    "t17e": "antminer t17e",
+    "t17e units": "antminer t17e",  # Assuming a specification detail, closest match.
+    "t17e_53t": "antminer t17e",  # Assuming a specification detail, closest match.
+    "t17s": "unknown",  # No exact match, could be a typo or variant not listed.
+    "t2t 26th": "unknown",  # No exact match, could refer to a variant of "innosilicon t2 turbo" but that's speculative.
+    "t2t 26th units": "unknown",  # Same as above.
+    "t2t 30t": "unknown",  # Same reasoning as above.
+    "t2turbo": "innosilicon t2 turbo",  # Closest match based on the name.
+    "t3": "unknown",  # Could refer to any of the "innosilicon t3" series but too vague.
+    "t3 psus": "unknown",  # Refers to power supplies for "t3" but too vague.
+    "t39": "unknown",
+    "t43": "unknown",
+    "t50": "unknown",
+    "t7": "unknown",
+    "t9": "antminer t9",
+    "t9 antminer": "antminer t9",
+    "t9 case": "antminer t9",  # Assuming a part or accessory, closest match.
+    "t9+": "antminer t9+",
+    "t9+ controler": "antminer t9+",  # Assuming a typo in "controller", closest match.
+    "t9+ hash board": "antminer t9+",  # Assuming a part or accessory, closest match.
+    "table fan": "unknown",
+    "table fans": "unknown",
+    "table saw": "unknown",
+    "tablet": "unknown",
+    "tablet or phone": "unknown",
+    "tablets": "unknown",
+    "tahiti 0": "unknown",
+    "tantalum capacitor": "unknown",
+    "taobao-alipay payment processor": "unknown",
+    "tape": "unknown",
+    "target skillet": "unknown",
+    "tav": "unknown",
+}
+```

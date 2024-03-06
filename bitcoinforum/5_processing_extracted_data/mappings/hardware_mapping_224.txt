@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "usb serial ports": "unknown",
+    "usb stick": "unknown",
+    "usb stick asics": "unknown",
+    "usb stick miner": "unknown",
+    "usb stick miner gekkoscience compac 8-16 gh/s": "unknown",  # No exact match, but related to USB mining devices.
+    "usb stick miners": "unknown",
+    "usb stick rigs": "unknown",
+    "usb sticks": "unknown",
+    "usb sticks from gekkoscience": "unknown",  # Related to USB mining devices but no exact match.
+    "usb thingies": "unknown",
+    "usb to micro-usb cable": "unknown",
+    "usb to serial chipset prolific pl2303": "unknown",
+    "usb to uart section": "unknown",
+    "usb ttl": "unknown",
+    "usb type b female port": "unknown",
+    "usb type band": "unknown",
+    "usb u2 antminer": "antminer u2+",  # Closest match considering the context.
+    "usb uart": "unknown",
+    "usb units": "unknown",
+    "usb webcam": "unknown",
+    "usb wifi card": "unknown",
+    "usb wire": "unknown",
+    "usb y cable": "unknown",
+    "usb yellowjacket miners": "unknown",  # No exact match, but related to USB mining devices.
+    "usb's": "unknown",
+    "usb-b": "unknown",
+    "usb-based devices": "unknown",
+    "usb-c gen2 ports": "unknown",
+    "usb-erupter-filled usb hubs": "unknown",  # Suggestive of USB mining devices but no exact match.
+    "usb-fpga module 1.15d": "unknown",  # Close to FPGA mining devices but no exact match.
+    "usb-fpga module 1.15y card": "unknown",  # Close to FPGA mining devices but no exact match.
+    "usb-fpga modules 1.15x": "unknown",  # Close to FPGA mining devices but no exact match.
+    "usb-grid cables": "unknown",
+    "usb-over-cat5 solution": "unknown",
+    "usb-powered soda can cooler": "unknown",
+    "usb-serial controller": "unknown",
+    "usb-to-ttl board": "unknown",
+    "usb-uart adapters": "unknown",
+    "usb/mini cables": "unknown",
+    "usb2 hubs": "unknown",
+    "usb2 port": "unknown",
+    "usb2 powered hub": "unknown",
+    "usb2 socket": "unknown",
+    "usb3 hub": "unknown",
+    "usb3-hub": "unknown",
+    "usb3.0 hub": "unknown",
+    "usbhub": "unknown",
+    "usbs": "unknown",
+    "usd 8mb card": "unknown",
+    "used and new solar panels from bankruptcy company": "unknown",
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "realtek pcie gbe family controller": "unknown",
+    "reaper": "unknown",
+    "reaper miner": "unknown",
+    "reaper v13 beta 4": "unknown",
+    "rear fan": "unknown",
+    "rear fans": "unknown",
+    "rebranded scrypt miners": "unknown",
+    "receptacles": "unknown",
+    "recom m1600 psu": "unknown",
+    "reconditioned radiator": "unknown",
+    "red": "unknown",
+    "red 5gh red bi-fury": "bi*fury", # Closest match, assuming typo or version difference.
+    "red and black single wires with a small connector": "unknown",
+    "red and black usbs": "unknown",
+    "red bitfurys": "unknown", # Likely referring to Bitfury chips but not a specific product listed.
+    "red board": "unknown",
+    "red erupter": "unknown",
+    "red fans": "unknown",
+    "red furies": "red/bluefury", # Closest match, assuming a general reference to the product line.
+    "red fury": "red/bluefury",
+    "red fury - usb miners": "red/bluefury",
+    "red fury usb 2.5ghs miners": "red/bluefury",
+    "red fury usb miner": "red/bluefury",
+    "red fury usb miner 2.2~2.7 gh/s": "red/bluefury",
+    "red furys": "red/bluefury", # Closest match, assuming a general reference to the product line.
+    "red heat sink miners": "unknown",
+    "red heatsink miners": "unknown",
+    "red leds": "unknown",
+    "red light": "unknown",
+    "red miners": "unknown",
+    "red status led": "unknown",
+    "red usbs": "unknown",
+    "redfuries": "red/bluefury", # Closest match, assuming a general reference to the product line.
+    "redfury": "red/bluefury",
+    "redfury 2-2gh/s asic": "red/bluefury",
+    "redfury 2.7gh/s": "red/bluefury",
+    "redfury unit": "red/bluefury",
+    "redfury usb gizmos": "red/bluefury",
+    "redhash machine": "unknown",
+    "redhash unit": "unknown",
+    "redundant cooling fans (german made)": "unknown",
+    "reels": "unknown",
+    "reference 5850": "5850", # Assuming a reference to the Radeon HD 5850, not explicitly listed but inferred.
+    "reference 5970's": "5970",
+    "reference boards (with 2 dead chips and one half dead)": "unknown",
+    "reference cards": "unknown",
+    "reference unit": "unknown",
+    "references": "unknown",
+    "reflow oven": "unknown",
+    "reflow station": "unknown",
+}
+```

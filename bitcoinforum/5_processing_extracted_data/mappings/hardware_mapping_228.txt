@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "waterblocks": "unknown",
+    "waterblocks kits": "unknown",
+    "watercooled 5870s": "5870",
+    "watercooling": "unknown",
+    "watercooling kits": "unknown",
+    "watt meter": "unknown",
+    "watt meter from ebay": "unknown",
+    "watt-hour meters": "unknown",
+    "watter fittings and water distribution system": "unknown",
+    "wattmeter": "unknown",
+    "watts and volts meter": "unknown",
+    "wd portable hd": "unknown",
+    "wdc": "unknown",
+    "weatherproof control boxes": "unknown",
+    "web power switch": "unknown",
+    "webcl": "unknown",
+    "webserver": "unknown",
+    "weird cables": "unknown",
+    "whatsminer": "unknown", # No specific model provided
+    "whatsminer 11.5 th/s miner with power supply": "unknown", # No specific model provided
+    "whatsminer 30s+": "microbt whatsminer m30s+", # Assuming a typo or shorthand
+    "whatsminer d1": "unknown", # No direct match, possibly a typo or a model not listed
+    "whatsminer m1": "unknown", # No direct match, possibly a typo or a model not listed
+    "whatsminer m10": "microbt whatsminer m10",
+    "whatsminer m10s": "microbt whatsminer m10s",
+    "whatsminer m20": "unknown", # Closest matches are m20s models, but not an exact match
+    "whatsminer m20s": "microbt whatsminer m20s",
+    "whatsminer m20s 68.0 th/s 3260 w bitcoin (sha-256) asic miner": "microbt whatsminer m20s", # Detailed specification provided
+    "whatsminer m21-m30s++": "unknown", # This seems to be a range rather than a specific model
+    "whatsminer m21s": "microbt whatsminer m21s",
+    "whatsminer m21s 54th": "microbt whatsminer m21s", # Detailed specification provided
+    "whatsminer m3": "microbt whatsminer m3",
+    "whatsminer m3 11.5 th/s 2000w bitcoin (sha-256) asic miner": "microbt whatsminer m3", # Detailed specification provided
+    "whatsminer m30": "unknown", # Closest matches are m30s models, but not an exact match
+    "whatsminer m31": "unknown", # Closest matches are m31s models, but not an exact match
+    "whatsminer m31s": "microbt whatsminer m31s",
+    "whatsminer m31s+": "microbt whatsminer m31s+",
+    "whatsminer m32": "microbt whatsminer m32",
+    "whatsminer m3x 12.0 th/s 2100w bitcoin (sha-256) asic miner": "microbt whatsminer m3x", # Detailed specification provided
+    "whatsminer m50": "microbt whatsminer m50",
+    "whatsminer psu": "unknown", # PSU stands for Power Supply Unit, not a miner model
+    "whatsminer tool": "unknown",
+    "whatsminer tools": "unknown",
+    "whatspower p20": "unknown", # Likely related to power supply, not a miner model
+    "white cable": "unknown",
+    "white coffee pot": "unknown",
+    "white fruit fig": "unknown",
+    "white models": "unknown",
+    "white plastic clips": "unknown",
+    "white special edition": "unknown",
+}
+```

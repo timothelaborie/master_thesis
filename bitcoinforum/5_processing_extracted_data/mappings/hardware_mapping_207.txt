@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "sound card 3/4 pin cables": "unknown",
+    "sound meter": "unknown",
+    "sound proof box": "unknown",
+    "sound proofing set up": "unknown",
+    "sound reducer box": "unknown",
+    "sp 20": "spondooliestech sp20 jackson",
+    "sp 30": "spondooliestech sp30 yukon",
+    "sp rackables": "unknown",
+    "sp-10": "spondooliestech sp10 dawson",
+    "sp-20": "spondooliestech sp20 jackson",
+    "sp-t": "unknown",
+    "sp-tech": "unknown",
+    "sp-tech polo shirt": "unknown",
+    "sp1 amd phenom ii x4 955 black edition": "unknown",
+    "sp10": "spondooliestech sp10 dawson",
+    "sp10 dawsons": "spondooliestech sp10 dawson",
+    "sp10 units": "spondooliestech sp10 dawson", # Assuming "units" refers to multiple units of SP10.
+    "sp10/sp31": "unknown", # Multiple possible matches, unclear which is intended.
+    "sp10s": "spondooliestech sp10 dawson", # Assuming typo or plural form of SP10.
+    "sp120 performance edition fans": "unknown",
+    "sp120 pwm": "unknown",
+    "sp20": "spondooliestech sp20 jackson",
+    "sp20 boards": "spondooliestech sp20 jackson", # Assuming "boards" refers to parts of SP20.
+    "sp20 fan": "spondooliestech sp20 jackson", # Assuming "fan" refers to a component of SP20.
+    "sp20 jackson": "spondooliestech sp20 jackson",
+    "sp20 jackson rigs": "spondooliestech sp20 jackson", # Assuming "rigs" refers to multiple units of SP20 Jackson.
+    "sp20 miners": "spondooliestech sp20 jackson", # Assuming "miners" refers to multiple units of SP20 Jackson.
+    "sp20 mini farm": "spondooliestech sp20 jackson", # Assuming "mini farm" refers to a setup of multiple SP20 Jackson units.
+    "sp20 spondoolies": "spondooliestech sp20 jackson",
+    "sp20's": "spondooliestech sp20 jackson", # Assuming plural form of SP20.
+    "sp20e": "unknown", # No exact match, possibly a typo or variant not listed.
+    "sp20es": "unknown", # No exact match, possibly a typo or variant not listed.
+    "sp20s": "spondooliestech sp20 jackson", # Assuming plural form of SP20.
+    "sp30": "spondooliestech sp30 yukon",
+    "sp30 boards": "spondooliestech sp30 yukon", # Assuming "boards" refers to parts of SP30.
+    "sp30 yukon": "spondooliestech sp30 yukon",
+    "sp30s": "spondooliestech sp30 yukon", # Assuming plural form of SP30.
+    "sp30yukon cgminer": "spondooliestech sp30 yukon", # Assuming reference to the SP30 Yukon used with cgminer software.
+    "sp31": "spondooliestech sp31 yukon",
+    "sp31 unit": "spondooliestech sp31 yukon", # Assuming "unit" refers to a single SP31 Yukon.
+    "sp31 yukon": "spondooliestech sp31 yukon",
+    "sp35": "spondooliestech sp35 yukon",
+    "sp35 yukon": "spondooliestech sp35 yukon",
+    "sp3x form factor": "unknown",
+    "sp601": "unknown",
+    "space heater": "unknown",
+    "spacers": "unknown",
+    "spare board from strombom": "unknown",
+    "spare box": "unknown",
+    "spare cable": "unknown",
+}
+```

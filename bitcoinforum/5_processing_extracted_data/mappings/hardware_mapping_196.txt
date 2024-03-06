@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "s4 boards": "antminer s4",  # Assuming the context is parts for the S4
+    "s4 coupons": "unknown",  # Likely not hardware but related to purchasing or discounts
+    "s4 psu": "antminer s4",  # PSU stands for Power Supply Unit, assuming it's for the S4
+    "s4 stock fan": "antminer s4",  # Stock fan for cooling, assuming it's for the S4
+    "s4+": "antminer s4+",  # Direct match
+    "s4.5": "unknown",  # No direct match, and no clear approximation
+    "s4/s5 sp20": "unknown",  # Mixed reference, unclear direct match
+    "s4s": "unknown",  # No direct match, unclear reference
+    "s5": "antminer s5",  # Direct match
+    "s5 (bm1384)": "antminer s5",  # BM1384 is the chip used in S5, so it's a direct match
+    "s5 acrylic case mod": "antminer s5",  # Modification for the S5, so it's related
+    "s5 board": "antminer s5",  # Directly related to the S5 hardware
+    "s5 boards": "antminer s5",  # Directly related to the S5 hardware
+    "s5 cases and heatsinks": "antminer s5",  # Components for cooling, related to S5
+    "s5 control board": "antminer s5",  # Directly related to the S5 hardware
+    "s5 controller": "antminer s5",  # Directly related to the S5 hardware
+    "s5 controllers": "antminer s5",  # Directly related to the S5 hardware
+    "s5 fan": "antminer s5",  # Cooling component for the S5
+    "s5 hash board": "antminer s5",  # Directly related to the S5 hardware
+    "s5 hash boards": "antminer s5",  # Directly related to the S5 hardware
+    "s5 miner": "antminer s5",  # Direct match
+    "s5 miners": "antminer s5",  # Direct match
+    "s5 replacement boards": "antminer s5",  # Directly related to the S5 hardware
+    "s5 used": "antminer s5",  # Refers to used S5 units
+    "s5's": "antminer s5",  # Plural or possessive form of S5, direct match
+    "s5+": "antminer s5+",  # Direct match
+    "s5+ blades": "antminer s5+",  # Component of the S5+, direct match
+    "s5+ control board": "antminer s5+",  # Directly related to the S5+ hardware
+    "s5+ cubes": "unknown",  # No clear reference to "cubes" in the context of S5+
+    "s5+ miner": "antminer s5+",  # Direct match
+    "s5+ software": "antminer s5+",  # Software for the S5+, assuming direct relation
+    "s5+ unit": "antminer s5+",  # Direct match
+    "s5+ v1.6 control board": "antminer s5+",  # Specific version of the control board for S5+
+    "s5/s7 fan": "unknown",  # Could relate to either S5 or S7, unclear without more context
+    "s5/s7 fans": "unknown",  # Could relate to either S5 or S7, unclear without more context
+    "s5s": "antminer s5",  # Likely a plural or typo, assuming it refers to multiple S5 units
+    "s6lx150": "unknown",  # No direct match or clear reference
+    "s7": "antminer s7",  # Direct match
+    "s7 antminer": "antminer s7",  # Direct match
+    "s7 antminers": "antminer s7",  # Direct match, plural form
+    "s7 b18": "antminer s7",  # Likely a batch or version, assuming it's related to S7
+    "s7 batch 8": "antminer s7",  # Specific batch of S7, direct relation
+    "s7 batch 9s": "antminer s7",  # Specific batch of S7, direct relation
+    "s7 blade": "antminer s7",  # Component of the S7, direct relation
+    "s7 board": "antminer s7",  # Directly related to the S7 hardware
+    "s7 chip": "antminer s7",  # Component of the S7, direct relation
+    "s7 controller": "antminer s7",  # Directly related to the S7 hardware
+    "s7 fans": "antminer s7",  # Cooling component for the S7
+    "s7 firmware": "antminer s7",  # Software/firmware for the S7, direct relation
+    "s7 hashing board connectors": "antminer s7",  # Component connectors for the S7
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "sc upgrade": "unknown",
+    "sc-bc2 antiminner cooling kit": "unknown",  # Typo in "antiminner", no direct match.
+    "sc-bc2 kit": "unknown",
+    "sc60": "unknown",
+    "scalaminer": "unknown",
+    "scale with gram accuracy torx t20": "unknown",
+    "scales": "unknown",
+    "scam miner": "unknown",
+    "schematic entry": "unknown",
+    "scotle ir 6000 v4": "unknown",
+    "scr switching power supplies": "unknown",
+    "scrapebos": "unknown",
+    "screen": "unknown",
+    "screw driver": "unknown",
+    "screw drivers": "unknown",
+    "screw in power adapter": "unknown",
+    "screws": "unknown",
+    "script miner": "unknown",  # Possible typo or confusion with "Scrypt miner".
+    "scrypt asic gridseeds 300-333 kh per share": "unknown",  # No exact match, related to "gridseed" but not listed.
+    "scrypt hardware": "unknown",
+    "scrypt hardware a2s": "unknown",
+    "scrypt miner": "unknown",  # General term, no specific hardware listed.
+    "scrypt rig": "unknown",
+    "scrypt rigs": "unknown",
+    "scynthe fans": "unknown",  # Likely a typo for "Scythe fans".
+    "scythe 120x38mm fans": "unknown",  # No exact match, general product type.
+    "scythe dfs123812h-3000 ultra kaze": "scythe ultra kaze",  # Closest match based on model.
+    "scythe fans": "unknown",  # General term, no specific model listed.
+    "scythe kaze minis": "unknown",  # No exact match, general product type.
+    "scythe slip stream 120mm 3-pin case fan sy1225sl12sh": "scythe slip stream sy1225sl12-series 120mm fans",  # Closest match based on model.
+    "scythe slip stream sy1225sl12-series 120mm fans": "scythe slip stream sy1225sl12-series 120mm fans",
+    "scythe sy1225sl12sh": "scythe slip stream sy1225sl12-series 120mm fans",  # Closest match based on model.
+    "scythe ultra kaze": "scythe ultra kaze",
+    "scythe ultra kaze fans": "scythe ultra kaze",  # Closest match, assuming "fans" is plural/generalization.
+    "sd": "unknown",
+    "sd card": "unknown",
+    "sd card images": "unknown",
+    "sd card reader with micro-sd connection": "unknown",
+    "sd cards": "unknown",
+    "sd drive": "unknown",
+    "sd usb card reader": "unknown",
+    "sd-card": "unknown",
+    "sdcard": "unknown",
+    "sdd": "unknown",
+    "sdk": "unknown",
+    "sdk 2.1": "unknown",
+    "sdk 2.4": "unknown",
+    "sdk 2.5": "unknown",
+    "sdk 2.6": "unknown",
+    "sdk version 2.6": "unknown",
+}
+```

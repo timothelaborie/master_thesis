@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "usb 4 miners": "unknown",
+    "usb 5-pin header": "unknown",
+    "usb a-to-b cable": "unknown",
+    "usb adapter for the asicminer tube/prisma": "asicminer be tube", # Assuming closest match based on context.
+    "usb adapters": "unknown",
+    "usb antminer u1": "antminer u1",
+    "usb antminers": "unknown", # Could refer to any USB-based Antminers, but too vague for a specific match.
+    "usb artic fan": "unknown",
+    "usb asic": "unknown", # General term for any ASIC device that connects via USB.
+    "usb asic erupters": "unknown", # Likely refers to "ASICminer Block Erupter" but not specific enough.
+    "usb asic miner": "unknown", # General term for any ASIC miner that connects via USB.
+    "usb asic miner block erupter 330mh/s": "asicminer be tube", # Closest match based on the specific product description.
+    "usb asic miner v3": "unknown", # No specific version 3 device listed.
+    "usb asicminers": "unknown", # Likely refers to ASICminer products but too vague.
+    "usb asics": "unknown", # General term for any ASIC devices that connect via USB.
+    "usb b type cords": "unknown",
+    "usb be": "unknown", # Unclear reference, possibly a typo or shorthand for ASICminer products.
+    "usb be's": "unknown", # Similar to above, unclear reference.
+    "usb bes": "unknown", # Similar to above, unclear reference.
+    "usb blaster jtag": "unknown",
+    "usb block errupters": "unknown", # Likely a typo for "Block Erupters" but not specific enough.
+    "usb block erupter": "asicminer be tube", # Assuming closest match based on context.
+    "usb block erupter 300+mh/s": "asicminer be tube", # Closest match based on the specific product description.
+    "usb block erupter miner": "asicminer be tube", # Assuming closest match based on context.
+    "usb block erupters": "asicminer be tube", # Assuming closest match based on context.
+    "usb block erupters (black and red)": "asicminer be tube", # Assuming closest match based on context with color detail.
+    "usb block eruptor": "asicminer be tube", # Assuming typo and closest match based on context.
+    "usb block eruptor coffee warmer": "unknown", # Likely a humorous or non-standard application, not a mining device.
+    "usb block eruptors": "asicminer be tube", # Assuming closest match based on context.
+    "usb blockerupter": "unknown", # Likely a typo for "Block Erupter" but not specific enough.
+    "usb brogrammer": "unknown",
+    "usb cable": "unknown",
+    "usb cables": "unknown",
+    "usb cards": "unknown",
+    "usb cdrom": "unknown",
+    "usb cellular modem": "unknown",
+    "usb compac f miner": "unknown", # No direct match, possibly a typo or a specific model not listed.
+    "usb compacs": "unknown", # Likely refers to compact USB miners but too vague.
+    "usb connected hashboards": "unknown", # Refers to a component of a mining setup but too vague.
+    "usb connector": "unknown",
+    "usb controller": "unknown",
+    "usb cord": "unknown",
+    "usb cords": "unknown",
+    "usb dev 0": "unknown",
+    "usb device": "unknown",
+    "usb devices": "unknown",
+    "usb drive": "unknown",
+    "usb drives": "unknown",
+    "usb erruptors": "unknown", # Likely a typo for "Erupters" but not specific enough.
+    "usb erupter": "asicminer be tube", # Assuming closest match based on context.
+}
+```

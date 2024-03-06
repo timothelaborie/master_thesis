@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "s2 hashing boards": "unknown",  # No specific match, could be related to "antminer s2" but not clear
+    "s2 kit": "unknown",  # No specific match, could be related to "antminer s2" but not clear
+    "s2 miners": "unknown",  # No specific match, could be related to "antminer s2" but not clear
+    "s2 power supply": "unknown",  # No specific match, could be related to "antminer s2" but not clear
+    "s2 psu": "unknown",  # No specific match, could be related to "antminer s2" but not clear
+    "s2 unit": "unknown",  # No specific match, could be related to "antminer s2" but not clear
+    "s2 units": "unknown",  # No specific match, could be related to "antminer s2" but not clear
+    "s20": "unknown",  # No match in the list
+    "s21s": "antminer s21",  # Assuming a typo or shorthand
+    "s25fl064k": "unknown",  # No match in the list
+    "s2s": "unknown",  # No specific match, could be related to "antminer s2" but not clear
+    "s3": "antminer s3",
+    "s3 -b7": "antminer s3",  # Assuming a typo or specific batch/version
+    "s3 antminer": "antminer s3",
+    "s3 antminers": "antminer s3",
+    "s3 blades": "antminer s3",  # Referring to the mining blades in the S3 model
+    "s3 control pcb": "antminer s3",  # Referring to the control board of S3
+    "s3 controller": "antminer s3",
+    "s3 fan": "antminer s3",  # Referring to the cooling fan of S3
+    "s3 fans": "antminer s3",
+    "s3 firmware": "antminer s3",  # Referring to the firmware of S3
+    "s3 miner": "antminer s3",
+    "s3 miners": "antminer s3",
+    "s3 non-working board": "antminer s3",  # Referring to a non-working part of S3
+    "s3 psus": "antminer s3",  # Referring to the power supply units of S3
+    "s3 units": "antminer s3",
+    "s3+": "antminer s3+",
+    "s3+ (b8) units": "antminer s3+",  # Assuming a specific batch/version
+    "s3+ (bm1382)": "antminer s3+",  # Referring to the chip used in S3+
+    "s3+ (paragon whatever)": "antminer s3+",  # Unclear reference, assuming it's about S3+
+    "s3+ b11": "antminer s3+",  # Assuming a specific batch/version
+    "s3+ board": "antminer s3+",
+    "s3+ control board": "antminer s3+",
+    "s3+ controller board": "antminer s3+",
+    "s3+ miner": "antminer s3+",
+    "s3+ miners": "antminer s3+",
+    "s3+ units": "antminer s3+",
+    "s3++": "antminer s3+",  # Assuming a typo or variant
+    "s3-b1": "antminer s3",  # Assuming a specific batch/version
+    "s3-controller": "antminer s3",
+    "s3/s3+ controller board": "antminer s3+",  # Could be either, but more likely S3+
+    "s31": "unknown",  # No match in the list
+    "s32": "unknown",  # No match in the list
+    "s3:s": "antminer s3",  # Assuming a typo
+    "s3s": "antminer s3",  # Assuming plural or typo
+    "s3s b7s with psus": "antminer s3",  # Referring to S3 models with power supplies
+    "s3s from b3": "antminer s3",  # Assuming a typo or specific batch/version
+    "s3trio pci board": "unknown",  # No match in the list
+    "s4": "antminer s4",
+    "s4 board": "antminer s4",  # Referring to the board of S4
+}
+```

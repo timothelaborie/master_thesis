@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "used antminer s17": "antminer s17",
+    "used bitmain s19 gear": "antminer s19",  # Assuming "bitmain s19 gear" refers to Antminer S19 series
+    "used blades": "unknown",
+    "used c1": "unknown",
+    "used chinese antminer": "unknown",  # Cannot determine specific model
+    "used model 6": "unknown",
+    "used pdu from ebay": "unknown",
+    "used s5": "antminer s5",
+    "used s5's": "antminer s5",
+    "used working has board": "unknown",
+    "usps": "unknown",
+    "usps boxes": "unknown",
+    "usps express mail shipping": "unknown",
+    "usps express priority mail international shipping": "unknown",
+    "usps priority mail international shipping": "unknown",
+    "usps small flat-rate box": "unknown",
+    "uverse router": "unknown",
+    "v-data sd card": "unknown",
+    "v1": "unknown",
+    "v1 blades": "unknown",
+    "v1 brand new sealed blades": "unknown",
+    "v1 controller": "unknown",
+    "v1 mb based rig": "unknown",
+    "v1 x2s": "unknown",
+    "v1.2 h-cards": "unknown",
+    "v1.4": "unknown",
+    "v2 be blades": "asicminer be blade",  # Assuming "v2 be blades" refers to ASICMiner BE Blade
+    "v2 blade": "unknown",  # No exact match, could be a generic term for various blade servers/miners
+    "v2 blades": "unknown",  # No exact match, could be a generic term for various blade servers/miners
+    "v2 controller": "unknown",
+    "v2 h-cards": "unknown",
+    "v2 mod": "unknown",
+    "v2's": "unknown",
+    "v2.4 board": "unknown",
+    "v3 bitstream": "unknown",
+    "v3 m-board": "unknown",
+    "v3.9 board": "unknown",
+    "v4": "unknown",
+    "v5": "unknown",
+    "v5lx220 devices": "unknown",
+    "v6": "unknown",
+    "v6 lx130t": "unknown",
+    "v6lx130t": "unknown",
+    "vaio laptop": "unknown",
+    "vantec 10 4amp": "unknown",
+    "vantec 10 port hub hi-speed usb 2.0 - ugt-ph210": "unknown",
+    "vantec ugt-ph210": "unknown",
+    "vapor x": "unknown",  # No exact match, could refer to a GPU model not listed
+    "variable speed top fan (120mm/38mm -4 wire)": "unknown",
+    "various cables": "unknown",
+}
+```

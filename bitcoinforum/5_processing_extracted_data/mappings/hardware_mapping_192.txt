@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "rpcminer": "unknown",
+    "rpcminer (mod)": "unknown",
+    "rpcminer app": "unknown",
+    "rpcminer-4way.exe": "unknown",
+    "rpcminer-cpu.exe": "unknown",
+    "rpcminer-cuda.exe": "unknown",
+    "rpi": "unknown",
+    "rpi (v2)": "unknown",
+    "rpi 2": "unknown",
+    "rpi 256 mbytes": "unknown",
+    "rpi 32": "unknown",
+    "rpi a": "unknown",
+    "rpi and 8 gb sd card": "unknown",
+    "rpi binary": "unknown",
+    "rpi model b": "unknown",
+    "rpi r-box 30-32ghs miner": "unknown", # No exact match, but seems related to mining hardware.
+    "rpi r-box cgminer": "unknown", # cgminer is software, not hardware.
+    "rpi rig": "unknown",
+    "rpi sd card": "unknown",
+    "rpi unit": "unknown",
+    "rpi-3": "unknown",
+    "rpi2": "unknown",
+    "rpi3": "unknown",
+    "rpis": "unknown",
+    "rrdcached daemon": "unknown",
+    "rshtech usb 3.0 hub": "unknown",
+    "rsm": "unknown",
+    "rt-ac87u": "unknown",
+    "rtx 3080": "unknown", # While a GPU, not listed in the provided mining hardware list.
+    "rtx 3090": "unknown", # Same as above.
+    "rubber feet": "unknown",
+    "rubber legs": "unknown",
+    "rubber shipping filler": "unknown",
+    "rx": "unknown",
+    "rx 1000ae": "unknown",
+    "rx 570 gu": "unknown", # While a GPU, not listed in the provided mining hardware list.
+    "rx-1000ae psu": "unknown",
+    "rx480": "unknown", # While a GPU, not listed in the provided mining hardware list.
+    "ryzen motherboards": "unknown",
+    "s-1": "antminer s1",
+    "s-1 controller": "antminer s1", # Assuming the controller is part of the S1 system.
+    "s-1 miner": "antminer s1",
+    "s-1 units": "antminer s1",
+    "s-1's": "antminer s1",
+    "s-1a": "unknown", # No exact match, possibly a typo or variant not listed.
+    "s-3": "antminer s3",
+    "s-3+": "antminer s3+", # Assuming "+" indicates a variant or upgrade.
+    "s-5": "antminer s5",
+    "s-7": "antminer s7",
+    "s-7 miners": "antminer s7",
+}
+```

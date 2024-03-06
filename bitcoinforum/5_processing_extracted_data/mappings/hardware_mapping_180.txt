@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "preorder chips": "unknown",
+    "prepaid first class intl mailing labels": "unknown",
+    "previous unit": "unknown",
+    "primary cables": "unknown",
+    "primary display gpu": "unknown",
+    "primary gpu": "unknown",
+    "primary remote admin": "unknown",
+    "primeasic": "unknown",
+    "primeasic 80gh/s": "unknown",
+    "print server": "unknown",
+    "printed circuit board design": "unknown",
+    "printed circuit boards": "unknown",
+    "printed circuit boards (pcbs)": "unknown",
+    "printer": "unknown",
+    "prisma": "asicminer be prisma",
+    "prisma 1.0": "asicminer be prisma", # Assuming versioning, closest match.
+    "prisma 1.0 and 1.1": "asicminer be prisma", # Assuming versioning, closest match.
+    "prisma 1.4": "asicminer be prisma", # Assuming versioning, closest match.
+    "prisma 1.4th/s": "asicminer be prisma", # Assuming versioning, closest match.
+    "prisma 2.0": "unknown", # No direct match, and "prisma" versions not explicitly listed beyond 1.x.
+    "prisma boards": "asicminer be prisma", # Closest match based on context.
+    "prisma line": "asicminer be prisma", # Closest match based on context.
+    "prismas": "asicminer be prisma", # Plural form, closest match.
+    "private servers": "unknown",
+    "pro high cfm 3 pin fans": "unknown",
+    "probe": "unknown",
+    "probes": "unknown",
+    "processing cards": "unknown",
+    "processor": "unknown",
+    "processor boards": "unknown",
+    "processswi": "unknown",
+    "proclbm": "unknown",
+    "production board": "unknown",
+    "production boards": "unknown",
+    "production test boards": "unknown",
+    "program": "unknown",
+    "programmable asics": "unknown",
+    "programmed controller": "unknown",
+    "programmed cpu's with firmware": "unknown",
+    "programmer": "unknown",
+    "prolific driver": "unknown",
+    "prolific technology": "unknown",
+    "prolific technology inc. pl2303 serial port": "unknown",
+    "prolific usb chip": "unknown",
+    "prolific usb driver": "unknown",
+    "prolific usb to com drivers": "unknown",
+    "promo coins": "unknown",
+    "promo hubs": "unknown",
+    "proper cable": "unknown",
+    "proper psu": "unknown",
+}
+```

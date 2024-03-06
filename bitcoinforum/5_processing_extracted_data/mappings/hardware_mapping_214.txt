@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "tent": "unknown",
+    "terminal block": "unknown",
+    "terminal blocks": "unknown",
+    "terminal screw": "unknown",
+    "terminus": "unknown",
+    "terminus r606": "unknown", # No exact match, but seems specific to a mining hardware model not listed.
+    "terminus r606 (bm1387)": "unknown", # No exact match, but seems specific to a mining hardware model not listed.
+    "terminus r808": "unknown", # No exact match, but seems specific to a mining hardware model not listed.
+    "terra miner 2tgh/s": "unknown", # No exact match, but seems like a typo or variant of "terraminer".
+    "terrahash": "unknown", # General term, but related to several "terrahash" products listed.
+    "terrahash 4.5 gh/s unit": "unknown", # No exact match, but related to "terrahash" products.
+    "terrahash asic 18 gh/s": "unknown", # No exact match, but related to "terrahash" products.
+    "terrahash iv miners": "unknown", # No exact match, but seems like a variant of "terraminer iv".
+    "terraminer": "unknown", # General term, but related to several "terraminer" products listed.
+    "terraminer #2": "unknown", # No exact match, but seems like a variant of "terraminer".
+    "terraminer #4": "unknown", # No exact match, but seems like a variant of "terraminer".
+    "terraminer 2th/s": "unknown", # No exact match, but seems like a variant of "terraminer".
+    "terraminer boxes": "unknown", # No exact match, but seems like a variant of "terraminer".
+    "terraminer iv": "unknown", # No exact match, but seems like a variant of "terraminer".
+    "terraminer iv 1": "unknown", # No exact match, but seems like a variant of "terraminer iv".
+    "terraminer iv 2th/s": "unknown", # No exact match, but seems like a variant of "terraminer iv".
+    "terraminer iv 3": "unknown", # No exact match, but seems like a variant of "terraminer iv".
+    "terraminer iv  2th/s": "unknown", # No exact match, but seems like a variant of "terraminer iv".
+    "terraminers": "unknown", # General term, but related to several "terraminer" products listed.
+    "tesla": "unknown",
+    "test board": "unknown",
+    "test boards": "unknown",
+    "test chips": "unknown",
+    "test fixture": "unknown",
+    "test jig for the s9": "unknown", # Related to "antminer s9" but not a mining hardware itself.
+    "test machines": "unknown",
+    "test meter": "unknown",
+    "test module with a full set of chips": "unknown",
+    "test pcb": "unknown",
+    "test pcb boards": "unknown",
+    "test rig": "unknown",
+    "test unit": "unknown",
+    "testboards": "unknown",
+    "tester": "unknown",
+    "testing psu": "unknown",
+    "texas oil wells": "unknown",
+    "tfc1212de": "unknown", # Seems like a specific part, possibly a fan, not a mining hardware.
+    "tfc1212de delta": "unknown", # Seems like a specific part, possibly a fan, not a mining hardware.
+    "tfc1212de-sp07": "unknown", # Seems like a specific part, possibly a fan, not a mining hardware.
+    "th miners": "unknown",
+    "theonestringminer board": "unknown",
+    "therealsteve": "unknown",
+    "thermal adhesive": "unknown",
+    "thermal camera": "unknown",
+    "thermal cpu pastes": "unknown",
+}
+```
