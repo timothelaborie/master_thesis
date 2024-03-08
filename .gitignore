@@ -10,3 +10,4 @@ bitcoinforum/2_train_set_creation/concatenated_threads.csv
 bitcoinforum/3_training/mistral/*
 bitcoinforum/4_data_extraction/inference_.ipynb
 bitcoinforum/2_train_set_creation/dataset_backup.csv
+*.pyc

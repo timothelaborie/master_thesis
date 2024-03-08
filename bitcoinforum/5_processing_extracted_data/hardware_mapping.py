@@ -12507,7 +12507,7 @@ mapping235 = {
 
 def map_hardware_to_table(string):
     res = "not found"
-    for i in range(1, 171):
+    for i in range(0, 235):
         if string in globals()["mapping" + str(i)]:
             res = globals()["mapping" + str(i)][string]
             break
