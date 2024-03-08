@@ -11,3 +11,7 @@ bitcoinforum/3_training/mistral/*
 bitcoinforum/4_data_extraction/inference_.ipynb
 bitcoinforum/2_train_set_creation/dataset_backup.csv
 *.pyc
+bitcoinforum/5_processing_extracted_data/hardware_instances_2020_all.csv
+bitcoinforum/5_processing_extracted_data/hardware_instances_all.csv
+bitcoinforum/5_processing_extracted_data/plotdata_all.csv
+bitcoinforum/5_processing_extracted_data/hardware_instances_with_efficiency_all.csv

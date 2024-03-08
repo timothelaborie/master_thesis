@@ -883,43 +883,43 @@ mapping16 = {
     "dps2k interface board": "unknown",
     "dps800": "unknown",
     "dr who powered hub": "unknown",
-    "dragon": "unknown",
-    "dragon 0.2 hp": "unknown",
-    "dragon 1 t miners": "unknown",
-    "dragon 1 ths": "unknown",
-    "dragon 1.5t": "unknown",
-    "dragon 1.5t bitcoin miner": "unknown",
-    "dragon 1t": "unknown",
-    "dragon 1t - miner": "unknown",
-    "dragon 1t bitcoin miner": "unknown",
-    "dragon 1t miner": "unknown",
-    "dragon 1t miners": "unknown",
-    "dragon 1th": "unknown",
-    "dragon 1th miner": "unknown",
-    "dragon 1th miners": "unknown",# It appears that none of the provided strings directly match any specific hardware names from the list you've given for bitcoin mining hardware. Therefore, they are all marked as "unknown".
+    "dragon": "halong mining dragonmint t1",
+    "dragon 0.2 hp": "halong mining dragonmint t1",
+    "dragon 1 t miners": "halong mining dragonmint t1",
+    "dragon 1 ths": "halong mining dragonmint t1",
+    "dragon 1.5t": "halong mining dragonmint t1",
+    "dragon 1.5t bitcoin miner": "halong mining dragonmint t1",
+    "dragon 1t": "halong mining dragonmint t1",
+    "dragon 1t - miner": "halong mining dragonmint t1",
+    "dragon 1t bitcoin miner": "halong mining dragonmint t1",
+    "dragon 1t miner": "halong mining dragonmint t1",
+    "dragon 1t miners": "halong mining dragonmint t1",
+    "dragon 1th": "halong mining dragonmint t1",
+    "dragon 1th miner": "halong mining dragonmint t1",
+    "dragon 1th miners": "halong mining dragonmint t1",# It appears that none of the provided strings directly match any specific hardware names from the list you've given for bitcoin mining hardware. Therefore, they are all marked as "unknown".
 }
 
 mapping17 = {
-    "dragon 2t": "unknown",
-    "dragon bitcoin miner 1th/s": "unknown",
-    "dragon machines": "unknown",
-    "dragon miner": "unknown",
-    "dragon miner 1th": "unknown",
-    "dragon miner 1th sd card": "unknown",
-    "dragon miner a1": "unknown",
-    "dragon miner control": "unknown",
-    "dragon miner lcd (rev 1.2)": "unknown",
-    "dragon miners": "unknown",
+    "dragon 2t": "halong mining dragonmint t1",
+    "dragon bitcoin miner 1th/s": "halong mining dragonmint t1",
+    "dragon machines": "halong mining dragonmint t1",
+    "dragon miner": "halong mining dragonmint t1",
+    "dragon miner 1th": "halong mining dragonmint t1",
+    "dragon miner 1th sd card": "halong mining dragonmint t1",
+    "dragon miner a1": "halong mining dragonmint t1",
+    "dragon miner control": "halong mining dragonmint t1",
+    "dragon miner lcd (rev 1.2)": "halong mining dragonmint t1",
+    "dragon miners": "halong mining dragonmint t1",
     "dragon ore mining machine (five modules t- class)": "unknown",
-    "dragon unit": "unknown",
-    "dragon/lketc 1th miner": "unknown",
-    "dragon/lketc miners": "unknown",
-    "dragon2": "unknown",
+    "dragon unit": "halong mining dragonmint t1",
+    "dragon/lketc 1th miner": "halong mining dragonmint t1",
+    "dragon/lketc miners": "halong mining dragonmint t1",
+    "dragon2": "halong mining dragonmint t1",
     "dragonmint t1": "halong mining dragonmint t1",
-    "dragonmint t1s": "unknown", # No exact match, but likely referring to "halong mining dragonmint t1"
-    "dragonmint t2 miner": "unknown", # No exact match, but likely referring to a variant of "halong mining dragonmint t1"
-    "dragons": "unknown",
-    "dragons miners": "unknown",
+    "dragonmint t1s": "halong mining dragonmint t1", # No exact match, but likely referring to "halong mining dragonmint t1"
+    "dragonmint t2 miner": "halong mining dragonmint t1", # No exact match, but likely referring to a variant of "halong mining dragonmint t1"
+    "dragons": "halong mining dragonmint t1",
+    "dragons miners": "halong mining dragonmint t1",
     "drill press": "unknown",
     "drillbit": "unknown",
     "drillbit 8 board": "unknown",
@@ -1862,7 +1862,7 @@ mapping35 = {
     "1x6950": "6950",
     "1x72g": "unknown",
     "1xamu": "unknown",
-    "1xbfl": "unknown",  # Could potentially refer to any BFL (Butterfly Labs) product, but too vague.
+    "1xbfl": "bfl sc",  # Could potentially refer to any BFL (Butterfly Labs) product, but too vague.
     "1xblt": "unknown",
     "1xica": "unknown",
     "1xjalapeno": "butterflylabs (bfl) jalapeno",
@@ -5622,7 +5622,7 @@ mapping106 = {
     "s17pro_50th/s": "antminer s17 pro",  # Assuming a specific model based on hash rate.
     "s17pro_53th/s": "antminer s17 pro",  # Assuming a specific model based on hash rate.
     "s17pros": "unknown",  # No exact match, possibly a typo or variant of s17 pro.
-    "s17s": "unknown",  # No exact match, possibly a typo or variant.
+    "s17s": "antminer s17",  # No exact match, possibly a typo or variant.
     "s19": "antminer s19",
     "s19 jpro+": "unknown",  # No exact match, possibly a typo or variant of s19 pro.
     "s19 pro": "antminer s19 pro",
@@ -5631,7 +5631,7 @@ mapping106 = {
     "s19 pro j": "unknown",  # No exact match, possibly a typo or variant of s19 pro.
     "s19a": "unknown",  # No exact match, possibly referring to a variant of s19.
     "s19a models": "unknown",  # No exact match, possibly referring to variants of s19.
-    "s19a pro": "unknown",  # No exact match, possibly referring to a variant of s19 pro.
+    "s19a pro": "antminer s19 pro",  # No exact match, possibly referring to a variant of s19 pro.
     "s19apro": "antminer s19 pro",  # Assuming typo without space.
     "s19apro 110th": "antminer s19 pro",  # Assuming a specific model based on hash rate.
     "s19j": "antminer s19j",
@@ -5844,7 +5844,7 @@ mapping110 = {
     "s9j miners": "antminer s9j",
     "s9k": "antminer s9k",
     "s9k miners": "antminer s9k",
-    "s9s": "unknown",
+    "s9s": "antminer s9",
     "sabrent ad-lcd12 lcd monitors 12v 6a 72w ac adapter power supply": "unknown",
     "sack of rice": "unknown",
     "safari": "unknown",
@@ -6849,23 +6849,23 @@ mapping129 = {
     "terrahash 4.5 gh/s unit": "unknown", # No exact match, but related to "terrahash" products.
     "terrahash asic 18 gh/s": "unknown", # No exact match, but related to "terrahash" products.
     "terrahash iv miners": "unknown", # No exact match, but seems like a variant of "terraminer iv".
-    "terraminer": "unknown", # General term, but related to several "terraminer" products listed.
-    "terraminer #2": "unknown", # No exact match, but seems like a variant of "terraminer".
-    "terraminer #4": "unknown", # No exact match, but seems like a variant of "terraminer".
-    "terraminer 2th/s": "unknown", # No exact match, but seems like a variant of "terraminer".
-    "terraminer boxes": "unknown", # No exact match, but seems like a variant of "terraminer".
-    "terraminer iv": "unknown", # No exact match, but seems like a variant of "terraminer".
-    "terraminer iv 1": "unknown", # No exact match, but seems like a variant of "terraminer iv".
-    "terraminer iv 2th/s": "unknown", # No exact match, but seems like a variant of "terraminer iv".
-    "terraminer iv 3": "unknown", # No exact match, but seems like a variant of "terraminer iv".
-    "terraminer iv  2th/s": "unknown", # No exact match, but seems like a variant of "terraminer iv".
-    "terraminers": "unknown", # General term, but related to several "terraminer" products listed.
+    "terraminer": "cointerra terraminer iv", # General term, but related to several "terraminer" products listed.
+    "terraminer #2": "cointerra terraminer iv", # No exact match, but seems like a variant of "terraminer".
+    "terraminer #4": "cointerra terraminer iv", # No exact match, but seems like a variant of "terraminer".
+    "terraminer 2th/s": "cointerra terraminer iv", # No exact match, but seems like a variant of "terraminer".
+    "terraminer boxes": "cointerra terraminer iv", # No exact match, but seems like a variant of "terraminer".
+    "terraminer iv": "cointerra terraminer iv", # No exact match, but seems like a variant of "terraminer".
+    "terraminer iv 1": "cointerra terraminer iv", # No exact match, but seems like a variant of "terraminer iv".
+    "terraminer iv 2th/s": "cointerra terraminer iv", # No exact match, but seems like a variant of "terraminer iv".
+    "terraminer iv 3": "cointerra terraminer iv", # No exact match, but seems like a variant of "terraminer iv".
+    "terraminer iv  2th/s": "cointerra terraminer iv", # No exact match, but seems like a variant of "terraminer iv".
+    "terraminers": "cointerra terraminer iv", # General term, but related to several "terraminer" products listed.
     "tesla": "unknown",
     "test board": "unknown",
     "test boards": "unknown",
     "test chips": "unknown",
     "test fixture": "unknown",
-    "test jig for the s9": "unknown", # Related to "antminer s9" but not a mining hardware itself.
+    "test jig for the s9": "antminer s9", # Related to "antminer s9" but not a mining hardware itself.
     "test machines": "unknown",
     "test meter": "unknown",
     "test module with a full set of chips": "unknown",
@@ -7656,7 +7656,7 @@ mapping144 = {
     "whatsminer m1": "unknown", # No direct match, possibly a typo or a model not listed
     "whatsminer m10": "microbt whatsminer m10",
     "whatsminer m10s": "microbt whatsminer m10s",
-    "whatsminer m20": "unknown", # Closest matches are m20s models, but not an exact match
+    "whatsminer m20": "microbt whatsminer m20s", # Closest matches are m20s models, but not an exact match
     "whatsminer m20s": "microbt whatsminer m20s",
     "whatsminer m20s 68.0 th/s 3260 w bitcoin (sha-256) asic miner": "microbt whatsminer m20s", # Detailed specification provided
     "whatsminer m21-m30s++": "unknown", # This seems to be a range rather than a specific model
@@ -7664,8 +7664,8 @@ mapping144 = {
     "whatsminer m21s 54th": "microbt whatsminer m21s", # Detailed specification provided
     "whatsminer m3": "microbt whatsminer m3",
     "whatsminer m3 11.5 th/s 2000w bitcoin (sha-256) asic miner": "microbt whatsminer m3", # Detailed specification provided
-    "whatsminer m30": "unknown", # Closest matches are m30s models, but not an exact match
-    "whatsminer m31": "unknown", # Closest matches are m31s models, but not an exact match
+    "whatsminer m30": "microbt whatsminer m30s", # Closest matches are m30s models, but not an exact match
+    "whatsminer m31": "microbt whatsminer m31s", # Closest matches are m31s models, but not an exact match
     "whatsminer m31s": "microbt whatsminer m31s",
     "whatsminer m31s+": "microbt whatsminer m31s+",
     "whatsminer m32": "microbt whatsminer m32",
@@ -8488,8 +8488,8 @@ mapping160 = {
     "5 chip miner": "unknown",
     "5 g/hash miner": "unknown",
     "5 gh miners": "unknown",
-    "5 gh/s bfl": "unknown",
-    "5 gh/s bfl device": "unknown",
+    "5 gh/s bfl": "bfl sc",
+    "5 gh/s bfl device": "bfl sc",
     "5 gh/s jalapneo": "unknown",  # Possible typo for "jalapeno" but no exact match in the list.
     "5 gh/sec box": "unknown",
     "5 gpu rig": "unknown",
@@ -8675,7 +8675,7 @@ mapping163 = {
     "5gh/s pre-order": "unknown",  # General description, not specific enough
     "5gh/s unit": "unknown",  # General description, not specific enough
     "5gh/s version": "unknown",  # General description, not specific enough
-    "5ghash bfl": "unknown",  # General description, not specific enough
+    "5ghash bfl": "bfl sc",  # General description, not specific enough
     "5ghash jalapenio": "butterflylabs (bfl) jalapeno",  # Assuming typo, closest match
     "5ghs bi-fury modules": "bi*fury",  # Closest match, assuming typo
     "5ghs jalapeno": "butterflylabs (bfl) jalapeno",
@@ -8893,7 +8893,7 @@ mapping167 = {
     "7": "unknown",  # No context or model provided.
     "7 bfl's": "unknown",  # Refers to Butterfly Labs products, but no specific model provided.
     "7 gh/s asic miner": "unknown",  # Describes a hashrate, not a specific model.
-    "7 ghash bfl": "unknown",  # Refers to a hashrate and Butterfly Labs, but no specific model provided.
+    "7 ghash bfl": "bfl sc",  # Refers to a hashrate and Butterfly Labs, but no specific model provided.
     "7 gpu rig": "unknown",  # Describes a rig setup, not a specific model.
     "7 gpus": "unknown",  # Describes a component quantity, not mining hardware.
     "7 port 2.0 hub": "unknown",  # Describes a USB hub, not mining hardware.
@@ -9069,7 +9069,7 @@ mapping171 = {
     "7990s": "unknown",  # No exact match, but likely referring to a model similar to those listed.
     "79xx card": "unknown",  # Generic reference to 79xx series, no specific model listed.
     "79xx cards": "unknown",  # Generic reference to 79xx series, no specific model listed.
-    "7gh bfl": "unknown",  # No exact match, but likely referring to a Butterfly Labs product.
+    "7gh bfl": "bfl sc",  # No exact match, but likely referring to a Butterfly Labs product.
     "7gh jalapeno": "butterflylabs (bfl) jalapeno",
     "7gh jallys": "butterflylabs (bfl) jalapeno",  # Assuming typo, closest match.
     "7gh unit": "unknown",  # Generic, no specific model listed.
@@ -9239,8 +9239,8 @@ mapping174 = {
     "a1 based miner": "aisen a1 pro",  # Assuming based on the "a1" and mining context
     "a1 board": "unknown",  # While it refers to "a1", it's unclear if it's specifically about the miner or just components
     "a1 btc miner": "aisen a1 pro",  # Assuming based on the "a1" and mining context
-    "a1 chip": "unknown",  # Could refer to the chip in the "aisen a1 pro" but lacks specificity
-    "a1 chips": "unknown",  # Same as above
+    "a1 chip": "aisen a1 pro",  # Could refer to the chip in the "aisen a1 pro" but lacks specificity
+    "a1 chips": "aisen a1 pro",  # Same as above
     "a1 clones": "unknown",  # Could refer to any clones of the "aisen a1 pro" but lacks specificity
     "a1 dragon": "unknown",  # No clear match, could be a colloquial name for a product
     "a1 lovecore chinese copy": "unknown",  # No clear match, and "lovecore" doesn't directly map to any known hardware in the list
@@ -9592,7 +9592,7 @@ mapping180 = {
 }
 
 mapping181 = {
-    "10x 60g/h bfl": "unknown",  # No exact match, possibly referring to a BFL product but unclear which.
+    "10x 60g/h bfl": "bfl sc",  # No exact match, possibly referring to a BFL product but unclear which.
     "10x hashing units": "unknown",  # Generic term, not specific to any listed hardware.
     "11.5 drivers": "unknown",  # Refers to software drivers, not hardware.
     "11.6 ccc": "unknown",  # Likely software related, not hardware.
@@ -11120,7 +11120,7 @@ mapping209 = {
     "bfgminer 4.7": "unknown",
     "bfgminer 5.1 for mac": "unknown",
     "bfgminer 5.4.2.7": "unknown",
-    "bfl": "unknown",
+    "bfl": "bfl sc",
     "bfl (cointerra?) monarch": "bfl monarch", # Closest match, assuming a confusion with Cointerra.
     "bfl (fpga)": "unknown",
     "bfl 10ghs jala": "unknown",
@@ -11889,19 +11889,19 @@ mapping224 = {
     "burnt s7 hash blades": "antminer s7", # Assuming the user refers to damaged parts of an Antminer S7
     "bus 003 device 002": "unknown",
     "bus pirate": "unknown",
-    "butterfly 50": "unknown",
-    "butterfly 60ghash boxes": "unknown",
-    "butterfly bitforce asics": "unknown", # No exact match, but clearly refers to Butterfly Labs ASIC miners
-    "butterfly labs": "unknown", # General reference to the company, not a specific product
+    "butterfly 50": "bfl sc",
+    "butterfly 60ghash boxes": "bfl sc",
+    "butterfly bitforce asics": "bfl sc", # No exact match, but clearly refers to Butterfly Labs ASIC miners
+    "butterfly labs": "bfl sc", # General reference to the company, not a specific product
     "butterfly labs 1 jala": "butterflylabs (bfl) jalapeno", # Likely a typo or shorthand for Jalapeno
     "butterfly labs 1500 gh/s": "unknown", # No exact match, but clearly a Butterfly Labs product
-    "butterfly labs 25gh/s miner": "unknown", # No exact match, but clearly a Butterfly Labs product
-    "butterfly labs 30gh": "unknown", # No exact match, but clearly a Butterfly Labs product
-    "butterfly labs 50-55 gh/s sha bitcoin miner": "unknown", # No exact match, but clearly a Butterfly Labs product
-    "butterfly labs 500gh/s mini rigs (bitforce 500)": "unknown", # No exact match, but refers to Butterfly Labs' Bitforce 500 GH/s mini rigs
-    "butterfly labs 60gh/s": "unknown", # No exact match, but clearly a Butterfly Labs product
-    "butterfly labs fpga singles": "unknown", # No exact match, but refers to Butterfly Labs FPGA single units
-    "butterfly labs gear": "unknown", # General reference to Butterfly Labs products
+    "butterfly labs 25gh/s miner": "bfl sc", # No exact match, but clearly a Butterfly Labs product
+    "butterfly labs 30gh": "bfl sc", # No exact match, but clearly a Butterfly Labs product
+    "butterfly labs 50-55 gh/s sha bitcoin miner": "bfl sc", # No exact match, but clearly a Butterfly Labs product
+    "butterfly labs 500gh/s mini rigs (bitforce 500)": "bfl sc", # No exact match, but refers to Butterfly Labs' Bitforce 500 GH/s mini rigs
+    "butterfly labs 60gh/s": "bfl sc", # No exact match, but clearly a Butterfly Labs product
+    "butterfly labs fpga singles": "bfl single 'sc'", # No exact match, but refers to Butterfly Labs FPGA single units
+    "butterfly labs gear": "bfl sc", # General reference to Butterfly Labs products
     "butterfly labs jalapeno": "butterflylabs (bfl) jalapeno",
     "butterfly labs jalapeno box": "butterflylabs (bfl) jalapeno",
     "butterfly labs jalapenos": "butterflylabs (bfl) jalapeno",
@@ -11911,7 +11911,7 @@ mapping224 = {
     "butterfly labs single fpga unit": "bfl single 'sc'", # Closest match, assuming the user refers to single FPGA units by Butterfly Labs
     "butterfly labs stuff": "unknown", # General reference to Butterfly Labs products
     "butterfly monarch": "bfl monarch",
-    "butterflylabs": "unknown", # General reference to the company, not a specific product
+    "butterflylabs": "bfl sc", # General reference to the company, not a specific product
     "butterflylabs jalapeno": "butterflylabs (bfl) jalapeno",
     "butterflylabs jalapeno miner": "butterflylabs (bfl) jalapeno",
     "buysolar machines": "unknown",
@@ -12385,15 +12385,15 @@ mapping233 = {
     "cointerra 2th rig": "cointerra terraminer iv",
     "cointerra 2th/s": "cointerra terraminer iv",
     "cointerra 2th/s machine": "cointerra terraminer iv",
-    "cointerra a sic": "unknown",
-    "cointerra boxes": "unknown",
+    "cointerra a sic": "cointerra terraminer iv",
+    "cointerra boxes": "cointerra terraminer iv",
     "cointerra iv": "cointerra terraminer iv",
-    "cointerra machines": "unknown",
-    "cointerra miner": "unknown",
-    "cointerra miners": "unknown",
-    "cointerra rig": "unknown",
-    "cointerra rigs": "unknown",
-    "cointerra shares": "unknown",
+    "cointerra machines": "cointerra terraminer iv",
+    "cointerra miner": "cointerra terraminer iv",
+    "cointerra miners": "cointerra terraminer iv",
+    "cointerra rig": "cointerra terraminer iv",
+    "cointerra rigs": "cointerra terraminer iv",
+    "cointerra shares": "cointerra terraminer iv",
     "cointerra terraminer": "cointerra terraminer iv",
     "cointerra terraminer 4 version 2.0": "cointerra terraminer iv",
 }
