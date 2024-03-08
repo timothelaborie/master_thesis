@@ -12403,6 +12403,7 @@ mapping234 = {
     "cointerra terraminer iv 2th/s": "cointerra terraminer iv",
     "cointerra terraminer ivs": "cointerra terraminer iv", # Assuming a typo or variant, closest match.
     "cointerra terramineriv": "cointerra terraminer iv",
+    "cointerra terraminer iv": "cointerra terraminer iv",
     "cointerra units": "unknown",
     "cointerrible machines": "unknown",
     "cointraction": "unknown",
