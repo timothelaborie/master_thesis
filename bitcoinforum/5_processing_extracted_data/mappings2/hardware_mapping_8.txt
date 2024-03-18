@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "13 units": "unknown",
+    "13-inch aluminium late 2008": "unknown",
+    "13-port powered usb hub": "unknown",
+    "13.0 th": "unknown",
+    "13.1": "unknown",
+    "13.1 amd drivers": "unknown",
+    "13.11 b9.4": "unknown",
+    "13.11 cataclysm version+cgminer 2.11.4": "unknown",
+    "13.12": "unknown",
+    "13.5 and 14th s9s": "antminer s9",  # Assuming the user refers to both 13.5th and 14th versions of S9.
+    "13.5 s9 december batch": "antminer s9",
+    "13.5 th/s models": "antminer s9",  # Assuming the user refers to the S9 models around 13.5th.
+    "13.5t": "antminer s9",  # Assuming the user refers to the S9 model with a hash rate around 13.5th.
+    "13.5th s9": "antminer s9",
+    "13.5th s9s": "antminer s9",
+    "13.5th version": "antminer s9",  # Assuming the user refers to the S9 model.
+    "13.6th machine": "unknown",
+    "1300 evga g2": "unknown",
+    "1300 supernova gold psu": "unknown",
+    "1300 w rosewill psu": "unknown",
+    "1300 watt evga g2 gold plus power supply": "unknown",
+    "1300 watt evga gold": "unknown",
+    "1300 watt power supply": "unknown",
+    "1300 watt server power supply": "unknown",
+    "1300cfm attic heat exhaust fan": "unknown",
+    "1300w coolermaster gold": "unknown",
+    "1300w evga gold psu": "unknown",
+    "1300w evga supernovas": "unknown",
+    "1300w psu(s)": "unknown",
+    "13a wall socket a power cord": "unknown",
+    "13th s9": "antminer s9",
+    "13ths antminer": "antminer s9",  # Assuming the user refers to an S9 model with a hash rate around 13ths.
+    "14": "unknown",
+    "14 awg": "unknown",
+    "14 gauge 5-15p cables": "unknown",
+    "14 gauge pdu": "unknown",
+    "14 gauge power cable": "unknown",
+    "14 sticks": "unknown",
+    "14-3 wire": "unknown",
+    "14-30 dryer socket (30a 240v service)": "unknown",
+    "14.5t": "unknown",
+    "14/2 wire": "unknown",
+    "140-120mm adapter": "unknown",
+    "140-watt soldering guns": "unknown",
+    "14000 btu ac": "unknown",
+    "14000 btu air conditioner": "unknown",
+    "1400w psu": "unknown",
+    "140mm noctua industrial 3000rpm fan": "unknown",
+    "1440rpm fan": "unknown",
+    "1452gb": "unknown"
+}
+```

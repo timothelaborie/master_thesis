@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "1 megawatt town commercial license": "unknown",
+    "1 pcie (6pin) connector": "unknown",
+    "1 ph/s miner": "unknown",
+    "1 phase 200 amp panel": "unknown",
+    "1 pole breaker": "unknown",
+    "1 pump": "unknown",
+    "1 s7 (3.2 th/s)": "antminer s7",  # Assuming the specification is a hint to the model.
+    "1 sappire 5850 xtreme": "5850",  # Assuming a typo in "sapphire".
+    "1 single gpu card": "unknown",
+    "1 ssd": "unknown",
+    "1 th image": "unknown",
+    "1 th/s dragonminer": "unknown",  # No exact match, but seems specific to a mining hardware.
+    "1 th/s miner": "unknown",  # Too generic to map to a specific model.
+    "1 ths sino sigma asic miner": "unknown",  # No matching entry.
+    "1 watt per gh hardware": "unknown",
+    "1\" gap": "unknown",
+    "1-1 extender": "unknown",
+    "1-4 shares": "unknown",
+    "1->16x risers": "unknown",
+    "1-x16 powered risers": "unknown",
+    "1.1.8.0c": "unknown",
+    "1.15d spartan 6 lx 90 board": "unknown",  # Specific to FPGA boards, but no exact match.
+    "1.2 ghps rig": "unknown",
+    "1.2 mh": "unknown",
+    "1.2g hashes": "unknown",
+    "1.2kw 48v wind turbine": "unknown",
+    "1.2kw seasonic psu": "unknown",
+    "1.2mw sub-distribution panel": "unknown",
+    "1.3 mh": "unknown",
+    "1.3t rig": "unknown",
+    "1.5 image": "unknown",
+    "1.5gh/s": "unknown",
+    "1.5ghz netbook": "unknown",
+    "1.5kw grid connected solar system": "unknown",
+    "1.5tb drive": "unknown",
+    "1.5tb drives": "unknown",
+    "1.5th dragons": "unknown",  # Seems like a reference to a mining hardware, but no exact match.
+    "1.5th of mining power": "unknown",
+    "1.5th version": "unknown",
+    "1.6 amp fan": "unknown",
+    "1.6 th/s terraminer": "unknown",  # No exact match, but seems specific to a mining hardware.
+    "1.61 phoenix": "unknown",
+    "1.6ghz amd processor": "unknown",
+    "1.6th miner": "unknown",
+    "1.6th/s miner": "unknown",
+    "1.7gh": "unknown",
+    "1.7gh/s rig": "unknown",
+    "1.7kw offgrid solar power setup": "unknown",
+    "1.9 amd dual core": "unknown",
+    "1.9gh": "unknown",
+}
+```

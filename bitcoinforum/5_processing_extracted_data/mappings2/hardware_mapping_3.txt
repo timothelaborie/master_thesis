@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "100 amp subpanel": "unknown",
+    "100 amps in separate subpanel": "unknown",
+    "100 computers": "unknown",
+    "100 ghs miner": "unknown",  # No exact match, but could refer to a generic 100 GH/s capable miner
+    "100 port switch": "unknown",
+    "100% fresh install": "unknown",
+    "100+mb/s wifi connection": "unknown",
+    "1000 amp service": "unknown",
+    "1000 asic miners": "unknown",
+    "1000 ghs": "unknown",  # No exact match, but could refer to a generic 1000 GH/s capable miner
+    "1000 gold": "unknown",
+    "1000 mhash/sec": "unknown",  # No exact match, but could refer to a generic 1000 MH/s capable miner
+    "1000 psu": "unknown",
+    "1000 series": "unknown",
+    "1000 w corsair hx 1000": "unknown",
+    "1000 w power supply": "unknown",
+    "1000 watt 80+ gold psu": "unknown",
+    "1000 watt corsair": "unknown",
+    "1000 watt inverter": "unknown",
+    "1000 watt pc psu": "unknown",
+    "1000 watt psu's": "unknown",
+    "1000 watt psus": "unknown",
+    "1000 watt raidmax psu": "unknown",
+    "1000 watter psu": "unknown",
+    "10000 btu window mount": "unknown",
+    "1000ma psu": "unknown",
+    "1000mh/s machine": "unknown",  # No exact match, but could refer to a generic 1000 MH/s capable miner
+    "1000w": "unknown",
+    "1000w atx psu": "unknown",
+    "1000w chieftec": "unknown",
+    "1000w cooler master silent pro psu": "unknown",
+    "1000w dell server psu": "unknown",
+    "1000w evga p2": "unknown",
+    "1000w kingwin psu": "unknown",
+    "1000w ocz": "unknown",
+    "1000w rig": "unknown",
+    "1000watt coolmaster silentprom psu": "unknown",
+    "1000watt corsair 80 plus bronze psus": "unknown",
+    "1000watt power supply": "unknown",
+    "100a relays": "unknown",
+    "100a sub panel": "unknown",
+    "100a subpanel": "unknown",
+    "100ah batteries": "unknown",
+    "100amp box": "unknown",
+    "100amp sub panel": "unknown",
+    "100ft 14 guage wire": "unknown",
+    "100gb ssd": "unknown",
+    "100gh/s": "unknown",  # No exact match, but could refer to a generic 100 GH/s capable miner
+    "100ghs hardwre": "unknown",  # No exact match, but could refer to a generic 100 GH/s capable miner
+    "100ghz contract": "unknown"
+}
+```
