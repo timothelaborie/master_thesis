@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "25 kva transformer": "unknown",
+    "25 kwp solar power": "unknown",
+    "25 mm mdf": "unknown",
+    "25-32 c. none of them has red light": "unknown",
+    "250 watt heater": "unknown",
+    "2500 graphics": "unknown",
+    "2500k": "unknown",
+    "2500w psu": "unknown",
+    "250gb drive": "unknown",
+    "250gb sata": "unknown",
+    "250gb seagate hd": "unknown",
+    "250kwatt inverter": "unknown",
+    "250mb download from shaw": "unknown",
+    "250v outlet": "unknown",
+    "250v surge protector": "unknown",
+    "250v wall outlet": "unknown",
+    "250w monocrystalline solar panel": "unknown",
+    "250w panels": "unknown",
+    "250w24v panel": "unknown",
+    "250watt panel": "unknown",
+    "256 btc mining gear": "unknown", # No exact match, but implies mining hardware.
+    "256 gb ssd": "unknown",
+    "25gh contract": "unknown", # Implies a mining contract, not hardware.
+    "25gh units": "unknown", # No exact match, possibly referring to mining power but not a specific model.
+    "25kv transformer": "unknown",
+    "25mbps speed": "unknown",
+    "25u racks": "unknown",
+    "2600": "unknown", # Could refer to AMD Radeon HD 2600, but not explicitly listed.
+    "2600k rig": "unknown",
+    "260x": "unknown", # Could refer to AMD Radeon R7 260X, but not explicitly listed.
+    "260~ mh/s": "unknown", # Refers to mining speed, not specific hardware.
+    "265kwatt solar array": "unknown",
+    "26gh network": "unknown",
+    "27 be's": "unknown",
+    "27\" imac": "unknown",
+    "270": "unknown", # Could refer to AMD Radeon R9 270, but not explicitly listed.
+    "270 16v rs419 capacitors": "unknown",
+    "270's": "unknown", # Could refer to AMD Radeon R9 270 series, but not explicitly listed.
+    "270x cards": "unknown", # Could refer to AMD Radeon R9 270X, but not explicitly listed.
+    "275.33 driver": "unknown",
+    "280 kwatt array": "unknown",
+    "280x cards": "unknown", # Could refer to AMD Radeon R9 280X, but not explicitly listed.
+    "280x gpus": "unknown", # Could refer to AMD Radeon R9 280X, but not explicitly listed.
+    "280x r9 toxic": "unknown", # Refers to a specific model of AMD Radeon R9 280X, but not explicitly listed.
+    "280x toxic": "unknown", # Refers to a specific model of AMD Radeon R9 280X, but not explicitly listed.
+    "2880w psu": "unknown",
+    "28c": "unknown",
+    "29 watt gear": "unknown",
+    "290": "unknown", # Could refer to AMD Radeon R9 290, but not explicitly listed.
+    "290ah deep cycle non spill-able sealed lead acid batteries": "unknown",
+}
+```

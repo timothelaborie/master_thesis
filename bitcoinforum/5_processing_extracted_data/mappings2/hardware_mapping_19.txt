@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "24 pin connector": "unknown",
+    "24 port gigabit switch": "unknown",
+    "24 port hub": "unknown",
+    "24 port tplink switches": "unknown",
+    "24 psu rated at 800w": "unknown",
+    "24-port managed cisco": "unknown",
+    "240 outlet from dryer": "unknown",
+    "240 outlets": "unknown",
+    "240 volt psu": "unknown",
+    "240/250v 30a dryer recepticle (nema 14-30r)": "unknown",
+    "2400 watt delta psu": "unknown",
+    "2400 watt server psu": "unknown",
+    "2400w delta server psu": "unknown",
+    "240mm rad": "unknown",
+    "240v 100 amp 3 phase": "unknown",
+    "240v 10a cable": "unknown",
+    "240v 20 amp two-pole circuit breaker": "unknown",
+    "240v 200a 3-phase": "unknown",
+    "240v 20a pdu": "unknown",
+    "240v 20amp breakers": "unknown",
+    "240v 30a circuit": "unknown",
+    "240v 30a units": "unknown",
+    "240v 400a disconnect": "unknown",
+    "240v 400a power distribution panel": "unknown",
+    "240v bitmain psus": "unknown", # No specific model provided, but implies Bitmain PSU compatibility.
+    "240v cord": "unknown",
+    "240v cords 14gauge cords": "unknown",
+    "240v line": "unknown",
+    "240v lines": "unknown",
+    "240v miners": "unknown", # Implies miners that operate at 240v, but no specific model.
+    "240v outlets": "unknown",
+    "240v plug": "unknown",
+    "240v receptacle": "unknown",
+    "240v receptacles": "unknown",
+    "240v solution": "unknown",
+    "2450 versions": "unknown",
+    "2450w psus": "unknown",
+    "247dca55": "unknown",
+    "24a pdus": "unknown",
+    "24h armed guards": "unknown",
+    "24in lcd monitor": "unknown",
+    "24pin": "unknown",
+    "24port switch": "unknown",
+    "24th f1 miners": "unknown", # No exact match, possibly a typo or a model not listed.
+    "24v lead acid batteries": "unknown",
+    "24v panel": "unknown",
+    "24v relay": "unknown",
+    "24x s19": "antminer s19", # Assuming the user refers to 24 units of Antminer S19.
+    "25 asics": "unknown", # General term for ASIC miners, no specific model.
+    "25 blade erupters": "unknown" # Refers to a type of mining hardware, but no exact match in the list.
+}
+```

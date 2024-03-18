@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "20 pin socket": "unknown",
+    "20 servers": "unknown",
+    "20 watt metal resistor": "unknown",
+    "20% mining power": "unknown",
+    "200 amp batteries": "unknown",
+    "200 amp breaker": "unknown",
+    "200 amp panel": "unknown",
+    "200 amp service": "unknown",
+    "200 amps in main breaker": "unknown",
+    "200 gh/s": "unknown",  # No specific model mentioned
+    "200 gh/s machines": "unknown",  # No specific model mentioned
+    "200 series gtx": "unknown",  # No exact match, could refer to multiple GTX 200 series cards
+    "200-220 cfm machines": "unknown",
+    "200-220gh/s avalon miner": "avalon batch 1",  # Assuming closest match based on hash rate
+    "2000 in hardware": "unknown",
+    "2000 machines": "unknown",
+    "2000+ rpm fan": "unknown",
+    "2000mhz 8gb ram": "unknown",
+    "2000w capacity power stick": "unknown",
+    "2000watt ibm bladecenter psu": "unknown",
+    "2000watt transformer": "unknown",
+    "2005 amd laptop": "unknown",
+    "2006 2gb sd card": "unknown",
+    "2008 r2": "unknown",
+    "2009 imac": "unknown",
+    "200a 3r panels": "unknown",
+    "200a fusible disconnects": "unknown",
+    "200a main panel": "unknown",
+    "200amp box": "unknown",
+    "200amp breaker panel": "unknown",
+    "200amp meter": "unknown",
+    "200amp panel": "unknown",
+    "200ft cord": "unknown",
+    "200gb laptop hds": "unknown",
+    "200gh/s avalon": "avalon batch 1",  # Assuming closest match based on hash rate
+    "200gh/s avalon asic bitcoin miner": "avalon batch 1",  # Assuming closest match based on hash rate and description
+    "200gh/s kit": "unknown",  # No specific model mentioned
+    "200m no-name adapters": "unknown",
+    "200mh/s": "unknown",  # No specific model mentioned
+    "200mm sidepanel fan": "unknown",
+    "2010 13\"mbp": "unknown",
+    "2010 macbook": "unknown",
+    "2010 macbook pro": "unknown",
+    "2010 mackbook pro": "unknown",  # Typo in "mackbook", but still unknown
+    "2010 nvidia card": "unknown",  # Could refer to multiple models, no exact match
+    "2011 mac mini": "unknown",
+    "2011 macbook pro": "unknown",
+    "2012 mac mini": "unknown",
+    "2014 butterfly labs": "unknown",  # No specific model mentioned, could refer to multiple BFL products
+    "208ths": "unknown",  # No specific model mentioned
+}
+```

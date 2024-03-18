@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "5850's from earlier this year": "5850",
+    "5850/5870": "unknown", # Could refer to either, but listing as unknown due to ambiguity.
+    "5850dummy plugs": "5850",
+    "5850m": "5850",
+    "5850rpm / 100% fan": "5850",
+    "5850s/5970s": "unknown", # Refers to multiple models.
+    "5850x2": "unknown", # No direct match, likely refers to a dual GPU setup of 5850.
+    "5870 / 5830": "unknown", # Could refer to either, but listing as unknown due to ambiguity.
+    "5870 quad system": "5870",
+    "5870 radeon gpu": "5870",
+    "5870 reference": "5870",
+    "5870 rig": "5870",
+    "5870 rigs": "5870",
+    "5870/5850": "unknown", # Could refer to either, but listing as unknown due to ambiguity.
+    "5870er miner": "5870",
+    "5870s/6870s": "unknown", # Refers to multiple models.
+    "5870x2": "unknown", # No direct match, likely refers to a dual GPU setup of 5870.
+    "5879": "unknown", # Likely a typo, no direct match.
+    "58xx 59xx cards": "unknown", # Refers to a range of models.
+    "58xx card": "unknown", # Refers to a range of models.
+    "58xx series cards": "unknown", # Refers to a range of models.
+    "5970 (black edition)": "5970",
+    "5970 (sapphire)": "5970",
+    "5970 based rig": "5970",
+    "5970 mining rig": "5970",
+    "5970 refs": "5970",
+    "5970 rig": "5970",
+    "5970 x2 black edition": "5970",
+    "5970 xtreme colers": "5970",
+    "5970/5870 trifire setup": "unknown", # Refers to a specific setup involving multiple models.
+    "5970asus 6970 dciii": "unknown", # Refers to multiple models, unclear mapping.
+    "5970hd gpus": "5970",
+    "5990": "unknown", # No direct match, likely a typo or confusion.
+    "5a 4 port usb hub": "unknown", # Not a mining hardware.
+    "5amp power supply": "unknown", # Not a mining hardware.
+    "5b402": "unknown", # No direct match, unclear reference.
+    "5chip units": "unknown", # Ambiguous, could refer to several ASIC miners but not specific enough.
+    "5cm styrofoam": "unknown", # Not a mining hardware.
+    "5e cord": "unknown", # Not a mining hardware.
+    "5gb hotspot": "unknown", # Not a mining hardware.
+    "5gh in gpus": "unknown", # Ambiguous, not specific to a model.
+    "5gh/s bfl miner": "bfl sc", # Assuming it refers to BFL's single or small collection.
+    "5ghash": "unknown", # Ambiguous, not specific to a model.
+    "5ghash rigs": "unknown", # Ambiguous, not specific to a model.
+    "5ghs bfl miners": "bfl sc", # Assuming it refers to BFL's single or small collection.
+    "5ghs bi fury": "bi*fury",
+    "5ghs interrupters": "unknown", # No direct match, unclear reference.
+    "5ghs jally": "unknown", # Likely a typo or unclear reference.
+    "5ghz from bfl": "bfl sc", # Assuming it refers to BFL's single or small collection.
+    "5gs": "unknown", # Ambiguous, not specific to a model.
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "2x 2gb g.skill 1333mhz ram": "unknown",
+    "2x 5770": "5770",
+    "2x 5770s": "5770",  # Assuming 's' indicates plural but refers to the same model.
+    "2x 5830 rig": "5830",
+    "2x 5830's": "5830",  # Assuming apostrophe indicates plural but refers to the same model.
+    "2x 5830s": "5830",  # Assuming 's' indicates plural but refers to the same model.
+    "2x 5850 rig": "5850",
+    "2x 5850)": "5850",  # Assuming typo or formatting error, closest match.
+    "2x 5970's": "5970",  # Assuming apostrophe indicates plural but refers to the same model.
+    "2x 6950": "6950",
+    "2x 6990": "6990",
+    "2x 6990s": "6990",  # Assuming 's' indicates plural but refers to the same model.
+    "2x 700w psu": "unknown",
+    "2x 750s": "unknown",  # No clear match, could be a typo or unrelated hardware.
+    "2x 7850 gpus": "7850",
+    "2x 7950s": "7950",  # Assuming 's' indicates plural but refers to the same model.
+    "2x 92mm noctua": "unknown",
+    "2x boards": "unknown",
+    "2x gpus": "unknown",
+    "2x miners": "unknown",
+    "2x xfx r7990 6gb": "unknown",  # No clear match, could be a typo or model not listed.
+    "2x100ah": "unknown",
+    "2x15amp breaker": "unknown",
+    "2x1gb kingston ram": "unknown",
+    "2x20 amp fuses": "unknown",
+    "2x270": "unknown",  # No clear match, could be a typo or model not listed.
+    "2x280x": "unknown",  # No clear match, could be a typo or model not listed.
+    "2x49port hubs": "unknown",
+    "2x4gb corsair ddr3-1600": "unknown",
+    "2x5830 rig": "5830",
+    "2x5850": "5850",
+    "2x5850's": "5850",  # Assuming apostrophe indicates plural but refers to the same model.
+    "2x5850/5870/7970": "unknown",  # Multiple models listed, unclear mapping.
+    "2x5870 rig": "5870",
+    "2x6 pin connections": "unknown",
+    "2x600w diablotek da series psda600 600w atx12v v2.2 power supply": "unknown",
+    "2x6850": "6850",
+    "2x6870s": "6870",  # Assuming 's' indicates plural but refers to the same model.
+    "2x6950 rig": "6950",
+    "2x6950's": "6950",  # Assuming apostrophe indicates plural but refers to the same model.
+    "2x6950s": "6950",  # Assuming 's' indicates plural but refers to the same model.
+    "2x6990s": "6990",  # Assuming 's' indicates plural but refers to the same model.
+    "2x6pin connectors": "unknown",
+    "2x700w platinum psu": "unknown",
+    "2x700w psu": "unknown",
+    "2x750w thermaltake": "unknown",
+    "2x7850": "7850",
+    "2x7870 rig": "7870",
+    "2x7950": "7950",
+    "2x7950 mining pc": "7950",  # Assuming it refers to the use of 7950 models in a mining PC.
+}
+```

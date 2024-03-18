@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "4th module": "unknown",
+    "4ts": "unknown",
+    "4u cases": "unknown",
+    "4u ct anonymous": "unknown",
+    "4u rackmount cases": "unknown",
+    "4u server": "unknown",
+    "4x 100 amp pdus": "unknown",
+    "4x 1200w antec psu": "unknown",
+    "4x 280x mining rig": "unknown", # Assuming "280x" refers to a GPU model, but it's not listed.
+    "4x 5830": "5830",
+    "4x 5830's": "5830",
+    "4x 5970's": "5970",
+    "4x 6990 rig": "6990",
+    "4x 7950": "7950",
+    "4x 7950 gpu's": "7950",
+    "4x ati radeon 6990": "6990",
+    "4x be4": "unknown",
+    "4x cards": "unknown",
+    "4x controller": "unknown",
+    "4x gigabyte 20cm pci-e risers": "unknown",
+    "4x gpu rig (5770": "5770",
+    "4x gpus": "unknown",
+    "4x gtx 1050ti": "unknown", # GTX 1050ti is not listed.
+    "4x icarus": "icarus",
+    "4x lepa 1600w psu": "unknown",
+    "4x nvidia cards": "unknown",
+    "4x pcie mboard": "unknown",
+    "4x s9": "antminer s9",
+    "4x s9 14.0t": "antminer s9", # Assuming the "14.0t" refers to the hash rate, not the model.
+    "4x sapphire 5830": "5830",
+    "4x sapphire radeon extreme 5830": "5830",
+    "4x xfx 7950": "7950",
+    "4x2.1mm to molex cables": "unknown",
+    "4x5830 rig": "5830",
+    "4x5830 rigs": "5830",
+    "4x5830's": "5830",
+    "4x5850": "unknown", # "5850" is not listed.
+    "4x5850 gpu (cypress)": "unknown", # "5850" is not listed, and "cypress" is a codename.
+    "4x5870's": "5870",
+    "4x5870s": "5870",
+    "4x6770 machine": "unknown", # "6770" is not listed.
+    "4x6950's": "unknown", # "6950" is listed, but the plural form here might imply multiple units.
+    "4x7950": "7950",
+    "4x7950 mining rigs": "7950",
+    "4x7950 rig": "7950",
+    "4x7970s": "unknown", # "7970" is listed, but the plural form here might imply multiple units.
+    "4xxx card": "unknown",
+    "5 20 amp receptacles": "unknown",
+    "5 5850's": "unknown", # "5850" is not listed.
+    "5 5870's": "5870",
+}
+```

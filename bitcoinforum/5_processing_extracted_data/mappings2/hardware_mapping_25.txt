@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "3.6.2": "unknown",
+    "3.6.6": "unknown",
+    "3.75gh": "unknown",
+    "3.9kw pv array": "unknown",
+    "3/0 runs": "unknown",
+    "30 amp 208v-240v pdu": "unknown",
+    "30 amp 240 circuits": "unknown",
+    "30 amp 240v circuits": "unknown",
+    "30 amp 240v plugs": "unknown",
+    "30 amp car charger": "unknown",
+    "30 amp circuits": "unknown",
+    "30 amp l14-30r receptacle": "unknown",
+    "30 amp l6r cables": "unknown",
+    "30 amp lines": "unknown",
+    "30 amp pdus": "unknown",
+    "30 amp power regulator": "unknown",
+    "30 amp psu": "unknown",
+    "30 amp tree-pole breakers": "unknown",
+    "30 gh/sec bfl miner": "bfl sc", # Assuming "gh/sec" refers to "GH/s" and "bfl" refers to Butterfly Labs products.
+    "30 miners": "unknown",
+    "30 mln box botnet": "unknown",
+    "30 mm closed-cell foam": "unknown",
+    "30 rigs": "unknown",
+    "30 th model": "unknown", # No specific model mentioned, could potentially refer to a mining hardware with ~30 TH/s but not listed.
+    "30-40gh/s": "unknown", # No specific hardware mentioned, could potentially refer to a range of mining hardware but not listed.
+    "300 amp service": "unknown",
+    "300 cards rx 580": "unknown", # While "rx 580" is a GPU model, it's not specifically listed as a mining hardware in the provided list.
+    "300 gh/s": "unknown", # No specific hardware mentioned, could potentially refer to a range of mining hardware but not listed.
+    "300 mbps tplink wireless n adsl2 + modem router": "unknown",
+    "300 mhash": "unknown", # No specific hardware mentioned, could potentially refer to a range of mining hardware but not listed.
+    "300 w old powersuplly": "unknown",
+    "300 watt commercial solar panels": "unknown",
+    "30000cfm upblast exhaust fan": "unknown",
+    "3000w transformers": "unknown",
+    "3000watts transformer": "unknown",
+    "300gb scsi drive": "unknown",
+    "300kw farm": "unknown",
+    "300mh/s": "unknown", # No specific hardware mentioned, could potentially refer to a range of mining hardware but not listed.
+    "300mhash/s card": "unknown", # No specific hardware mentioned, could potentially refer to a range of mining hardware but not listed.
+    "300w antec power supply": "unknown",
+    "300w power supply": "unknown",
+    "3060ti non- lhr": "unknown", # While "3060ti" is a GPU model, it's not specifically listed as a mining hardware in the provided list.
+    "30a 2 pole circuits": "unknown",
+    "30a 240v breakers": "unknown",
+    "30a breaker": "unknown",
+    "30a pdu": "unknown",
+    "30a switches": "unknown",
+    "30amp 208v pdus": "unknown",
+    "30amp 240v breaker": "unknown",
+    "30amp circuit": "unknown",
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "2x7950 mining rig": "unknown",  # No exact match, but implies use of "7950" GPUs
+    "2x7970s": "unknown",  # No exact match, but implies use of "7970" GPUs
+    "2x7990": "unknown",  # No exact match, but implies use of "7990" GPUs, which is not listed
+    "2x8 pin connectors": "unknown",
+    "2xradeon 6950 cards": "6950",  # Assuming a typo or version difference, closest match.
+    "3 280x cards": "unknown",  # No exact match, but implies use of "280x" GPUs, which is not listed
+    "3 5850's": "5850",
+    "3 5870s": "5870",
+    "3 6850": "6850",
+    "3 6970's": "6970",
+    "3 7900 series cards": "unknown",  # No exact match, but implies use of "7900 series" GPUs, which is not listed
+    "3 7950s": "7950",
+    "3 7970s": "7970",
+    "3 ants": "unknown",  # Could imply Antminers, but too vague without specific model
+    "3 arrays": "unknown",
+    "3 ati cards": "unknown",  # ATI is a brand, not specific hardware
+    "3 avalon 741": "avalon741",
+    "3 bad small psu": "unknown",
+    "3 bfl orders": "unknown",  # BFL (Butterfly Labs) has multiple products listed, but no specific model mentioned
+    "3 block erupter blade": "unknown",  # No exact match, but related to ASIC mining hardware
+    "3 cards": "unknown",
+    "3 cards rig": "unknown",
+    "3 chip jala": "unknown",  # No exact match, possibly referring to a specific chip or product not listed
+    "3 core am2+ phenom": "unknown",
+    "3 dual gpu cards": "unknown",
+    "3 fans at radiator": "unknown",
+    "3 ghash/s rig": "unknown",
+    "3 gpu's": "unknown",
+    "3 gtx295": "gtx295",
+    "3 hard drive": "unknown",
+    "3 hash plates": "unknown",
+    "3 hashboards": "unknown",
+    "3 hdds": "unknown",
+    "3 hp aircond": "unknown",
+    "3 kinds of avalon": "unknown",  # Implies multiple Avalon products, but too vague without specific models
+    "3 kinds of innosilicon": "unknown",  # Implies multiple Innosilicon products, but too vague without specific models
+    "3 kinds of whatsminer": "unknown",  # Implies multiple Whatsminer products, but too vague without specific models
+    "3 knc asics": "unknown",  # KNC has multiple products listed, but no specific model mentioned
+    "3 laptops": "unknown",
+    "3 mobo's": "unknown",
+    "3 more s9": "antminer s9",
+    "3 pc's": "unknown",
+    "3 pciex1 ( top 2.5 middle2.5 bottom 5) slots": "unknown",
+    "3 phase eaton br360 breakers": "unknown",
+    "3 phase entrance": "unknown",
+    "3 phase exhaust fans": "unknown",
+    "3 phase power breakers": "unknown",
+    "3 phase power pdus": "unknown",
+    "3 phase power service": "unknown",
+    "3 phase power sub-panel": "unknown",
+}
+```
