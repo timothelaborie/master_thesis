@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "bfgminer 3.1": "unknown",
+    "bfgminer 3.10": "unknown",
+    "bfgminer 3.10.0": "unknown",
+    "bfgminer 3.2.0": "unknown",
+    "bfgminer 3.2.1": "unknown",
+    "bfgminer 3.3.0": "unknown",
+    "bfgminer 3.4.0 proxy": "unknown",
+    "bfgminer 3.6.0": "unknown",
+    "bfgminer 3.7.0 proxy": "unknown",
+    "bfgminer 4.0": "unknown",
+    "bfgminer 4.2.0": "unknown",
+    "bfgminer 5.0.0-s opencl": "unknown",
+    "bfgminer 5.2.0": "unknown",
+    "bfgminer 5.3.0": "unknown",
+    "bfgminer 5.4.2": "unknown",
+    "bfgminer 5.4.2 64 bit": "unknown",
+    "bfgminer 5.4.2-win64": "unknown",
+    "bfgminer 5.5.0": "unknown",
+    "bfgminer folder": "unknown",
+    "bfgminer for windows": "unknown",
+    "bfgminer program": "unknown",
+    "bfgminer version 3.8.0": "unknown",
+    "bfgminer.config": "unknown",
+    "bfgminer.exe": "unknown",
+    "bfl 0a": "unknown",
+    "bfl 0b": "unknown",
+    "bfl 0c": "unknown",
+    "bfl 0f": "unknown",
+    "bfl 10 gh/s btc unit": "unknown", # No exact match, but related to BFL products.
+    "bfl 30gh miner": "unknown", # No exact match, but related to BFL products.
+    "bfl 30gh unit": "unknown", # No exact match, but related to BFL products.
+    "bfl 30gh/s": "unknown", # No exact match, but related to BFL products.
+    "bfl 5+ ghash": "unknown", # No exact match, but related to BFL products.
+    "bfl 50 single": "bfl single 'sc'", # Assuming a typo or shorthand.
+    "bfl 50ghash": "bfl single 'sc'", # Assuming a typo or shorthand.
+    "bfl 5ghz": "unknown", # Likely a typo, possibly meant "bfl 5gh/s" which is still unclear.
+    "bfl 60 gh/s unit": "unknown", # No exact match, but related to BFL products.
+    "bfl 60gh single": "bfl single 'sc'", # Assuming a typo or shorthand.
+    "bfl 60ghs": "bfl single 'sc'", # Assuming a typo or shorthand.
+    "bfl 60ghz single": "unknown", # Likely a typo, possibly meant "bfl 60gh single".
+    "bfl 7ghash": "unknown", # No exact match, but related to BFL products.
+    "bfl asic single 60": "bfl single 'sc'", # Assuming a typo or shorthand.
+    "bfl bitforce 50 gh/s": "bfl single 'sc'", # Assuming a typo or shorthand.
+    "bfl bitforce single": "bfl single 'sc'",
+    "bfl cases": "unknown", # No hardware match, likely related to product accessories.
+    "bfl easy miner": "unknown", # No exact match, but related to BFL products.
+    "bfl equipment": "unknown", # No hardware match, likely general reference to BFL products.
+    "bfl investor one": "unknown", # No hardware match, likely a specific investment or product package.
+    "bfl jalapeno 5 ghs": "butterflylabs (bfl) jalapeno",
+    "bfl jalapeno 7 ghs": "butterflylabs (bfl) jalapeno", # Assuming a version or typo, as the exact hash rate isn't listed.
+}
+```

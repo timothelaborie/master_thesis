@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "hashfast module": "unknown",
+    "hashin boards": "unknown",
+    "hashing": "unknown",
+    "hashing board 1 and 2": "unknown",
+    "hashing board from a 13.5th unit": "unknown",
+    "hashing unit": "unknown",
+    "hashlast": "unknown",
+    "hashlast baby jets": "unknown",
+    "hashlet genesis": "unknown",
+    "hashlet miners": "unknown",
+    "hashlet prime": "unknown",
+    "hashlets": "unknown",
+    "hashplate": "unknown",
+    "hashra controla pi": "unknown",
+    "hashra lunar launcher": "unknown",
+    "hashra mini controller": "unknown",
+    "hashs": "unknown",
+    "hasing boards": "unknown",
+    "hastfast sierra": "hashfast sierra", # Closest match, assuming typo.
+    "hb": "unknown",
+    "hd 2xxx radeon": "unknown",
+    "hd 320go": "unknown",
+    "hd 4000": "unknown",
+    "hd 4350": "4350",
+    "hd 4850": "4850",
+    "hd 5450": "5450",
+    "hd 5770": "5770",
+    "hd 5770 from sapphire": "5770", # Specific brand, but model matches.
+    "hd 5770s": "5770",
+    "hd 5850": "5850",
+    "hd 5850 non-crossfired": "5850", # Detail about configuration, but model matches.
+    "hd 5850s": "5850",
+    "hd 5870 super oc": "5870", # Overclocked version, but base model matches.
+    "hd 5970 graphics card": "5970",
+    "hd 6570": "6570",
+    "hd 6670": "6670",
+    "hd 6770": "unknown", # Not listed.
+    "hd 6850": "6850",
+    "hd 6850 card": "6850", # Additional word 'card', but model matches.
+    "hd 6870": "6870",
+    "hd 6950s": "6950",
+    "hd 6970s": "6970",
+    "hd 6990": "6990",
+    "hd 7660d": "unknown", # Not listed.
+    "hd 7700": "unknown", # Not specific enough, multiple models in the 7700 range.
+    "hd 7750 cards": "7750",
+    "hd 7850": "7850",
+    "hd 7850 graphics card": "7850", # Additional description, but model matches.
+    "hd 7850s": "7850",
+    "hd 7950 cards": "unknown", # 7950 not listed, assuming typo or model not included.
+}
+```

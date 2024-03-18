@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "ica31": "unknown",
+    "ica:\\.\\com1": "unknown",
+    "ica:\\.\\com21": "unknown",
+    "ica:\\.\\com22": "unknown",
+    "ica:\\.\\com24": "unknown",
+    "icarus devices": "icarus",  # Assuming a general reference to Icarus devices.
+    "icarus driver": "unknown",
+    "icarus erupter": "unknown",
+    "icarus fpga": "icarus",  # Assuming a general reference to Icarus FPGA devices.
+    "icarus usb asic miner": "icarus",  # Assuming a general reference to Icarus devices.
+    "icds": "unknown",
+    "ice chest/cooler": "unknown",
+    "ice fury": "nanofury / icefury",  # Closest match based on the name.
+    "ice3pcs01g": "unknown",
+    "iceland p2pool node": "unknown",
+    "ics": "unknown",
+    "ide back planes": "unknown",
+    "ide hard drive": "unknown",
+    "ide hd": "unknown",
+    "ide ribbon cables": "unknown",
+    "ie": "unknown",
+    "iec 60898 mcb": "unknown",
+    "iec c19 ups / server power lead cable": "unknown",
+    "ifc wallet": "unknown",
+    "igp": "unknown",
+    "igpu": "unknown",
+    "illustrator": "unknown",
+    "imac 10.6.8": "unknown",
+    "imac 2011 (27\")3.4ghz i7 2600": "unknown",
+    "imac case": "unknown",
+    "imac late 2007 model duo core 2": "unknown",
+    "imac with a 6750m": "6750",  # Assuming a reference to the GPU model in the iMac.
+    "imac yosemite": "unknown",
+    "imacs 6970m": "6970",  # Assuming a reference to the GPU model in the iMacs.
+    "immersion cooling": "unknown",
+    "immersion fan": "unknown",
+    "immersion kit from dcx miners": "unknown",
+    "impeller pumps": "unknown",
+    "in line fan": "unknown",
+    "in-line duct fan": "unknown",
+    "in-line fans": "unknown",
+    "indoor tarps": "unknown",
+    "inductance meter": "unknown",
+    "industrial 1 hp water chiller from chill king": "unknown",
+    "industrial grade usb hum": "unknown",
+    "industrial lasers": "unknown",
+    "industrial warehouse space": "unknown",
+    "infrared camera": "unknown",
+    "infrastructure": "unknown",
+    "inland 13 port usb hub": "unknown",
+}
+```

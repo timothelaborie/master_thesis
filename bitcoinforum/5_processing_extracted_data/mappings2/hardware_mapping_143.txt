@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "heatsink assembly": "unknown",
+    "heatsink fan": "unknown",
+    "heatsink fins": "unknown",
+    "heatsink on chip no.7": "unknown",
+    "heatsink's screws": "unknown",
+    "heatsinks/chips": "unknown",
+    "heatup sockets": "unknown",
+    "heavy duty cables": "unknown",
+    "heavy duty extension cords": "unknown",
+    "heavy duty power cables": "unknown",
+    "heavy duty smart switches": "unknown",
+    "heavy duty tarp": "unknown",
+    "heavy power supplies": "unknown",
+    "hec16c boards": "unknown",
+    "helix miner usb hub": "unknown",
+    "hewlett-packard 30db": "unknown",
+    "hex 16b": "unknown", # No exact match, could be a general reference to Hex mining hardware
+    "hex 16b bitfury asic miner": "unknown", # No exact match, but related to Bitfury hardware
+    "hex miner": "unknown",
+    "hex*fury": "bi*fury", # Closest match based on the pattern, but not exact
+    "hex16a2 (hex16c)": "unknown", # No exact match, seems to be a reference to a specific model or version
+    "hex16a2 boards": "unknown",
+    "hex16b 60gh/s miner": "unknown",
+    "hex16c avalon2 asic miner 24ghs": "unknown",
+    "hex8a1 unit": "unknown",
+    "hexa": "unknown",
+    "hexb board": "unknown",
+    "hexc board": "unknown",
+    "hexfurry": "unknown", # Likely a typo for "hex*fury" but no exact match
+    "hextec 1050w power supply": "unknown",
+    "hf baby jets": "unknown",
+    "high cfm case fans": "unknown",
+    "high cfm duct fan": "unknown",
+    "high current regulators": "unknown",
+    "high speed 120mm fan": "unknown",
+    "high speed 4 port switch": "unknown",
+    "high temp monitor": "unknown",
+    "high velocity floor fan": "unknown",
+    "high voltage power supplies": "unknown",
+    "high-end gaming pc": "unknown",
+    "highly regulated power supply": "unknown",
+    "highpower tech 1200w gold plus (hp-1200-g14c-gold)": "unknown",
+    "highspeed pc 162 0101 top deck tech station open-air": "unknown",
+    "his (reference) 6970": "6970",
+    "his hd 6990 4gb": "6990",
+    "his iceq boost clock h795qc3g2m radeon hd 7950 3gb 384-bit gddr5 pci express 3.0 x16 hdcp ready crossfirex support video card": "7950",
+    "his radeon hd 6970 crossfire": "6970",
+    "hitron business router": "unknown",
+    "hive": "unknown",
+    "hive os": "unknown"
+}
+```

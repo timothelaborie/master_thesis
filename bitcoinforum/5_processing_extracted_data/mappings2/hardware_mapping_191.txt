@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "power supply 0 - 12v 45a max": "unknown",
+    "power supply 12v @ 3.5 ampere": "unknown",
+    "power supply 12v @ 5a": "unknown",
+    "power supply 600w": "unknown",
+    "power supply antec sp-500": "unknown",
+    "power supply apw3++": "unknown",
+    "power supply equipment": "unknown",
+    "power usb hub": "unknown",
+    "power wires": "unknown",
+    "power-fan switch": "unknown",
+    "power/ethernet cables": "unknown",
+    "power/hash rate settings": "unknown",
+    "powercables": "unknown",
+    "powercolor 5670": "5670",
+    "powercolor 5870": "5870",
+    "powercolor 6870 x2": "6870", # Assuming a typo or version difference, closest match.
+    "powercolor 6870x2": "6870", # Assuming a typo or version difference, closest match.
+    "powercolor 6950 1gb": "6950",
+    "powercolor 6950s": "6950",
+    "powercolor 6970": "6970",
+    "powercolor 7870 card": "7870",
+    "powercolor 7870 ez edition": "7870",
+    "powercolor 7950": "7950",
+    "powercolor 7970 v3": "7970",
+    "powercolor 7990": "7990",
+    "powercolor ax4850 512md3-dh radeon hd 4850 512mb 256-bit gddr3 pci express 2.0 x16 hdcp ready crossfirex": "4850",
+    "powercolor hd 6950": "6950",
+    "powercolor hd7990": "7990",
+    "powercolor pcs+ vortex ii 7970": "7970",
+    "powercolor r9 270 2gb gddr5 dvi hdmi displayport pci-e graphics card": "unknown", # No exact match, but related to GPU mining.
+    "powercolor rad. hd 6990 4096mb rt.": "6990",
+    "powercolor radeon hd7850": "7850",
+    "powercolor radeons": "unknown", # General reference to PowerColor GPUs, no specific model.
+    "powercolor watercooled": "unknown", # Refers to a feature, not a specific model.
+    "powercolor's oc editions": "unknown", # Refers to overclocked editions, no specific model.
+    "powercolorcore 970": "unknown", # No matching entry, possibly a typo.
+    "powercoolers 6950": "6950",
+    "powercords": "unknown",
+    "powerd x1 to x16 raiser": "unknown",
+    "powered 16x riser": "unknown",
+    "powered 1x - 16x riser": "unknown",
+    "powered 1x riser": "unknown",
+    "powered 1x risers from cablesaurus": "unknown",
+    "powered 1x-16x": "unknown",
+    "powered 2.0 usb hub": "unknown",
+    "powered 4-port hub": "unknown",
+    "powered and unpowered usb hubs": "unknown",
+    "powered d link usb": "unknown",
+    "powered d-link dub h7 hub": "unknown",
+    "powered extender cables": "unknown",
+}
+```

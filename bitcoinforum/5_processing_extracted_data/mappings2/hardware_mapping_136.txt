@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "gpu0.miner": "unknown",
+    "gpu1.fan": "unknown",
+    "gpu1.miner": "unknown",
+    "gpu1_deepbit": "unknown",
+    "gpu2_deepbit": "unknown",
+    "gpu2x sapphire radeon r9 280x 3gb gddr5 pci-express 3.0": "unknown", # No exact match, but related to Radeon series.
+    "gpu3_deepbit": "unknown",
+    "gpu: 3x 5970 (arctic cooler sapphire black edition)": "5970",
+    "gpu: asus 6950 1gb": "6950",
+    "gpu: geforce rtx 3090": "unknown", # Not listed in the provided hardware list.
+    "gpu_7": "unknown",
+    "gpumax": "unknown",
+    "gpumon": "unknown",
+    "gpus (6950s)": "6950",
+    "gpus 3 and 4": "unknown",
+    "gpus 30mhash": "unknown",
+    "gpus/mining hardware": "unknown",
+    "gpuz": "unknown",
+    "grace zhou from minerexpert": "unknown",
+    "graphic card": "unknown",
+    "graphic card: ati radeon hd 4800 series": "unknown", # No exact match, but related to Radeon series.
+    "graphic cards 7950 and 7990": "unknown", # No 7990 listed, 7950 not listed but similar to Radeon series.
+    "graphics card hardware": "unknown",
+    "graphics card's pci-e 6-pin": "unknown",
+    "graphics cards - 4 x sapphire radeon hd 7950": "unknown", # No exact match, but related to Radeon series.
+    "graphics driver": "unknown",
+    "green and yellow light": "unknown",
+    "green hashing board": "unknown",
+    "green l.e.d.": "unknown",
+    "green lamp": "unknown",
+    "green led": "unknown",
+    "green power connect": "unknown",
+    "green white black wires": "unknown",
+    "grid miner a1": "unknown", # No exact match, possibly a typo or different version.
+    "grid shelves": "unknown",
+    "grid tied arrays": "unknown",
+    "grid tied gear": "unknown",
+    "gridminer 1tb": "unknown",
+    "gridminer a1": "unknown", # No exact match, possibly a typo or different version.
+    "grids": "unknown",
+    "gridseed (both g-blade and 5-chip) units": "unknown", # Related to Gridseed but not an exact match.
+    "gridseed 3550 asic": "unknown", # Related to Gridseed but not an exact match.
+    "gridseed 5 chip 3355": "unknown", # Related to Gridseed but not an exact match.
+    "gridseed 5 chip dual miner": "unknown", # Related to Gridseed but not an exact match.
+    "gridseed 5 chip dual miners": "unknown", # Related to Gridseed but not an exact match.
+    "gridseed 5 chip miner": "unknown", # Related to Gridseed but not an exact match.
+    "gridseed 5 chip puck": "unknown", # Related to Gridseed but not an exact match.
+    "gridseed 5 chip units": "unknown", # Related to Gridseed but not an exact match.
+    "gridseed 5 chip usb miner": "unknown", # Related to Gridseed but not an exact match.
+    "gridseed 5 miners": "unknown", # Related to Gridseed but not an exact match.
+}
+```

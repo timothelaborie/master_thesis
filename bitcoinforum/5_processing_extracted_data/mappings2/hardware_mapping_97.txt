@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "catalyst 13.11": "unknown",
+    "catalyst 13.11 beta 9.5": "unknown",
+    "catalyst 13.3 beta": "unknown",
+    "catalyst 13.4gpu": "unknown",
+    "catalyst 13.9": "unknown",
+    "catalyst application": "unknown",
+    "catalyst beta 14.1": "unknown",
+    "catalyst center": "unknown",
+    "catalyst control center 2.17.": "unknown",
+    "catalyst control centre": "unknown",
+    "catalyst driver": "unknown",
+    "catalyst driver 13.10": "unknown",
+    "catalyst driver 13.12": "unknown",
+    "catalyst drivers v13.4": "unknown",
+    "catalyst install manager": "unknown",
+    "catalyst software": "unknown",
+    "catalyst v13.11 beta v8": "unknown",
+    "catalyst v14.1 beta": "unknown",
+    "cayman (6970)": "6970",
+    "cayman 0": "unknown", # Assuming a typo or version difference, closest match would be "6970" but marked as unknown due to lack of clarity.
+    "cayman card": "unknown", # Could refer to "6970" but not specific enough.
+    "caymens": "unknown", # Likely a typo of "cayman" but unclear specific model.
+    "cb": "unknown",
+    "cc3073a5": "unknown",
+    "ccbmc avalon 2 230 ghs bitcoin miner": "unknown", # No exact match, possibly related to Avalon series but not listed.
+    "ccbmc avalon 2nd generation": "unknown", # Could refer to Avalon series but not specific enough.
+    "ccbmc-avalon miner": "unknown", # Could refer to Avalon series but not specific enough.
+    "ccc (11-9 11-10 11-11 12-1)": "unknown",
+    "ccc 11.5": "unknown",
+    "ccc 11.6": "unknown",
+    "ccc 12.3i": "unknown",
+    "ccproxy": "unknown",
+    "cctvs": "unknown",
+    "cctvs with fire detectors": "unknown",
+    "cd": "unknown",
+    "cd case": "unknown",
+    "cd-rom": "unknown",
+    "cd-rom drive/hdd": "unknown",
+    "cdwriter": "unknown",
+    "celeron 2.5ghz": "unknown",
+    "celeron 847": "unknown",
+    "celeron cpu": "unknown",
+    "celeron d": "unknown",
+    "celeron g1610 processor": "unknown",
+    "celeron g530": "unknown",
+    "celeron g540": "unknown",
+    "celeron g550": "unknown",
+    "celeron proc": "unknown",
+    "celeron processor": "unknown",
+    "cell phones": "unknown",
+}
+```

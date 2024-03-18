@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "rpi controller": "unknown",
+    "rpi image": "unknown",
+    "rpi media card reader": "unknown",
+    "rpi miner": "unknown",
+    "rpi only device": "unknown",
+    "rpi running fpga rigs": "unknown",
+    "rpi ubuntu setup": "unknown",
+    "rpi wall wart": "unknown",
+    "rpi's": "unknown",
+    "rpi's lcd": "unknown",
+    "rpi-compatible usb keyboard (gearhead kb1700u)": "unknown",
+    "rpi-score": "unknown",
+    "rpi1": "unknown",
+    "rpie": "unknown",
+    "rt-16": "unknown",
+    "rt-n16": "unknown",
+    "rtx 3080s": "unknown",
+    "russian version asic.repair": "unknown",
+    "rx 480": "unknown",
+    "rx 570": "unknown",
+    "rx 570 8gb": "unknown",
+    "rx 6700xt": "unknown",
+    "rx tx": "unknown",
+    "rx460": "unknown",
+    "ryzen 1800x": "unknown",
+    "s-1 antminer": "antminer s1",
+    "s-1 miners": "unknown", # Could potentially refer to "antminer s1" but unclear without context.
+    "s-2": "antminer s2",
+    "s-7 controller": "unknown", # Likely related to "antminer s7" but not a direct match.
+    "s-9 board": "unknown", # Likely related to "antminer s9" but not a direct match.
+    "s-9 space heater": "unknown", # Likely related to "antminer s9" but not a direct match.
+    "s-ata ii cd-rom": "unknown",
+    "s-ata iii hdd": "unknown",
+    "s-line inline duct fan": "unknown",
+    "s/t15 series": "unknown",
+    "s1 180hgs antminers": "antminer s1", # Assuming a typo or version difference, closest match.
+    "s1 ant eg": "unknown", # Likely a typo or shorthand for "antminer s1" but unclear.
+    "s1 ant miners": "antminer s1",
+    "s1 control board": "unknown", # Likely related to "antminer s1" but not a direct match.
+    "s1 controllers": "unknown", # Likely related to "antminer s1" but not a direct match.
+    "s1 devices": "unknown", # Likely related to "antminer s1" but not a direct match.
+    "s1 fireware": "unknown", # Likely a typo meant to refer to firmware for "antminer s1".
+    "s1 gui": "unknown", # Likely related to "antminer s1" but not a direct match.
+    "s1 heat sinks": "unknown", # Likely related to "antminer s1" but not a direct match.
+    "s1 screen": "unknown", # Likely related to "antminer s1" but not a direct match.
+    "s1 to s3": "unknown", # Refers to an upgrade or comparison, not a specific model.
+    "s1 upgrade kit": "unknown", # Likely related to "antminer s1" but not a direct match.
+    "s1 wifi": "unknown", # Likely related to "antminer s1" but not a direct match.
+    "s1's fan": "unknown", # Likely related to "antminer s1" but not a direct match.
+    "s1-s3 adapter": "unknown", # Refers to an adapter between models, not a specific model.
+}
+```

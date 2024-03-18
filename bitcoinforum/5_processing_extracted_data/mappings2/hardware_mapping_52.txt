@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "airmover": "unknown",
+    "airport extreme (bridge)": "unknown",
+    "airport time capsule": "unknown",
+    "airprotection": "unknown",
+    "aisen a1": "aisen a1 pro",  # Closest match, assuming typo or version difference.
+    "aisen a1 25th/s": "aisen a1 pro",  # Assuming version difference, closest match.
+    "aisen a1 miners": "aisen a1 pro",  # Assuming plural form, closest match.
+    "aisen a1 pro": "aisen a1 pro",
+    "aisen a1 pro 21t loveminer": "aisen a1 pro",  # Assuming specific version, closest match.
+    "aisen a1 pro 24t": "aisen a1 pro",  # Assuming specific version, closest match.
+    "aitech usb3 hubs": "unknown",
+    "aitminer": "unknown",  # Likely a typo but no clear match.
+    "aix machine": "unknown",
+    "aixin a1 25th": "aisen a1 pro",  # Likely a typo, closest match.
+    "aladdin miner t1": "unknown",  # No exact match, and multiple Aladdin T1 versions.
+    "aladdin miner t1 32th": "unknown",  # No exact match, and multiple Aladdin T1 versions.
+    "aladdin miners": "unknown",  # Generic term, no exact match.
+    "aladdin t1": "unknown",  # No exact match, and multiple Aladdin T1 versions.
+    "aladdinminer t1": "unknown",  # No exact match, and multiple Aladdin T1 versions.
+    "aladdinminer t1 32th": "unknown",  # No exact match, and multiple Aladdin T1 versions.
+    "alfa tube 2h": "unknown",
+    "alienware": "unknown",
+    "alienware area 51": "unknown",
+    "alienware m15x": "unknown",
+    "alimentation": "unknown",
+    "allen wrench": "unknown",
+    "alphaminer psus": "unknown",
+    "alt coin gpu miner": "unknown",
+    "alt coin miner": "unknown",
+    "altera cyclone iv fpgas": "unknown",
+    "altera de1": "unknown",
+    "altera de2-115 board": "unknown",
+    "altera socfpga": "unknown",
+    "alternative psu": "unknown",
+    "alternator": "unknown",
+    "aluminium anker 10-port usb3 hub": "unknown",
+    "aluminium ducting": "unknown",
+    "aluminum angle stock": "unknown",
+    "aluminum cases": "unknown",
+    "aluminum foil duct": "unknown",
+    "aluminum heat sinks": "unknown",
+    "aluminum radiator": "unknown",
+    "aluminum waterblocks": "unknown",
+    "aluminum wire": "unknown",
+    "alus": "unknown",
+    "am be": "unknown",
+    "am chips": "unknown",
+    "am logic board": "unknown",
+    "am tube": "unknown",
+    "am2 board": "unknown",
+}
+```

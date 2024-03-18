@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "btc client": "unknown",
+    "btc core wallet": "unknown",
+    "btc garden am-v1 miner": "btc garden am-v1",
+    "btc garden v2": "unknown", # Closest match could be "btc garden am-v1" but not exact.
+    "btc generators": "unknown",
+    "btc mining hardware": "unknown",
+    "btc mining rig": "unknown",
+    "btc wallet": "unknown",
+    "btc.com tool": "unknown",
+    "btcgarden v2": "unknown", # Closest match could be "btc garden am-v1" but not exact.
+    "btcgardens": "unknown",
+    "btcguild account": "unknown",
+    "btcguild pool account": "unknown",
+    "btcminer": "unknown",
+    "btcmon": "unknown",
+    "btcmp.com": "unknown",
+    "btcs": "unknown",
+    "btctools": "unknown",
+    "btmine / avalon clone": "bitmine.ch avalon clone 85gh",
+    "btmine avalon 230 gh/s": "unknown", # No exact match, but implies an Avalon product.
+    "btmine rigs": "unknown",
+    "btopenzone": "unknown",
+    "bu generators": "unknown",
+    "buck regulator": "unknown",
+    "buffalo dd-wrt v24sp2-multiip": "unknown",
+    "buffalo wzr-300hp": "unknown",
+    "building": "unknown",
+    "bulk female to female breadboard connectors": "unknown",
+    "bulkhead fittings": "unknown",
+    "burnin avalon boards": "unknown", # Implies Avalon products but not specific.
+    "burnt cables": "unknown",
+    "bus 001 device 010: id 0403:6014 future technology devices international ltd bus 001 device 005: id 05e3:0608 genesys logic inc usb-2.0 4-port hub": "unknown",
+    "bus 002 device 001: id 1d6b:0001 linux foundation 1.1 root hub": "unknown",
+    "bus 003 device 001: id 1d6b:0001 linux foundation 1.1 root hub": "unknown",
+    "busbar": "unknown",
+    "busbar style miners": "unknown",
+    "business pc": "unknown",
+    "busybox": "unknown",
+    "butterflies": "unknown",
+    "butterfly 35 gh/s": "unknown", # Closest match could be various Butterfly Labs products but not exact.
+    "butterfly lab": "unknown", # Implies Butterfly Labs products but not specific.
+    "butterfly lab 60 ghs units": "butterfly labs 60 gh bitforce miner", # Assuming typo, closest match.
+    "butterfly lab jalapeno 5 gh/s": "butterflylabs (bfl) jalapeno",
+    "butterfly labs 3oghz minewr": "unknown", # Likely a typo for a Butterfly Labs product but unclear which.
+    "butterfly labs 60 gh bitforce miner": "butterfly labs 60 gh bitforce miner",
+    "butterfly labs 60 gh/s asic miner": "butterfly labs 60 gh bitforce miner",
+    "butterfly labs 7 gh/s asic miner": "unknown", # Closest match could be "butterflylabs (bfl) jalapeno" but not exact.
+    "butterfly labs 700gh miners": "unknown", # No exact match, but implies a Butterfly Labs product.
+    "butterfly labs asics": "unknown", # Implies Butterfly Labs products but not specific.
+    "butterfly labs bitforce 60 gh/s miner": "butterfly labs 60 gh bitforce miner",
+}
+```

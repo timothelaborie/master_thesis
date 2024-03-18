@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "dvi to vga converter": "unknown",
+    "dvi->vga adapter": "unknown",
+    "dvi-vga adaptors": "unknown",
+    "dx 9c": "unknown",
+    "dyndns account": "unknown",
+    "dypswitches": "unknown",
+    "e-350 motherboard": "unknown",
+    "e10": "ebit e10",
+    "e10 ebit": "ebit e10",
+    "e10.2 miners": "ebit e10.2 miner",
+    "e12 hash board": "ebang ebit e12",
+    "e3": "unknown",
+    "e3 (860w) psu": "unknown",
+    "e4300 rig": "unknown",
+    "e5825064": "unknown",
+    "e6600 cpu": "unknown",
+    "e8400": "unknown",
+    "e8600": "unknown",
+    "e9+ 9th": "ebang ebit e9+",
+    "e9++": "ebit e9++",
+    "e9s": "unknown",
+    "eah5850": "unknown",
+    "eah6950 2di4s 1gd5 pci-e 2.1 gddr5 / 256-bit / core 810mhz / card": "unknown",
+    "easiet s3": "unknown", # No exact match, possibly a typo but unclear for which model.
+    "easy miner of bflabs": "unknown", # Refers to a product by Butterfly Labs but not specific enough.
+    "easyacc h40 usb 3.0 hub": "unknown",
+    "ebang": "unknown", # Refers to the manufacturer but not a specific model.
+    "ebang e10 miner": "ebang ebit e10",
+    "ebang e10.1": "unknown", # No exact match, possibly a typo or a model not listed.
+    "ebang e10.2 asic miner": "ebit e10.2 miner",
+    "ebang e10.3": "ebang ebit e10.3",
+    "ebang e9.3": "ebang ebit e9.3",
+    "ebang e9.i": "unknown", # Likely a typo for e9i but not listed exactly.
+    "ebang ebit 10.1": "unknown", # No exact match, possibly a typo or a model not listed.
+    "ebang ebit 10.3": "ebang ebit e10.3",
+    "ebang ebit e12 44ths": "ebang ebit e12",
+    "ebang ebit e9 plus": "ebang ebit e9+",
+    "ebang ebit e9+ miners": "ebang ebit e9+",
+    "ebang ebit e9.3 miner": "ebang ebit e9.3",
+    "ebang ebit miner e9+": "ebang ebit e9+",
+    "ebang ebit9+": "ebang ebit e9+",
+    "ebangs asic e10.3": "ebang ebit e10.3",
+    "ebangs ebite e9+": "ebang ebit e9+", # Likely a typo but closest match.
+    "ebe5 pcb": "unknown",
+    "ebit 10.2 miner": "ebit e10.2 miner",
+    "ebit 9t miner": "unknown", # No exact match, possibly a typo or a model not listed.
+    "ebit e10 miner machines": "ebit e10",
+    "ebit e10.2 miner": "ebit e10.2 miner",
+    "ebit e10d 25 th/s": "ebang ebit e10d",
+    "ebit e12 miners": "ebang ebit e12"
+}
+```

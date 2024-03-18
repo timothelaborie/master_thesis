@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "psu connector": "unknown",
+    "psu corsair": "unknown",
+    "psu corsair gs800": "unknown",
+    "psu dps-1200fb-1 a": "unknown",
+    "psu fans": "unknown",
+    "psu for m3x": "microbt whatsminer m3x",
+    "psu for packpane": "unknown",
+    "psu from bitmain": "unknown",  # Bitmain manufactures various models, but specific PSU model not listed.
+    "psu from bladecenter": "unknown",
+    "psu from blokforge": "unknown",
+    "psu from china": "unknown",
+    "psu from coolmaster": "unknown",
+    "psu from corsair": "unknown",
+    "psu from evga": "unknown",
+    "psu from evga 1300": "unknown",
+    "psu from lepa g1600w": "unknown",
+    "psu from tiger direct": "unknown",
+    "psu gigabyte 500w": "unknown",
+    "psu metal": "unknown",
+    "psu of 550w 80plus": "unknown",
+    "psu pcie cables": "unknown",
+    "psu plug": "unknown",
+    "psu signal": "unknown",
+    "psu silverstone 1500 watt": "unknown",
+    "psu unit": "unknown",
+    "psu unit of m3x": "microbt whatsminer m3x",
+    "psu whatsminer p5": "unknown",  # No direct match, possibly a typo or a model not listed.
+    "psu's fans": "unknown",
+    "psu(850 to 1300 watts each)": "unknown",
+    "psu3000-01 plus": "unknown",
+    "psu3300-01 plus": "unknown",
+    "psu3300-03 plus": "unknown",
+    "psu: 2 x 1000wt (1kwt per 2cards)": "unknown",
+    "psu: lepa g series 1600-watts atx12v/eps12v sli ready crossfire 80 plus gold certified full modular 240-pin 1700 power supply": "unknown",
+    "psu: seasonic 850w 80plus gold": "unknown",
+    "psus from bitmain": "unknown",  # Bitmain manufactures various models, but specific PSU model not listed.
+    "psus pd 18 hp": "unknown",
+    "ptac room": "unknown",
+    "ptc-fuses": "unknown",
+    "puddinpop's cpu miner": "unknown",  # Refers to a mining software, not hardware.
+    "puddinpop's cuda miner": "unknown",  # Refers to a mining software, not hardware.
+    "pull fan": "unknown",
+    "pump radiator": "unknown",
+    "puppy linux": "unknown",  # Operating system, not mining hardware.
+    "push button": "unknown",
+    "pushpool server": "unknown",  # Refers to a mining pool software/server, not hardware.
+    "pushpoold": "unknown",  # Refers to a mining pool software/server, not hardware.
+    "pushpoold 0.5.1": "unknown",  # Refers to a mining pool software/server, not hardware.
+    "pushpoold 5.1": "unknown",  # Refers to a mining pool software/server, not hardware.
+    "putcuart()": "unknown",
+}
+```

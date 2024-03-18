@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "anrminers": "unknown",
+    "ant (s1)": "antminer s1",
+    "ant (s1/s2)": "unknown", # Could refer to either antminer s1 or s2, but not specific enough.
+    "ant (s1/s2) monitor": "unknown", # Refers to monitoring software/hardware, not the miner itself.
+    "ant (s1/s2) monitor v1.8": "unknown",
+    "ant (s1/s2) monitor v2.0": "unknown",
+    "ant (s1/s2) monitor v2.1": "unknown",
+    "ant (s1/s2) monitor v2.2": "unknown",
+    "ant (s1/s2) monitor v2.2 beta/prerelease": "unknown",
+    "ant (s1/s2) monitor v2.4": "unknown",
+    "ant (s1/s2/)": "unknown", # Typo and unclear reference.
+    "ant (s1/s2/s3)": "unknown", # Could refer to multiple models.
+    "ant (s1/s2/s3) monitor v2.6": "unknown",
+    "ant (s1/s2/s3) monitor v3.1": "unknown",
+    "ant (s1/s2/s3) monitor v3.2": "unknown",
+    "ant (s1/s2/s3) monitor v3.5": "unknown",
+    "ant (s1/s2/s3) monitor v3.7": "unknown",
+    "ant (s1/s2/s3/c1) monitor v3.8": "unknown",
+    "ant (s2)": "antminer s2",
+    "ant 1.6g": "unknown",
+    "ant c1": "antminer c1",
+    "ant miner asic": "unknown", # Generic term for ASIC miners.
+    "ant miner asic usb miner": "unknown", # Generic term, possibly referring to antminer u series.
+    "ant miner l3+": "unknown", # Not listed, but known model.
+    "ant miner s3": "antminer s3",
+    "ant miner s7": "antminer s7",
+    "ant miner s9j": "antminer s9j",
+    "ant miner t19": "antminer t19",
+    "ant miner u1": "antminer u1",
+    "ant miner u1 asic": "antminer u1",
+    "ant miner u1s": "unknown", # Likely a typo or variant of antminer u1.
+    "ant miner u3": "antminer u3",
+    "ant miner u3s": "unknown", # Likely a typo or variant of antminer u3.
+    "ant miners s9": "antminer s9",
+    "ant miners1": "unknown", # Likely a typo, possibly referring to antminer s1.
+    "ant monitor": "unknown", # Refers to monitoring software/hardware, not the miner itself.
+    "ant monitor window": "unknown",
+    "ant output": "unknown",
+    "ant pool rig": "unknown",
+    "ant r4": "antminer r4",
+    "ant s3(+)": "antminer s3+", # Assuming "+" indicates an enhanced or updated version.
+    "ant s3+ units": "antminer s3+",
+    "ant s4": "antminer s4",
+    "ant s5": "antminer s5",
+    "ant s9": "antminer s9",
+    "ant/sp": "unknown",
+    "ant78s9b23": "unknown", # No clear reference.
+    "antec 100cm megaflow 200mm": "unknown", # This is a fan, not mining hardware.
+    "antec 1200w power supply": "unknown", # Power supply, not mining hardware.
+    "antec 1500 watt power supply": "unknown", # Power supply, not mining hardware.
+}
+```

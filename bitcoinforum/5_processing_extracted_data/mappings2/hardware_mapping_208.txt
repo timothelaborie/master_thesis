@@ -1,0 +1,53 @@
+```python
+mapping = {
+    "s17e hash board": "antminer s17e",
+    "s17pro 53th": "antminer s17 pro",  # Assuming a specific configuration, closest match.
+    "s17pro board": "antminer s17 pro",  # General part, assuming closest match.
+    "s17pro control boards": "antminer s17 pro",  # General part, assuming closest match.
+    "s17pro hashboard": "antminer s17 pro",  # Specific part, closest match.
+    "s17pro miner": "antminer s17 pro",
+    "s17pro psu": "antminer s17 pro",  # PSU stands for Power Supply Unit, assuming closest match.
+    "s17pro/s17+": "antminer s17+",  # Assuming a comparison or choice between models.
+    "s19 86th one hashboard": "antminer s19",  # Specific configuration, closest match.
+    "s19 90t": "antminer s19",  # Assuming typo, closest match for 90TH/s.
+    "s19 90th": "antminer s19",
+    "s19 95t": "antminer s19",  # Assuming typo, closest match for 95TH/s.
+    "s19 95th": "antminer s19",
+    "s19 j pros": "antminer s19j pro",  # Plural form, closest match.
+    "s19 jpro 104 th": "antminer s19j pro",
+    "s19 machines": "antminer s19",  # General term for S19 series.
+    "s19 miners": "antminer s19",  # General term for S19 series.
+    "s19 pro 110th": "antminer s19 pro",
+    "s19 pro antiminers": "antminer s19 pro",  # Likely typo, closest match.
+    "s19 pro antminer": "antminer s19 pro",
+    "s19 pro asic": "antminer s19 pro",  # ASIC refers to the mining technology used.
+    "s19 pro power supply units": "antminer s19 pro",  # PSU, assuming closest match.
+    "s19 pro rigs": "antminer s19 pro",  # General term for mining setups.
+    "s19 pros": "antminer s19 pro",  # Plural form, closest match.
+    "s19 series 100-150 terahash": "antminer s19",  # Describes a range of S19's capabilities.
+    "s19 series pro 100 104 and 110t": "antminer s19 pro",  # Describes specific models within the S19 Pro series.
+    "s19's": "antminer s19",  # Plural form, general term for S19 series.
+    "s19-pro": "antminer s19 pro",
+    "s19apro110th": "antminer s19 pro",  # Likely a typo or shorthand.
+    "s19j 100 bb controller": "antminer s19j",  # Specific part, closest match.
+    "s19j 100th": "antminer s19j",
+    "s19j pro (104th) unit": "antminer s19j pro",
+    "s19j pro 100th": "antminer s19j pro",
+    "s19j pro+ 120th": "antminer s19j pro+",  # Assuming a specific configuration, closest match.
+    "s19jpro104th": "antminer s19j pro",  # Shorthand or typo, closest match.
+    "s19pro 100th units": "antminer s19 pro",  # General term for S19 Pro series.
+    "s2 antminers": "antminer s2",  # Plural form, closest match.
+    "s2 fan": "antminer s2",  # Specific part, assuming closest match.
+    "s2 miner": "antminer s2",
+    "s3 ant miner": "antminer s3",  # Space likely a typo, closest match.
+    "s3 ant miners": "antminer s3",  # Plural form with space, closest match.
+    "s3 bitmain miner": "antminer s3",  # Manufacturer specified, closest match.
+    "s3 board": "antminer s3",  # Specific part, closest match.
+    "s3 cable": "antminer s3",  # Specific part, assuming closest match.
+    "s3 controller board": "antminer s3",  # Specific part, closest match.
+    "s3 ghs": "antminer s3",  # Refers to the hash rate, assuming closest match.
+    "s3 model": "antminer s3",  # General term, closest match.
+    "s3 model antminer": "antminer s3",  # Redundant specification, closest match.
+    "s3 rig": "antminer s3",  # General term for mining setup, closest match.
+}
+```

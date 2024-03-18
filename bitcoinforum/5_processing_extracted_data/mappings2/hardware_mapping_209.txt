@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "s3 unit": "antminer s3",
+    "s3's": "antminer s3",
+    "s3+ heat sinks": "antminer s3+", # Assuming a typo or version difference, closest match.
+    "s3+ rigs": "antminer s3+", # Assuming a typo or version difference, closest match.
+    "s320140826 firmware": "unknown", # No direct match and unclear reference.
+    "s4 2000 gh/s": "antminer s4", # Closest match based on hash rate and model.
+    "s4 antminer": "antminer s4",
+    "s4 cards": "unknown", # No specific hardware for cards mentioned.
+    "s4 fan": "unknown", # Fans are components, not the mining hardware itself.
+    "s4 miners": "antminer s4",
+    "s4 surge protector": "unknown", # Surge protectors are not mining hardware.
+    "s5 + boards": "unknown", # Boards are components, not the mining hardware itself.
+    "s5 ant miner": "antminer s5",
+    "s5 antminer": "antminer s5",
+    "s5 antminers": "antminer s5",
+    "s5 bb boards": "unknown", # Boards are components, not the mining hardware itself.
+    "s5 fans": "unknown", # Fans are components, not the mining hardware itself.
+    "s5 heat sinks": "unknown", # Heat sinks are components, not the mining hardware itself.
+    "s5 machine": "antminer s5",
+    "s5 machines of 25ths": "antminer s5", # Assuming description refers to the total hash rate of the machines.
+    "s5 style heat sinks": "unknown", # Heat sinks are components, not the mining hardware itself.
+    "s5 units": "antminer s5",
+    "s7 4.73th": "antminer s7",
+    "s7 antmainer": "antminer s7", # Assuming a typo, closest match.
+    "s7 batch 4 (4.66 th/s)": "antminer s7", # Specific batch information, but closest match.
+    "s7 controller board": "unknown", # Controller boards are components, not the mining hardware itself.
+    "s7 controllers": "unknown", # Controllers are components, not the mining hardware itself.
+    "s7 dead hash boards": "unknown", # Hash boards are components, not the mining hardware itself.
+    "s7 fan": "unknown", # Fans are components, not the mining hardware itself.
+    "s7 from batch8": "antminer s7", # Specific batch information, but closest match.
+    "s7 hash board": "unknown", # Hash boards are components, not the mining hardware itself.
+    "s7 hashboard": "unknown", # Hash boards are components, not the mining hardware itself.
+    "s7 power supply": "unknown", # Power supplies are components, not the mining hardware itself.
+    "s7 uc": "unknown", # Unclear reference, possibly a component or specific version.
+    "s7 unit": "antminer s7",
+    "s7+": "unknown", # No direct match, unclear if referring to a specific model or version.
+    "s9 (dec batch)": "antminer s9", # Specific batch information, but closest match.
+    "s9 12.5t": "antminer s9",
+    "s9 12.93": "antminer s9", # Assuming a typo or version difference, closest match.
+    "s9 13.0ths": "antminer s9",
+    "s9 13.5": "antminer s9",
+    "s9 13.5 th/s (1300w)": "antminer s9",
+    "s9 13.5 th/s rig": "antminer s9",
+    "s9 13.5 th/s units": "antminer s9",
+    "s9 13.5s": "antminer s9", # Assuming a typo or version difference, closest match.
+    "s9 13.5th": "antminer s9",
+    "s9 13.5th/s auto freq": "antminer s9", # Specific feature mentioned, but closest match.
+    "s9 135t": "unknown", # Likely a typo, but no direct match.
+    "s9 13th": "antminer s9",
+    "s9 14t": "antminer s9",
+}
+```

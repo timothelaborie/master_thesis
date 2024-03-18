@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "bfl jalapeno miner": "butterflylabs (bfl) jalapeno",
+    "bfl jally": "unknown",  # Closest match would be "butterflylabs (bfl) jalapeno", but not exact.
+    "bfl little": "unknown",
+    "bfl mining chip": "unknown",
+    "bfl mining gear": "unknown",
+    "bfl minirig sc": "butterflylabs mini rig",
+    "bfl minirigs 500 gh": "unknown",  # Could be referring to "butterflylabs mini rig", but not exact.
+    "bfl monarch 750": "bfl monarch",  # Assuming a typo or version difference, closest match.
+    "bfl monarch cards": "bfl monarch",  # Assuming it refers to any BFL Monarch product.
+    "bfl monarchs": "bfl monarch",
+    "bfl pcbs": "unknown",
+    "bfl sc devices": "unknown",
+    "bfl sc miner": "unknown",
+    "bfl sc single 60gh/s": "bfl single 'sc'",
+    "bfl sgl600g units": "unknown",
+    "bfl single 60ghs": "bfl single 'sc'",  # Assuming typo, closest match.
+    "bfl single miner": "unknown",  # Could refer to any BFL single product, but not specific.
+    "bfl singles (fpgas)": "unknown",  # No exact match, could refer to any BFL single FPGA product.
+    "bfl singles 50 gh": "unknown",  # No exact match, but likely refers to BFL single products.
+    "bfl singles 50gh/s": "unknown",  # No exact match, but likely refers to BFL single products.
+    "bfl singles 60gh": "unknown",  # No exact match, but likely refers to BFL single products.
+    "bfl's": "unknown",
+    "bfl's fpga": "unknown",
+    "bfl-sc-single": "bfl single 'sc'",
+    "bflsingle sc 60 gh/s device": "bfl single 'sc'",
+    "bfmg bitfury bf1": "unknown",
+    "bfminer": "unknown",
+    "bfsb hardware": "unknown",
+    "bga fpga devices": "unknown",
+    "bgfminers": "unknown",
+    "bgminer 5.0.0": "unknown",
+    "bhb42651": "unknown",
+    "bhb42651 hashboard": "unknown",
+    "bhb57704 v1.0": "unknown",
+    "bi fury 5 gh/s usb 2.0 bitcoin miner": "bi*fury",
+    "bi fury usb": "bi*fury",
+    "bi fury usb stick": "bi*fury",
+    "bi*fury": "bi*fury",
+    "bi*fury usb": "bi*fury",
+    "bi-fury": "bi*fury",
+    "bi-fury asics": "bi*fury",
+    "bifasical to 60amp circuit breakers": "unknown",
+    "bifury 4gh": "unknown",  # Closest match would be "bi*fury", but not exact.
+    "bifury 5 gh": "bi*fury",
+    "bifury 5+ gh/s usb miner": "bi*fury",
+    "big box window fan": "unknown",
+    "big duct": "unknown",
+    "big fan": "unknown",
+    "big fat extension cords": "unknown",
+    "big fat power plugs": "unknown",
+}
+```

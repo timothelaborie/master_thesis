@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "5hdd's": "unknown",
+    "5k amps of primary switchgear": "unknown",
+    "5k watt 220v step up converter": "unknown",
+    "5kw battery": "unknown",
+    "5m 3/4\" tubing": "unknown",
+    "5port switch": "unknown",
+    "5t": "unknown",
+    "5th card": "unknown",
+    "5th psu": "unknown",
+    "5th/s miner": "unknown",
+    "5v 2.1 10w power supply": "unknown",
+    "5v 20a psu": "unknown",
+    "5v 2a power supply": "unknown",
+    "5v 3 amp adapter": "unknown",
+    "5v 40 amp power supply": "unknown",
+    "5v 4a psu brick": "unknown",
+    "5v 4pin": "unknown",
+    "5v adapter": "unknown",
+    "5v fan/hdd power cable": "unknown",
+    "5v fans": "unknown",
+    "5v hub": "unknown",
+    "5v power supply": "unknown",
+    "5v psu": "unknown",
+    "5v usb fan": "unknown",
+    "5v/4a hubs": "unknown",
+    "5vdc wall wart psu": "unknown",
+    "5x 7990 hd": "unknown", # No exact match, but refers to a specific model of GPU not listed.
+    "5x pci e2x sapphire 100311sr radeon hd 6970 2gb": "6970",
+    "5x5850 rig": "5850",
+    "5x5870 rigs": "5870",
+    "5xusb block erupter (1.66 gh/s)": "unknown", # Refers to a specific type of mining hardware, but not listed as such.
+    "5xxx & 6xxx cards": "unknown", # Refers to series of cards, some of which are listed but not as a series.
+    "5xxx and 4xxx series cards": "unknown", # Refers to series of cards, some of which are listed but not as a series.
+    "5xxx gpu": "unknown", # Refers to a series of GPUs, some of which are listed but not as a series.
+    "5xxx series": "unknown", # Refers to a series of GPUs, some of which are listed but not as a series.
+    "5xxx series cars": "unknown", # Likely a typo meant to refer to GPUs, not cars.
+    "5xxx series gpu's": "unknown", # Refers to a series of GPUs, some of which are listed but not as a series.
+    "5xxx/6xxx card": "unknown", # Refers to series of cards, some of which are listed but not as a series.
+    "6 280x": "unknown", # No exact match, but refers to a specific model of GPU not listed.
+    "6 6970s": "6970",
+    "6 and 7 gpu rigs": "unknown",
+    "6 boards from blackarrow": "unknown", # Refers to a manufacturer but not a specific model listed.
+    "6 card rigs": "unknown",
+    "6 cards": "unknown",
+    "6 chili's": "unknown",
+    "6 core": "unknown",
+    "6 core amd phenom ii": "unknown",
+    "6 core cpu": "unknown",
+    "6 gauge wire": "unknown",
+    "6 gb ram": "unknown"
+}
+```

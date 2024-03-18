@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "fs108 switches": "unknown",
+    "fsp aurum gold": "unknown",
+    "fsp group aurum gold": "unknown",
+    "fsp psu": "unknown",
+    "ftdi bitforce sha256 sc": "bitforce sha256 single",
+    "ftdichip.com": "unknown",
+    "fujitsu": "unknown",
+    "fujitsu dps-800gb-3 a unit": "unknown",
+    "fujitsu lifebook t730 i7 cpu m640 2.80 ghz": "unknown",
+    "fujitsu models aou45rlxfz": "unknown",
+    "full bitcoin node": "unknown",
+    "full node": "unknown",
+    "full rig": "unknown",
+    "full rigs": "unknown",
+    "full-node": "unknown",
+    "furnace blower": "unknown",
+    "furnace fan": "unknown",
+    "furnace return air intake": "unknown",
+    "fury": "unknown", # Could potentially refer to "blue fury" but not enough context
+    "fury scrypt asic": "unknown", # Likely refers to a scrypt miner, but not listed
+    "fury thumb": "unknown",
+    "fuse board": "unknown",
+    "fuse box": "unknown",
+    "fuse panel box with glass fuses": "unknown",
+    "fusebox": "unknown",
+    "futrebit apollo miner": "unknown", # Likely a typo for "futurebit apollo miner"
+    "futurebit apollo miner": "unknown", # Not listed, but related to cryptocurrency mining
+    "futurebit apollobtc 200w power supply": "unknown",
+    "futurebit machines": "unknown",
+    "fuzion chip": "unknown",
+    "fx 4100 black edition 3.6ghz quad-core socket am3+ boxed processor": "unknown",
+    "fx 6300processor": "unknown",
+    "fx 6350": "unknown",
+    "fx 8350": "unknown",
+    "fx 8350 4.0 ghz": "unknown",
+    "fx-6100 processor": "unknown",
+    "fx-8120 cpu": "unknown",
+    "fx8120": "unknown",
+    "fxf 7750": "unknown",
+    "g black": "unknown",
+    "g-balde": "unknown", # Likely a typo for "g-blade"
+    "g-blacks": "unknown",
+    "g-blade asic": "asicminer be blade",
+    "g-blade gridseed": "unknown", # Refers to a product not listed but known in mining
+    "g-blades": "unknown",
+    "g-seeds": "unknown",
+    "g.skill 2gb 240-pin ddr3 sdram ddr3 1333 (pc3 10600) desktop memory model": "unknown",
+    "g.skill 4gb (2 x 2gb) 240-pin ddr3 sdram ddr3 1333 (pc3 10666) dual channel kit desktop memory": "unknown",
+    "g.skill 8gb ddr3-1333 51": "unknown",
+    "g.skill ripjaws x series 8gb (2 x 4gb) ddr3-1600": "unknown",
+}
+```

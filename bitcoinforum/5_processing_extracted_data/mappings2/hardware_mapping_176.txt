@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "non work comp": "unknown",
+    "non-reference 5850s": "unknown",  # Closest match would be "5850" but it's not listed.
+    "non-reference cooler": "unknown",
+    "non-reference sapphire 5870": "5870",
+    "non-right angled ethernet cable": "unknown",
+    "non-voltage source": "unknown",
+    "noobs sd card": "unknown",
+    "normal 6870": "6870",
+    "normal blade": "unknown",
+    "normal computer": "unknown",
+    "normal desktop": "unknown",
+    "normal devices": "unknown",
+    "normal ethernet cable": "unknown",
+    "normal fan": "unknown",
+    "norstar davr 5000": "unknown",
+    "notebook keyboard": "unknown",
+    "notebook with a mobility 5850": "unknown",  # Closest match would be "5850" but it's not listed.
+    "notepad++": "unknown",
+    "notsmos": "unknown",
+    "nov/dec/jan machines": "unknown",
+    "npn transistor (tip31)": "unknown",
+    "nsb06": "unknown",
+    "nsb32": "unknown",
+    "nt fuse": "unknown",
+    "ntc thermistor": "unknown",
+    "ntc218": "unknown",
+    "ntp client": "unknown",
+    "nuc dn2820": "unknown",
+    "nuc mining machine": "unknown",
+    "nuc7i5bnhx1": "unknown",
+    "null adapter": "unknown",
+    "null dvi adaptor": "unknown",
+    "numpy-1.6.1-r2": "unknown",
+    "nvcp": "unknown",
+    "nvg599 router": "unknown",
+    "nvida gtx570": "gtx570",
+    "nvidea geforce gt 220 graphics card": "gt220",
+    "nvidia 1070 8gb": "unknown",  # Closest match would be "1070" but it's not listed.
+    "nvidia 1070 gpu": "unknown",  # Closest match would be "1070" but it's not listed.
+    "nvidia 260": "unknown",  # Closest match would be "gtx260" but the exact model isn't specified.
+    "nvidia 280 gtx": "gtx280",
+    "nvidia 295": "unknown",  # Closest match would be "gtx295" but the exact model isn't specified.
+    "nvidia 295 gtx": "gtx295",
+    "nvidia 450gts cards": "gts450",
+    "nvidia 465": "gtx465",
+    "nvidia 470": "gtx470",
+    "nvidia 540 m": "unknown",  # Closest match would be "gt540m" but it's not listed.
+    "nvidia 550 gtx": "unknown",  # Closest match would be "gtx550" but it's not listed.
+    "nvidia 570": "gtx570",
+    "nvidia 6800 gt": "unknown",  # Closest match would be "6800gt" but it's not listed.
+}
+```

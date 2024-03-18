@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "antminer apw++": "unknown",
+    "antminer apw3++": "unknown",
+    "antminer apw3++ power supply": "unknown",
+    "antminer apw3++ psu": "unknown",
+    "antminer apw3++ psu 1600w": "unknown",
+    "antminer apw5 psu": "unknown",
+    "antminer asic": "unknown",
+    "antminer asic miner usb": "unknown",
+    "antminer bhb42xxx": "unknown",
+    "antminer bitmains": "unknown",
+    "antminer blades": "unknown",
+    "antminer blue board": "unknown",
+    "antminer boards": "unknown",
+    "antminer c1 batch 2": "unknown", # No specific match for "antminer c1" or batches.
+    "antminer code editor": "unknown",
+    "antminer controls": "unknown",
+    "antminer d3": "antminer d3",
+    "antminer fan": "unknown",
+    "antminer gear": "unknown",
+    "antminer hydro": "unknown", # Could refer to several "hydro" models, but none are exactly named "antminer hydro".
+    "antminer kanoi": "unknown",
+    "antminer l3": "antminer l3",
+    "antminer l3+": "antminer l3+",
+    "antminer l3/s9/s15": "unknown", # Refers to multiple models, unclear mapping.
+    "antminer l3s": "unknown", # Likely a typo, closest match would be "antminer l3" or "antminer l3+".
+    "antminer l7": "antminer l7",
+    "antminer l7 hash board": "unknown", # Specific parts like hash boards are not listed separately.
+    "antminer pdu": "unknown",
+    "antminer power supply apw3++": "unknown",
+    "antminer psus": "unknown",
+    "antminer r4 8.7ths": "antminer r4",
+    "antminer r4 batch 6": "antminer r4", # Assuming batch variations are not significant for this mapping.
+    "antminer s 17+ 70ths": "antminer s17+", # Closest match, assuming a typo or shorthand.
+    "antminer s 19 xp 134th": "antminer s19 xp", # Closest match, assuming a typo or shorthand.
+    "antminer s.17": "antminer s17", # Assuming a typo or shorthand.
+    "antminer s1 (pencil mod)": "antminer s1", # Specific modifications like "pencil mod" are not listed separately.
+    "antminer s1 180": "antminer s1", # Likely referring to the hash rate, but "antminer s1" is the closest match.
+    "antminer s1 dual blade": "antminer s1", # Specific variations like "dual blade" are not listed separately.
+    "antminer s1 duel blade": "antminer s1", # Assuming "duel" is a typo for "dual".
+    "antminer s1 miner": "antminer s1",
+    "antminer s1 mx": "antminer s1", # No specific match, assuming a variation of "antminer s1".
+    "antminer s1 s3 s5 s7 s9 t9 l3+ 120mm fan duct cooling shroud to 4 inch vent hose": "unknown", # Refers to multiple models and a specific accessory, unclear mapping.
+    "antminer s1 upgrade kit": "unknown", # Specific accessories or upgrade kits are not listed separately.
+    "antminer s1 uv": "antminer s1", # No specific match, assuming a variation of "antminer s1".
+    "antminer s11": "antminer s11",
+    "antminer s11 19 th": "antminer s11", # Likely referring to the hash rate, but "antminer s11" is the closest match.
+    "antminer s11 19.5 th miner": "antminer s11", # Likely referring to the hash rate, but "antminer s11" is the closest match.
+    "antminer s17": "antminer s17",
+    "antminer s17 / s17 pro miners": "unknown", # Refers to both "antminer s17" and "antminer s17 pro", unclear mapping.
+    "antminer s17 hash board": "unknown", # Specific parts like hash boards are not listed separately.
+}
+```

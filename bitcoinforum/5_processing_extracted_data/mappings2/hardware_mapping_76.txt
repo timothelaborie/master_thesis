@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "auc cable": "unknown",
+    "auc converter": "unknown",
+    "auc converters": "unknown",
+    "auc i2c xdelay": "unknown",
+    "auc sensor": "unknown",
+    "auc2": "unknown",
+    "auc2 adapter": "unknown",
+    "auc2 adaptor": "unknown",
+    "auc3 5-pin cables": "unknown",
+    "auc3 converter": "unknown",
+    "auc3 converter cables": "unknown",
+    "auc3 converters": "unknown",
+    "auc3/usb dongle": "unknown",
+    "audio-technica ath-m50": "unknown",
+    "australian ups": "unknown",
+    "auto-fan": "unknown",
+    "auto-frequency boards": "unknown",
+    "auto-gpu": "unknown",
+    "autofreq 13.5 units": "unknown",
+    "autologin application": "unknown",
+    "automatic double front doors": "unknown",
+    "automatic multimeter": "unknown",
+    "autotune 13th s9": "unknown", # No exact match, but seems related to "antminer s9"
+    "autotune antminer r4": "antminer r4",
+    "autotune miner": "unknown",
+    "av cool model: yd12038h12b": "unknown",
+    "av500+ tplink adapters": "unknown",
+    "avahi-daemon": "unknown",
+    "avalon 1": "unknown", # No exact match, possibly referring to an early Avalon model
+    "avalon 100ghs": "unknown", # No exact match, but likely referring to an early Avalon model
+    "avalon 1046": "unknown", # Closest match would be "canaan avalonminer 1047" but not exact
+    "avalon 1047": "canaan avalonminer 1047",
+    "avalon 1047 psu": "canaan avalonminer 1047", # Assuming PSU refers to the power supply unit for the 1047
+    "avalon 1066": "canaan avalonminer 1066",
+    "avalon 1066 asic": "canaan avalonminer 1066",
+    "avalon 1066 machines": "canaan avalonminer 1066",
+    "avalon 1066 pro55th miner": "canaan avalonminer 1066", # Assuming a specific model or variant of the 1066
+    "avalon 1066 psu": "canaan avalonminer 1066", # Assuming PSU refers to the power supply unit for the 1066
+    "avalon 1126s": "unknown", # Closest match would be "canaan avalonminer 1126 pro" but not exact
+    "avalon 1166": "canaan avalonminer 1166 pro", # Assuming "1166" refers to the "1166 pro" model
+    "avalon 1166 - 81t miners": "canaan avalonminer 1166 pro", # Specific variant of the 1166 pro
+    "avalon 1166 pro": "canaan avalonminer 1166 pro",
+    "avalon 1166pro": "canaan avalonminer 1166 pro",
+    "avalon 1166pro 72th": "canaan avalonminer 1166 pro", # Specific variant of the 1166 pro
+    "avalon 1246 83t": "canaan avalonminer 1246",
+    "avalon 1246 85t": "canaan avalonminer 1246",
+    "avalon 1246 85ths": "canaan avalonminer 1246",
+    "avalon 1246 miners": "canaan avalonminer 1246",
+    "avalon 1246-83t device": "canaan avalonminer 1246",
+    "avalon 1256": "unknown" # No exact match in the provided list
+}
+```

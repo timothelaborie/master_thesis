@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "c43 control card": "unknown",
+    "c5 beagle black controller (s9)": "unknown", # No exact match, but implies use with Antminer S9
+    "c5 board": "unknown",
+    "c5 controller": "unknown",
+    "c5 controller board": "unknown",
+    "c5_io_board_v1.3": "unknown",
+    "c8s": "unknown",
+    "c:\\users\\<your user": "unknown",
+    "c:\\windows\\system32": "unknown",
+    "cable box": "unknown",
+    "cable connections": "unknown",
+    "cable cutter": "unknown",
+    "cable from the bb to the hashboard": "unknown",
+    "cable from the house to the power stick": "unknown",
+    "cable internet": "unknown",
+    "cable modem with 4 ports hub": "unknown",
+    "cable modem/router": "unknown",
+    "cable network": "unknown",
+    "cable router": "unknown",
+    "cable tie tight": "unknown",
+    "cable tv service": "unknown",
+    "cable/wire": "unknown",
+    "cables (ribbon and power supply)": "unknown",
+    "cables and wires": "unknown",
+    "cables between chain cards": "unknown",
+    "cablesarus riser cable": "unknown",
+    "cabling for 2 6pin pci-e connectors": "unknown",
+    "calculator": "unknown",
+    "calls": "unknown",
+    "camera security system": "unknown",
+    "camillus cuda cy1 pocket folder": "unknown",
+    "canaan": "unknown", # General brand, not specific hardware
+    "canaan 1126 pro": "canaan avalonminer 1126 pro",
+    "canaan 821": "avalon821",
+    "canaan avalon": "unknown", # General brand and product line, not specific hardware
+    "canaan avalon 1047": "canaan avalonminer 1047",
+    "canaan avalon 1066 hashboard": "canaan avalonminer 1066", # Assuming the hashboard is part of the model
+    "canaan avalon 1246": "canaan avalonminer 1246",
+    "canaan avalon 1246 81th": "canaan avalonminer 1246", # Assuming a specific version of the model
+    "canaan avalon 1246 85th": "canaan avalonminer 1246", # Assuming a specific version of the model
+    "canaan avalon 821": "avalon821",
+    "canaan avalonminer 741": "canaan avalonminer 741",
+    "canaan controller": "unknown", # General component, not specific hardware
+    "canaan gear": "unknown", # General term, not specific hardware
+    "canaan psu": "unknown", # General component, not specific hardware
+    "canaan's miners": "unknown", # General term, not specific hardware
+    "canaans": "unknown", # Likely referring to Canaan products, but not specific
+    "canakit 2.5amp power source": "unknown",
+    "canna-filter": "unknown",
+    "cannan stuff": "unknown", # Likely a typo for Canaan, but not specific
+}
+```

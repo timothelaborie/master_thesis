@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "7 1/2 inches extenders": "unknown",
+    "7 10 port powered hubs": "unknown",
+    "7 3930k": "unknown",
+    "7 ants": "unknown",
+    "7 asic 333m/hash miners": "unknown",
+    "7 cards": "unknown",
+    "7 cypress gpu rig": "unknown",
+    "7 gh/s rigs": "unknown",
+    "7 kinds of bitmain": "unknown",
+    "7 miners": "unknown",
+    "7 port d-link hub": "unknown",
+    "7 port dlink powered hub": "unknown",
+    "7 port usb-hub": "unknown",
+    "7 pro x64 with 5xxx 6xxx and 7xxx cards": "unknown", # No exact match, but refers to a range of cards.
+    "7 slot powered usb hub": "unknown",
+    "7 x 290x cards": "unknown", # Refers to a specific model not listed.
+    "7 x64 ultimate": "unknown",
+    "7+": "unknown",
+    "7.5 amp psu": "unknown",
+    "7.5k resistor": "unknown",
+    "7.5kw grid tie setup": "unknown",
+    "7.8 amp 1400w server psu": "unknown",
+    "70 blades 10ghz": "unknown",
+    "70 usb miners": "unknown",
+    "700 mh": "unknown",
+    "700 mhash/s": "unknown",
+    "700 series": "unknown", # Could refer to a range of cards, but not specific enough.
+    "700 w psu": "unknown",
+    "700 x 220 watt panels": "unknown",
+    "7007 card": "unknown",
+    "700gh/s": "unknown",
+    "700m s7 boards": "unknown",
+    "700w": "unknown",
+    "700w power supply": "unknown",
+    "700watt gold rated power supply": "unknown",
+    "703n router": "unknown",
+    "70gh/s hardware": "unknown",
+    "70ghz mining in usb connect": "unknown",
+    "70t antminer s17+": "antminer s17+", # Closest match with provided information.
+    "70th farm": "unknown",
+    "72 ths": "unknown",
+    "720 ghs": "unknown",
+    "7200 rpm fans": "unknown",
+    "720w psu": "unknown",
+    "72c": "unknown",
+    "72gb/s bfl": "unknown",
+    "7340d": "unknown",
+    "73t antminer s17+": "antminer s17+", # Closest match with provided information.
+    "741 i bought used off ebay": "avalon741", # Closest match based on model number.
+    "741 miner": "avalon741", # Closest match based on model number.
+}
+```

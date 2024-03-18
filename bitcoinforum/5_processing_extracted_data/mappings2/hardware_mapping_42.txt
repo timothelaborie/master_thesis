@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "6950 2g reference card": "6950",
+    "6950 2gb": "6950",
+    "6950 cards": "6950",
+    "6950 dcii": "6950",
+    "6950 dirt3 edition": "6950",
+    "6950 gpus": "6950",
+    "6950 twinfrozr": "6950",
+    "6950 w/ unlocked shaders": "6950",
+    "6950x2": "unknown", # No exact match, but implies a dual 6950 setup.
+    "6970 card": "6970",
+    "6970 graphics card": "6970",
+    "6970 system": "6970",
+    "6970m 2gb": "6970m",
+    "6970x2": "unknown", # No exact match, but implies a dual 6970 setup.
+    "6970x4": "unknown", # No exact match, but implies a quad 6970 setup.
+    "6990 bios memory": "6990",
+    "6990 cards": "6990",
+    "6990 video cards": "6990",
+    "6990-based gpu miner": "6990",
+    "69xx series cards": "unknown", # Refers to the series, not a specific model.
+    "6core": "unknown",
+    "6core 3.8ghz cpu": "unknown",
+    "6ft usb cables": "unknown",
+    "6gb ram": "unknown",
+    "6gigs of ram": "unknown",
+    "6hdd's": "unknown",
+    "6mm/40a cable": "unknown",
+    "6pc": "unknown",
+    "6pin + 6+2pin": "unknown",
+    "6pin cables": "unknown",
+    "6pin extension cables": "unknown",
+    "6pin pcie power connections": "unknown",
+    "6pin pcie power leads": "unknown",
+    "6pin power plugs": "unknown",
+    "6pin power supply cables": "unknown",
+    "6pin psu cables": "unknown",
+    "6pin to 2x4pin molex connector": "unknown",
+    "6tb hdd": "unknown",
+    "6th card": "unknown",
+    "6x 280x graphicscards": "unknown", # No exact match, but implies multiple Radeon HD 280X cards.
+    "6x 48 port switches": "unknown",
+    "6x dual 6990 systems": "unknown", # Implies systems with dual 6990 cards, but no exact match.
+    "6x gpu mining rig": "unknown",
+    "6x identical 5830s": "5830",
+    "6x machines": "unknown",
+    "6x5830 rig": "5830",
+    "6x7950": "unknown", # Implies multiple 7950 cards, but no exact match in the list.
+    "6xxx gpu": "unknown", # Refers to the series, not a specific model.
+    "6xxx graphics card": "unknown", # Refers to the series, not a specific model.
+    "6xxx install for 64 bit cpu": "unknown",
+}
+```

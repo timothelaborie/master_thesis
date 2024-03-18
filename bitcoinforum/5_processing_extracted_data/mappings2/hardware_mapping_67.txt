@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "as9 14th/s miners": "unknown",  # Closest match would be "antminer s9" but "as9" is unclear.
+    "asciminer block erupters": "unknown",  # Typo in "asciminer", no exact match.
+    "asic (fpga)": "unknown",  # General category, not specific hardware.
+    "asic (s9)": "antminer s9",
+    "asic (x)": "unknown",  # Too vague, no specific hardware.
+    "asic 1.6 ghash antminers": "unknown",  # No specific model mentioned.
+    "asic 2": "unknown",  # Too vague, no specific hardware.
+    "asic 28nm": "unknown",  # Refers to chip technology, not specific hardware.
+    "asic 30gh/s-389gh/s cubes": "unknown",  # No exact match, possibly referring to a range of ASIC miners.
+    "asic 330mh/s block erupter": "unknown",  # Close to "block erupter asics" but no exact model.
+    "asic antminer": "unknown",  # Too general, no specific model mentioned.
+    "asic antminer s1": "antminer s1",
+    "asic antminer s9's": "antminer s9",
+    "asic antminer v9": "antminer v9",
+    "asic array": "unknown",  # General term, not specific hardware.
+    "asic avalon": "unknown",  # Too general, several Avalon models exist.
+    "asic based": "unknown",  # General term, not specific hardware.
+    "asic be cube v9.17": "unknown",  # No exact match, possibly a typo or version difference.
+    "asic bifury 5 gh/s": "bi*fury",  # Closest match considering the typo.
+    "asic bitcoin miner block erupter usb 330mh/s": "unknown",  # Close to "block erupter asics" but no exact model.
+    "asic bitmain v9": "antminer v9",
+    "asic blade erupters": "unknown",  # No exact match, possibly referring to a type of ASIC miner.
+    "asic blade miner v2": "unknown",  # No exact match.
+    "asic block erupter": "unknown",  # General term for a type of ASIC miner, no specific model.
+    "asic block erupter 333mh/s": "unknown",  # Close to "block erupter asics" but no exact model.
+    "asic block erupter blade": "unknown",  # No exact match, possibly referring to a type of ASIC miner.
+    "asic block erupter cubes": "unknown",  # No exact match.
+    "asic block erupter cubes 32gh/s": "unknown",  # No exact match.
+    "asic block erupters 333": "unknown",  # Close to "block erupter asics" but no exact model.
+    "asic block erupters usb": "unknown",  # General term for a type of ASIC miner, no specific model.
+    "asic block erupters v3": "unknown",  # No exact match.
+    "asic block eruptor cube": "unknown",  # No exact match, possibly a typo or version difference.
+    "asic boards/chains": "unknown",  # General term, not specific hardware.
+    "asic booster": "unknown",  # No exact match, possibly a component or accessory.
+    "asic butterfly 30 ghs": "unknown",  # Possibly referring to Butterfly Labs products, but no exact model.
+    "asic card": "unknown",  # General term, not specific hardware.
+    "asic colocation": "unknown",  # Refers to a service, not hardware.
+    "asic cores": "unknown",  # General term, not specific hardware.
+    "asic cube 30gb": "unknown",  # No exact match, possibly a typo or version difference.
+    "asic cube miner": "unknown",  # No exact match.
+    "asic cubes": "unknown",  # General term, possibly referring to a type of ASIC miner, no specific model.
+    "asic dragon 1 th/s": "unknown",  # No exact match.
+    "asic dragon 1th mining rig": "unknown",  # No exact match.
+    "asic drivers": "unknown",  # Refers to software, not hardware.
+    "asic dual miners": "unknown",  # General term, not specific hardware.
+    "asic equipment": "unknown",  # General term, not specific hardware.
+    "asic erupter": "unknown",  # General term for a type of ASIC miner, no specific model.
+    "asic erupter usb": "unknown",  # General term for a type of ASIC miner, no specific model.
+    "asic erupters": "unknown",  # General term for a type of ASIC miner, no specific model.
+    "asic experiment": "unknown",  # Too vague, no specific hardware.
+}
+```

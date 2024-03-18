@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "avalon mini tp-link tl-wr703n controller": "unknown",
+    "avalon minis 60ghz": "unknown",
+    "avalon molex connector": "unknown",
+    "avalon nano 3 usb 3.6gh/s asic bitcoin miner": "avalon nano",
+    "avalon nano 3 usb mining stick": "avalon nano",
+    "avalon nano 3.6gh/s usb miner": "avalon nano",
+    "avalon nano asic": "avalon nano",
+    "avalon nano block erupters": "avalon nano",
+    "avalon nano miner": "avalon nano",
+    "avalon nano usb asics": "avalon nano",
+    "avalon nano usb miner": "avalon nano",
+    "avalon project boards": "unknown",
+    "avalon prospector 200": "unknown",
+    "avalon psu": "unknown",
+    "avalon repair guide": "unknown",
+    "avalon rigs": "unknown",
+    "avalon sorcerer power supply unit": "unknown",
+    "avalon true usb": "unknown",
+    "avalon unit control board": "unknown",
+    "avalon usb miner": "unknown",
+    "avalon's 741": "avalon741",
+    "avalon1": "unknown",
+    "avalon1 110ghz asic miner": "unknown",
+    "avalon1 unit": "unknown",
+    "avalon1126 pro-s mining machines": "unknown",
+    "avalon1246 83t": "avalon1246",
+    "avalon2 mining rig": "unknown",
+    "avalon2 rig": "unknown",
+    "avalon3 asic": "unknown",
+    "avalon3 miners": "unknown",
+    "avalon3 nano rev. 2.0": "unknown",
+    "avalon3 single modules": "unknown",
+    "avalon6 miner": "avalon6",
+    "avalon6 units": "avalon6",
+    "avalon741 controller": "avalon741",
+    "avalon841": "avalon841",
+    "avalone 721": "avalon721",
+    "avalonminer 1047": "canaan avalonminer 1047",
+    "avalonminer 1066": "canaan avalonminer 1066",
+    "avalonminer 1066 50t": "canaan avalonminer 1066", # Assuming a typo or version difference, closest match.
+    "avalonminer 1126pro-s-68": "canaan avalonminer 1126 pro", # Assuming a typo or version difference, closest match.
+    "avalonminer 1166pro 81 miner": "canaan avalonminer 1166 pro", # Assuming a typo or version difference, closest match.
+    "avalonminer 1166pro-72": "canaan avalonminer 1166 pro", # Assuming a typo or version difference, closest match.
+    "avalonminer 1166pro-81": "canaan avalonminer 1166 pro", # Assuming a typo or version difference, closest match.
+    "avalonminer 1246": "canaan avalonminer 1246",
+    "avalonminer 6.0": "unknown",
+    "avalonminer 8 series hash board": "unknown",
+    "avalonminer 841": "canaan avalonminer 841",
+    "avalonminer 921": "canaan avalonminer 921",
+    "avalonminer a1246": "canaan avalonminer 1246"
+}
+```

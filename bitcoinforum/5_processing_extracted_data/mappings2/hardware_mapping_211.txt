@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "s9-13.5 th/s": "antminer s9",  # Assuming closest match based on hash rate
+    "s9-13.5t": "antminer s9",
+    "s9-b10": "unknown",  # No clear match
+    "s9-s": "unknown",  # No clear match
+    "s9-s b13": "unknown",  # No clear match
+    "s9-s9i": "antminer s9i",
+    "s9-s9i boards": "antminer s9i",  # Assuming reference to parts of s9i
+    "s9/apw3++ rig": "unknown",  # APW3++ is a power supply, not a miner model
+    "s9/t9 machines": "antminer t9",  # Closest match, assuming typo or shorthand
+    "s9/t9's": "antminer t9",
+    "s9/t9+": "antminer t9+",
+    "s9_12.0t submodel": "unknown",  # No clear match, possibly a variant of s9 not listed
+    "s9_13.5t": "antminer s9",
+    "s9_13.5th": "antminer s9",
+    "s9_14.0t": "antminer s9",  # Assuming closest match based on hash rate
+    "s9h001": "unknown",  # No clear match
+    "s9h002": "unknown",  # No clear match
+    "s9i 13.5t": "antminer s9i",
+    "s9i 14.5t": "antminer s9i",
+    "s9i 14th/s antminers": "antminer s9i",
+    "s9i antminer": "antminer s9i",
+    "s9i hashboard": "antminer s9i",  # Referring to a part of s9i
+    "s9i miners": "antminer s9i",
+    "s9i model": "antminer s9i",
+    "s9i unit": "antminer s9i",
+    "s9i-14.0 miners": "antminer s9i",
+    "s9is": "antminer s9i",  # Assuming shorthand or typo for s9i series
+    "s9j 14.5ths": "antminer s9j",
+    "s9j antminer asic miners": "antminer s9j",
+    "s9j firmware 2018": "antminer s9j",  # Referring to firmware version, assuming s9j
+    "s9j hash boards": "antminer s9j",  # Referring to parts of s9j
+    "s9j hashboard": "antminer s9j",
+    "s9j's hashboard": "antminer s9j",
+    "s9j-14t": "antminer s9j",
+    "s9js": "antminer s9j",  # Assuming shorthand or typo for s9j series
+    "s9k antminer": "antminer s9k",
+    "s9k antminers": "antminer s9k",
+    "s9k asic miner": "antminer s9k",
+    "s9k fan": "unknown",  # Refers to a part of s9k, not the miner itself
+    "s9k firmware": "antminer s9k",  # Referring to firmware, assuming s9k
+    "s9k hash board": "antminer s9k",  # Referring to a part of s9k
+    "s9ki": "antminer s9k",  # Assuming shorthand or typo for s9k
+    "s9ks": "antminer s9k",  # Assuming shorthand or typo for s9k series
+    "s9s 13.5th (1323w)": "unknown",  # No clear match, possibly a variant of s9 not listed
+    "s9se": "antminer s9 se",
+    "sabertooth z87": "unknown",  # Not a mining hardware
+    "sabrent 10 usb port hub": "unknown",  # Not a mining hardware
+    "sabrent 13 port high speed usb 2.0 hub": "unknown",  # Not a mining hardware
+    "sabrent 13 port powered hub": "unknown",  # Not a mining hardware
+    "sabrent hb-u14p powered usb 2.0 hub": "unknown",  # Not a mining hardware
+}
+```

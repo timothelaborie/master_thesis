@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "inlet fan blade": "unknown",
+    "inline ethernet surge protector": "unknown",
+    "inline fan": "unknown",
+    "inline fans": "unknown",
+    "inno t2": "unknown",
+    "inno t2 hash board": "unknown",
+    "inno t2t 30t fan": "unknown",
+    "inno t2ts": "unknown",
+    "inno t3+": "unknown",
+    "inno t3+ 57th": "unknown",
+    "inno'st2t24": "unknown",
+    "innominer cgminer": "unknown",
+    "innominer mcompat_lib": "unknown",
+    "innomonitor": "unknown",
+    "innomonitor_64": "unknown",
+    "innosilicon a10": "unknown",
+    "innosilicon a2 terminator": "innosilicon t2 terminator", # Closest match, but not exact.
+    "innosilicon a4 domninator litecoin miner power supply kit": "unknown",
+    "innosilicon a6": "unknown",
+    "innosilicon miner t2thm 30 th": "unknown",
+    "innosilicon miners": "unknown",
+    "innosilicon t2 17.2ths": "innosilicon t2 terminator", # Assuming a version or specification difference.
+    "innosilicon t2 series miner": "innosilicon t2 terminator", # General reference to the T2 series.
+    "innosilicon t2t": "innosilicon t2 turbo",
+    "innosilicon t2t 24th": "innosilicon t2 turbo+ 32t", # Assuming a typo or version difference, closest match.
+    "innosilicon t2t 32th": "innosilicon t2 turbo+ 32t",
+    "innosilicon t2t model": "innosilicon t2 turbo", # General reference to the T2T models.
+    "innosilicon t2t-30t": "innosilicon t2 turbo+ 32t", # Closest match, assuming a typo or version difference.
+    "innosilicon t2th+": "unknown",
+    "innosilicon t2th+ 35ths": "unknown",
+    "innosilicon t2th+ 37t": "unknown",
+    "innosilicon t2th+ 37th": "unknown",
+    "innosilicon t2thf": "unknown",
+    "innosilicon t2thf+": "unknown",
+    "innosilicon t2tz": "unknown",
+    "innosilicon t2tz (30t) edition": "unknown",
+    "innosilicon t2tz 30th": "unknown",
+    "innosilicon t3": "innosilicon t3 50t",
+    "innosilicon t3 57th unit": "innosilicon t3+ 57t",
+    "innosilicon t3+": "innosilicon t3+ 52t", # Closest match, assuming a typo or version difference.
+    "innosilicon t3+ 57th": "innosilicon t3+ 57t",
+    "innosilicon t3+ hashboards": "unknown",
+    "innosilicon t3+ miner": "innosilicon t3+ 52t", # Assuming a general reference to the T3+ series.
+    "innosilicon t3+ psu": "unknown",
+    "innosilicon t3+57": "innosilicon t3+ 57t",
+    "innosilicon t3-50t btc miner": "innosilicon t3 50t",
+    "innosilicon t3h 50t s1": "unknown",
+    "innosilicon t3s": "unknown",
+    "innosilicon t3s 50th": "unknown",
+    "innosilicon terminator a2 88mh": "unknown"
+}
+```

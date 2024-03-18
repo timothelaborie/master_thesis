@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "bitmains": "unknown",
+    "bitmains firmware": "unknown",
+    "bitmains power supplies": "unknown",
+    "bitmains19pro": "antminer s19 pro",  # Assuming a typo, closest match.
+    "bitmaintech antminer s1 to s3 kit": "unknown",  # Refers to a range, not specific.
+    "bitmaintool app": "unknown",
+    "bitman": "unknown",
+    "bitman antminer": "unknown",  # Too general, no specific model.
+    "bitman antminers s3 s4 s5": "unknown",  # Refers to multiple models.
+    "bitman apw 3++": "unknown",
+    "bitman t17": "antminer t17",
+    "bitman u2 block eruptor": "unknown",  # No exact match, possibly referring to a mining device not listed.
+    "bitmans u3": "antminer u3",
+    "bitmine 1 th machines": "unknown",  # No exact match.
+    "bitmine 1th machines (coincrafts)": "unknown",  # No exact match.
+    "bitmine bitcoin miner": "unknown",  # Too general.
+    "bitmine coincraft a1 5 card with a1 chips rig": "unknown",  # No exact match, but refers to Bitmine/Coincraft.
+    "bitmine coincraft rig 2 th/s": "unknown",  # No exact match, but refers to Bitmine/Coincraft.
+    "bitmine coincraft rigs": "unknown",  # No exact match, but refers to Bitmine/Coincraft.
+    "bitmine desk v2": "unknown",  # No exact match.
+    "bitmine hashing unit pcb": "unknown",  # No exact match.
+    "bitmine.ch": "unknown",  # Refers to the company, not a specific product.
+    "bitminer": "unknown",  # Too general.
+    "bitminer apw3": "unknown",
+    "bitminer beta": "unknown",
+    "bitminer power supply": "unknown",
+    "bitminer r4": "antminer r4",
+    "bitminer usb thingy": "unknown",  # No exact match, informal description.
+    "bitminers": "unknown",  # Too general.
+    "bitminter app": "unknown",
+    "bitminter client v1.6.1": "unknown",
+    "bitminter mining": "unknown",
+    "bitminter's java miner v1.4.2": "unknown",
+    "bitseed v2 device": "unknown",
+    "biz desktop for books": "unknown",
+    "black and red wires": "unknown",
+    "black arrow miners": "unknown",  # Refers to the company, not a specific product.
+    "black arrow prosperos": "unknown",  # Too general, no specific model.
+    "black arrow prosperus x1.5": "unknown",  # No exact match, possibly a typo.
+    "black arrow x-1": "black arrow prospero x-1",
+    "black arrow x3": "black arrow prospero x-3",
+    "black arrow/bit fury": "unknown",  # Refers to two companies, not specific products.
+    "black bitmain glue": "unknown",
+    "black cude miners (30 gh/s)": "unknown",  # No exact match, possibly a typo.
+    "black fan shroud": "unknown",
+    "black ground leads": "unknown",
+    "black miner prime ii sha-256 (1.2 th/s) (#blkmt)": "unknown",  # No exact match.
+    "black miner prime sha-256 (600 gh/s) (#blkmp)": "unknown",  # No exact match.
+    "black pentel pen or marker": "unknown",
+    "black sharpie": "unknown"
+}
+```

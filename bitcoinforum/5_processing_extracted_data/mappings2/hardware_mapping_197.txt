@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "r9 280x tri-x by sapphire": "unknown",  # No exact match, but implies a Radeon R9 series GPU
+    "r9 280xs": "unknown",  # Implies Radeon R9 280X but not listed
+    "r9 290 gpu": "unknown",  # Implies Radeon R9 290 but not listed
+    "r9 290 video cards": "unknown",  # Implies Radeon R9 290 but not listed
+    "r9 290x": "unknown",  # Implies Radeon R9 290X but not listed
+    "r9 boards": "unknown",  # Generic term for Radeon R9 series boards
+    "r9 nitro 380": "unknown",  # Implies Radeon R9 380 but not listed
+    "r909 terminus miner": "unknown",  # No corresponding hardware
+    "r9280x": "unknown",  # Implies Radeon R9 280X but not listed
+    "rack of gpu's": "unknown",  # Generic term, not specific hardware
+    "racks of equipment": "unknown",  # Generic term, not specific hardware
+    "rademon hd8670m": "unknown",  # Typo and no corresponding hardware
+    "radeon (tm) rx 470 graphics": "unknown",  # Implies Radeon RX 470 but not listed
+    "radeon 12.6": "unknown",  # No corresponding hardware
+    "radeon 270x": "unknown",  # Implies Radeon R9 270X but not listed
+    "radeon 290x": "unknown",  # Implies Radeon R9 290X but not listed
+    "radeon 4670": "4670",
+    "radeon 4850": "4850",
+    "radeon 5000 series": "unknown",  # Generic term for Radeon HD 5000 series
+    "radeon 5570": "5570",
+    "radeon 5670": "5670",
+    "radeon 5750": "5750",
+    "radeon 5797": "unknown",  # Likely a typo, no corresponding hardware
+    "radeon 5830": "5830",
+    "radeon 5830 x2 oc to 900mhz": "5830",  # Specific overclocking details, but matches "5830"
+    "radeon 5870 cards": "5870",
+    "radeon 5970 card": "5970",
+    "radeon 6570/5570": "unknown",  # Lists two models, unclear which one
+    "radeon 6630m": "unknown",  # No corresponding hardware
+    "radeon 6670": "6670",
+    "radeon 6870 dedicated miner": "6870",
+    "radeon 6970": "6970",
+    "radeon 6990": "6990",
+    "radeon 6990 vid card": "6990",
+    "radeon 7***": "unknown",  # Generic term for Radeon HD 7000 series
+    "radeon 7000 series": "unknown",  # Generic term for Radeon HD 7000 series
+    "radeon 7570m": "unknown",  # No corresponding hardware
+    "radeon 7850": "7850",
+    "radeon 7870": "7870",
+    "radeon 7950": "unknown",  # Implies Radeon HD 7950 but not listed
+    "radeon 7950 gpu": "unknown",  # Implies Radeon HD 7950 but not listed
+    "radeon 79xx gpu cards": "unknown",  # Generic term for Radeon HD 7900 series
+    "radeon 9700 pro": "unknown",  # No corresponding hardware
+    "radeon 9800 pro": "unknown",  # No corresponding hardware
+    "radeon ati 5770": "5770",
+    "radeon bios editor": "unknown",  # Software, not hardware
+    "radeon card": "unknown",  # Generic term, not specific hardware
+    "radeon from the hd 7xxx series": "unknown",  # Generic term for Radeon HD 7000 series
+    "radeon gpu": "unknown",  # Generic term, not specific hardware
+    "radeon hd 4870 1gb 256-bit gddr5": "4870",
+}
+```

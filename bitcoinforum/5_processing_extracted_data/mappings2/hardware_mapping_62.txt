@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "antminer s9 13 th": "antminer s9",
+    "antminer s9 13.15 th": "antminer s9",
+    "antminer s9 13.5 th/s": "antminer s9",
+    "antminer s9 13.5t": "antminer s9",
+    "antminer s9 13.5th": "antminer s9",
+    "antminer s9 13.5th/s": "antminer s9",
+    "antminer s9 13.5th/s machines": "antminer s9",
+    "antminer s9 13.5ths": "antminer s9",
+    "antminer s9 13/ths": "antminer s9",
+    "antminer s9 135 th": "unknown", # Likely a typo, but no exact match.
+    "antminer s9 135 ths (build in autumn 2017)": "unknown", # Likely a typo, but no exact match.
+    "antminer s9 14 th": "antminer s9",
+    "antminer s9 14.5th": "antminer s9",
+    "antminer s9 14t": "antminer s9",
+    "antminer s9 14th dec batch": "antminer s9",
+    "antminer s9 14th/s": "antminer s9",
+    "antminer s9 14th/s model": "antminer s9",
+    "antminer s9 asic miners": "antminer s9",
+    "antminer s9 asics": "antminer s9",
+    "antminer s9 b1": "unknown", # No exact match, possibly a specific batch or version.
+    "antminer s9 batch 17": "antminer s9",
+    "antminer s9 batch 3": "antminer s9",
+    "antminer s9 board": "antminer s9",
+    "antminer s9 controller": "antminer s9",
+    "antminer s9 hashboard": "antminer s9",
+    "antminer s9 hydro": "antminer s9 hydro",
+    "antminer s9 hydro 18 th/s": "antminer s9 hydro",
+    "antminer s9 jan batch": "antminer s9",
+    "antminer s9 machine": "antminer s9",
+    "antminer s9 miner": "antminer s9",
+    "antminer s9 miner control board": "antminer s9",
+    "antminer s9 miners": "antminer s9",
+    "antminer s9 pro": "unknown", # No exact match, possibly a specific version not listed.
+    "antminer s9 psu": "antminer s9",
+    "antminer s9 rig": "antminer s9",
+    "antminer s9 se": "antminer s9 se",
+    "antminer s9 se 17th": "antminer s9 se",
+    "antminer s9 test fixture": "antminer s9",
+    "antminer s9 volt rocket ship": "unknown", # No exact match, possibly a custom or modified version.
+    "antminer s9-14th/s": "antminer s9",
+    "antminer s9-b10": "unknown", # No exact match, possibly a specific batch or version.
+    "antminer s9-b10 hash boards": "unknown", # No exact match, possibly a specific part of a version.
+    "antminer s9/l3": "unknown", # Refers to two different models, unclear mapping.
+    "antminer s9/s9i": "antminer s9", # Assuming the closest match, but could also refer to antminer s9i.
+    "antminer s9/t9": "unknown", # Refers to two different models, unclear mapping.
+    "antminer s9e": "unknown", # No exact match, possibly a typo or specific version not listed.
+    "antminer s9i": "antminer s9i",
+    "antminer s9i dashboard": "antminer s9i",
+    "antminer s9i hash board": "antminer s9i",
+    "antminer s9j 14th": "antminer s9j",
+}
+```

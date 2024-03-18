@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "antminer s9j hashboard": "antminer s9j",  # Assuming the specific part refers to the model.
+    "antminer shelf": "unknown",
+    "antminer ssh": "unknown",
+    "antminer stick": "unknown",
+    "antminer t15 control board": "unknown",  # Specific part of a model, but no T15 listed.
+    "antminer t17+": "antminer t17+",
+    "antminer t17+ 55 th/s": "antminer t17+",  # Specification detail, but matches model.
+    "antminer t17+55": "antminer t17+",  # Likely a typo, closest match.
+    "antminer t17/s17": "unknown",  # Ambiguous between two models.
+    "antminer t17e": "antminer t17e",
+    "antminer t19 84t": "antminer t19",  # Specification detail, but matches model.
+    "antminer t9 hash board": "antminer t9",  # Assuming the specific part refers to the model.
+    "antminer test fixture for s9 t9": "unknown",  # Refers to a tool for models, not a mining model itself.
+    "antminer test fixture for s9 t9 t9+": "unknown",  # Same as above.
+    "antminer tool": "unknown",
+    "antminer u-2": "unknown",  # Likely meant "antminer u2", but exact match principle.
+    "antminer u1 chips": "antminer u1",  # Refers to parts of the model.
+    "antminer u1 miners": "antminer u1",  # Refers to the model.
+    "antminer u1 rigs": "antminer u1",  # Refers to the model.
+    "antminer u1 usb": "antminer u1",  # Refers to the model.
+    "antminer u1/u2": "unknown",  # Ambiguous between two models.
+    "antminer u2 2gh/s usb miner": "antminer u2+",  # Specification detail, closest match.
+    "antminer u2 asic": "antminer u2+",  # Refers to the technology, closest match.
+    "antminer u2 asics": "antminer u2+",  # Same as above.
+    "antminer u2 sticks": "antminer u2+",  # Informal term, closest match.
+    "antminer u2 usb asic miners": "antminer u2+",  # Detailed description, closest match.
+    "antminer u2+": "antminer u2+",
+    "antminer u3 bitmain": "antminer u3",  # Manufacturer detail, matches model.
+    "antminer u3 usb": "antminer u3",  # Interface detail, matches model.
+    "antminer u3 v2": "antminer u3",  # Version detail, closest match.
+    "antminer u3s": "antminer u3",  # Likely a typo or plural, closest match.
+    "antminer usb": "unknown",  # Too vague, multiple USB models.
+    "antminer usb 1.6 ghs": "unknown",  # Specification without clear model.
+    "antminer usb sticks": "unknown",  # Generic term for several models.
+    "antminer v1.2 2013/12/4": "unknown",  # No matching model with version dates.
+    "antminer v1.5 2013/12/16": "unknown",  # Same as above.
+    "antminer vent shroud": "unknown",  # Part of hardware, not a model.
+    "antminer z9 machine": "unknown",  # No exact "Z9" model listed, though it exists.
+    "antminer's": "unknown",  # Too vague, refers to brand not model.
+    "antminer's s7": "antminer s7",  # Possessive form, but model clear.
+    "antminer's side": "unknown",  # Refers to part of a setup, not a model.
+    "antminerach s1": "antminer s1",  # Likely a typo, closest match.
+    "antminers (s3 s5 s9)": "unknown",  # Lists multiple models, too broad.
+    "antminers (s9 l3 l3+ d3)": "unknown",  # Same as above.
+    "antminers (s9i l3+ l3++ dr3)": "unknown",  # Same as above.
+    "antminers (s9s l3s a3s d3s)": "unknown",  # Same as above.
+    "antminers r4": "antminer r4",  # Plural form, but model clear.
+    "antminers s1 s3": "unknown",  # Lists multiple models, too broad.
+    "antminers s3+": "antminer s3+",  # Plural form, but model clear.
+    "antminers s4": "antminer s4",  # Plural form, but model clear.
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "kingston hyper x 4gb": "unknown",
+    "kingston hyperx blu 2 x 2 gb ddr3-1600": "unknown",
+    "kingston hyperx blu red series 16gb (2 x 8gb) 240-pin ddr3 sdram ddr3 1600 desktop memory model": "unknown",
+    "kingston khx1600c9d3b1/4g": "unknown",
+    "kingston kvr1333d3n9/2g 2048mb ddr3": "unknown",
+    "kingstone 8 gb ssd": "unknown",
+    "klns": "unknown",
+    "klondike": "klondike",
+    "klondike based miners": "klondike",  # Assuming a general reference to klondike miners.
+    "klondike's": "klondike",  # Assuming a possessive form of klondike.
+    "knc board": "unknown",
+    "knc controller": "unknown",
+    "knc equipment": "unknown",
+    "knc jupiter oct 2013": "knc jupiter",
+    "knc jupiters 500 gh": "knc jupiter",  # Assuming a reference to the Jupiter's hashing power.
+    "knc juptier": "knc jupiter",  # Assuming a typo.
+    "knc miner neptunes": "knc neptune",
+    "knc mining pools": "unknown",
+    "knc neptun": "knc neptune",  # Assuming a typo.
+    "knc neptune 3.5 th/s": "knc neptune",
+    "knc neptune cube": "knc neptune",
+    "knc neptune cubes": "knc neptune",
+    "knc neptune miner": "knc neptune",
+    "knc neptune miners": "knc neptune",
+    "knc october jupiters": "knc jupiter",  # Assuming a reference to a batch or release time.
+    "knc saturn controller": "knc saturn",
+    "knc series miners": "unknown",  # General reference to KNC miners without specifying which.
+    "knc sets": "unknown",
+    "knc super jupiter": "knc jupiter",  # Assuming a variant or marketing name.
+    "knc titan scrypt miners": "unknown",  # No specific match, Titan is not listed.
+    "knc units": "unknown",
+    "knc's": "unknown",  # General reference to KNC products.
+    "kncminer jupiter asic miner": "knc jupiter",
+    "kncminer neptune asic miner": "knc neptune",
+    "kodi box": "unknown",
+    "koolance blocks and reservoir": "unknown",
+    "kopacza": "unknown",
+    "kubuntu": "unknown",
+    "kvm switch": "unknown",
+    "kyoritsu": "unknown",
+    "l shaped dryer socket": "unknown",
+    "l14-30p": "unknown",
+    "l21-20p male plug": "unknown",
+    "l3 miner": "unknown",
+    "l3 miners": "unknown",
+    "l3 rig": "unknown",
+    "l3+ (525gh/s @)": "unknown",
+    "l3+ asic miner": "unknown",
+    "l3+ machines": "unknown",
+    "l3+ miner": "unknown",
+}
+```

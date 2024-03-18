@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "bitfury red": "unknown",
+    "bitfury red fury - usb bitcoin - asic miner 2.2+ gh/s": "unknown",
+    "bitfury red usb": "unknown",
+    "bitfury starterkit": "unknown",
+    "bitfury twin chip 4-5gh's asic": "unknown",
+    "bitfury twin chip usb miners": "unknown",
+    "bitfury twin chip usb miners 5 ghash": "unknown",
+    "bitfury usb miner": "unknown",
+    "bitfury usb sticks 2x nano": "unknown",
+    "bitfury usb sticks blue": "unknown",
+    "bitfury usb sticks ice": "unknown",
+    "bitfury usb sticks nano": "unknown",
+    "bitfury usb sticks red": "unknown",
+    "bitfury v1.2 h-cards": "unknown",
+    "bitfury v2": "unknown",
+    "bitlocker": "unknown",
+    "bitmain 1600": "unknown",
+    "bitmain 1600 psu": "unknown",
+    "bitmain 1600w": "unknown",
+    "bitmain 1600w power supply": "unknown",
+    "bitmain 1600w psus": "unknown",
+    "bitmain ant miner 1.6 gh/s erupter": "unknown",
+    "bitmain antmine": "unknown",
+    "bitmain antminer": "unknown",  # This is too general to map to a specific model.
+    "bitmain antminer apw7 1800w power supply": "unknown",
+    "bitmain antminer l3+": "unknown",  # Not in the provided list.
+    "bitmain antminer s1 miners": "antminer s1",
+    "bitmain antminer s17e 60t": "antminer s17e",
+    "bitmain antminer s19j 100t": "antminer s19j",
+    "bitmain antminer s3+ batch 7 units": "antminer s3+",  # Assuming a version match.
+    "bitmain antminer s9 miner": "antminer s9",
+    "bitmain antminer s9i": "antminer s9i",
+    "bitmain antminer t9+": "antminer t9+",
+    "bitmain antminer t9+ 10.5 miner": "antminer t9+",  # Assuming a specific version of T9+.
+    "bitmain antminer u1": "antminer u1",
+    "bitmain antminer u1 (usb)": "antminer u1",
+    "bitmain antminer u1 usb block erupter 1.6gh/s": "antminer u1",  # Closest match, though not exact.
+    "bitmain antminer u1/u2": "antminer u1",  # Assuming U1 is the intended reference.
+    "bitmain antminer u1s": "antminer u1",  # Assuming a typo or variant of U1.
+    "bitmain antminer u2 usb": "antminer u2+",
+    "bitmain antminer's (s3)": "antminer s3",
+    "bitmain antminers (s7 & s9)": "unknown",  # Multiple models mentioned.
+    "bitmain antminers s9": "antminer s9",
+    "bitmain ap3++ psu": "unknown",
+    "bitmain apw psu": "unknown",
+    "bitmain apw++": "unknown",
+    "bitmain apw3 psu": "unknown",
+    "bitmain apw3++ 1600w dc 12v psu power supply": "unknown",
+    "bitmain apw3++ power supplies": "unknown",
+    "bitmain apw3++ psu": "unknown",
+}
+```

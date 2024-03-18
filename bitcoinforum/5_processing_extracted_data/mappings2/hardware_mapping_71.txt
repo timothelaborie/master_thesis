@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "asus 7990": "unknown",  # No exact match, but could refer to a GPU not listed for mining.
+    "asus 85n sli board": "unknown",
+    "asus a8v-vmse board": "unknown",
+    "asus ac3100": "unknown",
+    "asus aisuite": "unknown",
+    "asus ares 5870 x2": "5870",  # Assuming a typo or variant, closest match.
+    "asus ares 5870x2": "5870",  # Assuming a typo or variant, closest match.
+    "asus board": "unknown",
+    "asus cards": "unknown",
+    "asus crosshair iv extreme": "unknown",
+    "asus crosshair iv formula motherboard": "unknown",
+    "asus crosshair v formula/phenom 2 x4 965 cpu": "unknown",
+    "asus crosshair vp": "unknown",
+    "asus crosshair z": "unknown",
+    "asus direct cu 6870": "6870",
+    "asus directcuii top 280x": "unknown",  # No exact match, but could refer to a GPU not listed for mining.
+    "asus doctor": "unknown",
+    "asus eah 5770 graphic card": "5770",
+    "asus eah5750": "5750",
+    "asus eah5830": "5830",
+    "asus eah6870 cards": "6870",
+    "asus eah6950 dcii/2di4s/1gd5": "6950",
+    "asus eee 1012": "unknown",
+    "asus eee laptop": "unknown",
+    "asus eee pc": "unknown",
+    "asus f1a75v/evo w/4gb ddr3 1600mhz memory": "unknown",
+    "asus f2a55 mobo": "unknown",
+    "asus gtx 650ti boost cards": "unknown",  # No exact match, but could refer to a GPU not listed for mining.
+    "asus hd 5770": "5770",
+    "asus hd 7770 graphics card": "7770",
+    "asus hd-6970": "6970",
+    "asus hd5870 (eah5870 v2)": "5870",
+    "asus hd7770": "7770",
+    "asus hd7770 series": "7770",
+    "asus laptop with an ati mobility radeon hd 5730": "unknown",  # No exact match, but could refer to a GPU not listed for mining.
+    "asus m2n-e card": "unknown",
+    "asus m4a785-m": "unknown",
+    "asus m4a79 deluxe": "unknown",
+    "asus m4a79xtd evo": "unknown",
+    "asus m4a89gtd pro/usb3 motherboard": "unknown",
+    "asus m4a89gtd/pro usb3 mobo": "unknown",
+    "asus m5a97 r2.0 am3+ amd 970 sata 6gb/s usb 3.0 atx amd motherboard with uefi bios": "unknown",
+    "asus m5a97 r2.0500 gb laptop drive": "unknown",
+    "asus matrix hd7970": "7970",
+    "asus maximus v gene": "unknown",
+    "asus mboard": "unknown",
+    "asus msn-sli deluxe": "unknown",
+    "asus oc 660 ti": "unknown",  # No exact match, but could refer to a GPU not listed for mining.
+    "asus one-slot motherboard": "unknown",
+    "asus open box": "unknown",
+}
+```

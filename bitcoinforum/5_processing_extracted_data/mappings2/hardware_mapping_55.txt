@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "amd duel-core e 300": "unknown",
+    "amd duron over clocked from 600mhz to 2.4ghz": "unknown",
+    "amd e450": "unknown",
+    "amd fan": "unknown",
+    "amd firepro w8000": "unknown",
+    "amd fx 6300 (6 core)": "unknown",
+    "amd fx 8-core processor 4.00 ghz 8.00gb ram 64bit": "unknown",
+    "amd fx 9590 8-core 4.7 ghz": "unknown",
+    "amd fx(tm)-6300 six-core processor": "unknown",
+    "amd fx-6 processor": "unknown",
+    "amd fx-6100 6-core": "unknown",
+    "amd fx-8350 vishera 4.0ghz (4.2ghz turbo) socket am3+ 125w eight-core desktop processor fd8350": "unknown",
+    "amd gigabyte ga-990fxa-ud5 (rev. 1.0)": "unknown",
+    "amd gpu clock controller": "unknown",
+    "amd gpu clock tool": "unknown",
+    "amd gpu tool": "unknown",
+    "amd gpus": "unknown",
+    "amd hd 6970": "6970",
+    "amd hd radeon 7770": "7770",
+    "amd hd7870xt": "unknown", # No exact match, closest would be "7870 xt" but not certain.
+    "amd m5a97": "unknown",
+    "amd mobo with an athlon fx-62": "unknown",
+    "amd opencl sdk": "unknown",
+    "amd opertron 6100": "unknown",
+    "amd opetron 2ghz": "unknown",
+    "amd overclock tool": "unknown",
+    "amd overdrive settings": "unknown",
+    "amd overdrive suite": "unknown",
+    "amd phenom 9600": "unknown",
+    "amd phenom ii x4 quad 955 core 3.2ghz processor 4 x 512 kb boxed": "unknown",
+    "amd phenom ii x6": "unknown",
+    "amd phenom x4": "unknown",
+    "amd phenom x8": "unknown",
+    "amd phenom(tm) ii x6 1090t processor": "unknown",
+    "amd processors": "unknown",
+    "amd quad": "unknown",
+    "amd r9 270": "unknown", # No exact match in the list.
+    "amd r9 380": "unknown", # No exact match in the list.
+    "amd radeon": "unknown",
+    "amd radeon 5800": "unknown", # Closest matches would be "5850" or "5870", but not certain.
+    "amd radeon 5970": "5970",
+    "amd radeon 5970x2": "unknown", # No exact match, "5970" is closest but not a dual GPU variant.
+    "amd radeon 7670m": "unknown",
+    "amd radeon 7770": "7770",
+    "amd radeon 7800 series": "unknown", # Could refer to either "7850" or "7870", but not certain.
+    "amd radeon hd 5700 series": "unknown", # Could refer to either "5750" or "5770", but not certain.
+    "amd radeon hd 5900 series": "unknown", # Could refer to "5970", but not certain.
+    "amd radeon hd 6310 graphics": "6310m",
+    "amd radeon hd 6450": "6450",
+    "amd radeon hd 6700 series": "unknown", # Could refer to either "6750" or "6770", but not certain.
+}
+```

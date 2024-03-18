@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "s1/s2/s3": "unknown",  # Ambiguous, could refer to multiple models
+    "s1/s3 upgrade kit": "unknown",  # No direct match, upgrade kits not listed
+    "s11 antminer": "antminer s11",
+    "s11 control board": "unknown",  # Specific parts like control boards are not listed
+    "s11 machines": "antminer s11",
+    "s15 control board": "unknown",
+    "s15 control boards": "unknown",
+    "s15 miners": "unknown",  # No direct match, assuming typo or version difference
+    "s15 psu": "unknown",
+    "s15 units": "unknown",
+    "s15s": "unknown",  # No direct match, assuming typo or version difference
+    "s17 / t17 control board": "unknown",
+    "s17 50t": "antminer s17",  # Assuming a version of S17 with 50 TH/s
+    "s17 53th rig": "antminer s17",  # Assuming a version of S17 with 53 TH/s
+    "s17 56th": "antminer s17",  # Assuming a version of S17 with 56 TH/s
+    "s17 67 th": "unknown",  # No direct match, possibly a typo or unlisted version
+    "s17 c55 controlboard": "unknown",
+    "s17 controlboard": "unknown",
+    "s17 gear": "unknown",
+    "s17 miners": "antminer s17",
+    "s17 pro 50th": "antminer s17 pro",
+    "s17 pro 53th miners": "antminer s17 pro",
+    "s17 pro 53th rigs": "antminer s17 pro",
+    "s17 pro 56t": "antminer s17 pro",
+    "s17 pro 56th": "antminer s17 pro",
+    "s17 pro 59 th": "antminer s17 pro",  # Assuming a version of S17 Pro with 59 TH/s
+    "s17 pro psu": "unknown",
+    "s17 pro-": "antminer s17 pro",
+    "s17 pro-50": "antminer s17 pro",
+    "s17 psu": "unknown",
+    "s17 psu's": "unknown",
+    "s17's": "antminer s17",
+    "s17+ (70th)": "antminer s17+",
+    "s17+ (73th) miners": "antminer s17+",
+    "s17+ 70 th": "antminer s17+",
+    "s17+ 73th": "antminer s17+",
+    "s17+ apw9+ psu": "unknown",
+    "s17+ control board": "unknown",
+    "s17+ hash board": "unknown",
+    "s17+ hash boards": "unknown",
+    "s17+ hashboard": "unknown",
+    "s17+ hashboards": "unknown",
+    "s17+ heatsinks": "unknown",
+    "s17+ miner": "antminer s17+",
+    "s17+ miners": "antminer s17+",
+    "s17+ psu": "unknown",
+    "s17+_76": "antminer s17+",  # Assuming a version or typo
+    "s17_53t": "antminer s17",  # Assuming a version of S17 with 53 TH/s
+    "s17e 60th": "antminer s17e",
+    "s17e antminer": "antminer s17e",
+}
+```

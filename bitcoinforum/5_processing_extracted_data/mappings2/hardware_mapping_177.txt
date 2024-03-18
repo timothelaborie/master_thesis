@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "nvidia 680m": "unknown",  # No exact match, closest would be "gtx680" if it were listed.
+    "nvidia 750": "unknown",  # No exact match, closest would be "gtx750" if it were listed.
+    "nvidia 7600gs": "unknown",  # No exact match.
+    "nvidia 840m": "unknown",  # No exact match.
+    "nvidia 880 graphics card": "unknown",  # No exact match.
+    "nvidia 8800 gtx": "8800gtx",  # Closest match.
+    "nvidia 8800gts 512": "8800gts",  # Closest match.
+    "nvidia 9600 gt": "9600gt",  # Exact match.
+    "nvidia 9600gs": "unknown",  # No exact match, closest would be "9600gso" if typo.
+    "nvidia 9700gt": "unknown",  # No exact match.
+    "nvidia 9800": "unknown",  # No exact match, could refer to several 9800 models.
+    "nvidia 9800 gtx": "9800gtx",  # Exact match.
+    "nvidia 9800s": "unknown",  # No exact match, unclear reference.
+    "nvidia based miners": "unknown",  # Generic term, not a specific model.
+    "nvidia card (geforce 7300gs)": "unknown",  # No exact match.
+    "nvidia chipsets": "unknown",  # Generic term, not a specific model.
+    "nvidia corporation g71 [geforce 7300 gs] (rev a1)": "unknown",  # No exact match.
+    "nvidia corporation g71 [geforce 7900 gs]": "unknown",  # No exact match.
+    "nvidia corporation g92 [geforce 9800 gt]": "9800gt",  # Exact match.
+    "nvidia cuda card": "unknown",  # Generic term, not a specific model.
+    "nvidia cuda opencl 1.0 cuda 4.0.1": "unknown",  # Generic term, not a specific model.
+    "nvidia dev kit": "unknown",  # Generic term, not a specific model.
+    "nvidia ge force 580": "unknown",  # No exact match, closest would be "gtx580" if it were listed.
+    "nvidia geforce 240 gt": "unknown",  # No exact match.
+    "nvidia geforce 320m": "unknown",  # No exact match.
+    "nvidia geforce 320m 256mb": "unknown",  # No exact match.
+    "nvidia geforce 6150se": "unknown",  # No exact match.
+    "nvidia geforce 7050": "unknown",  # No exact match.
+    "nvidia geforce 7300 gt": "unknown",  # No exact match.
+    "nvidia geforce 7400 go": "unknown",  # No exact match.
+    "nvidia geforce 8400": "8400 gs",  # Closest match.
+    "nvidia geforce 8500 gt": "unknown",  # No exact match.
+    "nvidia geforce 8600 gt": "unknown",  # No exact match.
+    "nvidia geforce 8800gt": "8800gt",  # Exact match.
+    "nvidia geforce 9600 gt": "9600gt",  # Exact match.
+    "nvidia geforce 9800 gt": "9800gt",  # Exact match.
+    "nvidia geforce card": "unknown",  # Generic term, not a specific model.
+    "nvidia geforce gt 420m 1gig": "unknown",  # No exact match.
+    "nvidia geforce gt 520m": "unknown",  # No exact match.
+    "nvidia geforce gt 540m": "unknown",  # No exact match.
+    "nvidia geforce gt 555m": "unknown",  # No exact match.
+    "nvidia geforce gt 650": "unknown",  # No exact match, closest would be "gtx650" if it were listed.
+    "nvidia geforce gt 650m": "unknown",  # No exact match.
+    "nvidia geforce gtx 470": "gtx470",  # Exact match.
+    "nvidia geforce gtx 560 ti": "gtx560 ti",  # Exact match.
+    "nvidia geforce8400gs graphics card": "8400 gs",  # Exact match.
+    "nvidia gf9800gx2 gpu": "9800gx2",  # Exact match.
+    "nvidia graphic card": "unknown",  # Generic term, not a specific model.
+    "nvidia graphics cards": "unknown",  # Generic term, not a specific model.
+    "nvidia gt 220": "gt220",  # Exact match.
+}
+```

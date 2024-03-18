@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "lithium battery backup": "unknown",
+    "lithium ion battery packs": "unknown",
+    "little adapter": "unknown",
+    "little fan connector": "unknown",
+    "little shitty fans": "unknown",
+    "live for speed game": "unknown",
+    "lk btc miner 1th/s": "unknown", # No exact match, but seems related to mining hardware.
+    "lketc 1th machine": "unknown", # No exact match, but seems related to mining hardware.
+    "lketc 1th/s dragon miner": "unknown", # No exact match, but seems related to mining hardware.
+    "lketc dragon miner 32 chip": "unknown", # No exact match, but seems related to mining hardware.
+    "lketc miner": "unknown", # No exact match, but seems related to mining hardware.
+    "lo link encap:local loopback inet addr:127.0.0.1 mask:255.0.0.0 up loopback running mtu:65536 metric:1 rx packets:16 errors:0 dropped:0 overruns:0 frame:0 tx packets:16 errors:0 dropped:0 overruns:0 carrier:0 collisions:0 txqueuelen:0 rx bytes:1621 (1.5 kib) tx bytes:1621 (1.5 kib)": "unknown",
+    "load balance + switch": "unknown",
+    "local bitcoin application": "unknown",
+    "local hardware": "unknown",
+    "local monitoring software": "unknown",
+    "local usb asics": "unknown",
+    "local webserver": "unknown",
+    "localhost bitcoind": "unknown",
+    "lock washers": "unknown",
+    "logi-bone fpga development board cape": "unknown",
+    "logitech mx518": "unknown",
+    "logitech wireless usb dongle": "unknown",
+    "logitech z906": "unknown",
+    "logmein": "unknown",
+    "long hole drilled for water": "unknown",
+    "long risers": "unknown",
+    "lottery rig": "unknown",
+    "lottery sticks": "unknown",
+    "louvers": "unknown",
+    "love core aixin a1 miner": "aisen a1 pro", # Closest match based on context, though not exact.
+    "lovecore a1": "aisen a1 pro", # Closest match based on context, though not exact.
+    "lovecore a1 miner": "aisen a1 pro", # Closest match based on context, though not exact.
+    "low end mobo": "unknown",
+    "low end pc parts": "unknown",
+    "low spec machine": "unknown",
+    "low voltage inverter": "unknown",
+    "low watt cpu": "unknown",
+    "low-profile passive heat sink": "unknown",
+    "lowchip": "unknown",
+    "lowprofile heatsinks": "unknown",
+    "lspci": "unknown",
+    "lsusb": "unknown",
+    "ltc client": "unknown",
+    "ltc gear": "unknown",
+    "ltc miners atom 1.6ghz": "unknown",
+    "ltc rig setup": "unknown",
+    "ltc wallet client": "unknown",
+    "ltcrabbit v2": "unknown",
+    "lte": "unknown",
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "mpos server": "unknown",
+    "mppt 80 amp units": "unknown",
+    "mppt controller": "unknown",
+    "mrteal chilis": "unknown",
+    "msd card": "unknown",
+    "mse": "unknown",
+    "msi 280x": "unknown", # No exact match, possibly referring to a GPU not listed for mining.
+    "msi 280x gaming cards": "unknown", # Same as above.
+    "msi 280x gpu": "unknown", # Same as above.
+    "msi 5970": "5970",
+    "msi 6570": "6570",
+    "msi 6670": "6670",
+    "msi 6670 card": "6670",
+    "msi 770-c45 mainboard": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 7770": "7770",
+    "msi 7850": "7850",
+    "msi 790fx-gd70": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 790fx-gd70 motherboard": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 790fx-gd70 socket am3--140 watt cpu--amd 790fx quad/triple crossfirex--atx motherboard": "unknown", # Detailed mainboard description, not mining hardware.
+    "msi 790fxa-gd70": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 7950": "7950",
+    "msi 7950 tf3": "7950", # Assuming a model variation of 7950.
+    "msi 7960s": "unknown", # Likely a typo or variant not listed.
+    "msi 7970": "7970",
+    "msi 870-g45 am3 amd 770 atx amd motherboard": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 870-g45 motherboard": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 870a-g46": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 870a-g54 motherboard": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 880fxa-gd70 motherboard": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 880g-e45 motherboard": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 890 fx g70 mobo": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 890 fxa gd70 mb": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 890 gd70": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 890 motherboard": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 890-fxa gd70": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 890-fxagd70 motherboard": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 890fx board with 1 kw psu": "unknown", # Mainboard with PSU, not directly mining hardware.
+    "msi 890fx motherboard (5pci-e x16 size 1 pci-e x1)": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 890fx-gd70 mobo": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 890fxa": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 890fxa gd70": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 890fxa-g70 mother board": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 890fxa-gd65 socket am3 890fx atx amd motherboard": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 890fxa-gd70 (socket am3amd sempron 145 2.8ghz box)": "unknown", # Mainboard with CPU, not directly mining hardware.
+    "msi 890fxa-gd70 mother board": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 890fxa-gd70 motherboard": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 970 g46 board": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 970a-g43 mobo": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 990-fxa gd65": "unknown", # Mainboard, not directly related to mining hardware.
+    "msi 990fxa-gd80": "unknown", # Mainboard, not directly related to mining hardware.
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "6-year old windows desktop": "unknown",
+    "6.3t e9": "unknown",
+    "6.5gh/s": "unknown",
+    "60 amp 3 phase receptacles": "unknown",
+    "60 amp per phase": "unknown",
+    "60 amp sub panel": "unknown",
+    "60 gh/s bfl asics": "bfl sc",  # Assuming "bfl sc" as the closest match for "60 gh/s bfl asics".
+    "60 gh/s miner": "unknown",
+    "60 gh/sec bfl miner": "bfl sc",  # Assuming "bfl sc" as the closest match for "60 gh/sec bfl miner".
+    "60 th small mine": "unknown",
+    "60 watt power adapters": "unknown",
+    "60-110ghs bfl hardware": "bfl sc",  # Assuming "bfl sc" as the closest match for "60-110ghs bfl hardware".
+    "600 amps service": "unknown",
+    "600 psu": "unknown",
+    "6000 cfm fans": "unknown",
+    "60000 btu ac system": "unknown",
+    "60000 btu split ac": "unknown",
+    "6000rpm 120mm fan": "unknown",
+    "6000rpm fans": "unknown",
+    "600mhashes/s": "unknown",
+    "600w 80+ psu": "unknown",
+    "600w corsair cx600 psu": "unknown",
+    "600w ocz power supply (ocz600mxsp)": "unknown",
+    "600w ocz psu": "unknown",
+    "600w pcie connector": "unknown",
+    "600w power supplies": "unknown",
+    "60a (6 gauge wire) secondary panel": "unknown",
+    "60a 240v breakers": "unknown",
+    "60amp pdu": "unknown",
+    "60f": "unknown",
+    "60gb ssd": "unknown",
+    "60gb ssd ocz": "unknown",
+    "60gh avalon mini miner": "avalon batch 1",  # Assuming "avalon batch 1" as the closest match for "60gh avalon mini miner".
+    "60gh/s asic": "unknown",
+    "60gh/s single sc": "bfl single 'sc'",  # Assuming "bfl single 'sc'" as the closest match for "60gh/s single sc".
+    "60ghs avalon miner": "avalon batch 1",  # Assuming "avalon batch 1" as the closest match for "60ghs avalon miner".
+    "60ghz/s unit from butterfly labs": "unknown",  # No exact match, but likely referring to a BFL product.
+    "60th/s": "unknown",
+    "61 th/s": "unknown",
+    "630a circuit breakers": "unknown",
+    "630w power supply": "unknown",
+    "630w raidmax": "unknown",
+    "630w rosewill power supply": "unknown",
+    "630w thermal take one": "unknown",
+    "64 bit system": "unknown",
+    "64 bit ubuntu 11.4": "unknown",
+    "64-bit version of windows 7": "unknown",
+    "64-bit windows": "unknown",
+    "64-bit windows 7 ultimate": "unknown",
+    "6400cfm fans": "unknown",
+}
+```

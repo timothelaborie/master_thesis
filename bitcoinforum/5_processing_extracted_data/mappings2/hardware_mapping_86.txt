@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "bitcoin server (a full node)": "unknown",
+    "bitcoin testnet": "unknown",
+    "bitcoin usb-stick miner gekkoscience 2pac 5-25 gh/s": "unknown",
+    "bitcoin v0.8.6": "unknown",
+    "bitcoin wallet software": "unknown",
+    "bitcoin-core": "unknown",
+    "bitcoin-core-0.13.0": "unknown",
+    "bitcoin-qt (0.5.3)": "unknown",
+    "bitcoin-qt (on a mac)": "unknown",
+    "bitcoin-qt app": "unknown",
+    "bitcoin-qt v0.8.1-beta": "unknown",
+    "bitcoin-qt.exe": "unknown",
+    "bitcoin.exe": "unknown",
+    "bitcoin.exe client": "unknown",
+    "bitcoind (wallet)": "unknown",
+    "bitcoind client": "unknown",
+    "bitcoind node": "unknown",
+    "bitcoind.exe": "unknown",
+    "bitcoinds": "unknown",
+    "bitcoinium": "unknown",
+    "bitcoinqt": "unknown",
+    "bitcoinqt v9.1": "unknown",
+    "bitcoinrigs": "unknown",
+    "bitcool bt888": "unknown",
+    "bitcore": "unknown",
+    "bitcrane t-110 miners": "unknown",
+    "bitemine knc avalon clone": "bitmine.ch avalon clone 85gh", # Closest match, but not exact.
+    "bitfily a1 49th": "aisen a1 pro", # Assuming a typo or version difference, closest match.
+    "bitfily b1+": "bitfily snow panther b1+", # Exact match.
+    "bitfily snow panther a1+": "unknown", # No exact match, but related to bitfily a1.
+    "bitfily snowpanther b1+": "bitfily snow panther b1+", # Typo in the input, corrected to exact match.
+    "bitforce 1-17": "unknown",
+    "bitforce sc orion": "unknown",
+    "bitforce sha 256 driver": "unknown",
+    "bitforce single fpga": "unknown",
+    "bitforce single sc 60gh": "bfl single 'sc'", # Closest match, but not exact.
+    "bitforce units": "unknown",
+    "bitfury 400 ghash units": "unknown",
+    "bitfury 400 gigahash units": "unknown",
+    "bitfury 400g": "unknown",
+    "bitfury 400gh/s miner": "unknown",
+    "bitfury b8": "bitfury b8", # Exact match.
+    "bitfury b8 miner": "bitfury b8", # Closest match.
+    "bitfury b8 miners": "bitfury b8", # Closest match.
+    "bitfury b8 server 50th": "bitfury b8", # Closest match, assuming a specific model.
+    "bitfury bf3500": "unknown",
+    "bitfury controller": "unknown",
+    "bitfury h cards": "unknown",
+    "bitfury mining rigs": "unknown",
+    "bitfury nano fury": "unknown"
+}
+```

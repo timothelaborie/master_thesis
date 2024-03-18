@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "ati display card": "unknown",
+    "ati driver 12.3": "unknown",
+    "ati drivers 11.11": "unknown",
+    "ati fglrx": "unknown",
+    "ati firepro": "unknown",
+    "ati firepro 8700": "unknown",
+    "ati firepro v3750": "unknown",
+    "ati gpu (radeon hd 5450)": "5450",
+    "ati graphics cards": "unknown",
+    "ati hd 7970": "7970",
+    "ati hd 7970 sapphire vapor x": "7970", # Assuming a match with "7970" due to specific model mention.
+    "ati hd4870": "4870",
+    "ati hd7950": "7950",
+    "ati mobility 3400": "unknown",
+    "ati mobility radeon 9600/9700 series": "unknown",
+    "ati mobility radeon hd 3870 x2": "unknown",
+    "ati mobility radeon hd 4300 series": "unknown",
+    "ati mobility radeon hd 4500/5100 series": "unknown",
+    "ati mobility radeon hd 5650": "5650",
+    "ati mobility radeon hd4250": "unknown",
+    "ati overdrive / overclock settings": "unknown",
+    "ati proprietary driver": "unknown",
+    "ati radeon 3450": "unknown",
+    "ati radeon 5550": "5550",
+    "ati radeon 5850": "5850",
+    "ati radeon 5870": "5870",
+    "ati radeon 5870m": "unknown", # No exact match, but related to "5870".
+    "ati radeon 5xxx": "unknown", # General series, not specific.
+    "ati radeon 6670": "6670",
+    "ati radeon 6970m graphics card": "unknown", # Related to "6970" but specifically for mobile, which isn't listed.
+    "ati radeon 6xxx": "unknown", # General series, not specific.
+    "ati radeon gpus": "unknown",
+    "ati radeon hd 2600 xt": "unknown",
+    "ati radeon hd 3200 graphics card": "unknown",
+    "ati radeon hd 4250": "unknown",
+    "ati radeon hd 4250 gpu": "unknown",
+    "ati radeon hd 4350": "4350",
+    "ati radeon hd 5800 series cards": "unknown", # General series, not specific.
+    "ati radeon hd 5870s": "5870", # Assuming a match with "5870".
+    "ati radeon hd 5900 series core": "unknown", # General series, not specific.
+    "ati radeon hd 6570": "6570",
+    "ati radeon hd 6770m": "unknown", # No exact match, but related to "6770" if it were listed.
+    "ati radeon hd 6850": "6850",
+    "ati radeon hd 6970": "6970",
+    "ati radeon hd 6970m": "unknown", # Related to "6970" but specifically for mobile, which isn't listed.
+    "ati radeon hd 7600g": "unknown",
+    "ati radeon hd6850": "6850",
+    "ati radeon x1300 video card": "unknown",
+    "ati sapphire 5770": "5770",
+    "ati sapphire hd 6570": "6570",
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "lte for backup": "unknown",
+    "lunar launchers": "unknown",
+    "lvm": "unknown",
+    "lvt flooring": "unknown",
+    "lx150 bitfile": "unknown",
+    "lx150 chips": "unknown",
+    "lx9 fpga board": "unknown",
+    "lxde": "unknown",
+    "m laptop": "unknown",
+    "m's miner monitor": "unknown",
+    "m-card": "unknown",
+    "m-cards": "unknown",
+    "m0mchil": "unknown",
+    "m0mchil/poclbm miner": "unknown",
+    "m1": "unknown",
+    "m1 mac mini": "unknown",
+    "m1 module": "unknown",
+    "m10 units": "unknown",
+    "m10s": "microbt whatsminer m10s",
+    "m2": "unknown",
+    "m20s psu": "unknown",  # Assuming the user is referring to the PSU for Whatsminer M20s but not a direct hardware match.
+    "m20s whatsminers": "microbt whatsminer m20s",
+    "m21 series": "unknown",  # Closest match would be microbt whatsminer m21 or m21s but not specific.
+    "m21s whatsminer": "microbt whatsminer m21s",
+    "m25p80 spi0.0": "unknown",
+    "m2n-e motherboard": "unknown",
+    "m2n-sli deluxe": "unknown",
+    "m2n-sli deluxe motherboard": "unknown",
+    "m3 machines": "unknown",
+    "m3 miner": "microbt whatsminer m3",
+    "m3 psu": "unknown",  # Assuming the user is referring to the PSU for Whatsminer M3 but not a direct hardware match.
+    "m30s": "microbt whatsminer m30s",
+    "m30s units": "unknown",  # Assuming the user is referring to Whatsminer M30s units but not a direct hardware match.
+    "m31+": "microbt whatsminer m31s+",
+    "m32s miners": "microbt whatsminer m32s",
+    "m3s": "unknown",  # Could potentially refer to Whatsminer M3 series but not specific enough.
+    "m3x": "microbt whatsminer m3x",
+    "m3x hashboard": "unknown",  # Refers to a part of the Whatsminer M3X but not the hardware itself.
+    "m3x psu": "unknown",  # Assuming the user is referring to the PSU for Whatsminer M3X but not a direct hardware match.
+    "m4a89td pro/usb3": "unknown",
+    "m5a99fx pro r2.0 motherboard": "unknown",
+    "m6 board": "unknown",
+    "mac book": "unknown",
+    "mac book air processor 1.8 ghz intel core i5": "unknown",
+    "mac client": "unknown",
+    "mac lc": "unknown",
+    "mac mini core2": "unknown",
+    "mac mini server": "unknown",
+    "mac os x 10.6.8": "unknown",
+    "mac os x 10.9.4": "unknown",
+}
+```

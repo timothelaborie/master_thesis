@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "bitmain apw3-12-1600": "unknown",  # No direct match, related to power supply units
+    "bitmain apw3-12-1600-b2 psu": "unknown",  # No direct match, related to power supply units
+    "bitmain apw7 110/220 psu": "unknown",  # No direct match, related to power supply units
+    "bitmain apw7 120v/240v 1800w supply": "unknown",  # No direct match, related to power supply units
+    "bitmain asic mining firmwares": "unknown",  # Firmware, not hardware
+    "bitmain aw3+++ psu": "unknown",  # No direct match, seems like a typo or variant of a PSU
+    "bitmain awp++ psu": "unknown",  # No direct match, seems like a typo or variant of a PSU
+    "bitmain awp3++ power supply": "unknown",  # No direct match, related to power supply units
+    "bitmain branded psu": "unknown",  # Generic term for Bitmain's power supply units
+    "bitmain ch 600ghs": "unknown",  # No direct match, unclear reference
+    "bitmain fan": "unknown",  # Component, not a mining hardware
+    "bitmain firmware": "unknown",  # Firmware, not hardware
+    "bitmain gears": "unknown",  # Generic term, unclear reference
+    "bitmain lpm fw": "unknown",  # Firmware, not hardware
+    "bitmain models": "unknown",  # Generic term, unclear reference
+    "bitmain power supply": "unknown",  # Generic term for Bitmain's power supply units
+    "bitmain power supply unit": "unknown",  # Generic term for Bitmain's power supply units
+    "bitmain psu 1600w": "unknown",  # No direct match, related to power supply units
+    "bitmain psu apw7 1800": "unknown",  # No direct match, related to power supply units
+    "bitmain psu for s9 apw3++": "unknown",  # No direct match, related to power supply units
+    "bitmain psu units": "unknown",  # Generic term for Bitmain's power supply units
+    "bitmain psu's": "unknown",  # Generic term for Bitmain's power supply units
+    "bitmain r4 miner": "antminer r4",
+    "bitmain s1 antminer s1": "antminer s1",
+    "bitmain s11 miner": "antminer s11",
+    "bitmain s15s": "unknown",  # No direct match, possibly a typo or variant
+    "bitmain s17 units": "antminer s17",
+    "bitmain s19 pro miners": "antminer s19 pro",
+    "bitmain s19a pro 110th miners": "unknown",  # No direct match, possibly a variant of S19
+    "bitmain s3 & s4": "unknown",  # Refers to two models, antminer s3 and antminer s4
+    "bitmain s5": "antminer s5",
+    "bitmain s5 units": "antminer s5",
+    "bitmain s9": "antminer s9",
+    "bitmain s9i miner": "antminer s9i",
+    "bitmain sc1": "unknown",  # No direct match, unclear reference
+    "bitmain sticks": "unknown",  # Generic term, possibly referring to USB miners
+    "bitmain tester": "unknown",  # No direct match, unclear reference
+    "bitmain u1 antminers": "antminer u1",
+    "bitmain u2": "antminer u2+",
+    "bitmain u2s": "unknown",  # No direct match, possibly a typo or variant of U2+
+    "bitmain u3": "antminer u3",
+    "bitmain units": "unknown",  # Generic term, unclear reference
+    "bitmain usb devices": "unknown",  # Generic term, possibly referring to USB miners
+    "bitmain usb miners": "unknown",  # Generic term, possibly referring to USB miners
+    "bitmain v9 miner": "antminer v9",
+    "bitmain's 1600watt psu": "unknown",  # No direct match, related to power supply units
+    "bitmain's antminer s5 units": "antminer s5",
+    "bitmain's api": "unknown",  # API, not hardware
+    "bitmain's apw3/apw7": "unknown",  # No direct match, related to power supply units
+    "bitmain's psus": "unknown",  # Generic term for Bitmain's power supply units
+}
+```

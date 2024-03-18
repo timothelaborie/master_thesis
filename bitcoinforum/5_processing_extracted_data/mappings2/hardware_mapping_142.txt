@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "hd 7970": "7970",
+    "hd ati 6750m": "6750",
+    "hd radeon 3400": "unknown",  # No exact match found.
+    "hd supply": "unknown",  # Not related to any specific hardware model.
+    "hd2600": "unknown",  # No exact match found.
+    "hd4250": "unknown",  # No exact match found.
+    "hd4830": "4830",
+    "hd4850": "4850",
+    "hd4890": "4890",
+    "hd5570": "5570",
+    "hd5750": "5750",
+    "hd5770 graphic card": "5770",
+    "hd5850 (eah5850 the asus one)": "5850",
+    "hd5850 extreme": "5850",
+    "hd5870x2": "unknown",  # No exact match found, possibly referring to a dual GPU setup.
+    "hd5970 cards": "5970",
+    "hd5xxx+": "unknown",  # Refers to a range, not a specific model.
+    "hd6850": "6850",
+    "hd6850 video card": "6850",
+    "hd6870": "6870",
+    "hd6870 card": "6870",
+    "hd6950 1gb": "6950",
+    "hd6950s": "6950",
+    "hd7950": "7950",
+    "hd7950 cards": "7950",
+    "hd7970s*2": "7970",  # Assuming it refers to two 7970s.
+    "hd7990 gpu computers": "unknown",  # No exact match found, though 7990 is a known model not listed.
+    "hdd 500gb": "unknown",  # Not related to mining hardware models.
+    "hdd mining rigs": "unknown",  # Not specific to any hardware model.
+    "hdd raw copy tool": "unknown",  # Software, not hardware.
+    "hdmi cable": "unknown",  # Not related to mining hardware models.
+    "hdmi cables": "unknown",  # Not related to mining hardware models.
+    "hdmi connection": "unknown",  # Not related to mining hardware models.
+    "hdmi out": "unknown",  # Not related to mining hardware models.
+    "hdmi port": "unknown",  # Not related to mining hardware models.
+    "hdmi to vga adapter": "unknown",  # Not related to mining hardware models.
+    "hds": "unknown",  # Ambiguous, could refer to hard drives but not specific to mining.
+    "hdx fan": "unknown",  # No exact match found.
+    "headless miner": "unknown",  # Refers to a configuration, not specific hardware.
+    "headless server": "unknown",  # Refers to a configuration, not specific hardware.
+    "headphones": "unknown",  # Not related to mining hardware models.
+    "heat": "unknown",  # Not specific to any hardware model.
+    "heat exchanger": "unknown",  # Not related to mining hardware models.
+    "heat paste / heat pads": "unknown",  # Not related to mining hardware models.
+    "heat pump": "unknown",  # Not related to mining hardware models.
+    "heat rezisting tape": "unknown",  # Not related to mining hardware models.
+    "heat shrink tubing": "unknown",  # Not related to mining hardware models.
+    "heat sink fins": "unknown",  # Not related to mining hardware models.
+    "heat sink screws with springs": "unknown",  # Not related to mining hardware models.
+    "heater": "unknown",  # Not related to mining hardware models.
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "cmd window": "unknown",
+    "cmos": "unknown",
+    "cmos battery": "unknown",
+    "cmos metal cap oscillator": "unknown",
+    "cmspg 1200w": "unknown",
+    "cnc router": "unknown",
+    "cnc router machine": "unknown",
+    "cnc'ed from 4mm aluminum plates": "unknown",
+    "cntlm authentication proxy": "unknown",
+    "co2 generators": "unknown",
+    "cocaine from bitmain": "unknown", # No direct match, possibly a typo or unrelated.
+    "code editor": "unknown",
+    "coil": "unknown",
+    "coincraft 1th": "unknown", # Closest match would be Coincraft products but not specific enough.
+    "coincraft 28nm asic chips": "unknown", # Refers to the technology used in some mining hardware but not a specific model.
+    "coincraft a1 130ghs": "unknown", # No exact match, possibly referring to a Coincraft product but not listed.
+    "coincraft desk miner (asic miner)": "unknown", # Refers to Coincraft Desk but not listed specifically.
+    "coind": "unknown",
+    "coindrone usb drive": "unknown",
+    "coinotron": "unknown",
+    "cointellects": "unknown",
+    "cointerra 1.6 th/s": "cointerra terraminer iv", # Closest match based on specification.
+    "cointerra systems": "unknown", # Refers to the company, not a specific product.
+    "cointerra's 2th/s rig": "unknown", # Refers to a product by specification but not listed specifically.
+    "collectd": "unknown",
+    "colocation 1 gbps port": "unknown",
+    "cologne": "unknown",
+    "color coded spools of wire": "unknown",
+    "com": "unknown",
+    "com port": "unknown",
+    "com port firmware": "unknown",
+    "com ports": "unknown",
+    "com1": "unknown",
+    "com2": "unknown",
+    "com38": "unknown",
+    "com40": "unknown",
+    "com43": "unknown",
+    "com44": "unknown",
+    "com46": "unknown",
+    "com66": "unknown",
+    "com67": "unknown",
+    "com7": "unknown",
+    "com72": "unknown",
+    "com8": "unknown",
+    "com9": "unknown",
+    "combination modem/router": "unknown",
+    "comcast router/modem": "unknown",
+    "comcast xfinity 50 mbps down/ 10 mbps up internet connection": "unknown",
+    "comm cable": "unknown",
+    "command box": "unknown",
+}
+```

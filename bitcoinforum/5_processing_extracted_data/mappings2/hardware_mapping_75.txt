@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "ati sapphire hd 7950": "unknown",  # No exact match, but related to graphics cards used in early mining
+    "ati sdk": "unknown",
+    "ati sdks": "unknown",
+    "ati software": "unknown",
+    "ati stream 2.4": "unknown",
+    "ati stream sdk v2.1": "unknown",
+    "ati stream v.2.1": "unknown",
+    "ati stream v.2.4": "unknown",
+    "ati technologies inc cypress [radeon hd 5800 series]": "unknown",  # Related to graphics cards, but no exact match
+    "ati technologies inc hemlock [ati radeon hd 5900 series]": "unknown",  # Related to graphics cards, but no exact match
+    "ati technologies inc radeon hd 5800 series (cypress le)": "unknown",  # Related to graphics cards, but no exact match
+    "ati technologies inc rs880 [radeon hd 4250]": "unknown",  # Related to graphics cards, but no exact match
+    "ati tray tools": "unknown",
+    "ati trays": "unknown",
+    "ati video card": "unknown",  # Generic term for ATI graphics cards
+    "ati winflash": "unknown",
+    "ati-drivers-12.3": "unknown",
+    "ati-drivers-12.4": "unknown",
+    "ati/amd": "unknown",  # Refers to the manufacturer, not a specific product
+    "aticalc.icd": "unknown",
+    "aticaldd.icd": "unknown",
+    "aticalrt.icd": "unknown",
+    "aticonfig (ubuntu)": "unknown",
+    "atikmdag.sys": "unknown",
+    "atioc": "unknown",
+    "atitweak": "unknown",
+    "atm": "unknown",
+    "att uverse": "unknown",
+    "attached chiller": "unknown",
+    "attic fan": "unknown",
+    "attic fans": "unknown",
+    "attic heat exhaust fan": "unknown",
+    "attic space": "unknown",
+    "atx 4 pin adapter": "unknown",
+    "atx cheapo power supplies": "unknown",
+    "atx corsair cx600": "unknown",
+    "atx gold/80 certified power supplies": "unknown",
+    "atx molex / sata": "unknown",
+    "atx power lead": "unknown",
+    "atx sockets": "unknown",
+    "atx supplies": "unknown",
+    "atx supply": "unknown",
+    "atx to dc power adapter": "unknown",
+    "atx-cable": "unknown",
+    "atxp4 sata connection": "unknown",
+    "au3 devices": "unknown",
+    "au3 miners": "unknown",
+    "auc": "unknown",
+    "auc 3": "unknown",
+    "auc adapter": "unknown",
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "antec 300": "unknown",
+    "antec 380w psu": "unknown",
+    "antec 520": "unknown",
+    "antec 620w 80+ psu": "unknown",
+    "antec 750w high current pro": "unknown",
+    "antec 902v3 case": "unknown",
+    "antec diamond-based thermal grease": "unknown",
+    "antec earthwatts": "unknown",
+    "antec earthwatts 500": "unknown",
+    "antec earthwatts 650 green": "unknown",
+    "antec earthwatts 650w green 80 plus bronze psu": "unknown",
+    "antec earthwatts 750w psu": "unknown",
+    "antec hcg-400m": "unknown",
+    "antec hcg-750 750w": "unknown",
+    "antec hcp-850": "unknown",
+    "antec high current pro hcp-1200 1200w": "unknown",
+    "antec p180": "unknown",
+    "antec psus": "unknown",
+    "antec tpq 1200 psu": "unknown",
+    "antec tpq-1200": "unknown",
+    "antec twelve hundred": "unknown",
+    "antennas": "unknown",
+    "antennas high gain": "unknown",
+    "antfarmer asic s5": "unknown",  # No exact match, possibly meant "antminer s5" but unclear.
+    "anti virus and malware detection": "unknown",
+    "antiminer s3": "antminer s3",  # Typo in "antiminer", corrected to "antminer".
+    "antiminer s7": "antminer s7",  # Typo in "antiminer", corrected to "antminer".
+    "antiminer s9 hashboard": "antminer s9",  # Assuming reference to a part of Antminer S9.
+    "antiminer u1": "antminer u1",  # Typo in "antiminer", corrected to "antminer".
+    "antiminer u3": "antminer u3",  # Typo in "antiminer", corrected to "antminer".
+    "antimner s9": "antminer s9",  # Typo in "antimner", corrected to "antminer".
+    "antistatic brush": "unknown",
+    "antivirus": "unknown",
+    "antlike devices": "unknown",
+    "antmener s3+": "antminer s3+",  # Typo in "antmener", corrected to "antminer".
+    "antminer (1.6 gh/s)": "unknown",  # No exact match, unclear reference.
+    "antminer (s3)": "antminer s3",
+    "antminer 1.6gh / s": "unknown",  # No exact match, unclear reference.
+    "antminer 1.6gh/s": "unknown",  # No exact match, unclear reference.
+    "antminer 1600w": "unknown",  # Refers to power supply, not a miner model.
+    "antminer 17 series miners": "unknown",  # General reference to the 17 series, not specific.
+    "antminer 180 gh": "unknown",  # No exact match, unclear reference.
+    "antminer 180 gh/s": "unknown",  # No exact match, unclear reference.
+    "antminer 180i": "unknown",  # No exact match, unclear reference.
+    "antminer 2": "unknown",  # No exact match, unclear reference.
+    "antminer 2 gh/s": "unknown",  # No exact match, unclear reference.
+    "antminer 5": "unknown",  # No exact match, unclear reference.
+    "antminer 7": "unknown",  # No exact match, unclear reference.
+    "antminer a3": "antminer a3",
+    "antminer alert": "unknown",  # Likely refers to a software or alert system, not hardware.
+}
+```

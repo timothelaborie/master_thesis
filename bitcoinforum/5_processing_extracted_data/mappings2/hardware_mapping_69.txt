@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "asic t9+": "antminer t9+",
+    "asic test fixture": "unknown",
+    "asic units": "unknown",
+    "asic usb block erupters": "unknown",  # Closest match would be "asicminer block erupter usb 330mh/s" but not exact.
+    "asic usb block eruptors": "unknown",  # Typo in "erupters", but still no exact match.
+    "asic usb erupters": "unknown",  # Closest match would be "asicminer block erupter usb 330mh/s" but not exact.
+    "asic usb sticks": "unknown",
+    "asic# 25": "unknown",
+    "asic-freq file": "unknown",
+    "asic-s whatminer m3x": "microbt whatsminer m3x",
+    "asic.to firmware": "unknown",
+    "asic.to software": "unknown",
+    "asic[29] & [57] chips": "unknown",
+    "asicboost": "unknown",
+    "asicboost firmware": "unknown",
+    "asicboost software": "unknown",
+    "asicboosted s9": "antminer s9",  # Assuming a modified or boosted version of S9.
+    "asicboosted s9i": "antminer s9i",  # Assuming a modified or boosted version of S9i.
+    "asicchain[j3]": "unknown",
+    "asicchain[j4]": "unknown",
+    "asicminer 8 nano 44th/s model": "unknown",  # No exact match, but clearly an ASICminer product.
+    "asicminer backplane": "unknown",
+    "asicminer blad v2": "unknown",  # Likely a typo for "asicminer blade v2".
+    "asicminer blade 2.0": "unknown",  # No exact match, but similar to "asicminer blade v2".
+    "asicminer blade v2": "unknown",  # No exact match in the list.
+    "asicminer blade v2 - green pcb": "unknown",  # No exact match, detailed specification.
+    "asicminer block erupter": "unknown",  # Closest match would be "asicminer block erupter usb 330mh/s" but not exact.
+    "asicminer block erupter (335mh/s)": "unknown",  # Closest match would be "asicminer block erupter usb 330mh/s" but not exact.
+    "asicminer block erupter blade v2 boards": "unknown",  # No exact match, but clearly an ASICminer product.
+    "asicminer block erupter cube 30gh/s to 38gh/s miner": "unknown",  # No exact match, but clearly an ASICminer product.
+    "asicminer block erupter sapphire miner - advanced heat sink": "unknown",  # No exact match, but detailed specification.
+    "asicminer block erupter usb 330mh saphire miners": "unknown",  # Likely a typo for "asicminer block erupter usb 330mh/s sapphire miners".
+    "asicminer block erupter usb 330mh/s": "asicminer be tube",  # Assuming "be tube" is a shorthand for block erupter products.
+    "asicminer block erupter usb 336mh/s sapphire miners": "asicminer be tube",  # Assuming "be tube" is a shorthand for block erupter products.
+    "asicminer block eruptors": "unknown",  # Typo in "erupters", but still no exact match.
+    "asicminer cube (30gh/s)": "unknown",  # No exact match, but clearly an ASICminer product.
+    "asicminer erupter miner": "unknown",  # Closest match would be "asicminer block erupter usb 330mh/s" but not exact.
+    "asicminer erupter usb 330mh/s sapphire miners": "asicminer be tube",  # Assuming "be tube" is a shorthand for block erupter products.
+    "asicminer tube 800+ ghs": "asicminer be tube",
+    "asicminer usb miners": "unknown",  # General term, no exact match.
+    "asics l3+/d3/s8": "unknown",  # No exact match, seems to refer to multiple products.
+    "asics miners": "unknown",  # General term, no exact match.
+    "asics usb drivers": "unknown",
+    "asmedia usb3 chip": "unknown",
+    "asmedia usb3 hub": "unknown",
+    "asmedia usb3 ports": "unknown",
+    "asrock": "unknown",
+    "asrock 870 extreme 3 r2 motherboard": "unknown",
+    "asrock 880g pro3 atx amd motherboard": "unknown",
+    "asrock 890gx extreme4": "unknown",
+}
+```

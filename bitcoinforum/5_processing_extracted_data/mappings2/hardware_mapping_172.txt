@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "namecoind daemon": "unknown",
+    "nand": "unknown",
+    "nand flash": "unknown",
+    "nand memory": "unknown",
+    "nano": "unknown",
+    "nanofury asics": "nanofury / icefury",  # Assuming closest match, but not exact.
+    "nanofury nf1": "unknown",
+    "nanofury nf1 0.6": "unknown",
+    "nanofury stick miners": "nanofury / icefury",  # Assuming closest match, but not exact.
+    "nanofury usb miners": "nanofury / icefury",  # Assuming closest match, but not exact.
+    "nanofury usb stick": "nanofury / icefury",  # Assuming closest match, but not exact.
+    "nanofurys": "nanofury / icefury",  # Assuming closest match, but not exact.
+    "nanofurys devices": "nanofury / icefury",  # Assuming closest match, but not exact.
+    "nas server": "unknown",
+    "nat router": "unknown",
+    "natural gas gen-sets": "unknown",
+    "natural gas generator": "unknown",
+    "naxn 500w single volt rail": "unknown",
+    "ncp1399": "unknown",
+    "nct218": "unknown",
+    "ne351": "unknown",
+    "ne453": "unknown",
+    "ne551": "unknown",
+    "ne653": "unknown",
+    "nec usb card": "unknown",
+    "negative wires": "unknown",
+    "nema 10-30 120/240v dryer outlet": "unknown",
+    "nema 10-30 3-prong outlet": "unknown",
+    "nema 10-30 outlet": "unknown",
+    "nema 14-30p outlet": "unknown",
+    "nema 14-30r to l6-30r": "unknown",
+    "nema 14-50 outlet": "unknown",
+    "nema 14-50 plugs": "unknown",
+    "nema 14-50r": "unknown",
+    "nema 5-15r to c14 adapter": "unknown",
+    "nema 5-20 outlet": "unknown",
+    "nema 6 receptacle": "unknown",
+    "nema 6-15 or 6-30 outlet": "unknown",
+    "nema 6-15p outlets": "unknown",
+    "nema 6-20 (220v) plug": "unknown",
+    "nema 6-20 outlet": "unknown",
+    "nema 6-20r receptacle": "unknown",
+    "nema 6-20r receptacles": "unknown",
+    "nema 6-30r outlet": "unknown",
+    "nema l5-20r 120v receptacles": "unknown",
+    "nema l6-20 208v receptacles": "unknown",
+    "nema l630r receptacle": "unknown",
+    "nema5 6 receptacles": "unknown",
+    "nema6 to c13 cable": "unknown",
+    "nemo 6-15p outlets": "unknown",
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "gnu/linux laptop": "unknown",
+    "gold raidmax": "unknown",
+    "gold rated single rail 1000w psu": "unknown",
+    "goldshell hs5": "unknown",
+    "golf cart batteries": "unknown",
+    "gom player": "unknown",
+    "good pipe to the wan": "unknown",
+    "google chrome": "unknown",
+    "google chrome browser": "unknown",
+    "google chrome plugin called mining monitor": "unknown",
+    "google fiber": "unknown",
+    "gooseneck usb fans": "unknown",
+    "gox coins": "unknown",
+    "gpio i/o": "unknown",
+    "gpio9072": "unknown",
+    "gpu (6970)": "6970",
+    "gpu (ati)": "unknown", # ATI is a manufacturer, not a specific model.
+    "gpu (video card)": "unknown",
+    "gpu 280x": "unknown", # Closest match would be "280x" but it's not listed.
+    "gpu 280x vapor-x": "unknown", # Closest match would be "280x" but it's not listed.
+    "gpu 6 card rigs": "unknown",
+    "gpu 750ti": "unknown", # Closest match would be "750ti" but it's not listed.
+    "gpu 7950": "7950",
+    "gpu asus r9280x directcu ii top": "unknown", # Closest match would be "280x" but it's not listed.
+    "gpu caps view": "unknown",
+    "gpu cypress": "unknown", # Cypress is a codename for certain ATI/AMD GPUs, not a specific model listed.
+    "gpu fan": "unknown",
+    "gpu farm generators": "unknown",
+    "gpu from the mac m1": "unknown",
+    "gpu gear": "unknown",
+    "gpu hd 6770 miner": "6770",
+    "gpu kit": "unknown",
+    "gpu machines": "unknown",
+    "gpu miner (poclbm)": "unknown",
+    "gpu mining hardware": "unknown",
+    "gpu mining rig": "unknown",
+    "gpu plug on the psu": "unknown",
+    "gpu power tune flag": "unknown",
+    "gpu rack": "unknown",
+    "gpu rigs with deltas": "unknown",
+    "gpu risers - 009s plus pcie riser 1x to 16x graphic extension for gpu mining": "unknown",
+    "gpu rtx 3070": "unknown", # Closest match would be "3070" but it's not listed.
+    "gpu tower": "unknown",
+    "gpu x11": "unknown",
+    "gpu's per rig": "unknown",
+    "gpu(s)": "unknown",
+    "gpu-based": "unknown",
+    "gpu-intensive application": "unknown",
+    "gpu.overclock": "unknown",
+    "gpu0.fan": "unknown",
+}
+```

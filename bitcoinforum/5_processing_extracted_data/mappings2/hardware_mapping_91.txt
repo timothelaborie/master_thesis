@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "blockchaininfo wallets": "unknown",
+    "blockerupterblade asic": "unknown",  # No exact match, possibly a typo for a Block Erupter product.
+    "blockerupterorange": "unknown",  # No exact match, possibly a typo for a Block Erupter product.
+    "blow boards": "unknown",
+    "blower": "unknown",
+    "blower fan": "unknown",
+    "blower style fan": "unknown",
+    "blue bitfury usb miner": "unknown",  # Close to "bitfury" but not an exact product match.
+    "blue boards": "unknown",
+    "blue connector": "unknown",
+    "blue fans": "unknown",
+    "blue fly": "unknown",
+    "blue furt": "unknown",  # Likely a typo for "blue fury" but not an exact match.
+    "blue fury v1": "blue fury",
+    "blue furys": "blue fury",
+    "blue wire fan mod": "unknown",
+    "blue-box 10 mb hub": "unknown",
+    "blue-box 8 port 10base-t \"hub\" models": "unknown",
+    "blue/ red fury": "unknown",  # Ambiguous, could refer to either "blue fury" or "red fury" but not listed as such.
+    "bluefurries": "unknown",  # Likely a typo for "blue fury" but not an exact match.
+    "bluefury": "blue fury",
+    "bluefury sticks": "blue fury",
+    "bluetooth": "unknown",
+    "bluetooth speaker": "unknown",
+    "bm1380 asic": "unknown",  # Refers to a chip used in mining hardware but not a specific product listed.
+    "bm1380 chips": "unknown",  # Refers to a chip used in mining hardware but not a specific product listed.
+    "bm1384 stuff": "unknown",  # Refers to a chip used in mining hardware but not a specific product listed.
+    "bm1384 usb miner": "unknown",  # Refers to a chip used in mining hardware but not a specific product listed.
+    "bm1387b chips": "unknown",  # Refers to a chip used in mining hardware but not a specific product listed.
+    "bm1387s": "unknown",  # Refers to a chip used in mining hardware but not a specific product listed.
+    "bm1397ag": "unknown",  # Refers to a chip used in mining hardware but not a specific product listed.
+    "bm1397ahi": "unknown",  # Refers to a chip used in mining hardware but not a specific product listed.
+    "bmminer": "unknown",
+    "bmminer api": "unknown",
+    "bmminer for t9+": "unknown",
+    "board (chain1)": "unknown",
+    "board 1": "unknown",
+    "board 1 cable": "unknown",
+    "board 2": "unknown",
+    "board 3": "unknown",
+    "board 3 cable": "unknown",
+    "board demage": "unknown",  # Likely a typo for "damage" but not related to a specific product.
+    "boards sockets": "unknown",
+    "boards with dead die issues": "unknown",
+    "boards's leds": "unknown",
+    "bock erupters": "unknown",  # Likely a typo for "Block Erupters" but not an exact product match.
+    "bom": "unknown",
+    "boost circuit": "unknown",
+    "boost_mp3426 board": "unknown",
+    "booster": "unknown",
+}
+```

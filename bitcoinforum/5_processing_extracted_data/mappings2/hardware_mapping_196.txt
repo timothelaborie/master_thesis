@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "quadro k2000m x2": "unknown",
+    "quadro5000": "quadro 5000",
+    "quickseller": "unknown",
+    "qx9650 lga 775 cpu": "unknown",
+    "qx9770": "unknown",
+    "r box 100-100ghs": "unknown",  # Closest match could be "rkminer r4-box" but not clear enough
+    "r box rockminers": "unknown",  # Closest match could be "rkminer rocket box" but not clear enough
+    "r fuse": "unknown",
+    "r-box 100 gh/s": "unknown",  # Closest match could be "rkminer r4-box" but not clear enough
+    "r-box 100gh/s": "unknown",  # Closest match could be "rkminer r4-box" but not clear enough
+    "r-box 100s": "unknown",
+    "r-box 110-130": "unknown",
+    "r-box miner": "unknown",  # Closest match could be "rkminer r4-box" but not clear enough
+    "r-box miner 38g": "unknown",
+    "r-box rockminers": "unknown",  # Closest match could be "rkminer rocket box" but not clear enough
+    "r-box unit": "unknown",
+    "r-pi b+": "unknown",
+    "r.pi directory pi": "unknown",
+    "r10 resistor": "unknown",
+    "r146": "unknown",
+    "r148": "unknown",
+    "r17": "unknown",
+    "r280 cards": "unknown",  # Closest match could be "280x" but not clear enough
+    "r280x": "unknown",  # Closest match could be "280x" but not clear enough
+    "r280x sapphire edition": "unknown",  # Closest match could be "280x" but not clear enough
+    "r4 control board": "antminer r4",  # Assuming the control board is for Antminer R4
+    "r4 controller board": "antminer r4",  # Assuming the controller board is for Antminer R4
+    "r4 miners": "antminer r4",
+    "r4 ribbon cables": "unknown",
+    "r4 tar.gz files": "unknown",
+    "r4b6": "unknown",
+    "r52": "unknown",
+    "r56": "unknown",
+    "r6950": "6950",
+    "r7 370": "unknown",  # Closest match could be "370" but not clear enough
+    "r7000": "unknown",
+    "r7000 router": "unknown",
+    "r7950": "7950",
+    "r7950 twin frozr 3": "7950",
+    "r9 270": "unknown",  # Closest match could be "270" but not clear enough
+    "r9 270 (gaming)": "unknown",  # Closest match could be "270" but not clear enough
+    "r9 270 miner": "unknown",  # Closest match could be "270" but not clear enough
+    "r9 270 x": "unknown",  # Closest match could be "270x" but not clear enough
+    "r9 270x": "unknown",  # Closest match could be "270x" but not clear enough
+    "r9 270x cards": "unknown",  # Closest match could be "270x" but not clear enough
+    "r9 270x pci card": "unknown",  # Closest match could be "270x" but not clear enough
+    "r9 280": "unknown",  # Closest match could be "280" but not clear enough
+    "r9 280x card(sapphire)": "unknown",  # Closest match could be "280x" but not clear enough
+    "r9 280x cards": "unknown",  # Closest match could be "280x" but not clear enough
+    "r9 280x miner": "unknown",  # Closest match could be "280x" but not clear enough
+}
+```

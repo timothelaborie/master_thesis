@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "gcc gcc-4.5.1-2": "unknown",
+    "gd70": "unknown",
+    "gd70 built-in network adapter": "unknown",
+    "ge load center": "unknown",
+    "gearhead kb1700u": "unknown",
+    "gearmo 10 port hub": "unknown",
+    "gearmo hubs": "unknown",
+    "geccoscience compaq": "unknown",  # Possible typo but no clear match.
+    "gecko science 1384": "unknown",
+    "geckoscience usb": "unknown",  # Close to "gekko" products but not exact.
+    "geforce 260": "unknown",  # Closest match would be "gtx260" but not exact.
+    "geforce 6": "unknown",
+    "geforce 610": "unknown",
+    "geforce 6200 graphics card by nvidia": "gt6200",  # Assuming typo, closest match.
+    "geforce 6800": "gtx680",
+    "geforce 7950gt": "7950gt",  # Assuming typo, closest match.
+    "geforce 8200": "unknown",
+    "geforce 8600": "unknown",
+    "geforce 8600 gt": "8600gt",
+    "geforce 8600m gs": "unknown",
+    "geforce 8800": "8800gt",  # Assuming general reference to the 8800 series.
+    "geforce 9600 gso": "9600gso",
+    "geforce 9600 gso 512": "9600gso512",
+    "geforce 9600 gt": "9600gt",
+    "geforce 9600 gt oc": "9600gt",  # OC (overclocked) version not specified separately.
+    "geforce g105m": "unknown",
+    "geforce gt": "unknown",
+    "geforce gt 120": "unknown",
+    "geforce gt 130": "unknown",
+    "geforce gt 620": "gt620",
+    "geforce gt 640": "gt640",
+    "geforce gt 650m": "unknown",
+    "geforce gt 720 m": "unknown",
+    "geforce gts260": "gts250",  # Assuming typo, closest match.
+    "geforce gtx 560 ti": "gtx560 ti",
+    "geforce gtx 580": "gtx580",
+    "geforce gtx 680": "gtx680",
+    "geforce gtx 760": "unknown",
+    "geforce gtx770": "unknown",
+    "geforce210": "g210",
+    "gefroce gtx 670": "gtx670",  # Typo corrected.
+    "gekko": "unknown",  # No exact match, related to "gekko" products but not specific.
+    "gekko compac f": "unknown",  # Close to "gekko" products but not exact.
+    "gekko compac sticks": "unknown",  # Close to "gekko" products but not exact.
+    "gekko compac usb stick": "unknown",  # Close to "gekko" products but not exact.
+    "gekko driver": "unknown",
+    "gekko science compaq": "unknown",  # Possible typo but no clear match.
+    "gekko sticks": "unknown",  # Close to "gekko" products but not exact.
+    "gekko usb hub": "unknown",  # Close to "gekko" products but not exact.
+    "gekko usb miners": "unknown",  # Close to "gekko" products but not exact.
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "giant stage fan": "unknown",
+    "gift cards": "unknown",
+    "gigabite 7970": "unknown",  # Typo, closest match would be "7970" but not exact.
+    "gigabyte": "unknown",
+    "gigabyte 280xs": "unknown",  # No exact match, possibly meant "280x" but not listed.
+    "gigabyte 660 ti": "unknown",  # No exact match, "660 ti" not listed.
+    "gigabyte 7850": "unknown",  # No exact match, "7850" not listed.
+    "gigabyte 7950 3gb": "unknown",  # Closest match would be "7950" but not listed.
+    "gigabyte 7970": "7970",
+    "gigabyte 7970 ghz": "7970",  # Assuming "ghz" refers to a GHz edition, closest match "7970".
+    "gigabyte 990 fxa ud7": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte 990 ud3": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte 990fx board": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte 990fxa-ud3": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte 990fxa-ud3 motherboard": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte 990fxa-ud5": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte 990fxa-ud5 motherboard": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte 990fxa-ud5 rev. 1.0": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte 990fxa-ud7": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte 990fxa-ud7 mobo": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte 990fxa-ud7 motherboard": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte 990fxa-ud7 rev 3.0 amd 990fx motherboard": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte amd hd7750 2gb": "unknown",  # No exact match, "7750" not listed.
+    "gigabyte amd radeon hd 7950 3gb gddr5": "unknown",  # Closest match would be "7950" but not listed.
+    "gigabyte amd radeon hd 7970 oc 3gb": "7970",
+    "gigabyte cards": "unknown",
+    "gigabyte f2a85x-up4": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte factory oc 7770": "unknown",  # No exact match, "7770" not listed.
+    "gigabyte fm2 a85x up4 board": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte ga p67a-ud3-b3": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte ga-770t-d3l": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte ga-890fxa-ud5 motherboard": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte ga-890fxa-ud7": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte ga-965p-ds3 lga 775 intel p965 express atx intel motherboard": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte ga-970a-b3": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte ga-970a-d3": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte ga-970a-d3p": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte ga-990fxa-ud3": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte ga-990fxa-ud3 mb": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte ga-990fxa-ud5": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte ga-990fxa-ud5 amd am3+ 990fx motherboard": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte ga-f2a55m-hd2 mobo": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte ga-m61pme-s2p motherboard": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte ga-ma78g-ds3h motherboard": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte ga-p67-ds3-b3": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte ga-x38-dq6": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte ga-x58a-ud3r motherboard": "unknown",  # No exact match, motherboard not listed as mining hardware.
+    "gigabyte ghz edition": "unknown",  # No exact match, could refer to several "GHz edition" GPUs but not specific enough.
+    "gigabyte gv-r797oc-3gd": "7970",  # Specific model of "7970".
+    "gigabyte h61m-ds2h": "unknown",  # No exact match, motherboard not listed as mining hardware.
+}
+```

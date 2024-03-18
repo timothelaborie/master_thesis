@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "at&t uverse broadband modem system device": "unknown",
+    "athena super computer": "unknown",
+    "atheros based router (tplink wr1043nd)": "unknown",
+    "atheros based tplink 703n": "unknown",
+    "athlon 64 2.0ghz s754": "unknown",
+    "athlon 64 x2 4200+": "unknown",
+    "athlon ii 170u 2.7ghz": "unknown",
+    "athlon ii 270": "unknown",
+    "athlon ii x2 2.8ghz": "unknown",
+    "athlon ii x2 270 3.4ghz": "unknown",
+    "athlon x2": "unknown",
+    "athlon xp": "unknown",
+    "athlon xp 1800": "unknown",
+    "athlonx2 4600": "unknown",
+    "athon ii x2 250 cpus": "unknown",
+    "ati": "unknown",
+    "ati 11.3 drivers": "unknown",
+    "ati 11.5 binary driver": "unknown",
+    "ati 11.6 driver": "unknown",
+    "ati 11.9 drivers": "unknown",
+    "ati 12.6 catalyst drivers": "unknown",
+    "ati 280x": "unknown", # No exact match, could refer to a series not listed
+    "ati 4350": "4350",
+    "ati 4830": "4830",
+    "ati 4870": "4870",
+    "ati 4890": "4890",
+    "ati 5670 gpu": "5670",
+    "ati 5770": "5770",
+    "ati 5770 card": "5770",
+    "ati 5770 juniper gpus": "5770", # Specific model, but closest match is "5770"
+    "ati 5770s": "5770",
+    "ati 5850 oc": "5850", # Assuming "oc" refers to overclocked, closest match is "5850"
+    "ati 5850m": "unknown", # No "m" series listed, but could be a typo or variant of "5850"
+    "ati 5850s": "5850",
+    "ati 5870 video card": "5870",
+    "ati 5xxx card": "unknown", # Refers to a series, not a specific model
+    "ati 6700": "unknown", # No exact match, could refer to a series not listed
+    "ati 6750m card": "6750", # Assuming a typo or variant, closest match is "6750"
+    "ati 68xx graphics cards": "unknown", # Refers to a series, not a specific model
+    "ati 6900": "unknown", # No exact match, could refer to a series not listed
+    "ati 6900 series cards": "unknown", # Refers to a series, not a specific model
+    "ati 6970": "6970",
+    "ati 6990": "6990",
+    "ati 7770": "7770",
+    "ati app sdk": "unknown",
+    "ati bios": "unknown",
+    "ati catalist control center": "unknown",
+    "ati catalyst 11.7 amd app sdk 2.5": "unknown",
+    "ati catalyst 11.7 w/ sdk 2.5": "unknown",
+    "ati chipsets": "unknown",
+}
+```

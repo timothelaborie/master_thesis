@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "putty ssh": "unknown",
+    "pv panels": "unknown",
+    "pvc wiring": "unknown",
+    "pvt_t0": "unknown",
+    "pwm": "unknown",
+    "pwm controller": "unknown",
+    "pwny": "unknown",
+    "pws": "unknown",
+    "pxe server": "unknown",
+    "pxy1 (beblede)": "unknown",
+    "pyhon2.7": "unknown",
+    "pyopencl 2011.1.2": "unknown",
+    "pyopencl-2011.2": "unknown",
+    "python code": "unknown",
+    "python opencl bitcoin miner": "unknown", # No exact match but related to mining software.
+    "python opencl miners": "unknown", # Related to mining software but no hardware match.
+    "python poclbm.py": "unknown", # Mining software, not hardware.
+    "python-jsonrpc rev. 19": "unknown",
+    "python3 asyncore module": "unknown",
+    "python3-minimal": "unknown",
+    "python3.2": "unknown",
+    "q3": "unknown",
+    "q3p": "unknown",
+    "q6600 cpu": "unknown",
+    "q6600 quadcore": "unknown",
+    "q86": "unknown",
+    "qfr1212ghe": "unknown",
+    "qfr1212ghe 4pin 2.70a": "unknown",
+    "qnap nas (419p+ with intel atom)": "unknown",
+    "qt": "unknown",
+    "qt 8.1": "unknown",
+    "qt wallet": "unknown",
+    "quad 5870 miner": "5870", # Assuming a typo or version difference, closest match.
+    "quad 7950 mining setup": "7950", # Assuming a typo or version difference, closest match.
+    "quad 8xxx card": "unknown", # No exact match, could refer to a range of 8000 series cards.
+    "quad core": "unknown",
+    "quad core computer": "unknown",
+    "quad core cpu": "unknown",
+    "quad crossfire xfx 7970 dd black edition 3gb": "7970",
+    "quad gpu 1300 mh/s rigs": "unknown", # Specific performance metric, but no direct hardware match.
+    "quad r9 290 rig": "r9 290",
+    "quad reference 6950s": "6950",
+    "quad-core xeon cpu": "unknown",
+    "quad-core xeon machine": "unknown",
+    "quad-fire pc setup": "unknown",
+    "quadcore": "unknown",
+    "quadcore cpu": "unknown",
+    "quadfire 7970 rig": "7970",
+    "quadro 2000 graphics cards": "quadro 2000",
+    "quadro k2000 x32": "quadro k2000",
+}
+```

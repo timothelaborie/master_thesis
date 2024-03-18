@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "950 watt psu": "unknown",
+    "950w power supply": "unknown",
+    "955": "unknown",
+    "955's piston": "unknown",
+    "9600m gt": "9400m",  # Closest match, but questionable.
+    "970 extreme4": "unknown",
+    "980 watt server power supply model number \"dps980cba\"": "unknown",
+    "9800gt": "9800gt",
+    "9800gt 1 gbi": "9800gt",  # Assuming a typo, closest match.
+    "980m": "unknown",
+    "990 fxa ud7": "unknown",
+    "990-fxa ud7": "unknown",
+    "990fx extreme socket-am3+ atx 990x+sb950 ddr3 cfx&sli sata 6gb/s usb 3.0 fw dolby ssdkingston hyperx 3k ssd 120gb 2.5\" sata 6 gb/s (sata3.0) 555/510mb/s read/write sandforce cpuamd fx-4300 4-core processor socket-am3+ 3.8ghz 95w 4mb l2 + 4mb l3 cache 32nm black edition ramcorsair 8gb (2x4gb) cl9 1333mhz xms3 chassifractal design define r4 black pearl fans:1x 140mm front 1x 140mm back ljuddmpat atx matx mitx usb 3.0 psufractal design tesla r2 1000w extra fanfractal design chassi fan": "unknown",
+    "990fxa-gd65": "unknown",
+    "990fxa-gd80 based miner": "unknown",
+    "990fxa-gd80 mobo": "unknown",
+    "990fxa-gd80v2": "unknown",
+    "990fxa-ud3": "unknown",
+    "99p fans": "unknown",
+    "9dbi antennas": "unknown",
+    "a-741": "canaan avalonminer 741",
+    "a-821": "avalon821",
+    "a-841": "canaan avalonminer 841",
+    "a-851s": "unknown",
+    "a-c": "unknown",
+    "a/c system": "unknown",
+    "a1 24th": "aisen a1 pro",  # Assuming a version or specification detail, closest match.
+    "a1 28nm module": "unknown",
+    "a1 love core aisen 24th": "aisen a1 pro",  # Assuming a version or specification detail, closest match.
+    "a1 pro 23th": "aisen a1 pro",  # Assuming a version or specification detail, closest match.
+    "a1 to b17 pin short": "unknown",
+    "a10 pro+": "unknown",
+    "a10-5800k apu": "unknown",
+    "a1066 avalon": "canaan avalonminer 1066",
+    "a1066a1166a1246": "unknown",  # Multiple models mentioned, unclear mapping.
+    "a1166 81t": "canaan avalonminer 1166 pro",  # Assuming a specification detail, closest match.
+    "a1166 psu": "canaan avalonminer 1166 pro",  # Assuming PSU refers to the model's power supply unit.
+    "a1166 units": "canaan avalonminer 1166 pro",
+    "a1246 unit": "canaan avalonminer 1246",
+    "a1246-85t": "canaan avalonminer 1246",  # Assuming a specification detail, closest match.
+    "a1dbd379": "unknown",
+    "a2": "unknown",
+    "a2 board": "unknown",
+    "a2 terminator 90000mhz": "innosilicon t2 terminator",  # Assuming a specification detail, closest match.
+    "a3": "unknown",
+    "a4": "unknown",
+    "a4 785td-v main board": "unknown",
+    "a4 dominator tf": "unknown",
+    "a4 fm2 processor": "unknown",
+    "a4 laptop": "unknown",
+}
+```
