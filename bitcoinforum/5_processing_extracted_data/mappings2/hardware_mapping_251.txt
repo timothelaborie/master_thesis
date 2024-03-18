@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "xylinx 7010 (s9j control board)": "unknown",  # No exact match, and "xylinx 7010" does not directly correspond to any known mining hardware.
+    "y adapters": "unknown",  # General hardware, not specific to any listed mining device.
+    "y connector": "unknown",  # General hardware, not specific to any listed mining device.
+    "y splitters": "unknown",  # General hardware, not specific to any listed mining device.
+    "y-exhaust tube": "unknown",  # General hardware, not specific to any listed mining device.
+    "y-power connector cable": "unknown",  # General hardware, not specific to any listed mining device.
+    "y.l. d12bm-12d fan": "unknown",  # General hardware, not specific to any listed mining device.
+    "yaln (yate loon) fan": "unknown",  # General hardware, not specific to any listed mining device.
+    "yate loon": "unknown",  # General hardware, not specific to any listed mining device.
+    "yate loon electronics fan": "unknown",  # General hardware, not specific to any listed mining device.
+    "yd yd12038b2g 4.5a(gp) fans": "unknown",  # General hardware, not specific to any listed mining device.
+    "yd12038b2g 4.5a fans": "unknown",  # General hardware, not specific to any listed mining device.
+    "yd1850pc power supply": "unknown",  # General hardware, not specific to any listed mining device.
+    "yellow 12v lead": "unknown",  # General hardware, not specific to any listed mining device.
+    "yellow jacket usb miners": "unknown",  # No exact match, and does not directly correspond to any known mining hardware.
+    "yellow top optimas": "unknown",  # General hardware, not specific to any listed mining device.
+    "yellowjackets": "unknown",  # No exact match, and does not directly correspond to any known mining hardware.
+    "yld12bm-12d": "unknown",  # General hardware, not specific to any listed mining device.
+    "yoli evo": "unknown",  # No exact match, and does not directly correspond to any known mining hardware.
+    "yosemite": "unknown",  # No exact match, and does not directly correspond to any known mining hardware.
+    "ypool miner": "unknown",  # No exact match, and does not directly correspond to any known mining hardware.
+    "yunhuibtc miner power supply": "unknown",  # No exact match, and does not directly correspond to any known mining hardware.
+    "z15": "unknown",  # No exact match, and does not directly correspond to any known mining hardware.
+    "z15 miner controllers": "unknown",  # No exact match, and does not directly correspond to any known mining hardware.
+    "z77 g45 motherboard": "unknown",  # General hardware, not specific to any listed mining device.
+    "z77 thunderbolt": "unknown",  # General hardware, not specific to any listed mining device.
+    "z77a-g45": "unknown",  # General hardware, not specific to any listed mining device.
+    "z77a-g45 motherboard": "unknown",  # General hardware, not specific to any listed mining device.
+    "z77a-gd65 gaming msi mobo": "unknown",  # General hardware, not specific to any listed mining device.
+    "z77a-gd65 mb": "unknown",  # General hardware, not specific to any listed mining device.
+    "z77x-ud5h motherboard": "unknown",  # General hardware, not specific to any listed mining device.
+    "z87 chipset": "unknown",  # General hardware, not specific to any listed mining device.
+    "z87-gd65 gaming z87 1150 rti": "unknown",  # General hardware, not specific to any listed mining device.
+    "z9": "unknown",  # No exact match, but could potentially refer to "Antminer Z9" or "Antminer Z9 Mini" without further context.
+    "z9 minis": "unknown",  # Could potentially refer to "Antminer Z9 Mini", but without "Antminer" it's unclear.
+    "zadig (2.2)": "unknown",  # Software tool, not hardware.
+    "zadig driver": "unknown",  # Software tool, not hardware.
+    "zadig drivers": "unknown",  # Software tool, not hardware.
+    "zadig procedure": "unknown",  # Software tool, not hardware.
+    "zadig tool": "unknown",  # Software tool, not hardware.
+    "zadig tools": "unknown",  # Software tool, not hardware.
+    "zadig uart driver": "unknown",  # Software tool, not hardware.
+    "zadig utility": "unknown",  # Software tool, not hardware.
+    "zag drivers": "unknown",  # Likely a typo or unclear reference, no known mining hardware matches.
+    "zalman": "unknown",  # General hardware brand, not specific to any listed mining device.
+    "zalman 1000w psu": "unknown",  # General hardware, not specific to any listed mining device.
+    "zalman 1250psu": "unknown",  # General hardware, not specific to any listed mining device.
+    "zalman 850w psu": "unknown",  # General hardware, not specific to any listed mining device.
+    "zalmann gs1000": "unknown",  # General hardware, not specific to any listed mining device.
+    "zardig utility": "unknown",  # Likely a typo for "zadig utility", which is software, not hardware.
+}
+```

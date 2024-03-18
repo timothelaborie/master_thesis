@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "usb com port": "unknown",
+    "usb connection": "unknown",
+    "usb connection 12v ac/dc power brick of 6a": "unknown",
+    "usb connections": "unknown",
+    "usb control port": "unknown",
+    "usb converter": "unknown",
+    "usb cube powering rasbperry pi 3": "unknown",
+    "usb data cable": "unknown",
+    "usb daulminer bitcoin&litecoin": "unknown", # Closest match could be "dualminer", but not listed.
+    "usb delay": "unknown",
+    "usb devices (fpgas/asics)": "unknown", # General category, not specific hardware.
+    "usb dongle": "unknown",
+    "usb dragon": "unknown", # Could be a reference to DragonMint but not specific enough.
+    "usb drive 4gb": "unknown",
+    "usb drive with linuxcoin": "unknown",
+    "usb driven fan": "unknown",
+    "usb driver": "unknown",
+    "usb driver zadig 2.1.0": "unknown",
+    "usb drivers": "unknown",
+    "usb drivers with zadig from ftdibus to winusb": "unknown",
+    "usb dual miners (ltc only)": "unknown", # Closest match could be "dualminer", but not listed.
+    "usb dualminer": "unknown", # Closest match could be "dualminer", but not listed.
+    "usb erupter 333m": "unknown", # Closest match could be "block erupter asics", but not specific enough.
+    "usb erupter block": "unknown", # Closest match could be "block erupter asics", but not specific enough.
+    "usb eruptor asics": "unknown", # Closest match could be "block erupter asics", but not specific enough.
+    "usb extender": "unknown",
+    "usb extension": "unknown",
+    "usb flash 8gb": "unknown",
+    "usb flash disk": "unknown",
+    "usb flashdrive": "unknown",
+    "usb fpga cards": "unknown", # General category, not specific hardware.
+    "usb gekko miners": "unknown", # Closest match could be "gekkoscience", but not listed as such.
+    "usb gekkoscience 8-16 gh/s": "unknown", # Closest match could be "gekkoscience", but not listed as such.
+    "usb hdd": "unknown",
+    "usb hotplug devices": "unknown",
+    "usb hub \"plugable\" with 7 ports": "unknown",
+    "usb hub (6 ports)": "unknown",
+    "usb hub (tecknet 10 port)": "unknown",
+    "usb hub 10 port": "unknown",
+    "usb hubs with 4 asics": "unknown", # General category, not specific hardware.
+    "usb hubs with 5amp ps": "unknown",
+    "usb ica": "unknown",
+    "usb jack": "unknown",
+    "usb key": "unknown",
+    "usb keyboard": "unknown",
+    "usb lightning bolt plug": "unknown",
+    "usb lines": "unknown",
+    "usb linksys wireless card": "unknown",
+    "usb linux": "unknown",
+    "usb memory stick": "unknown",
+}
+```

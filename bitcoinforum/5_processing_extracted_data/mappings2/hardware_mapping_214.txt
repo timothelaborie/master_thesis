@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "sapphire radeon 7950 gpus": "unknown",
+    "sapphire radeon hd 4850": "4850",
+    "sapphire radeon hd 5830": "5830",
+    "sapphire radeon hd 5870": "5870",
+    "sapphire radeon hd 7850 oc 2gb 256-bit gddr5 pci express 3.0 x16 hdcp ready crossfirex support video card": "7850",
+    "sapphire radeon hd 7950": "7950",
+    "sapphire radeon hd 7950 boost 3gb gddr5 384bit dvi hdmi mini-displayport pci-e 3.0": "7950", # Assuming a match with "7950" due to detailed description.
+    "sapphire radeon hd 7970 gpu": "7970",
+    "sapphire radeon hd6870": "6870",
+    "sapphire radeon r9 280x": "unknown", # No exact match found.
+    "sapphire radeons": "unknown",
+    "sapphire tech 100297-2l": "unknown",
+    "sapphire toxic 280x": "unknown", # No exact match found.
+    "sapphire tri-x 290x2x": "unknown", # No exact match found.
+    "sapphire tri-x r9 280x 3gb gddr5 oc (uefi)": "unknown", # No exact match found.
+    "sapphire trixx utility": "unknown",
+    "sapphire vapor-x fan": "unknown",
+    "sapphire vaporx r9 280x": "unknown", # No exact match found.
+    "sapphire xtreme": "unknown",
+    "sappire hd5750": "5750",
+    "sappire hd7770": "7770",
+    "sata 15pin connections": "unknown",
+    "sata > 6 pin adapters": "unknown",
+    "sata adapters": "unknown",
+    "sata cable": "unknown",
+    "sata drive": "unknown",
+    "sata iii": "unknown",
+    "sata supplies": "unknown",
+    "sata to pci adapters": "unknown",
+    "sata to pcie power adapters": "unknown",
+    "satechi 12-port powered hub": "unknown",
+    "satellite connection": "unknown",
+    "sc 30 gh/s": "unknown",
+    "sc 60 gh/s": "unknown",
+    "schneider breaker": "unknown",
+    "scilabs usb to uart chip": "unknown",
+    "screen mesh": "unknown",
+    "screw": "unknown",
+    "screw connectors": "unknown",
+    "screw wire": "unknown",
+    "screws on the mm board": "unknown",
+    "scrypt": "unknown",
+    "scrypt asic": "unknown",
+    "scrypt coin rigs": "unknown",
+    "scrypt furys": "unknown",
+    "scrypt miners": "unknown",
+    "scrypt mining asic": "unknown",
+    "scrypt mining machines": "unknown",
+    "scrypt-miner": "unknown",
+    "scrypt/litecoin 3700 kh rig": "unknown",
+}
+```

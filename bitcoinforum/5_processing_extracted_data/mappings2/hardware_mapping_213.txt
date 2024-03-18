@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "sapphire 5850 toxic 2gb version": "5850",
+    "sapphire 5850s": "5850",
+    "sapphire 5870 vapor-x 1gb": "5870",
+    "sapphire 6770": "6770",
+    "sapphire 6870": "6870",
+    "sapphire 6950": "6950",
+    "sapphire 6950 v2": "6950",  # Assuming a version difference, closest match.
+    "sapphire 6950s": "6950",
+    "sapphire 6970": "6970",
+    "sapphire 6990": "6990",
+    "sapphire 7850": "7850",
+    "sapphire 7870": "7870",
+    "sapphire 7870 xt tahiti": "7870 xt",  # Closest match, assuming a variant.
+    "sapphire 7870xt": "7870 xt",  # Closest match, assuming a variant.
+    "sapphire 7950 (1.250v)": "7950",
+    "sapphire 7950 dual-x": "7950",
+    "sapphire 7950 gpu": "7950",
+    "sapphire 7950 vapor x": "7950",
+    "sapphire 7950 vapor-x": "7950",
+    "sapphire 7970 cage fan card": "7970",
+    "sapphire 7970 ghz edition vapor-x": "7970",
+    "sapphire bes": "unknown",
+    "sapphire bloce errupter": "unknown",  # Likely meant "block erupter" but not a match.
+    "sapphire card": "unknown",
+    "sapphire dirt3 edition 6950": "6950",
+    "sapphire dual x 7950s": "7950",
+    "sapphire dual x cards": "unknown",  # No specific model provided.
+    "sapphire dual x r280x cards": "unknown",  # No exact match, assuming typo for R9 280X.
+    "sapphire dualx 29 280x": "unknown",  # Likely meant "dualx R9 280x" but not a clear match.
+    "sapphire dualx 7950s": "7950",
+    "sapphire extreme 5830": "5830",
+    "sapphire hd 5830": "5830",
+    "sapphire hd 7850 oc (2gb mem)": "7850",
+    "sapphire hd 7950s": "7950",
+    "sapphire hd5850 xtreme card": "5850",
+    "sapphire hd5870": "5870",
+    "sapphire hd6870 1gb": "6870",
+    "sapphire hd7770 vapor-x": "7770",
+    "sapphire hd7850": "7850",
+    "sapphire hd7950": "7950",
+    "sapphire pure black": "unknown",  # No specific model provided.
+    "sapphire r9 270x": "unknown",  # Not listed.
+    "sapphire r9 270x oc 4gb": "unknown",  # Not listed.
+    "sapphire r9 270x vapor-x": "unknown",  # Not listed.
+    "sapphire r9 280x": "unknown",  # Not listed.
+    "sapphire r9 280x gpu": "unknown",  # Not listed.
+    "sapphire r9 280x vapor-x": "unknown",  # Not listed.
+    "sapphire radeon 4550": "4550",
+    "sapphire radeon 5850": "5850",
+    "sapphire radeon 7950 cards": "7950",
+}
+```

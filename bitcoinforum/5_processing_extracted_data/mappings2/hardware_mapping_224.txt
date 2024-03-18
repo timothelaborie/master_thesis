@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "sun fire v880": "unknown",
+    "sunny-boy 2500": "unknown",
+    "sunon pdm1204pqbx-a double ball fan 12v 8w fan": "unknown",
+    "sunpower panels": "unknown",
+    "super hub router": "unknown",
+    "superbpag": "unknown",
+    "superbpag 70 watt hub": "unknown",
+    "supermicro pws-1k41f-1r": "unknown",
+    "supermicro pws-1k41p-1r": "unknown",
+    "supplies": "unknown",
+    "supply cable": "unknown",
+    "surface pro 2": "unknown",
+    "surge devices": "unknown",
+    "surge protected strip bar": "unknown",
+    "surge protector": "unknown",
+    "surge protector strip": "unknown",
+    "suse linux enterprise server 11 sp2 (x86_64)": "unknown",
+    "switch (tp-link 8port tlsg1008d)": "unknown",
+    "switch and led": "unknown",
+    "switch port": "unknown",
+    "switcher": "unknown",
+    "switching pdus": "unknown",
+    "sx": "unknown",
+    "sx series miners": "unknown",
+    "symantec": "unknown",
+    "synology nas": "unknown",
+    "synthetic hog hair air filters": "unknown",
+    "syscooling pump": "unknown",
+    "system": "unknown",
+    "system device (nand)": "unknown",
+    "system monitor": "unknown",
+    "systemcooling kit": "unknown",
+    "t 5850": "unknown",  # No exact match, closest would be "5850" but not listed as such.
+    "t-1": "unknown",
+    "t-1m": "unknown",
+    "t09 round sticker": "unknown",
+    "t1's fans": "unknown",
+    "t15s": "unknown",
+    "t17 / t17+": "antminer t17+",  # Assuming a general reference to both T17 and T17+ models.
+    "t17 40t": "antminer t17",  # Closest match, assuming typo or variant.
+    "t17 40th": "antminer t17",  # Assuming typo or variant.
+    "t17 40ths": "antminer t17",  # Assuming typo or variant.
+    "t17 42 th": "antminer t17",  # Assuming typo or variant.
+    "t17 42 th/s miners": "antminer t17",  # Assuming typo or variant.
+    "t17 42t": "antminer t17",  # Assuming typo or variant.
+    "t17 antminer": "antminer t17",
+    "t17 card": "unknown",  # While related to the T17, this is a component, not the miner itself.
+    "t17 fan": "unknown",  # Component of T17, not the miner.
+    "t17 hash board": "unknown",  # Component of T17, not the miner.
+    "t17 miner": "antminer t17",
+}
+```

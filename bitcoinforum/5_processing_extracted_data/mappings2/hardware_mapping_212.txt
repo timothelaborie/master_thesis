@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "saitechi one": "unknown",
+    "saltwater tank": "unknown",
+    "samo problm like you writing here": "unknown",
+    "samsung": "unknown",
+    "samsung 1600*900 resolution lcd monitor": "unknown",
+    "samsung 1tb sata hdd": "unknown",
+    "samsung 90 mb/s card": "unknown",
+    "samsung android": "unknown",
+    "samsung cards": "unknown",
+    "samsung chromebook": "unknown",
+    "samsung f3 750": "unknown",
+    "samsung n130 netbook": "unknown",
+    "samsung netbook": "unknown",
+    "samsung note 5": "unknown",
+    "samsung s8s": "unknown",
+    "samsung ssd": "unknown",
+    "sanace fans": "unknown",
+    "sandisk 30 mb/s card": "unknown",
+    "sandisk 8gb sd card": "unknown",
+    "sandisk brand 8gb class 10": "unknown",
+    "sandisk sd card": "unknown",
+    "sandisk ssd 32gb": "unknown",
+    "santviewer": "unknown",
+    "sanyo ace": "unknown",
+    "sanyo denki": "unknown",
+    "sanyo denki 9lg1212p1g001": "unknown",
+    "sanyo fans": "unknown",
+    "sanyo san ace fan": "unknown",
+    "saphire 5830": "5830",  # Closest match, assuming typo in "saphire"
+    "saphire 5850": "5850",  # Closest match, assuming typo in "saphire"
+    "saphire 6850": "6850",  # Closest match, assuming typo in "saphire"
+    "saphire asic miner": "unknown",  # No specific ASIC miner listed under "saphire"
+    "saphire led": "unknown",
+    "saphire trixx": "unknown",
+    "saphires": "unknown",
+    "saphirre radeon 7870ghz edition 2gb": "7870 xt",  # Closest match, assuming typo in "saphirre"
+    "sapphire 100297l radeon hd 5830": "5830",
+    "sapphire 100297l radeon hd 5830 1gb 256-bit gddr5 pci express 2.1 x16 hdcp ready crossfirex support video card": "5830",
+    "sapphire 100352-4l radeon hd 7950 3gb gddr5 pci-express video card with boost": "7950",
+    "sapphire 20g": "unknown",
+    "sapphire 280x": "unknown",  # No exact match, but related to the R9 series
+    "sapphire 280x dual-x": "unknown",  # No exact match, but related to the R9 series
+    "sapphire 2gb card": "unknown",  # Too vague, multiple sapphire cards with 2GB exist
+    "sapphire 2x r9 290 trix oc": "unknown",  # No exact match, but related to the R9 series
+    "sapphire 3l 7950s": "7950",
+    "sapphire 4850 vapor-x": "4850",
+    "sapphire 5830s": "5830",
+    "sapphire 5850 extreme": "5850",
+    "sapphire 5850 mining rig": "5850",
+    "sapphire 5850 oc": "5850",
+}
+```

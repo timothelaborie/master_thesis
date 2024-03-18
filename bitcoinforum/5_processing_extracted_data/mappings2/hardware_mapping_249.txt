@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "xfx 5830": "5830",
+    "xfx 5850 black edition": "5850",
+    "xfx 5870s": "5870",
+    "xfx 5970 black edition": "5970",
+    "xfx 6850": "6850",
+    "xfx 6850 - 1gb gpus": "6850",  # Assuming the specification is an additional detail
+    "xfx 6870": "6870",
+    "xfx 6870 black edition": "6870",
+    "xfx 6959s": "unknown",  # Likely a typo, no direct match
+    "xfx 6970": "6970",
+    "xfx 6990s": "6990",
+    "xfx 7850": "7850",
+    "xfx 7950": "7950",
+    "xfx 7950 black edition single fan cards": "7950",
+    "xfx 7950 double d": "7950",
+    "xfx 7970 black edition": "7970",
+    "xfx 7970 black edition gpu": "7970",
+    "xfx 80+ gold psu": "unknown",  # PSU, not a mining hardware
+    "xfx black edition 7970": "7970",
+    "xfx cards": "unknown",  # Too vague, no specific model mentioned
+    "xfx double d black edition 7970s": "7970",
+    "xfx double dissipation cooler": "unknown",  # Part of cooling system, not mining hardware
+    "xfx ghost dd 7970": "7970",
+    "xfx hd 6750": "6750",
+    "xfx hd-695x-znfc radeon hd 6950 1gb 256-bit gddr5": "6950",
+    "xfx hd-695x-znfc va.3 radeon hd 6950 1gb": "6950",
+    "xfx hd5870s": "5870",
+    "xfx hd6870": "6870",
+    "xfx hd7950": "7950",
+    "xfx model": "unknown",  # No specific model mentioned
+    "xfx model of each": "unknown",  # No specific model mentioned
+    "xfx non reference 5850": "5850",
+    "xfx non-reference 5850": "5850",
+    "xfx ones": "unknown",  # Too vague, no specific model mentioned
+    "xfx pro850 psu": "unknown",  # PSU, not a mining hardware
+    "xfx proseries 650w": "unknown",  # PSU, not a mining hardware
+    "xfx r7990 rig": "unknown",  # No direct match, possibly referring to a custom setup involving 7990
+    "xfx r9 280x": "unknown",  # Not listed in the provided hardware list
+    "xfx radeon 6770": "6770",
+    "xfx radeon 6950": "6950",
+    "xfx radeon 7850": "7850",
+    "xfx radeon hd 5870 - graphics adaptor x 4": "5870",
+    "xfx radeon hd 6670 \"turks\" card": "6670",
+    "xfx radeon hd 6770": "6770",
+    "xfx radeon hd 6870 hd-687a-znfc video card with eyefinity": "6870",
+    "xfx radeon hd 6950": "6950",
+    "xfx radeon hd 7970 ghz edition 3gb gddr5": "7970",
+    "xfx radeons": "unknown",  # Too vague, no specific model mentioned
+    "xfx7950": "7950",
+    "xfx7990": "unknown",  # No direct match, possibly a typo or not listed
+}
+```

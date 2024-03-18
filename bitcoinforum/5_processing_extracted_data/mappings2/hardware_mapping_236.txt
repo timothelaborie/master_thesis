@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "usb microscope": "unknown",
+    "usb minders": "unknown",
+    "usb miner bifur": "bi*fury",  # Closest match, assuming typo.
+    "usb miners (5 ghs)": "unknown",
+    "usb mining rigs": "unknown",
+    "usb mouse": "unknown",
+    "usb nanofury": "nanofury / icefury",  # Closest match, assuming "nanofury" refers to either.
+    "usb optical mouse and keyboard": "unknown",
+    "usb orico hub": "unknown",
+    "usb pipe": "unknown",
+    "usb port from the motherboard": "unknown",
+    "usb port(s)": "unknown",
+    "usb power cable": "unknown",
+    "usb power hub": "unknown",
+    "usb powered risers": "unknown",
+    "usb powered usb hub": "unknown",
+    "usb powerhub": "unknown",
+    "usb printer drivers": "unknown",
+    "usb red fury": "red/bluefury",  # Assuming "red fury" refers to Red/Blue Fury.
+    "usb redfury asic miner": "red/bluefury",  # Assuming "redfury" refers to Red/Blue Fury.
+    "usb redirector client": "unknown",
+    "usb redirector server": "unknown",
+    "usb sapphire block eruptors rev 3.00": "unknown",  # No exact match, possibly referring to a specific version of a mining device not listed.
+    "usb serial converter": "unknown",
+    "usb serial drivers": "unknown",
+    "usb serial port (com3)": "unknown",
+    "usb slot": "unknown",
+    "usb socket": "unknown",
+    "usb stick litecoin/bitcoin dual miners": "unknown",  # No exact match, though it suggests a mining device.
+    "usb stick with 11.10": "unknown",
+    "usb sticks u-1": "antminer u1",  # Assuming "u-1" refers to Antminer U1.
+    "usb sticks u-2": "antminer u2+",  # Assuming "u-2" refers to Antminer U2+.
+    "usb thumb drive": "unknown",
+    "usb thumbdrive - sandisk 16gb ultra fit usb 3.1 flash drive - sdcz430-016g-g46": "unknown",
+    "usb tmo": "unknown",
+    "usb to ethernet adapter": "unknown",
+    "usb to its 5 volt output": "unknown",
+    "usb to rj45 cable": "unknown",
+    "usb to sata adapter": "unknown",
+    "usb to serial converter": "unknown",
+    "usb to serial converter board": "unknown",
+    "usb to uart bridge": "unknown",
+    "usb to uart bridge vcp driver": "unknown",
+    "usb to uart bridge vcp drivers": "unknown",
+    "usb to uart convertor": "unknown",
+    "usb uart bridges": "unknown",
+    "usb unit": "unknown",
+    "usb version": "unknown",
+    "usb wallet": "unknown",
+    "usb wallwart": "unknown",
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "usb wi-fi adapter": "unknown",
+    "usb wifi": "unknown",
+    "usb wifi dongle": "unknown",
+    "usb wifi modules": "unknown",
+    "usb wireless key": "unknown",
+    "usb y splitter": "unknown",
+    "usb(2) hub": "unknown",
+    "usb->serial converter": "unknown",
+    "usb->ttl dongle": "unknown",
+    "usb-a to micro-usb cable": "unknown",
+    "usb-based block erupter": "unknown", # No exact match, but related to "block erupter asics" which is not listed.
+    "usb-erupters": "unknown", # Similar to above, implies a type of ASIC miner but not listed.
+    "usb-mine-erupters": "unknown", # Again, suggests a type of ASIC miner but not explicitly listed.
+    "usb-serial controller d": "unknown",
+    "usb-to-9pin serial adapter cables": "unknown",
+    "usb/hdd": "unknown",
+    "usb0": "unknown",
+    "usb1": "unknown",
+    "usb2": "unknown",
+    "usb2 ports": "unknown",
+    "usb2 slots": "unknown",
+    "usb2.0 hub": "unknown",
+    "usb3 aitech": "unknown",
+    "usb3 chips": "unknown",
+    "usb3 ports": "unknown",
+    "usb3.0": "unknown",
+    "usb3.0 port": "unknown",
+    "usb`s": "unknown",
+    "usbdeview": "unknown",
+    "usbee miners (asicminers)": "unknown", # Suggests ASIC miners but not a specific model listed.
+    "usbminers": "unknown", # Implies ASIC miners but not a specific model listed.
+    "usd card": "unknown",
+    "usdm kill-a-watt": "unknown",
+    "used parts": "unknown",
+    "used psu": "unknown",
+    "used racking": "unknown",
+    "used router": "unknown",
+    "utility tub sink": "unknown",
+    "utp cable": "unknown",
+    "v 1": "unknown",
+    "v extreme": "unknown",
+    "v1 board": "unknown",
+    "v2 block erupter blades": "unknown", # No exact match, but related to "block erupter asics" which is not listed.
+    "v2 blue boards": "unknown",
+    "v2 board": "unknown",
+    "v2 erupter blade": "unknown", # Similar to "v2 block erupter blades", implies a type of ASIC miner but not listed.
+    "v2.01 blade": "unknown",
+    "v2.3 m-board": "unknown",
+    "v4 hashing boards": "unknown",
+    "v480": "unknown",
+}
+```

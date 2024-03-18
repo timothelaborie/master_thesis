@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "wd 500gb aakx": "unknown",
+    "wd1600b": "unknown",
+    "wd750 pocket drive": "unknown",
+    "weaved": "unknown",
+    "web browser": "unknown",
+    "web server": "unknown",
+    "web ui": "unknown",
+    "webcam": "unknown",
+    "webcl miners": "unknown",
+    "website": "unknown",
+    "weirshark": "unknown",
+    "weller wes51 soldering station": "unknown",
+    "wemo insight": "unknown",
+    "wemo switch": "unknown",
+    "wep key": "unknown",
+    "werkstashun": "unknown",
+    "western digital 500 gb hdd": "unknown",
+    "western digital caviar blue 500gb 3.5\" sata 3.0gb/s internal hard drive -bare drive": "unknown",
+    "western digital caviar blue 500gb sataiii 6gb/s 16mb cache 3.5 inch internal hard drive": "unknown",
+    "western digital n900 dual-band router": "unknown",
+    "wget-ssl": "unknown",
+    "whatminer m3": "unknown", # Closest match would be "whatsminer m3" but the prefix is incorrect.
+    "whatminers": "unknown",
+    "whatsminer 5.0.2": "unknown",
+    "whatsminer hash": "unknown",
+    "whatsminer m1 unit": "unknown",
+    "whatsminer m2": "whatsminer m2",
+    "whatsminer m21": "whatsminer m21",
+    "whatsminer m21s boost circuit ic": "whatsminer m21s", # Assuming the user refers to the M21s model with additional details.
+    "whatsminer m3 machines": "whatsminer m3",
+    "whatsminer m3 power supply": "whatsminer m3", # Assuming the user refers to the M3 model with additional details about its power supply.
+    "whatsminer m3 v2": "whatsminer m3", # Assuming "v2" is a version detail not specified in the original list.
+    "whatsminer m3 v2.2": "whatsminer m3", # Assuming "v2.2" is a version detail not specified in the original list.
+    "whatsminer m30s": "whatsminer m30s",
+    "whatsminer m30s + miners": "whatsminer m30s+", # Assuming the user refers to the M30s+ model with a typo.
+    "whatsminer m30s+ 82t": "whatsminer m30s+", # Assuming the user refers to the M30s+ model with additional details.
+    "whatsminer m31s+ 80t": "whatsminer m31s+", # Assuming the user refers to the M31s+ model with additional details.
+    "whatsminer m31s+ 82t": "whatsminer m31s+", # Assuming the user refers to the M31s+ model with additional details.
+    "whatsminer m32 fan simulator kit": "whatsminer m32", # Assuming the user refers to the M32 model with additional details.
+    "whatsminer m3s": "unknown", # No exact match, possibly a typo or version not listed.
+    "whatsminer m3x": "whatsminer m3x",
+    "whatsminer m3x1": "whatsminer m3x", # Assuming "x1" is a version detail not specified in the original list.
+    "whatsminer m50 units": "whatsminer m50",
+    "whatsminer machines": "unknown",
+    "whatsminer model m1-v1.2": "unknown", # No exact match, possibly a typo or version not listed.
+    "whatsminer.net": "unknown",
+    "whatsminers": "unknown",
+    "whatspower p3": "unknown",
+    "whatspower p3 power supply": "unknown",
+    "whatspower p5": "unknown",
+}
+```

@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "usb 3 port": "unknown",
+    "usb 3.0 (blue) port": "unknown",
+    "usb 3.0 10 port hub": "unknown",
+    "usb 3.0 connected active hub": "unknown",
+    "usb 3.0 ports": "unknown",
+    "usb 3.0 slot": "unknown",
+    "usb 3.0 stick": "unknown",
+    "usb 3.0/2.0 hubs": "unknown",
+    "usb 333 m/hash": "unknown",
+    "usb 333mhash miners": "unknown",
+    "usb 4g modem": "unknown",
+    "usb 7": "unknown",
+    "usb adapter": "unknown",
+    "usb adaptor": "unknown",
+    "usb am sticks": "unknown",
+    "usb ant miner": "unknown",
+    "usb ant miners": "unknown",
+    "usb antminer": "unknown",
+    "usb antminer 2ghs": "unknown",
+    "usb antminer stick": "unknown",
+    "usb antminer u2": "antminer u2+",
+    "usb antminers u1": "antminer u1",
+    "usb antminers u2": "antminer u2+",
+    "usb artic cooler fans": "unknown",
+    "usb asic block erupter": "unknown", # Closest match could be "block erupter asics" but not listed exactly.
+    "usb asic block eruptor": "unknown", # Typo in "eruptor", intended to match "block erupter asics" but not listed.
+    "usb asic devices": "unknown",
+    "usb asic erupter": "unknown", # Implies "block erupter asics" but not listed exactly.
+    "usb asic miner block erupter": "unknown", # Closest match could be "block erupter asics" but not listed exactly.
+    "usb asic miners": "unknown",
+    "usb asic mining": "unknown",
+    "usb asic's": "unknown",
+    "usb asicminer block erupter": "unknown", # Closest match could be "block erupter asics" but not listed exactly.
+    "usb asicminer block erupter 333 mhs": "unknown", # Specific hash rate mentioned, but not listed exactly.
+    "usb asicminer hub": "unknown",
+    "usb b cable": "unknown",
+    "usb based powered pci-e risers": "unknown",
+    "usb bifury": "bi*fury", # Assuming a typo, closest match.
+    "usb bitcoin (block erupters)": "unknown", # Implies "block erupter asics" but not listed exactly.
+    "usb bloc miners": "unknown",
+    "usb block": "unknown",
+    "usb block erruptor": "unknown", # Typo in "erruptor", intended to match "block erupter asics" but not listed.
+    "usb block erupter (25w)": "unknown", # Specific wattage mentioned, but not listed exactly.
+    "usb block erupter 333mg": "unknown", # Specific hash rate mentioned, but not listed exactly.
+    "usb block erupter sapphires": "unknown", # Specific variant mentioned, but not listed exactly.
+    "usb block eruptor 336mhash asic": "unknown", # Typo in "eruptor", intended to match "block erupter asics" but not listed.
+    "usb block miners": "unknown",
+    "usb blocks": "unknown",
+    "usb cable end": "unknown",
+    "usb code/hotplug/device locking": "unknown",
+}
+```

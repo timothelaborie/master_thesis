@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "t3t 39t": "innosilicon t3 39t",
+    "t3t39": "unknown",  # No exact match, could be a typo or shorthand for "innosilicon t3 39t"
+    "t6600": "unknown",
+    "t7400": "unknown",
+    "t9 control board": "antminer t9",  # Assuming the control board is part of the T9 miner setup
+    "t9 miner": "antminer t9",
+    "t9 miners": "antminer t9",  # Plural form but referring to the same hardware
+    "t9+ control board": "antminer t9+",  # Assuming the control board is part of the T9+ miner setup
+    "t9+ firmware": "antminer t9+",  # Firmware refers to the software used by T9+
+    "t9+ heatsink": "antminer t9+",  # Heatsink is a part of the T9+ hardware
+    "t9+ miner": "antminer t9+",
+    "t9+ miners": "antminer t9+",  # Plural form but referring to the same hardware
+    "t9+ unit": "antminer t9+",  # Referring to the whole unit of T9+
+    "t9/apw3": "unknown",  # No exact match, could be related to power supply units for miners but not listed
+    "t9s": "unknown",  # Could be a typo or shorthand for "antminer t9" but not clear
+    "ta": "unknown",
+    "tablet android 4.1.1": "unknown",
+    "tabs": "unknown",
+    "tacotime's rig": "unknown",
+    "tagan 1300w 2force ii psu": "unknown",
+    "tahiti": "unknown",
+    "tahiti le card": "unknown",
+    "tahiti segmentation fault (core dumped)": "unknown",
+    "tall time capsule": "unknown",
+    "tarp": "unknown",
+    "taskbar icon": "unknown",
+    "taskkillers": "unknown",
+    "taurus miner c12": "unknown",
+    "tav redhash units": "unknown",
+    "tc 30592": "unknown",
+    "tcp port 8333": "unknown",
+    "td-w9980 tp-link router": "unknown",
+    "tea pot": "unknown",
+    "team ddr3-1600 4gb": "unknown",
+    "team viewer": "unknown",
+    "teamview": "unknown",
+    "technobit 0ghs": "unknown",
+    "technobit hex 16a": "unknown",
+    "technobit hex 16b": "unknown",
+    "technobit hex16b board": "unknown",
+    "technobit hex16b miners": "unknown",
+    "technobit hex4m": "unknown",
+    "technobit hex8 a1 130gh/s miner": "unknown",
+    "technobit nanofury": "nanofury / icefury",  # Closest match, assuming "nanofury" is a typo or variant name
+    "technobit's miner (hex16b bitfury chip)": "unknown",
+    "technobit's own gui": "unknown",
+    "techpowerup gpuz": "unknown",
+    "ted spyder": "unknown",
+    "teknet usb 3 hub": "unknown",
+    "telnet": "unknown",
+}
+```

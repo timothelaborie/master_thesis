@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "t17 miners": "antminer t17",
+    "t17 units": "antminer t17",
+    "t17+ 58t": "antminer t17+",
+    "t17+ 58th": "antminer t17+",
+    "t17+ 64th": "antminer t17+",
+    "t17+ control board": "antminer t17+", # Assuming control board refers to the T17+ model.
+    "t17+ devices": "antminer t17+",
+    "t17+ model": "antminer t17+",
+    "t17+ pic file": "antminer t17+", # Assuming pic file refers to the T17+ model.
+    "t17+i": "unknown", # No exact match, could be a typo or variant of T17+.
+    "t17/s17": "unknown", # Could refer to either T17 or S17, ambiguous.
+    "t17e hashboards": "antminer t17e",
+    "t17e test fixture": "antminer t17e", # Assuming test fixture refers to the T17e model.
+    "t17ei": "unknown", # No exact match, could be a typo or variant of T17e.
+    "t17i": "unknown", # No exact match, could be a typo or variant of T17.
+    "t19": "antminer t19",
+    "t19 antminer": "antminer t19",
+    "t2": "innosilicon t2 terminator",
+    "t2 t24": "unknown", # No exact match, could be a typo or variant.
+    "t23t50": "unknown", # No exact match, likely a typo or unrelated.
+    "t2t": "innosilicon t2 turbo",
+    "t2t 30th": "innosilicon t2 turbo",
+    "t2t hm miner": "innosilicon t2 turbo", # Assuming hm refers to a variant of T2T.
+    "t2t innosilicon": "innosilicon t2 turbo",
+    "t2t miner": "innosilicon t2 turbo",
+    "t2t psu": "innosilicon t2 turbo", # Assuming psu refers to the power supply unit for T2T.
+    "t2t turbo": "innosilicon t2 turbo",
+    "t2t units": "innosilicon t2 turbo",
+    "t2t-25t": "innosilicon t2 turbo",
+    "t2t-25th (innosilicon) miner": "innosilicon t2 turbo",
+    "t2t-26t": "innosilicon t2 turbo",
+    "t2t-26th": "innosilicon t2 turbo",
+    "t2t-30t": "innosilicon t2 turbo",
+    "t2t24": "unknown", # No exact match, could be a typo or variant of T2T.
+    "t2th+": "innosilicon t2 turbo+",
+    "t2thf 30th": "innosilicon t2 turbo hf+",
+    "t2thf+": "innosilicon t2 turbo hf+",
+    "t2ts": "unknown", # No exact match, could be a typo or variant of T2T.
+    "t2tz": "unknown", # No exact match, could be a typo or variant of T2T.
+    "t2tz 30thi": "unknown", # No exact match, could be a typo or variant of T2T.
+    "t2tz asics": "unknown", # No exact match, could be referring to ASICs for T2T but unclear.
+    "t2tz with bad fans": "unknown", # No exact match, could be referring to a specific issue with T2T but unclear.
+    "t3 39th unit": "innosilicon t3 39t",
+    "t3 t39": "innosilicon t3 39t",
+    "t3 t50": "unknown", # No exact match, could be a typo or variant.
+    "t3+": "innosilicon t3+",
+    "t3+ 57t bitcoin miner": "innosilicon t3+ 57t",
+    "t3+ units": "innosilicon t3+",
+    "t3h 50th/s": "unknown", # No exact match, could be a typo or variant of T3.
+    "t3h miners": "unknown", # No exact match, could be a typo or variant of T3.
+}
+```

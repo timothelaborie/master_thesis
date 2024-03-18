@@ -1,0 +1,54 @@
+```python
+mapping = {
+    "zdiag": "unknown",
+    "zen controller": "unknown",
+    "zenbook": "unknown",
+    "zenccontroller rasp pi": "unknown",
+    "zeners": "unknown",
+    "zero w": "unknown",
+    "zeus": "unknown",  # Could potentially refer to any Zeus product, but too vague.
+    "zeus 128-chip thunder": "unknown",  # No exact match, likely a variant of a Zeus product.
+    "zeus 6-chip blizzards": "unknown",  # Close to "zeusminer blizzard", but not an exact match.
+    "zeus blizards": "unknown",  # Likely a typo for "zeusminer blizzard", but not an exact match.
+    "zeus chip tester": "unknown",
+    "zeus cyclones": "unknown",
+    "zeus falcons": "unknown",
+    "zeus hash": "unknown",
+    "zeus lightning x6": "unknown",  # No exact match, likely a variant of a Zeus product.
+    "zeus miner \"blizzard\" asic units": "zeusminer blizzard",
+    "zeus miner blizzard asic units": "zeusminer blizzard",
+    "zeus test fixture": "unknown",
+    "zeusminer 96 chips": "unknown",  # No exact match, likely a variant of a Zeus product.
+    "zeusminer blizzard": "zeusminer blizzard",
+    "zeusminer blizzardx3": "unknown",  # No exact match, likely a variant of a Zeus product.
+    "zeusminer driver": "unknown",
+    "zfs": "unknown",
+    "zfs modules": "unknown",
+    "zg834-v1.3": "unknown",
+    "zipfile": "unknown",
+    "zombies": "unknown",
+    "zonealarm firewall + av": "unknown",
+    "zotac gtx560ti 448 cores": "unknown",  # No exact match, but related to GPU mining.
+    "zotac ion (nvidia ion) vid card": "unknown",  # No exact match, but related to GPU mining.
+    "zotac nm10 board": "unknown",
+    "zt series 550 watt atx modular": "unknown",
+    "zte f680 router": "unknown",
+    "ztex 1.15y": "ztex 1.15y",
+    "ztex driver": "unknown",
+    "ztex fpga module": "unknown",  # Could potentially refer to any ZTEX FPGA product, but too vague.
+    "ztex module": "unknown",  # Could potentially refer to any ZTEX FPGA product, but too vague.
+    "ztex project ztexbtcminer-120703": "unknown",
+    "ztex quad boards": "unknown",  # Likely refers to a ZTEX product, but no exact match.
+    "ztex quad fpga 1.15y": "ztex 1.15y",  # Assuming a variant of "ztex 1.15y".
+    "ztex setup quad unit": "unknown",  # Likely refers to a ZTEX product, but no exact match.
+    "ztex singles": "unknown",  # Likely refers to a ZTEX product, but no exact match.
+    "ztex's btcminer": "unknown",
+    "zybo": "unknown",
+    "zync fpga": "unknown",
+    "zync sink": "unknown",
+    "zynq 7000 soc/fpga development board": "unknown",
+    "zynq c41": "unknown",
+    "zynq image": "unknown",
+    "zynq mainboard": "unknown",
+}
+```
