@@ -17,3 +17,4 @@ bitcoinforum/5_processing_extracted_data/plotdata_all.csv
 bitcoinforum/5_processing_extracted_data/hardware_instances_with_efficiency_all.csv
 bitcoinforum/6_plotting/model_and_monthly_data.csv
 bitcoinforum/6_plotting/model_and_monthly_data_2.csv
+bitcoinforum/1_forum_dataset/scraper/cache.pt
