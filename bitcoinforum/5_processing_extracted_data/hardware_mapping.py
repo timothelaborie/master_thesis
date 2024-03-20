@@ -1818,7 +1818,7 @@ mapping34 = {
     "gigavps": "unknown",  # No relevant hardware match.
     "gigavps's pool": "unknown",  # No relevant hardware match.
     "gigbt up5 mobo": "unknown",  # No relevant hardware match.
-    "gimpy r4": "antminer r4",  # Assuming "gimpy" is a typo or nickname.
+    "gimpy r4": "rkminer r4-box",  # Assuming "gimpy" is a typo or nickname.
     "git": "unknown",  # No relevant hardware match.
     "glasswalker controller": "unknown",  # No relevant hardware match.
     "glock 19": "unknown",  # No relevant hardware match.
@@ -3522,7 +3522,7 @@ mapping66 = {
     "miner machine": "unknown",
     "miner number 5": "unknown",
     "miner psus": "unknown",
-    "miner r4": "antminer r4",
+    "miner r4": "unknown",
     "miner rigs": "unknown",
     "miner s5": "antminer s5",
     "miner s7": "antminer s7",
@@ -5048,7 +5048,7 @@ mapping95 = {
     "r3 resistor": "unknown",
     "r3 rocketminer": "unknown",
     "r38 resistor": "unknown",
-    "r4": "antminer r4",
+    "r4": "unknown",
     "r4 antminer": "antminer r4",
     "r4 bit": "unknown",
     "r4 blade": "unknown",
@@ -5056,7 +5056,7 @@ mapping95 = {
     "r4 from bitmain": "antminer r4",
     "r4 hash boards": "unknown",
     "r4 hashing board": "unknown",
-    "r4 miner": "antminer r4",
+    "r4 miner": "unknown",
     "r40": "unknown",
     "r42": "unknown",
     "r4b1": "unknown",
@@ -9111,7 +9111,7 @@ mapping171 = {
     "8-pin connectors": "unknown",  # Not a mining hardware model.
     "8-pin cpu jack": "unknown",  # Not a mining hardware model.
     "8-pin cpu power connector": "unknown",  # Not a mining hardware model.
-    "8.0ths r4b2": "antminer r4",  # Assuming typo or version difference, closest match.
+    "8.0ths r4b2": "unknown",  # Assuming typo or version difference, closest match.
 }
 
 mapping172 = {
