@@ -15,6 +15,7 @@ from datetime import date
 from loguru import logger
 from random import randint
 from bs4 import BeautifulSoup, NavigableString
+import random
 
 from preprocessing.preprocessing_sub_functions import remove_emojis
 from torch import save,load
@@ -36,21 +37,38 @@ def get_web_component():
 # This function fetches a webpage's content.
 # It randomly selects a user agent from the provided list to make the request.
 # After fetching, it uses BeautifulSoup to parse the page's HTML content.
+from collections import OrderedDict
+cache = OrderedDict()
+
 def get_web_content(url, USER_AGENTS):
-    if os.path.exists("cache.pt"):
-        cache = load("cache.pt")
-        if url in cache:
-            return cache[url]
+    global cache  # Refer to the global cache variable
+    
+    # Check if the URL is in cache
+    if url in cache:
+        # print(f"Using cache for {url}")
+        return cache[url]
     else:
-        cache = {}
-    random_agent = USER_AGENTS[randint(0, len(USER_AGENTS) - 1)]
-    headers = {"User-Agent": random_agent}
-    req = requests.get(url, headers=headers)
-    req.encoding = req.apparent_encoding
-    soup = BeautifulSoup(req.text, features="lxml")
-    cache[url] = soup
-    save(cache, "cache.pt")
-    return soup
+        # print(f"Waiting to fetch {url}")
+        time.sleep(0.7)  # Simulate delay
+        # print(f"Fetching {url}")
+        
+        # Choose a random user agent
+        random_agent = USER_AGENTS[random.randint(0, len(USER_AGENTS) - 1)]
+        headers = {"User-Agent": random_agent}
+        
+        # Fetch the web content
+        req = requests.get(url, headers=headers)
+        req.encoding = req.apparent_encoding
+        soup = BeautifulSoup(req.text, features="lxml")
+        
+        # Add the new content to the cache
+        # If the cache already has 3 items, remove the oldest one
+        if len(cache) >= 3:
+            cache.popitem(last=False)  # Remove the oldest item
+        cache[url] = soup  # Add the new item
+        
+        # print("Fetching done")
+        return soup
 
 
 # This function extracts pagination links from a page.
@@ -58,7 +76,6 @@ def get_web_content(url, USER_AGENTS):
 # The function returns both the individual page links and the "next" link,
 # which points to the next set of results.
 def get_pages_urls(url, USER_AGENTS, next_50_pages):
-    time.sleep(1)
     soup = get_web_content(url, USER_AGENTS)
     # Finding the pagination links based on their HTML structure and CSS classes.
     first_td = soup.find('td', class_='middletext')
@@ -77,7 +94,6 @@ def get_pages_urls(url, USER_AGENTS, next_50_pages):
 def loop_through_source_url(USER_AGENTS, url, num_of_pages):
     pages_urls = []
     while len(pages_urls) < num_of_pages:
-        time.sleep(0.8)
         next_50_pages = num_of_pages >= 50
         href_links, next_50_link = get_pages_urls(url, USER_AGENTS, next_50_pages)
         pages_urls.extend(href_links)
@@ -99,7 +115,7 @@ def loop_through_posts(USER_AGENTS, post_url, board, num_of_pages, remove_emoji)
 
         df = pd.DataFrame(columns=['timestamp', 'last_edit', 'author', 'post', 'topic', 'attachment', 'link', 'original_info'])
 
-        for url in tqdm(href_links):
+        for url in href_links[:1]: # we only need the first page to analyse the category of the thread
             df = read_subject_page(USER_AGENTS, url, df, remove_emoji)
 
         topic_id = post_url.split('topic=')[1]
@@ -113,7 +129,6 @@ def loop_through_posts(USER_AGENTS, post_url, board, num_of_pages, remove_emoji)
 # This function processes a post page. It extracts various details like timestamps, author information, post content, topic, attachments, links, and original HTML information.
 # The function returns a dictionary containing all this extracted data.
 def read_subject_page(USER_AGENTS, post_url, df, remove_emoji):
-    time.sleep(1)
     soup = get_web_content(post_url, USER_AGENTS)
     form_tag = soup.find('form', id='quickModForm')
     table_tag = form_tag.find('table', class_='bordercolor')
