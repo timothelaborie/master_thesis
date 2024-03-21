@@ -70,7 +70,7 @@ mapping1 = {
     "1 s5": "antminer s5",
     "1 share": "unknown",
     "1 th machine": "unknown",
-    "1 th/s coincraft rig": "unknown",
+    "1 th/s coincraft rig": "1 th/s coincraft miner",
     "1 th/s dragon miners": "unknown",
     "1 th/s miners": "unknown",
     "1 to 4 splitters with 5a brick": "unknown",
@@ -883,43 +883,43 @@ mapping16 = {
     "dps2k interface board": "unknown",
     "dps800": "unknown",
     "dr who powered hub": "unknown",
-    "dragon": "halong mining dragonmint t1",
-    "dragon 0.2 hp": "halong mining dragonmint t1",
-    "dragon 1 t miners": "halong mining dragonmint t1",
-    "dragon 1 ths": "halong mining dragonmint t1",
-    "dragon 1.5t": "halong mining dragonmint t1",
-    "dragon 1.5t bitcoin miner": "halong mining dragonmint t1",
-    "dragon 1t": "halong mining dragonmint t1",
-    "dragon 1t - miner": "halong mining dragonmint t1",
-    "dragon 1t bitcoin miner": "halong mining dragonmint t1",
-    "dragon 1t miner": "halong mining dragonmint t1",
-    "dragon 1t miners": "halong mining dragonmint t1",
-    "dragon 1th": "halong mining dragonmint t1",
-    "dragon 1th miner": "halong mining dragonmint t1",
-    "dragon 1th miners": "halong mining dragonmint t1",# It appears that none of the provided strings directly match any specific hardware names from the list you've given for bitcoin mining hardware. Therefore, they are all marked as "unknown".
+    "dragon": "1TH Dragon Bitcoin Miner",
+    "dragon 0.2 hp": "1TH Dragon Bitcoin Miner",
+    "dragon 1 t miners": "1TH Dragon Bitcoin Miner",
+    "dragon 1 ths": "1TH Dragon Bitcoin Miner",
+    "dragon 1.5t": "1TH Dragon Bitcoin Miner",
+    "dragon 1.5t bitcoin miner": "1TH Dragon Bitcoin Miner",
+    "dragon 1t": "1TH Dragon Bitcoin Miner",
+    "dragon 1t - miner": "1TH Dragon Bitcoin Miner",
+    "dragon 1t bitcoin miner": "1TH Dragon Bitcoin Miner",
+    "dragon 1t miner": "1TH Dragon Bitcoin Miner",
+    "dragon 1t miners": "1TH Dragon Bitcoin Miner",
+    "dragon 1th": "1TH Dragon Bitcoin Miner",
+    "dragon 1th miner": "1TH Dragon Bitcoin Miner",
+    "dragon 1th miners": "1TH Dragon Bitcoin Miner",# It appears that none of the provided strings directly match any specific hardware names from the list you've given for bitcoin mining hardware. Therefore, they are all marked as "unknown".
 }
 
 mapping17 = {
-    "dragon 2t": "halong mining dragonmint t1",
-    "dragon bitcoin miner 1th/s": "halong mining dragonmint t1",
-    "dragon machines": "halong mining dragonmint t1",
-    "dragon miner": "halong mining dragonmint t1",
-    "dragon miner 1th": "halong mining dragonmint t1",
-    "dragon miner 1th sd card": "halong mining dragonmint t1",
-    "dragon miner a1": "halong mining dragonmint t1",
-    "dragon miner control": "halong mining dragonmint t1",
-    "dragon miner lcd (rev 1.2)": "halong mining dragonmint t1",
-    "dragon miners": "halong mining dragonmint t1",
+    "dragon 2t": "1TH Dragon Bitcoin Miner",
+    "dragon bitcoin miner 1th/s": "1TH Dragon Bitcoin Miner",
+    "dragon machines": "unknown",
+    "dragon miner": "unknown",
+    "dragon miner 1th": "1TH Dragon Bitcoin Miner",
+    "dragon miner 1th sd card": "1TH Dragon Bitcoin Miner",
+    "dragon miner a1": "unknown",
+    "dragon miner control": "unknown",
+    "dragon miner lcd (rev 1.2)": "unknown",
+    "dragon miners": "unknown",
     "dragon ore mining machine (five modules t- class)": "unknown",
-    "dragon unit": "halong mining dragonmint t1",
-    "dragon/lketc 1th miner": "halong mining dragonmint t1",
-    "dragon/lketc miners": "halong mining dragonmint t1",
-    "dragon2": "halong mining dragonmint t1",
+    "dragon unit": "unknown",
+    "dragon/lketc 1th miner": "1TH Dragon Bitcoin Miner",
+    "dragon/lketc miners": "1TH Dragon Bitcoin Miner",
+    "dragon2": "unknown",
     "dragonmint t1": "halong mining dragonmint t1",
     "dragonmint t1s": "halong mining dragonmint t1", # No exact match, but likely referring to "halong mining dragonmint t1"
     "dragonmint t2 miner": "halong mining dragonmint t1", # No exact match, but likely referring to a variant of "halong mining dragonmint t1"
-    "dragons": "halong mining dragonmint t1",
-    "dragons miners": "halong mining dragonmint t1",
+    "dragons": "unknown",
+    "dragons miners": "unknown",
     "drill press": "unknown",
     "drillbit": "unknown",
     "drillbit 8 board": "unknown",
@@ -1313,7 +1313,7 @@ mapping24 = {
     "1th/s s2 antminer": "antminer s2",
     "1th/s stock": "unknown",
     "1ths 1kw 28nm miner": "unknown",
-    "1ths coincraft a1 28nm asic miner": "unknown",
+    "1ths coincraft a1 28nm asic miner": "1 th/s coincraft miner",
     "1ths dragon miner": "unknown",
     "1tminer": "unknown",
     "1u linux server": "unknown",
@@ -1531,7 +1531,7 @@ mapping28 = {
     "fpga": "unknown",  # FPGA is a technology used in some miners, but no specific model is listed.
     "fpga 26 units": "unknown",
     "fpga assets": "unknown",
-    "fpga bfl minirig": "bfl single 'sc'",  # Assuming a close match to "BFL Single 'SC'", which is an FPGA miner.
+    "fpga bfl minirig": "unknown",  # Assuming a close match to "BFL Single 'SC'", which is an FPGA miner.
     "fpga bitcoin mining (3 ztex quadra)": "unknown"  # Refers to FPGA mining but no specific model matches.
 }
 
@@ -2453,7 +2453,7 @@ mapping46 = {
     "2 side screws": "unknown",
     "2 terahash miner": "unknown",
     "2 th miner": "unknown",
-    "2 th/s bitmine coincraft rig (#ccr-2000)": "unknown",
+    "2 th/s bitmine coincraft rig (#ccr-2000)": "2 th/s coincraft miner",
     "2 titans 2500w": "unknown",
     "2 to 1 usb boards": "unknown",
     "2 units": "unknown",
@@ -3514,7 +3514,7 @@ mapping66 = {
     "miner board": "unknown",
     "miner btc device": "unknown",
     "miner design using the bfl asic chips": "unknown", # No specific model mentioned, but related to BFL (Butterfly Labs)
-    "miner dragon a1": "aisen a1 pro", # Assuming "dragon" is a typo or variant name
+    "miner dragon a1": "unknown", # Assuming "dragon" is a typo or variant name
     "miner fans": "unknown",
     "miner furnace": "unknown",
     "miner hosting": "unknown",
@@ -6009,9 +6009,9 @@ mapping113 = {
     "2th cointerra rig": "cointerra terraminer iv", # Assuming "2th" refers to the hashrate, which matches the Terraminer IV.
     "2th machines": "unknown",
     "2th miner": "unknown",
-    "2th/s bitmine coincraft rig": "bitmine.ch avalon clone 85gh", # Assuming "2th/s" is a typo or general reference, but this is a questionable mapping.
+    "2th/s bitmine coincraft rig": "2 th/s coincraft miner", # Assuming "2th/s" is a typo or general reference, but this is a questionable mapping.
     "2th/s4 x goldstrike i 500gh/s 28nm asic": "unknown", # No exact match, and the description is too specific without a clear corresponding product.
-    "2ths dragon": "halong mining dragonmint t1", # Assuming "2ths" refers to the hashrate, which matches the Dragonmint T1.
+    "2ths dragon": "unknown", # Assuming "2ths" refers to the hashrate, which matches the Dragonmint T1.
     "2x 1250w hp psu": "unknown",
     "2x 12v psu": "unknown",
     "2x 30 amp 240 volt circuits": "unknown",
@@ -6329,8 +6329,8 @@ mapping119 = {
     "single scs": "unknown",
     "single upgraded jalapeo": "butterflylabs (bfl) jalapeno",  # Assuming a typo or version difference, closest match.
     "single vga rigs": "unknown",
-    "singles": "bfl single 'sc'",  # Assuming "singles" refers to multiple units of "bfl single 'sc'"
-    "singles (60 ghash)": "bfl single 'sc'",
+    "singles": "unknown",  # Assuming "singles" refers to multiple units of "bfl single 'sc'"
+    "singles (60 ghash)": "unknown",
     "singles sc": "bfl single 'sc'",
     "singles with sc upgrades": "unknown",  # No direct match, but implies modified "bfl single 'sc'"
     "sinosigma turnkey setup": "unknown",
@@ -7282,7 +7282,7 @@ mapping137 = {
     "ups/battery bank": "unknown",
     "ups/fedex pickup": "unknown",
     "uranusminer": "unknown",
-    "usa bitfury": "bitfury b8",  # Assuming a general reference to Bitfury hardware used in the USA
+    "usa bitfury": "unknown",  # Assuming a general reference to Bitfury hardware used in the USA
     "usa power 120v": "unknown",
     "usb": "unknown",
     "usb \"holders\"": "unknown",
@@ -8310,7 +8310,7 @@ mapping156 = {
     "40nm chips": "unknown",  # Could refer to the technology used in several miners but not specific enough.
     "40x mining board": "unknown",
     "40x40mm copper plates": "unknown",
-    "425gh/s bitfury": "bitfury b8",  # Assuming a reference to Bitfury's mining hardware, though the exact hash rate doesn't match.
+    "425gh/s bitfury": "unknown",  # Assuming a reference to Bitfury's mining hardware, though the exact hash rate doesn't match.
     "42u rack": "unknown",
     "439gh/s": "unknown",  # Could refer to several miners but not specific enough.
     "44 chips": "unknown",  # Could refer to the technology used in several miners but not specific enough.
@@ -9030,7 +9030,7 @@ mapping170 = {
     "104 chips": "unknown",
     "1050 gold rated psu": "unknown",
     "1050 watt psu": "unknown",
-    "1050w a1 28nm miner": "aisen a1 pro",  # Assuming "a1" refers to "aisen a1 pro".
+    "1050w a1 28nm miner": "unknown",  # Assuming "a1" refers to "aisen a1 pro".
     "1050w psu": "unknown",
     "105a 1250w powersupply": "unknown",
     "1070gtx": "unknown",
@@ -9231,28 +9231,28 @@ mapping174 = {
     "a/c cooling": "unknown",
     "a/c unit": "unknown",
     "a/c vent": "unknown",
-    "a1": "aisen a1 pro",  # Assuming the closest match, but could be considered "unknown" due to lack of specificity
-    "a1 1th miner": "aisen a1 pro",  # Assuming based on the "a1" and mining context
-    "a1 28nm chip asic miner": "aisen a1 pro",  # Assuming based on the "a1" and mining context
-    "a1 2th miner": "aisen a1 pro",  # Assuming based on the "a1" and mining context
-    "a1 and newer gear": "aisen a1 pro",  # Assuming based on the "a1" and mining context
-    "a1 based miner": "aisen a1 pro",  # Assuming based on the "a1" and mining context
+    "a1": "unknown",  # Assuming the closest match, but could be considered "unknown" due to lack of specificity
+    "a1 1th miner": "unknown",  # Assuming based on the "a1" and mining context
+    "a1 28nm chip asic miner": "unknown",  # Assuming based on the "a1" and mining context
+    "a1 2th miner": "unknown",  # Assuming based on the "a1" and mining context
+    "a1 and newer gear": "unknown",  # Assuming based on the "a1" and mining context
+    "a1 based miner": "unknown",  # Assuming based on the "a1" and mining context
     "a1 board": "unknown",  # While it refers to "a1", it's unclear if it's specifically about the miner or just components
-    "a1 btc miner": "aisen a1 pro",  # Assuming based on the "a1" and mining context
-    "a1 chip": "aisen a1 pro",  # Could refer to the chip in the "aisen a1 pro" but lacks specificity
-    "a1 chips": "aisen a1 pro",  # Same as above
+    "a1 btc miner": "unknown",  # Assuming based on the "a1" and mining context
+    "a1 chip": "unknown",  # Could refer to the chip in the "aisen a1 pro" but lacks specificity
+    "a1 chips": "unknown",  # Same as above
     "a1 clones": "unknown",  # Could refer to any clones of the "aisen a1 pro" but lacks specificity
     "a1 dragon": "unknown",  # No clear match, could be a colloquial name for a product
     "a1 lovecore chinese copy": "unknown",  # No clear match, and "lovecore" doesn't directly map to any known hardware in the list
-    "a1 miner": "aisen a1 pro",  # Assuming based on the "a1" and mining context
-    "a1 miners": "aisen a1 pro",  # Assuming based on the "a1" and mining context
-    "a1 miners 1030gh/s": "aisen a1 pro",  # Assuming based on the "a1" and mining context
+    "a1 miner": "unknown",  # Assuming based on the "a1" and mining context
+    "a1 miners": "unknown",  # Assuming based on the "a1" and mining context
+    "a1 miners 1030gh/s": "unknown",  # Assuming based on the "a1" and mining context
     "a1 rig": "unknown",  # While it likely refers to a setup involving the "a1", it's too vague
     "a1 rigs": "unknown",  # Same as above
     "a1 sample chips": "unknown",  # Could refer to sample chips of the "aisen a1 pro" but lacks specificity
     "a1 samples": "unknown",  # Same as above
     "a1 wasp prototype": "unknown",  # No clear match, could be a prototype version of an "a1" product but not listed
-    "a1's": "aisen a1 pro",  # Assuming plural form of "a1"
+    "a1's": "unknown",  # Assuming plural form of "a1"
     "a10": "unknown",
     "a10 cubieboard": "unknown",
     "a10 pro 500mh": "unknown",
@@ -9763,7 +9763,7 @@ mapping184 = {
     "antminer 180gh": "unknown",  # No exact match, unclear reference
     "antminer 180ghs": "unknown",  # No exact match, unclear reference
     "antminer 205 gh/s": "unknown",  # No exact match, unclear reference
-    "antminer a1 dragon": "aisen a1 pro",  # Assuming "a1 dragon" refers to "aisen a1 pro"
+    "antminer a1 dragon": "unknown",  # Assuming "a1 dragon" refers to "aisen a1 pro"
     "antminer apw3-12-1600 psu series 1600w power supply": "unknown",  # PSU, not a miner
     "antminer c1": "unknown",  # No "C1" model in the provided list
     "antminer c12": "unknown",  # No "C12" model in the provided list
@@ -11224,18 +11224,18 @@ mapping211 = {
     "bfl psu": "unknown",
     "bfl rev2 x16": "unknown",
     "bfl sc": "bfl sc",
-    "bfl sc minirigs": "unknown",  # No exact match, possibly related to "butterflylabs mini rig" but not clear.
-    "bfl sc power supplies": "unknown",
+    "bfl sc minirigs": "bfl single 'sc'",  # No exact match, possibly related to "butterflylabs mini rig" but not clear.
+    "bfl sc power supplies": "bfl single 'sc'",
     "bfl sc single": "bfl single 'sc'",
-    "bfl sc single 60": "unknown",  # No exact match, possibly related to "bfl single 'sc'" but not clear.
-    "bfl sc single miners": "unknown",  # No exact match, possibly related to "bfl single 'sc'" but not clear.
-    "bfl sc singles": "unknown",  # No exact match, possibly related to "bfl single 'sc'" but not clear.
+    "bfl sc single 60": "bfl single 'sc'",  # No exact match, possibly related to "bfl single 'sc'" but not clear.
+    "bfl sc single miners": "bfl single 'sc'",  # No exact match, possibly related to "bfl single 'sc'" but not clear.
+    "bfl sc singles": "bfl single 'sc'",  # No exact match, possibly related to "bfl single 'sc'" but not clear.
     "bfl scs": "unknown"
 }
 
 mapping212 = {
     "bfl shares (250 gh/s)": "unknown",
-    "bfl single": "bfl single 'sc'",
+    "bfl single": "unknown",
     "bfl single 60 power supplies": "unknown",
     "bfl single 60gh/s machine": "unknown",  # Closest match would be "bfl single 'sc'", but not explicit.
     "bfl single fpga": "unknown",
@@ -11399,24 +11399,24 @@ mapping215 = {
     "bitcrane ultrahoist board": "unknown",
     "bitfenix prodigy case": "unknown",
     "bitfenix spectre pro pwm 140mm fans": "unknown",
-    "bitforce": "unknown",
-    "bitforce 60gh/s sc": "unknown",
+    "bitforce": "bitforce sha256 single",
+    "bitforce 60gh/s sc": "bfl single 'sc'",
     "bitforce fpga": "unknown",
-    "bitforce fpga single": "unknown",
+    "bitforce fpga single": "bitforce sha256 single",
     "bitforce jalapeno": "butterflylabs (bfl) jalapeno",
-    "bitforce sc": "unknown",
-    "bitforce sc (asic) products": "unknown",
-    "bitforce sc little single": "unknown",
+    "bitforce sc": "bitforce sha256 single",
+    "bitforce sc (asic) products": "bitforce sha256 single",
+    "bitforce sc little single": "bitforce sha256 single",
     "bitforce scjalapenos": "unknown", # Closest match would be "butterflylabs (bfl) jalapeno" but the string is unclear.
-    "bitforce sha 256 sc": "unknown",
-    "bitforce sha256 sc": "unknown",
+    "bitforce sha 256 sc": "bitforce sha256 single",
+    "bitforce sha256 sc": "bitforce sha256 single",
     "bitforce sha256 single": "bitforce sha256 single",
-    "bitforce single": "unknown",
-    "bitforce single (asic)": "unknown",
-    "bitforce single (fpga)": "unknown",
-    "bitforce single sc": "unknown",
-    "bitforce single sc 60gh/s": "unknown",
-    "bitforce singles": "unknown",
+    "bitforce single": "bitforce sha256 single",
+    "bitforce single (asic)": "bitforce sha256 single",
+    "bitforce single (fpga)": "bitforce sha256 single",
+    "bitforce single sc": "bfl single 'sc'",
+    "bitforce single sc 60gh/s": "bfl single 'sc'",
+    "bitforce singles": "bitforce sha256 single",
     "bitforce256": "unknown",
     "bitforces": "unknown",
     "bitforcesc": "unknown",
@@ -11617,20 +11617,20 @@ mapping219 = {
     "bitmine 1th desk unit": "unknown",  # No exact match, possibly referring to a Bitmine product.
     "bitmine a1 28nm 1t colorbit": "unknown",  # No exact match, possibly referring to a Bitmine product.
     "bitmine clones": "unknown",
-    "bitmine coincraft 1 th/s": "unknown",  # No exact match, but related to Bitmine Coincraft products.
-    "bitmine coincraft a1 28nm chip": "unknown",  # No exact match, but related to Bitmine Coincraft products.
-    "bitmine coincraft desk units": "unknown",  # No exact match, but related to Bitmine Coincraft products.
-    "bitmine coincraft desk v2": "unknown",  # No exact match, but related to Bitmine Coincraft products.
-    "bitmine coingraft": "unknown",  # Typo, possibly referring to Bitmine Coincraft products.
-    "bitmine coingraft desk 1th/s": "unknown",  # Typo and no exact match, possibly referring to Bitmine Coincraft products.
-    "bitmine desk": "unknown",  # No exact match, possibly referring to a Bitmine product.
-    "bitmine desk 1th": "unknown",  # No exact match, possibly referring to a Bitmine product.
+    "bitmine coincraft 1 th/s": "1 th/s coincraft miner",  # No exact match, but related to Bitmine Coincraft products.
+    "bitmine coincraft a1 28nm chip": "1 th/s coincraft miner",  # No exact match, but related to Bitmine Coincraft products.
+    "bitmine coincraft desk units": "1 th/s coincraft miner",  # No exact match, but related to Bitmine Coincraft products.
+    "bitmine coincraft desk v2": "1 th/s coincraft miner",  # No exact match, but related to Bitmine Coincraft products.
+    "bitmine coingraft": "1 th/s coincraft miner",  # Typo, possibly referring to Bitmine Coincraft products.
+    "bitmine coingraft desk 1th/s": "1 th/s coincraft miner",  # Typo and no exact match, possibly referring to Bitmine Coincraft products.
+    "bitmine desk": "1 th/s coincraft miner",  # No exact match, possibly referring to a Bitmine product.
+    "bitmine desk 1th": "1 th/s coincraft miner",  # No exact match, possibly referring to a Bitmine product.
     "bitmine reference board": "unknown",  # No exact match, possibly referring to a Bitmine product.
     "bitmine rig": "unknown",  # No exact match, possibly referring to a Bitmine product.
     "bitmine rig modules": "unknown",  # No exact match, possibly referring to a Bitmine product.
-    "bitmine.ch coincraft": "unknown",  # No exact match, but related to Bitmine Coincraft products.
-    "bitmine.ch coincraft desk": "unknown",  # No exact match, but related to Bitmine Coincraft products.
-    "bitmine.ch coincraft desk unit": "unknown",  # No exact match, but related to Bitmine Coincraft products.
+    "bitmine.ch coincraft": "1 th/s coincraft miner",  # No exact match, but related to Bitmine Coincraft products.
+    "bitmine.ch coincraft desk": "1 th/s coincraft miner",  # No exact match, but related to Bitmine Coincraft products.
+    "bitmine.ch coincraft desk unit": "1 th/s coincraft miner",  # No exact match, but related to Bitmine Coincraft products.
     "bitminer s7": "antminer s7",
     "bitminer.exe": "unknown",
     "bitminers s1": "antminer s1",
@@ -12356,14 +12356,14 @@ mapping233 = {
     "coffee mug": "unknown",
     "coffee pot": "unknown",
     "cognitive boards": "unknown",
-    "coin craft 1th": "unknown",  # No exact match, and "coincraft" does not directly correspond to a specific model.
+    "coin craft 1th": "1 th/s coincraft miner",  # No exact match, and "coincraft" does not directly correspond to a specific model.
     "coincraft": "unknown",  # General term, not specific to any model listed.
     "coincraft 260 board": "unknown",
     "coincraft a1 asics": "unknown",
     "coincraft a1 chips": "unknown",
     "coincraft a1 clone": "unknown",
     "coincraft a1 miner": "unknown",
-    "coincraft desk": "unknown",
+    "coincraft desk": "1 th/s coincraft miner",
     "coincraft desk 1250": "unknown",
     "coincraft desk 400 gh/s": "unknown",
     "coincraft desk unit": "unknown",

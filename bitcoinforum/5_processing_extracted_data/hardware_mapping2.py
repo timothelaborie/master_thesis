@@ -111,8 +111,8 @@ mapping2 = {
     "15mmx15mm square 1mm copper shrims": "unknown",
     "15x2amp circuit breaker (220v)": "unknown",
     "16 awg psu cable": "unknown",
-    "16 bitfury": "unknown", # Bitfury products are listed but not with this specific name.
-    "16 bitfury h-cards": "unknown", # Bitfury products are listed but not with this specific name.
+    "16 bitfury": "red/bluefury", # Bitfury products are listed but not with this specific name.
+    "16 bitfury h-cards": "red/bluefury", # Bitfury products are listed but not with this specific name.
     "16 gb memory": "unknown",
     "16 gb sd card": "unknown",
     "16 gig ram": "unknown",
@@ -330,10 +330,10 @@ mapping6 = {
     "cocaine from bitmain": "unknown", # No direct match, possibly a typo or unrelated.
     "code editor": "unknown",
     "coil": "unknown",
-    "coincraft 1th": "unknown", # Closest match would be Coincraft products but not specific enough.
-    "coincraft 28nm asic chips": "unknown", # Refers to the technology used in some mining hardware but not a specific model.
+    "coincraft 1th": "1 th/s coincraft miner", # Closest match would be Coincraft products but not specific enough.
+    "coincraft 28nm asic chips": "1 th/s coincraft miner", # Refers to the technology used in some mining hardware but not a specific model.
     "coincraft a1 130ghs": "unknown", # No exact match, possibly referring to a Coincraft product but not listed.
-    "coincraft desk miner (asic miner)": "unknown", # Refers to Coincraft Desk but not listed specifically.
+    "coincraft desk miner (asic miner)": "1 th/s coincraft miner", # Refers to Coincraft Desk but not listed specifically.
     "coind": "unknown",
     "coindrone usb drive": "unknown",
     "coinotron": "unknown",
@@ -706,7 +706,7 @@ mapping13 = {
     "16x -> 4x riser": "unknown",
     "16x and 1x ports": "unknown",
     "16x and 8x pcie slots": "unknown",
-    "16x bitfury hashing board": "bitfury b8", # Assuming closest match due to "bitfury" reference
+    "16x bitfury hashing board": "red/bluefury", # Assuming closest match due to "bitfury" reference
     "16x card": "unknown",
     "16x none": "unknown",
     "16x pci slot": "unknown",
@@ -723,7 +723,7 @@ mapping13 = {
     "16x-16x risers": "unknown",
     "16x-1x ribbon": "unknown",
     "16x16 riser": "unknown",
-    "16xchip bitfury miners": "bitfury b8", # Assuming closest match due to "bitfury" reference
+    "16xchip bitfury miners": "red/bluefury", # Assuming closest match due to "bitfury" reference
     "16xi": "unknown",
     "17 series": "unknown",
     "17 series hash boards": "unknown",
@@ -2666,7 +2666,7 @@ mapping50 = {
     "helix miner usb hub": "unknown",
     "hewlett-packard 30db": "unknown",
     "hex 16b": "unknown", # No exact match, could be a general reference to Hex mining hardware
-    "hex 16b bitfury asic miner": "unknown", # No exact match, but related to Bitfury hardware
+    "hex 16b bitfury asic miner": "red/bluefury", # No exact match, but related to Bitfury hardware
     "hex miner": "unknown",
     "hex*fury": "bi*fury", # Closest match based on the pattern, but not exact
     "hex16a2 (hex16c)": "unknown", # No exact match, seems to be a reference to a specific model or version
@@ -2983,7 +2983,7 @@ mapping56 = {
     "innomonitor": "unknown",
     "innomonitor_64": "unknown",
     "innosilicon a10": "unknown",
-    "innosilicon a2 terminator": "innosilicon t2 terminator", # Closest match, but not exact.
+    "innosilicon a2 terminator": "unknown", # Closest match, but not exact.
     "innosilicon a4 domninator litecoin miner power supply kit": "unknown",
     "innosilicon a6": "unknown",
     "innosilicon miner t2thm 30 th": "unknown",
@@ -6113,9 +6113,9 @@ mapping115 = {
     "recording studios": "unknown",
     "rectifier model 48 - 53 voltage power supply": "unknown",
     "red 'vinyl?' electrical tape": "unknown",
-    "red bit fury": "unknown",  # Close to "bitfury" but no exact match
-    "red furry": "unknown",
-    "red furry usb miner": "unknown",
+    "red bit fury": "red/bluefury",  # Close to "bitfury" but no exact match
+    "red furry": "red/bluefury",
+    "red furry usb miner": "red/bluefury",
     "red fury bitcoin miner 2.2~2.7 gh/s": "red/bluefury",
     "red fury bitfury usb asic 2.6 gh/s": "red/bluefury",
     "red fury miner": "red/bluefury",
@@ -8816,7 +8816,7 @@ mapping166 = {
     "x3 psu": "unknown",
     "x300": "unknown",
     "x4 955": "unknown",
-    "x4 innosilicon a4 dominators": "innosilicon t2 terminator", # Questionable mapping, as "A4 Dominator" is not explicitly listed but is a product of Innosilicon.
+    "x4 innosilicon a4 dominators": "unknown", # Questionable mapping, as "A4 Dominator" is not explicitly listed but is a product of Innosilicon.
     "x4 sapphire radeon r9 290x \"bf4 edition\" 4096mb gddr5": "unknown", # No exact match, but related to GPU mining.
     "x4 usb powered fans": "unknown",
     "x550z": "unknown",
@@ -10485,7 +10485,7 @@ mapping198 = {
     "a1dbd379": "unknown",
     "a2": "unknown",
     "a2 board": "unknown",
-    "a2 terminator 90000mhz": "innosilicon t2 terminator",  # Assuming a specification detail, closest match.
+    "a2 terminator 90000mhz": "unknown",  # Assuming a specification detail, closest match.
     "a3": "unknown",
     "a4": "unknown",
     "a4 785td-v main board": "unknown",
@@ -12788,11 +12788,11 @@ mapping242 = {
     "bitman u2 block eruptor": "unknown",  # No exact match, possibly referring to a mining device not listed.
     "bitmans u3": "antminer u3",
     "bitmine 1 th machines": "unknown",  # No exact match.
-    "bitmine 1th machines (coincrafts)": "unknown",  # No exact match.
+    "bitmine 1th machines (coincrafts)": "1 th/s coincraft miner",  # No exact match.
     "bitmine bitcoin miner": "unknown",  # Too general.
     "bitmine coincraft a1 5 card with a1 chips rig": "unknown",  # No exact match, but refers to Bitmine/Coincraft.
-    "bitmine coincraft rig 2 th/s": "unknown",  # No exact match, but refers to Bitmine/Coincraft.
-    "bitmine coincraft rigs": "unknown",  # No exact match, but refers to Bitmine/Coincraft.
+    "bitmine coincraft rig 2 th/s": "2 th/s coincraft miner",  # No exact match, but refers to Bitmine/Coincraft.
+    "bitmine coincraft rigs": "1 th/s coincraft miner",  # No exact match, but refers to Bitmine/Coincraft.
     "bitmine desk v2": "unknown",  # No exact match.
     "bitmine hashing unit pcb": "unknown",  # No exact match.
     "bitmine.ch": "unknown",  # Refers to the company, not a specific product.
@@ -13105,7 +13105,7 @@ mapping248 = {
     "butterfly labs sc miner": "unknown",
     "butterfly labs single 30gh/s": "bfl single 'sc'",
     "butterfly labs single @60gh/s": "bfl single 'sc'", # Assuming the description refers to the same product.
-    "butterfly labs singles": "unknown",
+    "butterfly labs singles": "bfl single 'sc'",
     "butterfly miner": "unknown",
     "butterflylabs little single sc": "unknown",
     "butterflylabs single": "bfl single 'sc'",
