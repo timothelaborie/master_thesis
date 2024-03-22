@@ -7239,7 +7239,6 @@ date,hardware
 2012-11-01 20:03:32,computers
 2012-11-02 02:44:34,mining machine
 2012-11-02 02:44:34,computers
-2012-11-02 22:43:27,bfl sc
 2012-11-03 13:11:12,phoenix miner
 2012-11-03 13:11:12,guiminer
 2012-11-03 13:11:12,cgminer
@@ -15606,7 +15605,6 @@ date,hardware
 2013-09-15 19:54:06,hf miner
 2013-09-15 20:36:11,gpus
 2013-09-15 20:36:11,usb erupter
-2013-09-15 20:36:11,monarch
 2013-09-15 20:36:11,april bfl preorder
 2013-09-15 20:36:11,6 blades
 2013-09-15 20:36:11,2 bitfury starter kits
@@ -15819,7 +15817,6 @@ date,hardware
 2013-09-19 17:51:38,babyjet
 2013-09-19 18:29:09,blade miners
 2013-09-19 18:29:09,usb miners
-2013-09-19 18:41:06,bfl monarch
 2013-09-19 18:41:06,singles
 2013-09-19 18:41:06,minirig
 2013-09-19 20:16:06,avalon mining farm
@@ -16119,7 +16116,6 @@ date,hardware
 2013-09-26 06:04:11,miners
 2013-09-26 06:21:38,hashfast
 2013-09-26 06:41:04,fpgas
-2013-09-26 06:41:04,bfl monarch
 2013-09-26 06:41:04,bfl unit
 2013-09-26 06:41:04,knc jupiter
 2013-09-26 06:41:04,jalapenos
@@ -16945,7 +16941,6 @@ date,hardware
 2013-10-23 18:22:39,asic
 2013-10-23 18:22:39,gpu
 2013-10-23 18:22:39,fpga
-2013-10-23 18:22:39,monarch
 2013-10-23 19:36:07,kncminer miner #2
 2013-10-23 19:36:07,kncminer miner #1
 2013-10-23 19:36:07,miner #6
@@ -16988,7 +16983,6 @@ date,hardware
 2013-10-24 14:48:31,knc jupiter
 2013-10-24 14:48:31,hashfast baby jet
 2013-10-24 15:30:18,fpgas
-2013-10-24 21:15:14,bfl (cointerra?) monarch
 2013-10-25 01:44:32,corsair rm 650
 2013-10-25 01:44:32,seasonic platinum-760
 2013-10-25 02:18:56,fuse holder
@@ -17050,7 +17044,6 @@ date,hardware
 2013-10-25 20:04:06,irda station
 2013-10-25 20:45:27,avalon
 2013-10-25 20:45:27,bitfury
-2013-10-25 20:45:27,monarch
 2013-10-25 20:45:27,knc
 2013-10-25 20:45:27,tav
 2013-10-26 07:43:49,asicminer usb
@@ -18343,8 +18336,6 @@ date,hardware
 2013-11-27 03:33:40,raspberry pi
 2013-11-27 03:33:40,usb be
 2013-11-27 04:38:37,block erupter type units
-2013-11-27 04:54:48,knc neptune
-2013-11-27 04:54:48,saturns
 2013-11-27 06:43:19,large fan
 2013-11-27 06:43:19,1000w server-style(?) psu
 2013-11-27 06:43:19,backplane
@@ -49293,7 +49284,6 @@ date,hardware
 2021-01-20 23:21:20,corsair 950w
 2021-01-20 23:21:20,evga supernova 1500watt
 2021-01-20 23:21:20,evga supernova 1300watt
-2021-01-20 23:21:20,bfl mini-rig
 2021-01-20 23:23:28,s3 firmware
 2021-01-20 23:23:28,m3 bolt
 2021-01-21 02:20:45,antminer s9
@@ -50667,7 +50657,6 @@ date,hardware
 2021-10-08 12:37:33,a1 miner
 2021-10-08 12:37:33,a3 miner
 2021-10-08 12:37:33,aisen a1 lovecore miner
-2021-10-08 13:03:02,ati radeon hd 4350
 2021-10-11 00:07:50,antminer test fixture for s9 t9 t9+
 2021-10-11 06:48:42,gpu kit
 2021-10-11 06:48:42,gpus

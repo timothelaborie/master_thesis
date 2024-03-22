@@ -11120,7 +11120,7 @@ mapping209 = {
     "bfgminer 4.7": "unknown",
     "bfgminer 5.1 for mac": "unknown",
     "bfgminer 5.4.2.7": "unknown",
-    "bfl": "bfl sc",
+    "bfl": "unknown",
     "bfl (cointerra?) monarch": "bfl monarch", # Closest match, assuming a confusion with Cointerra.
     "bfl (fpga)": "unknown",
     "bfl 10ghs jala": "unknown",
