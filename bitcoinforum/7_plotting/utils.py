@@ -13,6 +13,10 @@ import warnings
 def get_data(filter1: str, filter2: str):
     # Read the input data from the CSV file
     data = pd.read_csv('inputs.csv', parse_dates=['date']) # date,avg_efficiency,max_efficiency,open_price,count
+    data2 = pd.read_csv('../6_calculating_costs/cost.csv', parse_dates=['date']) # date,cost
+
+    # inner join the two dataframes
+    data = pd.merge(data, data2, on='date', how='inner')
 
     # keep only data after filter
     data = data[data['date'] >= filter1]
@@ -49,5 +53,7 @@ def get_data(filter1: str, filter2: str):
         # Differencing the series to make it stationary
         df['ln_open_price'] = np.log(df['open_price'])
         df['d_ln_open_price'] = df['ln_open_price'].diff().fillna(method='bfill')
+
+        df['d_cost'] = df['cost'].diff().fillna(method='bfill')
 
     return quarterly_data,monthly_data, weekly_data, daily_data
