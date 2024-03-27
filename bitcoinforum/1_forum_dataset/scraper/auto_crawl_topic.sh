@@ -1,2 +1,0 @@
-# python topic_crawling.py https://bitcointalk.org/index.php?topic=168174.0 --board miners --num_of_pages 165
-# python topic_crawling.py https://bitcointalk.org/index.php?topic=6458.0 --board miners --num_of_pages 57
