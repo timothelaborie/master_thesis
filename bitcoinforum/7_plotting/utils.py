@@ -55,5 +55,10 @@ def get_data(filter1: str, filter2: str):
         df['d_ln_open_price'] = df['ln_open_price'].diff().fillna(method='bfill')
 
         df['d_cost'] = df['cost'].diff().fillna(method='bfill')
+        
+        df['d_optimistic_speculation'] = df['optimistic_speculation'].diff().fillna(method='bfill')
+        df['d_pessimistic_speculation'] = df['pessimistic_speculation'].diff().fillna(method='bfill')
+        df['d_bitcoin_adoption'] = df['bitcoin_adoption'].diff().fillna(method='bfill')
+        df['d_posts_count'] = df['posts_count'].diff().fillna(method='bfill')
 
     return quarterly_data,monthly_data, weekly_data, daily_data
