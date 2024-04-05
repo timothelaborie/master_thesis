@@ -62,3 +62,8 @@ def get_data(filter1: str, filter2: str):
         df['d_posts_count'] = df['posts_count'].diff().fillna(method='bfill')
 
     return quarterly_data,monthly_data, weekly_data, daily_data
+
+
+
+
+
