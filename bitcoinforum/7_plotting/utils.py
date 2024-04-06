@@ -55,6 +55,7 @@ def get_data(filter1: str, filter2: str):
         df['d_ln_open_price'] = df['ln_open_price'].diff().fillna(method='bfill')
 
         df['d_cost'] = df['cost'].diff().fillna(method='bfill')
+        df['cost_squared'] = df['cost'] ** 2
         
         df['d_optimistic_speculation'] = df['optimistic_speculation'].diff().fillna(method='bfill')
         df['d_pessimistic_speculation'] = df['pessimistic_speculation'].diff().fillna(method='bfill')
