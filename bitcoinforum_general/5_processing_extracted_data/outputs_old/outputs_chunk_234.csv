@@ -1,0 +1,993 @@
+index,date,output
+47306.0,2018-08-18 18:13:05,"```json
+{
+  ""categories"": [ 
+    ""optimistic_speculation"",
+    ""altcoins"""
+47307.0,2018-08-18 18:40:51,"```json
+{
+  ""categories"": [ 
+    ""other"""
+47308.0,2018-08-18 21:29:30,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""bitcoin_challenges"",
+    ""educational_resources"""
+47309.0,2018-08-18 21:30:21,"```json
+{
+  ""categories"": [ 
+    ""scams"""
+47310.0,2018-08-18 21:44:53,"```json
+{
+  ""categories"": [ 
+    ""optimistic_speculation"",
+    ""bitcoin_adoption"",
+    ""financial_products"""
+47311.0,2018-08-18 21:46:14,"```json
+{
+  ""categories"": [ 
+    ""optimistic_speculation"",
+    ""bitcoin_challenges"",
+    ""educational_resources"""
+47312.0,2018-08-18 22:37:23,"```json
+{
+  ""categories"": [ 
+    ""pessimistic_speculation"""
+47313.0,2018-08-18 22:38:03,"```json
+{
+  ""categories"": [ 
+    ""altcoins"",
+    ""educational_resources"""
+47314.0,2018-08-18 23:12:29,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_adoption"",
+    ""optimistic_speculation"""
+47315.0,2018-08-18 23:44:33,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""educational_resources"""
+47316.0,2018-08-19 02:23:04,"```json
+{
+  ""categories"": [ 
+    ""optimistic_speculation"",
+    ""educational_resources"""
+47317.0,2018-08-19 02:35:32,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""optimistic_speculation"""
+47318.0,2018-08-19 08:00:38,"```json
+{
+  ""categories"": [ 
+    ""altcoins"",
+    ""bitcoin_challenges"",
+    ""educational_resources"""
+47319.0,2018-08-19 08:49:53,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""other"""
+47320.0,2018-08-19 09:38:16,"```json
+{
+  ""categories"": [ 
+    ""scams"""
+47321.0,2018-08-19 10:16:49,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""altcoins"""
+47322.0,2018-08-19 11:27:34,"```json
+{
+  ""categories"": [ 
+    ""other"""
+47323.0,2018-08-19 13:47:28,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_mining"",
+    ""educational_resources"""
+47324.0,2018-08-19 14:17:43,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_challenges"",
+    ""bitcoin_technology"",
+    ""other"""
+47325.0,2018-08-19 15:18:58,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_challenges"",
+    ""educational_resources"""
+47326.0,2018-08-19 16:34:48,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_adoption"",
+    ""optimistic_speculation"""
+47327.0,2018-08-19 19:10:10,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""educational_resources"""
+47328.0,2018-08-20 03:49:13,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""educational_resources"""
+47329.0,2018-08-20 04:40:21,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""other"""
+47330.0,2018-08-20 07:13:11,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_challenges"",
+    ""financial_products"""
+47331.0,2018-08-20 08:46:55,"```json
+{
+  ""categories"": [ 
+    ""optimistic_speculation"",
+    ""bitcoin_technology"",
+    ""educational_resources"""
+47332.0,2018-08-20 09:46:08,"```json
+{
+  ""categories"": [ 
+    ""scams"""
+47333.0,2018-08-20 09:50:41,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_adoption"",
+    ""other"""
+47334.0,2018-08-20 10:40:50,"```json
+{
+  ""categories"": [ 
+    ""scams"",
+    ""educational_resources"""
+47335.0,2018-08-20 12:01:17,"```json
+{
+  ""categories"": [ 
+    ""other"""
+47336.0,2018-08-20 12:47:46,"```json
+{
+  ""categories"": [ 
+    ""altcoins"",
+    ""bitcoin_challenges"",
+    ""educational_resources"""
+47337.0,2018-08-20 13:06:33,"```json
+{
+  ""categories"": [ 
+    ""scams"""
+47338.0,2018-08-20 13:21:57,"```json
+{
+  ""categories"": [ 
+    ""optimistic_speculation"",
+    ""educational_resources"""
+47339.0,2018-08-20 14:42:02,"```json
+{
+  ""categories"": [ 
+    ""educational_resources"",
+    ""other"""
+47340.0,2018-08-20 14:51:19,"```json
+{
+  ""categories"": [ 
+    ""other"""
+47341.0,2018-08-20 15:34:56,"```json
+{
+  ""categories"": [ 
+    ""educational_resources"""
+47342.0,2018-08-20 17:43:33,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_challenges"",
+    ""educational_resources"",
+    ""other"""
+47343.0,2018-08-20 19:13:35,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""bitcoin_challenges"""
+47344.0,2018-08-21 00:00:55,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""bitcoin_mining"""
+47345.0,2018-08-21 01:22:24,"```json
+{
+  ""categories"": [ 
+    ""other"""
+47346.0,2018-08-21 04:28:23,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""altcoins"""
+47347.0,2018-08-21 06:00:30,"```json
+{
+  ""categories"": [ 
+    ""optimistic_speculation"""
+47348.0,2018-08-21 06:20:50,"```json
+{
+  ""categories"": [ 
+    ""altcoins"",
+    ""scams"""
+47349.0,2018-08-21 06:44:15,"```json
+{
+  ""categories"": [ 
+    ""other"""
+47350.0,2018-08-21 08:24:02,"```json
+{
+  ""categories"": [ 
+    ""optimistic_speculation"",
+    ""financial_products"""
+47351.0,2018-08-21 10:52:16,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""altcoins"""
+47352.0,2018-08-21 11:56:13,"```json
+{
+  ""categories"": [ 
+    ""scams"""
+47353.0,2018-08-21 12:35:10,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_challenges"",
+    ""pessimistic_speculation"""
+47354.0,2018-08-21 13:22:52,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_adoption"",
+    ""bitcoin_challenges"""
+47355.0,2018-08-21 13:28:00,"```json
+{
+  ""categories"": [ 
+    ""optimistic_speculation"",
+    ""altcoins"""
+47356.0,2018-08-21 13:50:31,"```json
+{
+  ""categories"": [ 
+    ""pessimistic_speculation"",
+    ""educational_resources"""
+47357.0,2018-08-21 14:32:55,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""financial_products"""
+47358.0,2018-08-21 17:15:37,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"""
+47359.0,2018-08-21 17:46:00,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_adoption"""
+47360.0,2018-08-21 17:55:04,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_challenges"",
+    ""other"""
+47361.0,2018-08-22 00:15:00,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_mining"",
+    ""other"""
+47362.0,2018-08-22 05:44:50,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""pessimistic_speculation"""
+47363.0,2018-08-22 05:50:51,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_challenges"",
+    ""bitcoin_mining"",
+    ""educational_resources"""
+47364.0,2018-08-22 07:51:43,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""scams"""
+47365.0,2018-08-22 07:58:42,"```json
+{
+  ""categories"": [ 
+    ""scams"""
+47366.0,2018-08-22 08:06:40,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_mining"",
+    ""bitcoin_technology"",
+    ""educational_resources"""
+47367.0,2018-08-22 10:31:40,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_adoption"",
+    ""financial_products"",
+    ""educational_resources"""
+47368.0,2018-08-22 11:10:21,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_adoption"",
+    ""bitcoin_challenges"",
+    ""other"""
+47369.0,2018-08-22 11:19:14,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""bitcoin_adoption"""
+47370.0,2018-08-22 15:47:07,"```json
+{
+  ""categories"": [ 
+    ""educational_resources"""
+47371.0,2018-08-22 16:30:21,"```json
+{
+  ""categories"": [ 
+    ""scams"""
+47372.0,2018-08-22 17:56:24,"```json
+{
+  ""categories"": [ 
+    ""other"""
+47373.0,2018-08-22 20:11:17,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_mining"",
+    ""educational_resources"""
+47374.0,2018-08-22 21:33:03,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""optimistic_speculation"""
+47375.0,2018-08-22 22:02:41,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_adoption"",
+    ""financial_products"",
+    ""bitcoin_challenges"""
+47376.0,2018-08-22 22:44:01,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""bitcoin_challenges"",
+    ""scams"""
+47377.0,2018-08-23 01:20:25,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""pessimistic_speculation"""
+47378.0,2018-08-23 06:15:44,"```json
+{
+  ""categories"": [ 
+    ""other"""
+47379.0,2018-08-23 06:38:16,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""bitcoin_challenges"""
+47380.0,2018-08-23 06:43:36,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""bitcoin_challenges"""
+47381.0,2018-08-23 06:54:04,"```json
+{
+  ""categories"": [ 
+    ""scams"""
+47382.0,2018-08-23 07:01:14,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_adoption"",
+    ""bitcoin_challenges"",
+    ""educational_resources"""
+47383.0,2018-08-23 07:43:21,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""bitcoin_challenges"",
+    ""pessimistic_speculation"""
+47384.0,2018-08-23 09:48:19,"```json
+{
+  ""categories"": [ 
+    ""scams"""
+47385.0,2018-08-23 11:10:46,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_challenges"",
+    ""bitcoin_mining"""
+47386.0,2018-08-23 12:02:23,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_mining"",
+    ""educational_resources"",
+    ""other"""
+47387.0,2018-08-23 12:08:29,"```json
+{
+  ""categories"": [ 
+    ""educational_resources"",
+    ""other"""
+47388.0,2018-08-23 14:46:50,"```json
+{
+  ""categories"": [ 
+    ""financial_products"""
+47389.0,2018-08-23 14:55:10,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""pessimistic_speculation"""
+47390.0,2018-08-23 15:23:47,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""pessimistic_speculation"""
+47391.0,2018-08-23 15:45:24,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""optimistic_speculation"""
+47392.0,2018-08-23 16:23:00,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""educational_resources"""
+47393.0,2018-08-23 16:51:14,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_mining"""
+47394.0,2018-08-23 17:15:40,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_mining"",
+    ""educational_resources"""
+47395.0,2018-08-23 18:30:04,"```json
+{
+  ""categories"": [ 
+    ""other"""
+47396.0,2018-08-23 18:50:28,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_challenges"",
+    ""financial_products"""
+47397.0,2018-08-23 20:48:54,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""educational_resources"""
+47398.0,2018-08-24 00:05:05,"```json
+{
+  ""categories"": [ 
+    ""optimistic_speculation"",
+    ""bitcoin_mining"""
+47399.0,2018-08-24 00:13:28,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""bitcoin_challenges"",
+    ""other"""
+47400.0,2018-08-24 01:28:34,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_challenges"",
+    ""financial_products"""
+47401.0,2018-08-24 02:11:46,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""bitcoin_mining"""
+47402.0,2018-08-24 02:17:01,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""bitcoin_challenges"""
+47403.0,2018-08-24 05:17:05,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""educational_resources"""
+47404.0,2018-08-24 07:33:34,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""scams"""
+47405.0,2018-08-24 08:29:34,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""bitcoin_challenges"",
+    ""educational_resources"""
+47406.0,2018-08-24 10:10:26,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""bitcoin_challenges"",
+    ""scams"""
+47407.0,2018-08-24 11:03:31,"```json
+{
+  ""categories"": [ 
+    ""other"""
+47408.0,2018-08-24 11:51:22,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""educational_resources"""
+47409.0,2018-08-24 12:29:56,"```json
+{
+  ""categories"": [ 
+    ""optimistic_speculation"",
+    ""bitcoin_adoption"",
+    ""educational_resources"""
+47410.0,2018-08-24 12:33:53,"```json
+{
+  ""categories"": [ 
+    ""optimistic_speculation"",
+    ""altcoins"""
+47411.0,2018-08-24 12:36:08,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""bitcoin_challenges"",
+    ""scams"""
+47412.0,2018-08-24 12:43:29,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_adoption"",
+    ""financial_products"""
+47413.0,2018-08-24 12:44:16,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""financial_products"""
+47414.0,2018-08-24 12:52:29,"```json
+{
+  ""categories"": [ 
+    ""optimistic_speculation"",
+    ""educational_resources"""
+47415.0,2018-08-24 13:32:37,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""educational_resources"",
+    ""other"""
+47416.0,2018-08-24 15:03:44,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""bitcoin_challenges"""
+47417.0,2018-08-24 15:40:39,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""bitcoin_challenges"",
+    ""scams"""
+47418.0,2018-08-24 16:19:52,"```json
+{
+  ""categories"": [ 
+    ""other"""
+47419.0,2018-08-24 17:13:10,"```json
+{
+  ""categories"": [ 
+    ""optimistic_speculation"""
+47420.0,2018-08-24 17:19:56,"```json
+{
+  ""categories"": [ 
+    ""optimistic_speculation"",
+    ""educational_resources"",
+    ""other"""
+47421.0,2018-08-24 17:21:47,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""optimistic_speculation"""
+47422.0,2018-08-24 17:24:43,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_challenges"",
+    ""scams"""
+47423.0,2018-08-24 21:14:21,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""educational_resources"",
+    ""other"""
+47424.0,2018-08-25 00:16:14,"```json
+{
+  ""categories"": [ 
+    ""financial_products"""
+47425.0,2018-08-25 05:46:14,"```json
+{
+  ""categories"": [ 
+    ""optimistic_speculation"""
+47426.0,2018-08-25 10:34:59,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""bitcoin_challenges"""
+47427.0,2018-08-25 11:01:24,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""bitcoin_challenges"",
+    ""scams"""
+47428.0,2018-08-25 12:50:47,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_challenges"",
+    ""altcoins"""
+47429.0,2018-08-25 13:03:47,"```json
+{
+  ""categories"": [ 
+    ""optimistic_speculation"",
+    ""bitcoin_mining"""
+47430.0,2018-08-25 14:54:20,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_mining"",
+    ""altcoins"",
+    ""educational_resources"""
+47431.0,2018-08-25 17:19:39,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""educational_resources"""
+47432.0,2018-08-25 20:55:28,"```json
+{
+  ""categories"": [ 
+    ""optimistic_speculation"""
+47433.0,2018-08-25 21:53:52,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""optimistic_speculation"""
+47434.0,2018-08-25 22:49:02,"```json
+{
+  ""categories"": [ 
+    ""pessimistic_speculation"""
+47435.0,2018-08-26 00:11:24,"```json
+{
+  ""categories"": [ 
+    ""altcoins"",
+    ""bitcoin_challenges"",
+    ""other"""
+47436.0,2018-08-26 09:05:40,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""bitcoin_adoption"""
+47437.0,2018-08-26 09:20:10,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""educational_resources"",
+    ""other"""
+47438.0,2018-08-26 10:38:14,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_challenges"",
+    ""educational_resources"",
+    ""other"""
+47439.0,2018-08-26 12:49:44,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""bitcoin_adoption"",
+    ""educational_resources"""
+47440.0,2018-08-26 15:16:52,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_adoption"",
+    ""altcoins"",
+    ""other"""
+47441.0,2018-08-26 15:19:15,"```json
+{
+  ""categories"": [ 
+    ""other"""
+47442.0,2018-08-26 17:32:00,"```json
+{
+  ""categories"": [ 
+    ""optimistic_speculation"",
+    ""bitcoin_mining"",
+    ""educational_resources"""
+47443.0,2018-08-26 18:10:23,"```json
+{
+  ""categories"": [ 
+    ""optimistic_speculation"""
+47444.0,2018-08-26 19:07:59,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""scams"""
+47445.0,2018-08-26 22:00:21,"```json
+{
+  ""categories"": [ 
+    ""other"""
+47446.0,2018-08-26 23:12:43,"```json
+{
+  ""categories"": [ 
+    ""other"""
+47447.0,2018-08-27 01:50:56,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""educational_resources"""
+47448.0,2018-08-27 09:24:49,"```json
+{
+  ""categories"": [ 
+    ""educational_resources"",
+    ""other"""
+47449.0,2018-08-27 10:02:45,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""bitcoin_challenges"""
+47450.0,2018-08-27 12:47:10,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""bitcoin_challenges"",
+    ""scams"""
+47451.0,2018-08-27 14:42:40,"```json
+{
+  ""categories"": [ 
+    ""other"""
+47452.0,2018-08-27 15:00:03,"```json
+{
+  ""categories"": [ 
+    ""other"""
+47453.0,2018-08-27 15:35:15,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""scams"""
+47454.0,2018-08-27 18:21:59,"```json
+{
+  ""categories"": [ 
+    ""pessimistic_speculation"""
+47455.0,2018-08-27 18:51:05,"```json
+{
+  ""categories"": [ 
+    ""pessimistic_speculation"""
+47456.0,2018-08-28 03:10:13,"```json
+{
+  ""categories"": [ 
+    ""optimistic_speculation"",
+    ""educational_resources"""
+47457.0,2018-08-28 03:25:08,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_adoption"",
+    ""optimistic_speculation"""
+47458.0,2018-08-28 10:10:38,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""other"""
+47459.0,2018-08-28 10:28:16,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""scams"""
+47460.0,2018-08-28 11:35:23,"```json
+{
+  ""categories"": [ 
+    ""altcoins"",
+    ""other"""
+47461.0,2018-08-28 11:39:20,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_adoption"",
+    ""bitcoin_challenges"",
+    ""other"""
+47462.0,2018-08-28 13:08:24,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_challenges"",
+    ""educational_resources"""
+47463.0,2018-08-28 13:15:22,"```json
+{
+  ""categories"": [ 
+    ""altcoins"",
+    ""educational_resources"""
+47464.0,2018-08-28 14:02:24,"```json
+{
+  ""categories"": [ 
+    ""optimistic_speculation"",
+    ""bitcoin_challenges"""
+47465.0,2018-08-28 14:19:07,"```json
+{
+  ""categories"": [ 
+    ""altcoins"",
+    ""educational_resources"",
+    ""other"""
+47466.0,2018-08-28 15:21:07,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""bitcoin_challenges"""
+47467.0,2018-08-28 16:00:18,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_mining"",
+    ""optimistic_speculation"""
+47468.0,2018-08-28 18:37:53,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_adoption"",
+    ""other"""
+47469.0,2018-08-28 22:05:11,"```json
+{
+  ""categories"": [ 
+    ""pessimistic_speculation"""
+47470.0,2018-08-29 07:09:37,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_challenges"",
+    ""scams"""
+47471.0,2018-08-29 07:42:49,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""educational_resources"",
+    ""other"""
+47472.0,2018-08-29 07:43:47,"```json
+{
+  ""categories"": [ 
+    ""other"""
+47473.0,2018-08-29 07:44:13,"```json
+{
+  ""categories"": [ 
+    ""scams"""
+47475.0,2018-08-29 09:56:09,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_adoption"",
+    ""optimistic_speculation"""
+47476.0,2018-08-29 10:27:38,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""educational_resources"""
+47477.0,2018-08-29 14:34:30,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""educational_resources"""
+47478.0,2018-08-29 16:20:29,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""educational_resources"",
+    ""other"""
+47479.0,2018-08-29 16:56:57,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""educational_resources"",
+    ""other"""
+47480.0,2018-08-29 17:51:52,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""educational_resources"",
+    ""other"""
+47481.0,2018-08-29 18:59:58,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_challenges"",
+    ""scams"""
+47482.0,2018-08-29 20:24:59,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_mining"",
+    ""bitcoin_challenges"""
+47483.0,2018-08-29 20:55:24,"```json
+{
+  ""categories"": [ 
+    ""educational_resources"",
+    ""other"""
+47484.0,2018-08-30 01:29:57,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""altcoins"",
+    ""educational_resources"""
+47485.0,2018-08-30 04:02:46,"```json
+{
+  ""categories"": [ 
+    ""scams"",
+    ""other"""
+47486.0,2018-08-30 05:43:15,"```json
+{
+  ""categories"": [ 
+    ""educational_resources"""
+47487.0,2018-08-30 08:45:25,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""educational_resources"""
+47488.0,2018-08-30 11:42:26,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""educational_resources"",
+    ""other"""
+47489.0,2018-08-30 12:44:44,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""altcoins"""
+47490.0,2018-08-30 15:36:41,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""bitcoin_adoption"""
+47491.0,2018-08-30 15:43:27,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_adoption"",
+    ""other"""
+47492.0,2018-08-30 15:57:24,"```json
+{
+  ""categories"": [ 
+    ""other"""
+47493.0,2018-08-30 16:12:38,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""educational_resources"""
+47494.0,2018-08-30 16:14:34,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""educational_resources"""
+47495.0,2018-08-30 16:52:35,"```json
+{
+  ""categories"": [ 
+    ""altcoins"",
+    ""pessimistic_speculation"""
+47496.0,2018-08-30 16:54:41,"```json
+{
+  ""categories"": [ 
+    ""altcoins"",
+    ""financial_products"""
+47497.0,2018-08-30 17:10:17,"```json
+{
+  ""categories"": [ 
+    ""financial_products"",
+    ""pessimistic_speculation"",
+    ""scams"""
+47498.0,2018-08-30 17:56:05,"```json
+{
+  ""categories"": [ 
+    ""educational_resources"""
+47499.0,2018-08-31 01:48:45,"```json
+{
+  ""categories"": [ 
+    ""educational_resources"""
+47500.0,2018-08-31 05:03:43,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_challenges"",
+    ""bitcoin_mining"",
+    ""other"""
+47501.0,2018-08-31 05:40:26,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_mining"",
+    ""bitcoin_challenges"""
+47502.0,2018-08-31 06:43:15,"```json
+{
+  ""categories"": [ 
+    ""other"""
+47503.0,2018-08-31 06:55:07,"```json
+{
+  ""categories"": [ 
+    ""educational_resources"",
+    ""bitcoin_challenges"",
+    ""other"""
+47504.0,2018-08-31 06:57:51,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_technology"",
+    ""optimistic_speculation"""
+47505.0,2018-08-31 07:13:44,"```json
+{
+  ""categories"": [ 
+    ""bitcoin_challenges"",
+    ""scams"""
