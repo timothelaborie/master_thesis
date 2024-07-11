@@ -2,7 +2,7 @@ from __future__ import annotations
 import pandas as pd ; import os ; import numpy as np ; import matplotlib.pyplot as plt ; from math import sqrt
 import matplotlib as mpl
 
-main_path = r'/Users/cgrumbach/Documents/Paper - Bitcoin Pricing/Data Analysis'
+main_path = './'
 if not os.path.exists(os.path.join(main_path)):
     os.makedirs(os.path.join(main_path))
 df_data = pd.read_excel(os.path.join(main_path, 'Bitcoin Paper Datasheet.xlsx'), engine='openpyxl',
@@ -95,5 +95,6 @@ ax_hashrate.xaxis.grid(True,'minor', linestyle='--', linewidth=0.1)
 ax_hashrate.yaxis.grid(True,'minor', linestyle='--', linewidth=0.1)
 ax_hashrate.xaxis.grid(True,'major', linestyle='--', linewidth=0.25, color='k')
 ax_hashrate.yaxis.grid(True,'major', linestyle='--', linewidth=0.25, color='k')
+plt.savefig(os.path.join(main_path, 'turningpoint.pdf'), format='pdf')
 plt.show()
-fig.savefig(os.path.join(main_path, 'Hardware_Hashrate.png'), bbox_inches='tight', dpi=600)
+fig.savefig(os.path.join(main_path, 'turningpoint.png'), bbox_inches='tight', dpi=600)
