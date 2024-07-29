@@ -27,5 +27,4 @@ bitcoinforum_general/2_train_set_creation/inputs.csv
 bitcoinforum_general/2_train_set_creation/inputs_old.csv
 analysis/pdfs/*
 a.tex
-bitcoinforum/7_plotting/pdfs/efficiencycomparison.pdf
-bitcoinforum/7_plotting/data_plot.pdf
+bitcoinforum/7_plotting/pdfs/*
