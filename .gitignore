@@ -19,7 +19,7 @@ bitcoinforum/1_forum_dataset/scraper/cache.pt
 bitcoinforum_general/1_forum_dataset/concat.csv
 bitcoinforum_general/2_train_set_creation/inputs.csv
 bitcoinforum_general/2_train_set_creation/inputs_old.csv
-analysis/pdfs/*
+plots/pdfs/*
 a.tex
 bitcoinforum/7_plotting/pdfs/*
 analysis/sources/*
