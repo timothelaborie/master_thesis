@@ -15,13 +15,7 @@ bitcoinforum/5_processing_extracted_data/hardware_instances_2020_all.csv
 bitcoinforum/5_processing_extracted_data/hardware_instances_all.csv
 bitcoinforum/5_processing_extracted_data/plotdata_all.csv
 bitcoinforum/5_processing_extracted_data/hardware_instances_with_efficiency_all.csv
-bitcoinforum/6_plotting/model_and_monthly_data.csv
-bitcoinforum/6_plotting/model_and_monthly_data_2.csv
 bitcoinforum/1_forum_dataset/scraper/cache.pt
-bitcoinforum/6_calculating_costs/orig/China city electricity price.xlsx
-bitcoinforum/6_calculating_costs/orig/china_electricity_series_data.xlsx
-bitcoinforum/6_calculating_costs/orig/China_US Average Retail Electricity Price.xlsx
-bitcoinforum/6_calculating_costs/orig/Average Retail Price of Electricity_ All Sectors_ United States.xlsx
 bitcoinforum_general/1_forum_dataset/concat.csv
 bitcoinforum_general/2_train_set_creation/inputs.csv
 bitcoinforum_general/2_train_set_creation/inputs_old.csv
@@ -29,4 +23,4 @@ analysis/pdfs/*
 a.tex
 bitcoinforum/7_plotting/pdfs/*
 analysis/sources/*
-bitcoinforum/6_calculating_costs/excel stuff from cyrille/*
+bitcoinforum/6_merging/excel stuff from cyrille/*
