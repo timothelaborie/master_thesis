@@ -17,25 +17,19 @@ tables.forEach((element, index) => {
         }
 
         var cells = rows[i].querySelectorAll('td');
+
+
         var hardwareName = cells[0].textContent.trim();
         var hashrate = cells[1].textContent.trim().replace(/[^0-9.]/g, "");
         var efficiency = cells[2].textContent.trim().replace(/[^0-9.]/g, "");
+        var Watts = cells[4].textContent.trim().replace(/[^0-9.]/g, "");
 
-        //amd table
-        // var Watts = cells[4].textContent.trim().replace(/[^0-9.]/g, "");
 
-        //nvidia table
-        var Watts = cells[3].textContent.trim().replace(/[^0-9.]/g, "");
 
-        // var cells = rows[i].querySelectorAll('td');
-        // var hashrate = cells[0].textContent.trim().replace(/[^0-9.]/g, "");
-        // var efficiency = cells[1].textContent.trim().replace(/[^0-9.]/g, "");
-        // var Watts = cells[3].textContent.trim().replace(/[^0-9.]/g, "");
-        // var th = rows[i].querySelectorAll('th');
-        // var hardwareName = th[0].textContent.trim();
-    
-
-		
+        //check if page url contains "Non" and index is 1
+        if (window.location.href.includes("Non") && index === 1) {
+            Watts = cells[3].textContent.trim().replace(/[^0-9.]/g, "");
+        }
 
 
         if (!hashTable[hardwareName]) {
@@ -77,16 +71,16 @@ tables.forEach((element, index) => {
 });
 
 for (var hardware in hashTable) {
-    var avgHashrate = hashTable[hardware].hashrate.count > 0 ? hashTable[hardware].hashrate.total / hashTable[hardware].hashrate.count : 'N/A';
-    var avgEfficiency = hashTable[hardware].efficiency.count > 0 ? hashTable[hardware].efficiency.total / hashTable[hardware].efficiency.count : 'N/A';
-    var avgWatts = hashTable[hardware].Watts.count > 0 ? hashTable[hardware].Watts.total / hashTable[hardware].Watts.count : 'N/A';
+    var avgHashrate = hashTable[hardware].hashrate.count > 0 ? hashTable[hardware].hashrate.total / hashTable[hardware].hashrate.count : 'unknown';
+    var avgEfficiency = hashTable[hardware].efficiency.count > 0 ? hashTable[hardware].efficiency.total / hashTable[hardware].efficiency.count : 'unknown';
+    var avgWatts = hashTable[hardware].Watts.count > 0 ? hashTable[hardware].Watts.total / hashTable[hardware].Watts.count : 'unknown';
 
-    //if avgEfficiency is N/A but the other two are not, then calculate it
-    // if (avgEfficiency === 'N/A' && avgHashrate !== 'N/A' && avgWatts !== 'N/A') {
+    //if avgEfficiency is unknown but the other two are not, then calculate it
+    // if (avgEfficiency === 'unknown' && avgHashrate !== 'unknown' && avgWatts !== 'unknown') {
     //     avgEfficiency = avgHashrate / avgWatts;
     // }
 
-    output.push(hardware + '<sep>' + (avgHashrate+"").substr(0,6) + '<sep>' + (avgEfficiency+"").substr(0,6) + '<sep>' + (avgWatts+"").substr(0,6));
+    output.push(hardware + ';' + (avgHashrate+"") + ';' + (avgEfficiency+"")); // + ';' + (avgWatts+"")
 }
 
 console.log(output);
