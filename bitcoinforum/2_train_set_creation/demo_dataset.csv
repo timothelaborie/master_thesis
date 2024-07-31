@@ -1,0 +1,458 @@
+index,input,output
+4109,"Date: 2012-06
+Topic: Selling another batch of 40 ICARUS - sold out
+### Original post:
+Those Icarus are batch 3, tested for several weeks by me. mostly test with cgminer rig development, use OpenWrt router as host.I will take orders from tomorrow, Wednesday, May 23 5:00AM UTC+8 (don't send email before this time) ---- until all 40 are sold.Price: 480USD + shipping cost.Package content: Icarus, usb cable, power adapter or power wireAll package will send by EMS (<link> time we only accept BTC. after I receive order email I will send a new btc address to you. then after i receice the btc, I will ship your package immediately.Orders take by email <truncated> please add [ICARUS] to the subject. there is no confirm email. I will send you one email after I get the EMS track NO.(means packages already sent out, shipping from Beijing/China with EMS). please write those information in email:1. How many Icarus you want.2. You want power adapter or power wire. I advise you using your own ATX power if you order more then 2 Icarus.3. Address detail: name: company(optional): address: city: province: country: ZIP: TEL:More Icarus info please check:<link><link>
+
+### Reply 1:
+wow!Now here is all sold out , anyone interested in ICArus boards should visit this topic:<link> still some ICA available there.
+
+### Reply 2:
+Another 10 Icarus.
+
+","{
+  ""hardware"": [
+    {
+      ""hardware_name"": ""ICARUS"",
+      ""hardware_is_owned"": true
+    },
+    {
+      ""hardware_name"": ""ICARUS boards"",
+      ""hardware_is_owned"": false
+    },
+    {
+      ""hardware_name"": ""ICA"",
+      ""hardware_is_owned"": false
+    }
+  ]
+}"
+11208,"Date: 2022-09
+Topic: Advice -Adding additional 6 pin PCIE outputs on a PC modular Power Supply?
+### Original post:
+Hi AllI have a few modular/semi modular PC psu's and was thinking of using the to pwer some S9 miners with 2 cards. Most of what i have are 1000w or higher.They will be worthless selling so might be better put to use on some S9s powered with2 cards, so i would need x7 ouputs all together.I think i could use an existing hard wired PCIE (6 pin or not) to power the control board.Then on the dedicated high amp PCIE modular ouputs could i not solder on connections and 'share' the load so x2 on each output?I have only seen x8 to x2 PCIE cables so could i not just splice in and solder another?If this works i could do a few more miers in thsi set up as it would be low power and quite when set to 700/800w.Anyone done this or got an opinion on it?The PSU's will either go to waste tbh.Pics attached.<link>
+
+### Reply 1:
+@NotFuzzyWarmYes i will be running only 2 boards @ 700w or 800w.Is that why 'common rail' modular PSUs are so expensive?The only PSUs i can see that have enough outputs (X7) are the EVGA ones and they are silly money, i'm surprised that nobody has found a decent PSU and 'modded' them for more outputs tbh.....I just can't find makes that suffice apart from that brand?I think if i open it i can see rails and go from there, 3 on each for the hash boards and an existing 12v ouput for the control board.Thanks for the advice.
+
+### Reply 2:
+Looks like the +12v are seperate rails and GND/-12v shared.I will just add an extra pin to each double 8pin >x2 6pin.So i will have a set of two 8pin >x3 6 pins.Current will be approx 800/12=66.67aIs this correct?<link>
+
+### Reply 3:
+To be honest, modular plug PSU's all have 1 major problem: They are pushing the maximum current rating through the contacts and generally have only 18ga wires between the PSU and PCIe plugs.Ok, that's 2 major problems...That said, since you are talking about running at reduced power it may not be an issue, just periodically check to see how warm the PSU connectors get. Yes, I've had a few rather spectacularly fry over the years from when I used them to power s3's & s5's...Other thing to keep in mind is that particular PSU has 2 independent output rails. DO NOT connect power from the 2 different rails to 1 hash board! They will be shorted together and fight each other.
+
+","{
+  ""hardware"": [
+    {
+      ""hardware_name"": ""S9 miners"",
+      ""hardware_is_owned"": false
+    },
+    {
+      ""hardware_name"": ""PC modular power supply"",
+      ""hardware_is_owned"": true
+    },
+    {
+      ""hardware_name"": ""EVGA power supply"",
+      ""hardware_is_owned"": false
+    },
+    {
+      ""hardware_name"": ""hash boards"",
+      ""hardware_is_owned"": false
+    },
+    {
+      ""hardware_name"": ""PCIe plugs"",
+      ""hardware_is_owned"": false
+    },
+    {
+      ""hardware_name"": ""S3 miners"",
+      ""hardware_is_owned"": false
+    },
+    {
+      ""hardware_name"": ""S5 miners"",
+      ""hardware_is_owned"": false
+    }
+  ]
+}"
+12483,"Date: 2013-07
+Topic: Please Help: Mining with both cores of 5970 with cgminer?
+### Original post:
+Hi, I'm having trouble setting up a 5970 and mining with cgminer The rig is running Linux (Xubuntu) and the 5970 is the only card ( I've followed this guide which has always worked with my other setups.)When I run cgminer -n from the terminal emulator on the desktop I get the <truncated> -nCL Platform 0 vendor: Advanced Micro Devices, Inc. CL Platform 0 name: AMD Accelerated Parallel Processing CL Platform 0 version: OpenCL 1.1 AMD-APP-SDK-v2.5 (793.1) Platform 0 devices: 1 0 Cypress ADL found more devices than opencl! There is possibly at least one GPU that doesn't support OpenCL Use the gpu map feature to reliably map OpenCL to ADL WARNING: Number of OpenCL and ADL devices did not match! Hardware monitoring may NOT match up with devices! GPU 0 ATI Radeon HD 5900 Series hardware monitoring enabled 1 GPU devices max detected Seems to me, cgminer is not recognizing both cores of the 5970.(When I mine with cgminer from the terminal emulator on the Desktop, it's mining with only one core of the 5970)Interestingly, when I run the same command from a SSH terminal it gives me:Code:./cgminer -nCL Platform 0 vendor: Advanced Micro Devices, Inc. CL Platform 0 name: AMD Accelerated Parallel <rest of post truncated>
+
+### Reply 1:
+Do you have the newest drivers?
+
+### Reply 2:
+Usual instructions for when people DONT read the readme.Reconfigure xorg for all devices, start x and export the DISPLAY variable before starting cgminer.
+
+### Reply 3:
+I just find it so weird how people dont read something that specifically says ""READ ME!""
+
+### Reply 4:
+Ahh, thanks guys I actually was exporting the DISPLAY variable in my mining startup script but I'd stupidly disabled this while installing/testing the card. That seems to have solved that problem! Unfortunately this led me on to a new issue: The Xubuntu computer loses power very quickly when I start mining on the 5970 with anything above intensity 1, but it mines fine (intensity 11) when installed in a different windows machine...When the linux comp powers off, it's without warning I have to wait a little and toggle the PSU switch before turning it on again. Both PC's have adequate PSU's (760W) and the 5790 is the only card being used. So it has me puzzled. Why would mining cause the linux machine to quickly shut off? Temps on the fan never get a chance to hit 80 before the power cuts off.I will start a new thread on this if it comes to me getting completely stuck (I can try a 7870 in the linux computer and see if it has the same problem), but I hoped someone may have a good idea why this is happening? ATI drivers are 11.11Thank you very much for ideas on this one and happy hashing!
+
+### Reply 5:
+Last problem now appears fixed after replacing PSU. Thanks again for the help!
+
+### Reply 6:
+Hi ckolivas,I read the readme, but I may be to ""slow"" to understand. I would definitely appreciate your help.I'm getting the same error. I triedsudo aticonfig --adapter=0,1 --initialI also have the following lines in my shell file to start cgminerexport DISPLAY=:0export <truncated> <truncated> I'm missing?
+
+### Reply 7:
+I realize I'm having issues with X server to start. So guess I need to fix that somehow.
+
+","{
+  ""hardware"": [
+    {
+      ""hardware_name"": ""5970"",
+      ""hardware_is_owned"": true
+    },
+    {
+      ""hardware_name"": ""ATI Radeon HD 5900 Series"",
+      ""hardware_is_owned"": true
+    },
+    {
+      ""hardware_name"": ""5790"",
+      ""hardware_is_owned"": true
+    },
+    {
+      ""hardware_name"": ""7870"",
+      ""hardware_is_owned"": false
+    },
+    {
+      ""hardware_name"": ""760W PSU"",
+      ""hardware_is_owned"": true
+    },
+    {
+      ""hardware_name"": ""PSU"",
+      ""hardware_is_owned"": false
+    }
+  ]
+}"
+23073,"Date: 2019-09
+Topic: ASIC Not working!!! HELP
+### Original post:
+An ASIC is an Application Specific Integrated Circuit, eg the chips used in a miner. I take it your MINER is not working and we are supposed to just check our crystal ball or guess what kind of miner it is? Try giving some useful information about it such <truncated> new or used?
+
+### Reply 1:
+a 17 second video is worthless.how about a guihow about api logshow about make and model?looks like an innosiliconlooks like it needs 2 psu'sis it this miner a6 or a6+
+
+### Reply 2:
+hey guys I bought AladdinMiner T1 and a psu but now the psu is not working, so I bought new ""bitmain APW3++"" and it was working fine the next day I increase the performance of the asic and it switched off now I can't turn it on!!!here is the video:<link> lights are not working.no ip address.fans starts and strops working.HELP
+
+### Reply 3:
+He clearly edited the post after you guys have commented, anyhow , this is the miner he is talking about I guess.<link> it does look like an Inno gear with a bit of modification, in that link they clearly saywhich means phill is right, you need at least two PSUs, each must be 1400w minimum , and according to the video, it does look like he got 2 PSUs connected, the miner's fan do spin for a while and then stop , and you saidWhich means you tried to overclock the miner, you either burned the miner or one of the PSUs, does it show on the network ?? can you access the user interface? please post more details.
+
+### Reply 4:
+Do note that the OP has not made any mention of trying to contact the distributor or manufacturer of this knock-off miner. That of course should be the very first thing the OP should have done...Nor have they posted anything else re what has been said so far.
+
+### Reply 5:
+He needs to know it's a knock-off in the first place, and honestly if the gear does 32th at 2800w as promised-- it does not matter what name they put on it, as for contacting the manufacturer, honestly this is usually the last thing I personally do simply because1-The support at these Chinese websites is terrible, had a ton of issues with my gears, most were solved by trial and error or from information I got online (mostly on this very forum) , while the manufacturer will give only give you the abc of trouble shooting only.2-In many places, the shipping cost for returning the miner back to china is unreasonable, to the extent that some people rather order new hash board/control board or a PSU than having to pay that much for shipping or wait for months to get their replacement.I think if OP provides enough information and kernel log, someone will be able to give him the solution for this problem without the need for a crystal ball.
+
+","{
+  ""hardware"": [
+    {
+      ""hardware_name"": ""AladdinMiner T1"",
+      ""hardware_is_owned"": true
+    },
+    {
+      ""hardware_name"": ""bitmain APW3++"",
+      ""hardware_is_owned"": true
+    },
+    {
+      ""hardware_name"": ""Innosilicon"",
+      ""hardware_is_owned"": false
+    },
+    {
+      ""hardware_name"": ""PSU"",
+      ""hardware_is_owned"": false
+    },
+    {
+      ""hardware_name"": ""knock-off miner"",
+      ""hardware_is_owned"": false
+    }
+  ]
+}"
+19054,"Date: 2014-03
+Topic: USB Block Erupter showing up as generic USB Device instead of ""Port"", won't mine
+### Original post:
+I've been mining with two USB Block Erupter Sapphires without issue for at least a week now, properly cooled. Today, I've been messing around with things trying to get my Antminer U2 up and running and must've done something that now causes one of my erupters to show up under Device Manager as a usb device instead of under ""Ports"". When I try to mine with it, it just sits in standby doing nothing. However, if I plug it into my Win 7 machine it comes up normally under ""Ports"" instead of ""Universal Serial Bus Devices"" but I don't have an ethernet to that box to test if it will mine. I'm not sure what exactly is going on with this stick. Is it fried?
+
+### Reply 1:
+Maybe you installed a WinUSB driver?
+
+### Reply 2:
+Is the problem on a windows xp machine? This may be a device identifier issue. I've never seen it with 3 devices, but I suppose it is possible. There is a fix posted in these forums somewhere and if I have time to dig it up for you I will, but if you keep restarting and plugging it back in to different ports it may eventually pick up properly. Windows XP doesn't handle duplicate usb devices very well.
+
+","{
+  ""hardware"": [
+    {
+      ""hardware_name"": ""USB Block Erupter Sapphire"",
+      ""hardware_is_owned"": true
+    },
+    {
+      ""hardware_name"": ""Antminer U2"",
+      ""hardware_is_owned"": false
+    }
+  ]
+}"
+9265,"Date: 2015-08
+Topic: A little more proof the Cloudthink miner is fake... Shilled reddit accounts
+### Original post:
+How is this site still a thing? Has there not already been extensive proof uncovered that Cloudthink is a scam? I haven't talked to anyone within the Bitcoin community that has regarded as anything other than a scam.
+
+### Reply 1:
+Has anyone from Manchester walked to their supposed office? It wouldn't take much effort to provide verifiable evidence that this is a scam.
+
+### Reply 2:
+All I want to add is shame on any of the upstanding members that took on their Sig campaign and contributed to anyone getting taken advantage of. Betrayed by greed once again. I feel bad for anyone inexperienced that fell for this scam, it may have been obvious to most of us, but it was slightly less poorly planned out than many others.
+
+### Reply 3:
+Yes<link>
+
+### Reply 4:
+What about the dollar a day whores who signed up for the ""free"" packages and incessantly bumped this thread?<link> was plenty to be suspicious about when they signed up in the middle of June.
+
+","{
+  ""hardware_mentions"": []
+}"
+21036,"Date: 2016-05
+Topic: MOVED: [AJUDA] Montar Máquina de Mineração
+### Original post:
+This topic has been moved to Trashcan.<link> in English.
+
+","[
+    {
+        ""hardware_name"": ""Antminer S9"",
+        ""hardware_is_owned"": false
+    },
+    {
+        ""hardware_name"": ""AvalonMiner 741"",
+        ""hardware_is_owned"": false
+    },
+    {
+        ""hardware_name"": ""Bitmain Antminer L3+"",
+        ""hardware_is_owned"": false
+    },
+    {
+        ""hardware_name"": ""Innosilicon T2T"",
+        ""hardware_is_owned"": false
+    },
+    {
+        ""hardware_name"": ""Dragonmint T1"",
+        ""hardware_is_owned"": false
+    }
+]"
+11702,"Date: 2011-12
+Topic: Monitoring of hash rate over short time periods
+### Original post:
+HiI'm running cgminer with quite a few gpus. I want to tweak and monitor performance of each gpu at a time so I can fine tune them. Cgminer just offers average has hashrate for all. (6 gpus per client)Can I do this or is there another way I shud go about it? The average per gpu jumps around too much for my liking.Thank you.
+
+### Reply 1:
+You sure? Highlighted numbers are average per card AFAIK:
+
+### Reply 2:
+Yes but mine is constantly jumping around with very large variability . Is yours more stable? Upon further research I see a post where someone has mentioned switching to overclock makes the average more stable (6990) - ill test that out tho I wud prefer to keep it at 375W so I can predict electricity usage. In the meantime the average rate per gpu jumps around so much its ikpossible to gauge whether ur getting a small increase in hashing power.
+
+### Reply 3:
+The left figure (458.0) fluctuates a bit, I think its a 5s average; the right one that I highlighted (456.6), doesnt change at all (after running for a while). I think that is the average since starting the app?
+
+","{
+  ""hardware"": [
+    {
+      ""hardware_name"": ""gpu"",
+      ""hardware_is_owned"": true
+    },
+    {
+      ""hardware_name"": ""6990"",
+      ""hardware_is_owned"": false
+    }
+  ]
+}"
+10730,"Date: 2018-05
+Topic: Ledger Nano Ether Wallet
+### Original post:
+Hi, first time using Ledger nano s, with MEW wallet, i log in, it shows 5 different MEW address, are those all mine? who created those account, and how come I don't see private key when I log in those accounts? Also, I don't need any password like a normal wallet? little confused here how it works, can anyone explain? thanks
+
+### Reply 1:
+Consider Myetherwallet as an interface to interact with your Ledger nano S. You will still need to enter the PIN to unlock your Ledger or confirm the transactions from the device. The addresses are yours, pre-generated from your seed.
+
+### Reply 2:
+Ledger has its own HowTo for MyEtherWallet, have a look: <link> are also a ton of guides, blog articles and videos available: <link>
+
+### Reply 3:
+These wallets have already been built in you ledger nano s. When I'm bought trezor I got 5 eth addresses for my device. You can check your own cabinet on ledger where you can configure all functions
+
+### Reply 4:
+Thank you, but how come I am not able to see the private key for those pre-built 5 accounts? does it mean, I don't need private keys for those accounts?
+
+### Reply 5:
+Hello imteaz, look here:<link> hope the information will help you. All the best
+
+### Reply 6:
+The private-key is inside your Ledger. Putting in a simple way, MEW uses your public key (address) to see your balance and build the transaction, which its sent to the Ledger device, signed with the private-key and sent back to the computer, where its broadcasted. The private-key never leaves the device (reason why you can't see them, and why hardware wallets are so secure compared to normal desktop wallets).
+
+","{
+  ""hardware_devices"": [
+    {
+      ""hardware_name"": ""Ledger Nano S"",
+      ""hardware_is_owned"": true
+    },
+    {
+      ""hardware_name"": ""Trezor"",
+      ""hardware_is_owned"": true
+    }
+  ]
+}"
+21854,"Date: 2017-11
+Topic: AntMiner R4 Stopped working
+### Original post:
+my Antminer R4 (Antminer R4, Batch 5(7.5TH/s)) suddenly stopped working after reboot. i tried various options like reset using different methods but i cant get it to workeven the web based admin console was not reachable however afrer several reboots and holding the IP button i was able to connect to web based control panel...however strange problem is that i cant see the miner config screen though i can see other screensi updated firmware using web based console n got success message but still same problem persists...pfa screenshots and kindly advise ...<link>
+
+### Reply 1:
+too late you did firmware upgradei can't help you sorry.if you are usa based maybe bitmain warranty can help<link> r4 breaks alot and you muscled a firmware update on a broken r4.your best shot is bitmainwarranty good luck
+
+### Reply 2:
+is there a way to connect using ssh....
+
+### Reply 3:
+Too late .The r4 is very delicate,They break and break and break.Someone had a link that show how to reset to the original firmware.someone gave it to me it may work if you reset it.I will look for a link to the reset.In I reset it and it still did not work.I sent it in to bitmainwarranty and they did fix it.
+
+### Reply 4:
+You can ssh into it with username root and password admin.I doubt the firmware is causing this, at least, if it was installed correctly. I had an R4 controller fail and I replaced it with an S9 controller, flashing it with the R4 firmware and it works fine. If the image was installed properly, and your controller isn't broken, it should be working. Make sure you don't have anything preventing javascript from running on that page.The ""ant_data=;"" you see in the miner configuration page is there because the header has an inline script that begins with Code:echo ""ant_data = ${ant_result};"" The script is fetching cgi data from the config saved in <truncated> For some reason it is failing at that point.
+
+### Reply 5:
+thanks all for your suggestions ..
+
+","{
+  ""hardware"": [
+    {
+      ""hardware_name"": ""Antminer R4"",
+      ""hardware_is_owned"": true
+    },
+    {
+      ""hardware_name"": ""S9 controller"",
+      ""hardware_is_owned"": false
+    }
+  ]
+}"
+23255,"Date: 2020-04
+Topic: BlackArrow Prospero X-3 [Help] (2020)
+### Original post:
+Hi,I just bought myself the Black Arrow X3, for my personal collection of asics. But, I cannot connect to operate the machine. I saw that for the login it is: user = user, passworld = blackarrow but it shows me an error message that something is not valid. I contacted the seller and he said he knew nothing. Is it possible to reset the machine?
+
+### Reply 1:
+He might have sold you an unit which is affected by firmware virus. If he claims that he does not know what is wrong, that is probably because he was in same boat as you. Or he might have changed the password and forgot.But for your sake, try resetting your machine via reset button or recovery SD card.Also, isn't that unit like 5 years old? Why did you even buy it?
+
+### Reply 2:
+I make a collection of asic and I test it to find out how it works.
+
+### Reply 3:
+Check this post before firing them up, they have a history of burning down.<link>
+
+","{
+  ""hardware"": [
+    {
+      ""hardware_name"": ""Black Arrow X3"",
+      ""hardware_is_owned"": true
+    }
+  ]
+}"
+11328,"Date: 2023-07
+Topic: Antminer S19 Control Board
+### Original post:
+The Antminer S19 Control Board is a powerful and essential component of the Antminer S19 mining rig. Designed to optimize performance and efficiency, this control board plays a crucial role in ensuring the smooth operation of your mining equipment.The Antminer S19 Control Board is engineered to deliver exceptional performance, allowing you to maximize the hashing power of your mining rig. With its advanced chipset and optimized firmware, this control board ensures efficient communication between the different components of your Antminer S19, resulting in higher mining productivity and increased profitability.The Antminer S19 Control Board features a user-friendly interface that simplifies the management and monitoring of your mining rig. With its intuitive design and easy-to-navigate settings, you can efficiently control various parameters such as fan speed, voltage, and temperature. To Know More:<link>
+
+### Reply 1:
+I think we all know what a Control Board is.However, what we don't know is why you're writing this, in a way worthy of an AI, and on top of that putting the link of a Whatsminer PSU which is completely off-topic.
+
+### Reply 2:
+I recently purchased Antminer S19 pro 110Th from 570OLLC. Here's the link if you guys are interested: <link>
+
+### Reply 3:
+Are you sure you purchased the s19 unit from that link?When exactly?Or are you just trying to promote it here just like on other forums with some other newbie alt accounts and trying to promote it with fake/sweet words?I'm talking about this forum as you can see all responses came from newbies so it's very risky to buy on this site.
+
+","{
+  ""hardware"": [
+    {
+      ""hardware_name"": ""Antminer S19 Control Board"",
+      ""hardware_is_owned"": false
+    },
+    {
+      ""hardware_name"": ""Antminer S19 pro 110Th"",
+      ""hardware_is_owned"": true
+    },
+    {
+      ""hardware_name"": ""Whatsminer PSU"",
+      ""hardware_is_owned"": false
+    }
+  ]
+}"
+16133,"Date: 2021-09
+Topic: Innosilcon is trying to get rid of heavily used miners
+### Original post:
+Innosilicon is offering ""manufacturer refurbished"" T3+ and other miners. I ordered a T3+ 57T Bitcoin miner. I had to wait for 4 weeks after I paid in full in Bitcoin until they shipped it out. When it arrived it was in horrible condition: <link> of dust, with scratches, stains, missing screws, rattling parts, rust...The firmware was locked and I was not able to enter my own pool settings. There was plenty of evidence that this miner was not manufacturer refurbished, not even cleaned. Otherwise at least the firmware would have been reset. Innosilicon has 3 departments: while the support is trying to help to unlock the miner, the sales and order team tells me: ""This is what you get when you order from us. Deal with it!""
+
+### Reply 1:
+I think other ppl here ordered the refurb T3s. Would be great to have their feedbacks!
+
+### Reply 2:
+Yes, please. Who else bought a refurb T3+ ? What was your experience?
+
+### Reply 3:
+have you ever got to the bottom of the pool settings being pre-completed and not updating ?also, sorry to hear about your experience, I hope it all goes well in the end
+
+### Reply 4:
+Yeah, they use the term refurbished for a miner that was damaged and repaired by them or something returned and they've set it back running. They did warn a bit but you didn't take the warning seriously, usually in those cases light scratches mean run over by an excavator:Sucks and if I were in your place, even if support manages to help you unblock the settings I would play possum and try to get a refund and send it back. I won't be surprised if that thing wouldn't break in a few months, external scratched and missing screws ain't a big deal but you should take a look inside if possible and have a beer nearby when you do
+
+### Reply 5:
+Refurbished miners could be a great bargain if you get a diamond in the rough with no issues but that is playing a dangerous game if there is no warranty attached to them. Depending on the price and time to get to you it may pay itself off quickly but if it breaks it could quickly become a paperweight or something that ends u costing what a new unit would plus the downtime to ship it back for repairs. Would love to hear feedback as well from anyone who bought one.
+
+### Reply 6:
+Those Innosilicon refurbished miners are 6 months garanty
+
+### Reply 7:
+You are right with the firmware lock, but this is a straight-out scam if you ask me, these were supposed to be ""manufacturer refurbished"", the ones in the video don't look anything like it, in fact, REAL refurbished miners are a lot more expensive than clean used miners, a while back used S9js were going for $250 while the refurbished once were going for at least $400, but those looked as good as new, no scratches, no lost screws, everything seemed like brand new, the miner in the video is a Used Miner with C- condition, selling it as a refurbished piece is nothing but scam IMO.
+
+### Reply 8:
+Looks like this is a rare problem that has happened before.There are threads about a T2 miner that had it on here.. also one on the russian mining board:<link> might need to do a translate on it with your browser)Post 11 reads:Maybe worth reaching out. Seems they found someone at Inno that can unlock it remotely for you.
+
+### Reply 9:
+Watching some videos from your YouTube channel and I like the soundproofing you have setup. I'd probably be mining with more hashrate at my home if I had such a setup as well. I should also mention that I thought for a second this was a bodybuilding YouTube channel instead of being about Bitcoin mining. From the look of your biceps I thought you might go hulk and crush that thing when it wasn't working.
+
+### Reply 10:
+Interesting , they do that constantley , I heard that their ceo is a close friend to the founder of ETH
+
+### Reply 11:
+Figured they would carry some sort of limited warranty. That said, considering Inno was made aware of the Fixed Address issue on at least some miners and quickly responded by putting out a fix for it one can't fault them for their response on that part. They also said they were going to issue a mass email to all customers who bought one of the refurbed miners to notify of them of the possible problem and fix for it if they received a miner that was locked. Hopefully the OP just got a miner that had already been shipped just before Inno became aware of the problem and the miner had yet yet been updated to OEM firmwareMy take on things is that the miners are of course from some of the farms in China that got shut down. It makes sense that a farm would use locked firmware to make sure there is (near) zero chance of miners being hijacked either through hacking or actual theft. If stolen, as soon as the miner goes on line Inno will know which miner and what the ip address is.Biggest problem is Inno dropping the ball on making sure the miners are at least cleaned up and along with that definitely reset back<rest of thread truncated>
+","{
+  ""hardware"": [
+    {
+      ""hardware_name"": ""T3+ 57T Bitcoin miner"",
+      ""hardware_is_owned"": true
+    },
+    {
+      ""hardware_name"": ""T3+"",
+      ""hardware_is_owned"": false
+    },
+    {
+      ""hardware_name"": ""S9j"",
+      ""hardware_is_owned"": false
+    },
+    {
+      ""hardware_name"": ""T2 miner"",
+      ""hardware_is_owned"": false
+    }
+  ]
+}"
+11378,"Date: 2010-11
+Topic: Buffer overflow
+### Original post:
+This has happened to me every time a hash with zeros is found on my 64-bit Atom system:Code:DBG: found zeroes in <truncated> 8150287 hashes, 123.22 khash/secPROOF OF WORK FOUND? submitting... *** buffer overflow detected ***: ./minerd terminated======= Backtrace: <truncated> mentioned the problems with -march=atom CFLAGS previously, but this does not go away when changing the -march.
+
+### Reply 1:
+Fixed in git commit <truncated> just pushed to cpuminer.git.
+
+","[
+    {
+        ""hardware_name"": ""64-bit Atom system"",
+        ""hardware_is_owned"": true
+    }
+]"
