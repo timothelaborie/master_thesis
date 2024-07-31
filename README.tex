@@ -12,6 +12,11 @@ Cyrille Grumbach, Prof. Dr. Thomas Hofmann
 
 # Folders
 
+## scraper
+
+File main.ipynb is used to scrape the forum.
+
+
 ## hardwarelist
 
 Includes the following:
@@ -73,3 +78,69 @@ Includes the following:
 datasheet folder: Extracts the hashrate out of Cyrille's excel file
 - hashrate_plot folder: Contains the code to create the hashrate plot (hashrate.pdf)
 - carbonintensity.html: Cambridge's table for the yearly gCO2e/kWh values, found at https://ccaf.io/cbnsi/cbeci/ghg/methodology
+- turningpoint.ipynb: Creates the turning point plot
+- main.ipynb: Creates all other plots
+- old stuff folder: Contains old plots that are no longer used
+
+
+
+
+I send here a checklist that you need to work on for the Hugging Face (it's standard practice for ETH master thesis):
+•	Compiled standalone software and/or source code
+•	A small (simulated or real) dataset to demo the software/code
+•	A README file that includes: 
+o	System requirements 
+	All software dependencies and operating systems (including version numbers)
+	Versions the software has been tested on
+	Any required non-standard hardware
+o	Installation guide 
+	Instructions
+	Typical install time on a "normal" desktop computer
+o	Demo 
+	Instructions to run on data
+	Expected output
+	Expected run time for demo on a "normal" desktop computer
+o	Instructions for use 
+	How to run the software on your data
+
+
+# System requirements
+
+Running the training or inference of Mistral 7B requires an NVIDIA GPU with at least 24GB of VRAM (can also be a Runpod instance)
+
+Everything else can be run on a normal desktop/laptop computer with python 3.10 installed.
+
+# Operating system
+
+Code which is not related to training or inference of Mistral 7B has been tested on Windows 10.
+
+Code for Mistral 7B training and inference has been tested on Runpod instances.
+
+# Installation guide for software dependencies
+
+For the code which is not related to training or inference of Mistral 7B, use the packages listed in requirements.txt
+
+## Installation guide for Mistral 7B training and inference
+
+Setup a Runpod instance with the axolotl docker image, then install unsloth using the instructions at https://github.com/unslothai/unsloth
+
+## Typical install time on a "normal" desktop computer
+
+For the code which is not related to training or inference of Mistral 7B, the install time is around 5 minutes.
+
+For Mistral 7B training and inference, the install time is around 10 minutes.
+
+# Demo
+
+## Instructions to run on data
+
+Run the code in the order listed in the folders section above.
+
+Note:
+
+- The scraper takes over 12 hours to run. For demo purposes, the data is already included in the bitcoinforum/1_forum_dataset folder.
+- The process of creating the training set for Mistral 7B takes around 3 hours and costs about 10$ of OpenAI credits.
+- The training and inference of Mistral 7B takes around 4 combined hours on a Runpod instance.
+- The process of mapping the hardware names to those of the efficiency table takes around 3 hour and also costs about 10$ of OpenAI credits.
+
+All other files can be run in a few minutes.
