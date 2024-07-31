@@ -1,4 +1,6 @@
-//I ran this in the browser console on the page https://en.bitcoin.it/wiki/Mining_hardware_comparison
+//I ran this in the browser console on the pages:
+//https://en.bitcoin.it/wiki/Mining_hardware_comparison
+//https://en.bitcoin.it/wiki/Non-specialized_hardware_comparison
 
 var tables = document.querySelectorAll('.wikitable');
 var output = [];
