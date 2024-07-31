@@ -136,9 +136,9 @@ For Mistral 7B training and inference, the install time is around 10 minutes.
 
 Run the code in the order listed in the folders section above.
 
-Note:
+Note: There are 4 files that normally take a long time to run. I have included a const "DEMO_MODE" at the top of each file. When turned on, the files will run on a tiny dataset. The original runtimes are as follows:
 
-- The scraper takes over 12 hours to run. For demo purposes, the data is already included in the bitcoinforum/1_forum_dataset folder.
+- The scraper takes over 12 hours to run.
 - The process of creating the training set for Mistral 7B takes around 3 hours and costs about 10$ of OpenAI credits.
 - The training and inference of Mistral 7B takes around 4 combined hours on a Runpod instance.
 - The process of mapping the hardware names to those of the efficiency table takes around 3 hour and also costs about 10$ of OpenAI credits.
