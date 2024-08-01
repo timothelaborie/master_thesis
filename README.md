@@ -75,7 +75,7 @@ Trains an ARIMA model and exports the predictions which are used in the plot cal
 Includes the following:
 
 - carboncomparison folder: Contains the 17 sources used to create the carbon comparison table
-datasheet folder: Extracts the hashrate out of Cyrille's excel file
+- datasheet folder: Extracts the hashrate out of Cyrille's excel file
 - hashrate_plot folder: Contains the code to create the hashrate plot (hashrate.pdf)
 - carbonintensity.html: Cambridge's table for the yearly gCO2e/kWh values, found at https://ccaf.io/cbnsi/cbeci/ghg/methodology
 - turningpoint.ipynb: Creates the turning point plot
