@@ -104,11 +104,13 @@ For the code which is not related to training or inference of Mistral 7B, use th
 
 Setup a Runpod instance with the axolotl docker image, then install unsloth using the instructions at https://github.com/unslothai/unsloth
 
+Also install SGLang for inference.
+
 ## Typical install time on a "normal" desktop computer
 
 For the code which is not related to training or inference of Mistral 7B, the install time is around 5 minutes.
 
-For Mistral 7B training and inference, the install time is around 30 minutes.
+For Mistral 7B training and inference, the install time is around 1 hour.
 
 # Demo
 
