@@ -84,29 +84,9 @@ datasheet folder: Extracts the hashrate out of Cyrille's excel file
 
 
 
-
-I send here a checklist that you need to work on for the Hugging Face (it's standard practice for ETH master thesis):
-•	Compiled standalone software and/or source code
-•	A small (simulated or real) dataset to demo the software/code
-•	A README file that includes: 
-o	System requirements 
-	All software dependencies and operating systems (including version numbers)
-	Versions the software has been tested on
-	Any required non-standard hardware
-o	Installation guide 
-	Instructions
-	Typical install time on a "normal" desktop computer
-o	Demo 
-	Instructions to run on data
-	Expected output
-	Expected run time for demo on a "normal" desktop computer
-o	Instructions for use 
-	How to run the software on your data
-
-
 # System requirements
 
-Running the training or inference of Mistral 7B requires an NVIDIA GPU with at least 24GB of VRAM (can also be a Runpod instance)
+Running the training or inference of Mistral 7B requires an NVIDIA GPU with at least 24GB of VRAM (can also be a Runpod instance).
 
 Everything else can be run on a normal desktop/laptop computer with python 3.10 installed.
 
@@ -128,7 +108,7 @@ Setup a Runpod instance with the axolotl docker image, then install unsloth usin
 
 For the code which is not related to training or inference of Mistral 7B, the install time is around 5 minutes.
 
-For Mistral 7B training and inference, the install time is around 10 minutes.
+For Mistral 7B training and inference, the install time is around 30 minutes.
 
 # Demo
 
@@ -136,11 +116,22 @@ For Mistral 7B training and inference, the install time is around 10 minutes.
 
 Run the code in the order listed in the folders section above.
 
-Note: There are 4 files that normally take a long time to run. I have included a const "DEMO_MODE" at the top of each file. When turned on, the files will run on a tiny dataset. The original runtimes are as follows:
+Note: There are 3 files that normally take a long time to run. I have included a const "DEMO_MODE" at the top of each file. When turned on, the files will run on a tiny subset of the data. The original runtimes are as follows:
 
 - The scraper takes over 12 hours to run.
 - The process of creating the training set for Mistral 7B takes around 3 hours and costs about 10$ of OpenAI credits.
-- The training and inference of Mistral 7B takes around 4 combined hours on a Runpod instance.
 - The process of mapping the hardware names to those of the efficiency table takes around 3 hour and also costs about 10$ of OpenAI credits.
 
 All other files can be run in a few minutes.
+
+## Expected output
+
+You should re-obtain the csv files that are already in the folders, and the plots used in the paper.
+
+## Expected run time for demo on a "normal" desktop computer
+
+The expected run time to run every notebook on a "normal" desktop computer is around 10 minutes (excluding the training and inference of Mistral 7B).
+
+## Instructions for use on custom data
+
+The code is designed only to analyse the mining section of bitcointalk.org.
